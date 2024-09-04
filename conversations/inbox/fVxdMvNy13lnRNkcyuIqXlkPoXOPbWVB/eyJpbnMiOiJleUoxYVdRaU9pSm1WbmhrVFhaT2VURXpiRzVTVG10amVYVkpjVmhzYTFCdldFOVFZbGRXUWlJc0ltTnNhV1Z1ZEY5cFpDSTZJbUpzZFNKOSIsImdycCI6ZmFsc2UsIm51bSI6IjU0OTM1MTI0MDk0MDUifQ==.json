@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D30C7E02680F697BE4B3C63409799237",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Me enviarían más detalles?"
+    },
+    "reaction": "",
+    "timestamp": 1722833974,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "27046AC511F9CBF35AC4E803488634AF",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Beyond Service (Eduardo). ¿Cómo podemos ayudarte?"
+    },
+    "reaction": "",
+    "timestamp": 1722833981,
+    "senderName": "Beyond Service (Eduardo)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9967D21F1954CB154AD22E0611A5C597",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día"
+    },
+    "reaction": "",
+    "timestamp": 1722858525,
+    "senderName": "Beyond Service (Eduardo)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E02CA5846C90EED098384D75784BDCB0",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "*TIPOS DE TIENDAS*\n\nHay dos tipos de tiendas.  \n\n1. Una más simple para productos sin variedades y cantidad limitada \n\n2. Otra más completa para productos que tienen Talles y medidas, o números de serie por ejemplo  y sin limite de cantidad de productos cargados.  \n\n3. Las dos son Autogestionables con un panel de control.\n\n4. La más simple trabaja con un subdominio y pedidos directos al WhatsApp. \n\n5. La segunda con dominio y hosting propio. cómo www.tutienda.com.ar\n🤓\nCuál consideras que se adapta o es más conveniente para tus necesidades?"
+    },
+    "reaction": "",
+    "timestamp": 1722858605,
+    "senderName": "Beyond Service (Eduardo)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C73D6AF600F25B69FD5E4382BC5AAFA9",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo una distribuidora"
+    },
+    "reaction": "",
+    "timestamp": 1722860083,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DAABD96E13668D1CA218410257176A44",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estoy vendiendo por mayor y menor"
+    },
+    "reaction": "",
+    "timestamp": 1722860094,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F5FB8FE148118809BA39358BC464321C",
+    "remoteJid": "5493512409405@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok dime si puedes hablar y te explico bien así decides que te conviene más"
+    },
+    "reaction": "",
+    "timestamp": 1722860558,
+    "senderName": "Beyond Service (Eduardo)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

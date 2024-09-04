@@ -1,0 +1,251 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0E22AADD4DEC6D30054080F1B2B15933",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Hay lugar hoy 16.30 cache voy"
+    },
+    "reaction": "",
+    "timestamp": 1722877341,
+    "senderName": "Oscar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B0AF213B9D8FCD113A26B1DEB2DC098",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "@5493875193359"
+    },
+    "reaction": "",
+    "timestamp": 1722877353,
+    "senderName": "Oscar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A3AF3AC38876244CB13AED14F72DB9EB",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Sabriel ganso"
+    },
+    "reaction": "😮",
+    "timestamp": 1722877462,
+    "senderName": "Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AAAAA2B6B8D3A469D21",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Si hay lugar"
+    },
+    "reaction": "",
+    "timestamp": 1722877760,
+    "senderName": "Cache Sanso",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "159EAD73CE4DC9A2A91A08283318F6D8",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Yo me bajo de la tarde, no llego perdón"
+    },
+    "reaction": "",
+    "timestamp": 1722878200,
+    "senderName": "Maxi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A2ED71BC37B92ED2FEE",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Ya no necesita entrenar el Champion"
+    },
+    "reaction": "",
+    "timestamp": 1722878563,
+    "senderName": "Marcos D.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493874598917@s.whatsapp.net",
+      "id": "159EAD73CE4DC9A2A91A08283318F6D8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3B2B35FB6C0E21C3B69288BACF8CB154",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Jajaja no llego Posta si quería ir hoy"
+    },
+    "reaction": "",
+    "timestamp": 1722878738,
+    "senderName": "Maxi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C367760146AB9327CA468EE401E3E55D",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Llego un poquito tarde"
+    },
+    "reaction": "",
+    "timestamp": 1722885221,
+    "senderName": "Oscar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F08CC446297BC4838DE64ADA13B46E38",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "https://vm.tiktok.com/ZMr4gEvRV/"
+    },
+    "reaction": "",
+    "timestamp": 1722899090,
+    "senderName": "Tomas Alderete",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A324A8DC7FF95407BF036978B60CC0B4",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Vas mañana a la mañana?"
+    },
+    "reaction": "",
+    "timestamp": 1722899105,
+    "senderName": "Lautaro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493874509153@s.whatsapp.net",
+      "id": "F08CC446297BC4838DE64ADA13B46E38"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8FD15E2A107A61D8693E6A6903E95DA2",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "No vayas porfavor"
+    },
+    "reaction": "",
+    "timestamp": 1722899114,
+    "senderName": "Lautaro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A69C0AE736B7177E5A43E73762074F6",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "No voy asi no te veo tomuer"
+    },
+    "reaction": "😢",
+    "timestamp": 1722899151,
+    "senderName": "Tomas Alderete",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A0CD07A030792014261CED811F4750DD",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Sumense 2 más mañana a la mañana eee"
+    },
+    "reaction": "",
+    "timestamp": 1722899201,
+    "senderName": "Lautaro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A5EA851509B7A82D842EE2123D904B3F",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "Algo mas"
+    },
+    "reaction": "",
+    "timestamp": 1722902024,
+    "senderName": "Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493874677709@s.whatsapp.net",
+      "id": "A0CD07A030792014261CED811F4750DD"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CE6090C0ABFFB171C22B9F2ED03818E7",
+    "remoteJid": "120363135933973913@g.us",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1722902025,
+    "senderName": "Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,630 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3A199EC018DC50A63712",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "LPtxMa.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722857254,
+    "senderName": "Nacho Robles",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BC25D09F70629FCC3CE9FD1F041912E5",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Doy efectivo necesito transferencia MP!"
+    },
+    "reaction": "",
+    "timestamp": 1722858508,
+    "senderName": "Mauro CJA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A8042664AC87E6DA95D",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Continúo comprando usd azules o cara grande  . Mejoro ofertas . Mp"
+    },
+    "reaction": "",
+    "timestamp": 1722860360,
+    "senderName": "Financiera Del Norte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AD29EBB8ED6A024C518",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "COMPRO USD,EUROS A MEJOR OFERTA MP"
+    },
+    "reaction": "",
+    "timestamp": 1722860416,
+    "senderName": "Nestor OFI 213 2do Piso",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A3032A53FC52F0B9C79",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Continúo comprando usd azules o cara grande  . Mejoro ofertas . Mp"
+    },
+    "reaction": "",
+    "timestamp": 1722860435,
+    "senderName": "Financiera Del Norte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EB6147FD98B94BCF9839B8774B63D63C",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro 2.000 verdes o azules zona sur"
+    },
+    "reaction": "",
+    "timestamp": 1722862539,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B86AF41A0D2DA468A29D9C7222AA13BF",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro cantidad mp"
+    },
+    "reaction": "",
+    "timestamp": 1722863112,
+    "senderName": "Juan Valeriano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E6AD6E3FFD9CCE016FF53B0C8F67E968",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Tengo efectivo necesito transferencia MP!"
+    },
+    "reaction": "",
+    "timestamp": 1722863335,
+    "senderName": "Mauro CJA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A639A474E3317596216",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro dólares por menor y en cantida. Mejoro ofertas . Mp"
+    },
+    "reaction": "",
+    "timestamp": 1722864628,
+    "senderName": "Financiera Del Norte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A59F704E66B7D3E2F7A",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Estamos comprando y vendiendo dólares! 💵\nEstoy en el centro 📍"
+    },
+    "reaction": "",
+    "timestamp": 1722866074,
+    "senderName": "Nacho Robles",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "775ED1950D79D0E3AF4C168E1E9263CC",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fqtCxH.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722867159,
+    "senderName": "💙💛💙 💙🤍🤎😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CCF3B7197E39E2E929D10D8F97C3B602",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Tengo 3M efectivo necesito transferencia MP"
+    },
+    "reaction": "",
+    "timestamp": 1722867163,
+    "senderName": "Mauro CJA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB628E257A5D93EB81C",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro hasta 13.000 usd"
+    },
+    "reaction": "",
+    "timestamp": 1722867515,
+    "senderName": "Ignacio Flores",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABFD67CAA988B71570B",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo dólares desde 500 en adelante . Mejoro ofertas mp"
+    },
+    "reaction": "",
+    "timestamp": 1722869200,
+    "senderName": "Financiera Del Norte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A77D3F40BD7F0F579E9",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 10k para ahora estoy en el centro mp"
+    },
+    "reaction": "",
+    "timestamp": 1722869237,
+    "senderName": "PEC😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A6C41F4675EB7E4FE2A",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo dólares a mejor oferta para ahora . Mp"
+    },
+    "reaction": "",
+    "timestamp": 1722870503,
+    "senderName": "Financiera Del Norte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A72B476C381B7F50D95",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Necesito transferencia, cambio por efectivo!"
+    },
+    "reaction": "",
+    "timestamp": 1722870625,
+    "senderName": "Nacho Robles",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5B755CD1ACB9C6E57DA20FF074A70C41",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 2000 verdes zona centro"
+    },
+    "reaction": "",
+    "timestamp": 1722871349,
+    "senderName": "Julio Borja",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "42E224FA0C1E5F614BB19C41B44F403B",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6v8Gy8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722871859,
+    "senderName": "💙💛💙 💙🤍🤎😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C785B2C356F491C234AAD170A128C4D3",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo U$s 1.000 azules a la mejor oferta"
+    },
+    "reaction": "",
+    "timestamp": 1722872211,
+    "senderName": "Carlos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "5B47A30C6923AEBACED725D121219D4E",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TyX1hV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873389,
+    "senderName": "💙💛💙 💙🤍🤎😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "05FD1D1890B24DA32AC25D65F7958BD4",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro azules"
+    },
+    "reaction": "",
+    "timestamp": 1722877684,
+    "senderName": "💪",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7B97A5C5B4EFCBED96C0EEDFA41444F7",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 1000 azules necesito transferencia"
+    },
+    "reaction": "",
+    "timestamp": 1722878599,
+    "senderName": "Nacho",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F90959E8109697970BDB23DEA3A6F094",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 4000 dolares efectivo"
+    },
+    "reaction": "",
+    "timestamp": 1722880543,
+    "senderName": "Nacho",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B8E06671062200F91B263B61675D24DB",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 1000 azules"
+    },
+    "reaction": "",
+    "timestamp": 1722882489,
+    "senderName": "Hernan Diaz🔟",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3B896F6345F603302D053DA380FE2B73",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro 10.000 azules escucho ofertas"
+    },
+    "reaction": "",
+    "timestamp": 1722882602,
+    "senderName": "Nacho",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2984E105F9542124CF4C9F2BA07F6405",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 100 USD"
+    },
+    "reaction": "",
+    "timestamp": 1722884553,
+    "senderName": "LMJ",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EC76C3996CBF5F875D35E94143A996A1",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Azules"
+    },
+    "reaction": "",
+    "timestamp": 1722884563,
+    "senderName": "LMJ",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "44DDE2D1E93398F1493A58F277F4A3AA",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "1380"
+    },
+    "reaction": "",
+    "timestamp": 1722884625,
+    "senderName": "LMJ",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B705E468781F465FE670C1073A15A96",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Zona centro"
+    },
+    "reaction": "",
+    "timestamp": 1722884693,
+    "senderName": "LMJ",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADCB22ED7F4093B1A55",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Vendo 1400 USD escucho ofertas"
+    },
+    "reaction": "",
+    "timestamp": 1722886141,
+    "senderName": "Eze Echazu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AE22DF57E82E1D39C9F",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Ingresaron pesos . Compro usd desde 500 a 30k azules o cara grande . Escucho ofertas por mp."
+    },
+    "reaction": "",
+    "timestamp": 1722886267,
+    "senderName": "Financiera Del Norte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EF9AF47049E927BC78FB06EB112F886D",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Necesito transferencia doy pesos fisicos"
+    },
+    "reaction": "",
+    "timestamp": 1722888033,
+    "senderName": "Garona Grup",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4174BBE8091F958AC56A76314256C4A3",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro azules mp"
+    },
+    "reaction": "",
+    "timestamp": 1722888493,
+    "senderName": "💙💛💙 💙🤍🤎😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A6F866C3C2201D8DB8C",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro hasta 5.000 usd cara chica"
+    },
+    "reaction": "",
+    "timestamp": 1722890454,
+    "senderName": "Ignacio Flores",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "963AA2EFF5EAD94639908EE5BB5F989B",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro azules y sencillo impecable mp"
+    },
+    "reaction": "",
+    "timestamp": 1722891939,
+    "senderName": "💙💛💙 💙🤍🤎😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A751BDB73D974DE7112",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro hasta 30.000 usd para ya"
+    },
+    "reaction": "",
+    "timestamp": 1722893801,
+    "senderName": "Ignacio Flores",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1E3FE5E1F9F2C64330C40F6B71890A63",
+    "remoteJid": "5493875816628-1603309783@g.us",
+    "msgContext": {
+      "text": "Compro azules mp"
+    },
+    "reaction": "",
+    "timestamp": 1722896381,
+    "senderName": "💙💛💙 💙🤍🤎😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "646553BBF1A48BE52C6B993A3B34BE96",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722662808,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F9319767AE6AE5FB2C1EA602B846F3D5",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722877948,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4893142372908DEC6F5D5D0EF4E1EC19",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722882199,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,216 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9EBFF8A5F46C0E6857FE3D5CB4436081",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenos dias queria preguntarte si las coca retornables de 1,5 son de vidrio? Es para pedir"
+    },
+    "reaction": "",
+    "timestamp": 1722873463,
+    "senderName": "Mony Apaza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "47DB3FE0C45DBD300B9497B366777922",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722874417,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3449A46318CC83EA1F5D83D4B8D012ED",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si son de vidrio"
+    },
+    "reaction": "",
+    "timestamp": 1722874420,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "34690B643892BE024FD66A35E2B42506",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy no estamos haciendo envíos en su zona"
+    },
+    "reaction": "",
+    "timestamp": 1722874428,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B3D3800DCCAF80C5BE6AB88EEA22EF14",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mañana le podemos llevar"
+    },
+    "reaction": "",
+    "timestamp": 1722874432,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DF2B37D83F72955A6646F0320251F62F",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si para mañna esta bien y coca retornable cero habra?"
+    },
+    "reaction": "",
+    "timestamp": 1722875481,
+    "senderName": "Mony Apaza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DC10AA3C13E191A02B9D4A2E6636E084",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si, de 1.5lt y 2lt"
+    },
+    "reaction": "",
+    "timestamp": 1722875739,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DAA8F7705F8250E99C069DEC3DDA5B67",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creo que no nos quedó de 2.5lt"
+    },
+    "reaction": "",
+    "timestamp": 1722875745,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DFFA0A5A1B4760E61A1840768F4AA69F",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y como hago para pedir xq coca cero no figura en la aplicacion para hacer el pedid0"
+    },
+    "reaction": "",
+    "timestamp": 1722876765,
+    "senderName": "Mony Apaza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05B9CFCEFEB5ED73F6D",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "cuando haga pedido, agregue una nota, que quiere coca zero"
+    },
+    "reaction": "",
+    "timestamp": 1722877458,
+    "senderName": "Mony Apaza",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FABC8E7017E178504C",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya esta semana terminamos de corregir la nueva aplicacion, ahi estan todos los productos"
+    },
+    "reaction": "",
+    "timestamp": 1722877501,
+    "senderName": "Mony Apaza",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "202CA360361AB37B3E20AF17AE015C49",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722878342,
+    "senderName": "Mony Apaza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "3EB05B9CFCEFEB5ED73F6D"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7EDE0D19F5BD3C6FCBDABC5BA8F668F2",
+    "remoteJid": "5493875371698@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏼👍🏼"
+    },
+    "reaction": "",
+    "timestamp": 1722878350,
+    "senderName": "Mony Apaza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "3EB0FABC8E7017E178504C"
+    }
+  }
+]

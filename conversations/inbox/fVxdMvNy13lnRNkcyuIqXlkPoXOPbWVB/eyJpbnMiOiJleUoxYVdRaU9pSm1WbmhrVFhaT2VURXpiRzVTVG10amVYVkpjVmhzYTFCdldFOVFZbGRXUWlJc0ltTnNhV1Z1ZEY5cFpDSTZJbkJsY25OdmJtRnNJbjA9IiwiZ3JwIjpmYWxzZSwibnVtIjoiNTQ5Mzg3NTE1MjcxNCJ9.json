@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1E977B83495FE420E8880993AF048A80",
+    "remoteJid": "5493875152714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722699975,
+    "senderName": "Denis Garcia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BFE6783BCF9DAEDB03198651B5E0CDEA",
+    "remoteJid": "5493875152714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy pasan por zona oeste?"
+    },
+    "reaction": "",
+    "timestamp": 1722699988,
+    "senderName": "Denis Garcia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BFE0D7AEDB35461248626F57830C57F3",
+    "remoteJid": "5493875152714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo coca de vidrio, papel higiénico y 1 caja  viña de balbo"
+    },
+    "reaction": "",
+    "timestamp": 1722700060,
+    "senderName": "Denis Garcia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1279BFA1527D6EC0D0A765737F016251",
+    "remoteJid": "5493875152714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722722288,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3067E5D83A8CB352FF315C7B30577062",
+    "remoteJid": "5493875152714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si ya llegamos"
+    },
+    "reaction": "",
+    "timestamp": 1722722293,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AAFA5959A3CC84CB487C4DE478142D37",
+    "remoteJid": "5493875152714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpa por no responder"
+    },
+    "reaction": "",
+    "timestamp": 1722722297,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

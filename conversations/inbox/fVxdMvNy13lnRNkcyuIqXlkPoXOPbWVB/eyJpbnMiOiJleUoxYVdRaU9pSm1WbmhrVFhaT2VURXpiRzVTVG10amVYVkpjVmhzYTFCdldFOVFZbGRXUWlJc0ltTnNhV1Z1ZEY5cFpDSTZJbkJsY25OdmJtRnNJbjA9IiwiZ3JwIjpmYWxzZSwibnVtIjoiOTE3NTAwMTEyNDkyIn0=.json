@@ -1,0 +1,206 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F3C05E35A9EC335A6A",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "hi"
+    },
+    "reaction": "",
+    "timestamp": 1722788965,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0654E8AA52F1CBA6156",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "waziper with evolution api, also has chatbot with chatgpt?"
+    },
+    "reaction": "",
+    "timestamp": 1722789001,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03685D33C889EF44605",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "price"
+    },
+    "reaction": "",
+    "timestamp": 1722789037,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A3D98F3DB396005774",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "Can I install it on my server?"
+    },
+    "reaction": "",
+    "timestamp": 1722789062,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FACC77EC10F78F5E2321A9701F9B75DB",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yes"
+    },
+    "reaction": "",
+    "timestamp": 1722790788,
+    "senderName": "ONBVN Technologies India Pvt Ltd.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "3EB0A3D98F3DB396005774"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FFB6461DF27D8A67FB51DFE29396D7E2",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "50$"
+    },
+    "reaction": "",
+    "timestamp": 1722790798,
+    "senderName": "ONBVN Technologies India Pvt Ltd.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "3EB03685D33C889EF44605"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB043FE3B46F9D963C293",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "Do you know how to integrate with chatwoot and typebot?"
+    },
+    "reaction": "",
+    "timestamp": 1722791322,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB066AF89DBC201D31798",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "do you accept paypal?"
+    },
+    "reaction": "",
+    "timestamp": 1722791337,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "575BB3D1B5F3C859C9195C21AF20363F",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "No"
+    },
+    "reaction": "",
+    "timestamp": 1722791445,
+    "senderName": "ONBVN Technologies India Pvt Ltd.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "3EB043FE3B46F9D963C293"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08B2560C8BE94A0916196D98BFBAC8E0",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yes"
+    },
+    "reaction": "",
+    "timestamp": 1722791449,
+    "senderName": "ONBVN Technologies India Pvt Ltd.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "3EB066AF89DBC201D31798"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "06505BC9D64F75A256E2950AC2E581D8",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "For chatwoot need seprate vps server"
+    },
+    "reaction": "",
+    "timestamp": 1722794971,
+    "senderName": "ONBVN Technologies India Pvt Ltd.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "07646FA3B7A1088D7D46A45EF46D4F52",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1722795566,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

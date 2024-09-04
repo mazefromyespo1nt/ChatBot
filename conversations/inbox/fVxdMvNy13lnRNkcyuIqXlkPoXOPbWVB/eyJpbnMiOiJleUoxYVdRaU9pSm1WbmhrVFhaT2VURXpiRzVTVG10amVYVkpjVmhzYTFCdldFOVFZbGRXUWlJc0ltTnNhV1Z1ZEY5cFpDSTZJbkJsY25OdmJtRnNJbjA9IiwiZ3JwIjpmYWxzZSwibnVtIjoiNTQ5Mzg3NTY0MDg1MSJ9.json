@@ -1,0 +1,262 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "742E86A34FA4D2EC8CA2F044C1D46AD2",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día 1 coca d vidrio y 2 cocas d 2ymedio"
+    },
+    "reaction": "",
+    "timestamp": 1722691429,
+    "senderName": "Ana Mercedes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5A375832A890078E1A489BC677B01591",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si puede ser .gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722691438,
+    "senderName": "Ana Mercedes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "589F6F87EA9F74D3390E487146F98818",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722712257,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "60FC0268E907BD3871FDB88DCEE8E9F2",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "A las 6 pasamos"
+    },
+    "reaction": "",
+    "timestamp": 1722712260,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2994275A9B2A178A14FB799B3AAD50C3",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpe la hora"
+    },
+    "reaction": "",
+    "timestamp": 1722712263,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B6EFE620F3C933A5DE063E36995E61DE",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esta bien no hay drama"
+    },
+    "reaction": "",
+    "timestamp": 1722712278,
+    "senderName": "Ana Mercedes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "9B0DDF527DFD2F4556936B8C893658A2",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "QpWBK8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722715677,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B1FD2C3F90CDD254B33472585B58603",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpe"
+    },
+    "reaction": "",
+    "timestamp": 1722716562,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1D7104A5B2B26BB09260415790FFCF92",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puede recibir pedido enseguida?"
+    },
+    "reaction": "",
+    "timestamp": 1722716567,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73903C0915319553C57B00803D224643",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se nos está complicando con los tiempos"
+    },
+    "reaction": "",
+    "timestamp": 1722716576,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5A71E1287BEFB2E47A48A9A0E9D2362E",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si si"
+    },
+    "reaction": "",
+    "timestamp": 1722717534,
+    "senderName": "Ana Mercedes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4675B55C818F6B87BDB092DD79CDA560",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estoy atendiendo"
+    },
+    "reaction": "",
+    "timestamp": 1722717543,
+    "senderName": "Ana Mercedes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "16867D10A32EF88F373036BD829558A2",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuánto seria"
+    },
+    "reaction": "",
+    "timestamp": 1722717553,
+    "senderName": "Ana Mercedes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "A30FBCD08AAB5C075336ED079AE57BC5",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XjU3u3.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722717760,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F83252D449086C73525F75033A5B6BF9",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "$41300"
+    },
+    "reaction": "",
+    "timestamp": 1722717766,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F584DADC86582FF2A038BFC9CA7667D5",
+    "remoteJid": "5493875640851@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya enseguida llegamos"
+    },
+    "reaction": "",
+    "timestamp": 1722717771,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

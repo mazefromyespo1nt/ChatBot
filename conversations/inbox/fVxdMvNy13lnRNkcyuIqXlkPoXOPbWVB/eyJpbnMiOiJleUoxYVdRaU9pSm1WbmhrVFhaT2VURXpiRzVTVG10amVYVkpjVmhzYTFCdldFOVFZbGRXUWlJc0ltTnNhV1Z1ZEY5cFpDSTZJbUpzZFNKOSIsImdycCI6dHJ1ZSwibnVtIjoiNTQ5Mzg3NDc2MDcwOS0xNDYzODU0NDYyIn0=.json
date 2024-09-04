@@ -1,0 +1,187 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "976967C7837EC2880CCEE91322CF58C5",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "https://puntobiz.com.ar/economia/cuanto-es-el-sueldo-promedio-pretendido-hoy-por-los-argentinos--2024811140"
+    },
+    "reaction": "",
+    "timestamp": 1722855791,
+    "senderName": "ED",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E0E95AEE8E21709AEB3A65E13318DE40",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lYejLG.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722898679,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3DAA32B6AA655E762D13F537C33DFECF",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "15.000"
+    },
+    "reaction": "",
+    "timestamp": 1722898683,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DFA8F6850BE5F9B1ACCA57C0D0EDD647",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "A cuanto esta un reloj casio por Bolivia cisa?"
+    },
+    "reaction": "",
+    "timestamp": 1722901738,
+    "senderName": "ESan🥑",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EEE9CBAA77529BCE75E308D71F1D63B4",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "Ae1200"
+    },
+    "reaction": "",
+    "timestamp": 1722901743,
+    "senderName": "ESan🥑",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E77A3EAE24EDE9E6E63B2F47EB656141",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "u2arl0.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722902369,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "55413E17D4D1E876BDD0C717FEEED031",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "5000 pesitos"
+    },
+    "reaction": "",
+    "timestamp": 1722902371,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D089F48F31E491AC1478A1FD8FEEE693",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "JjIran.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722902482,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E3BA7E61AC603D5AAC",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "traeme"
+    },
+    "reaction": "",
+    "timestamp": 1722907820,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5493873644080@s.whatsapp.net",
+      "id": "D089F48F31E491AC1478A1FD8FEEE693"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "954B5983EEA15810216B8CD3D73EB170",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/reel/509446154952440?mibextid=nb1MFm3jZYALyyMy"
+    },
+    "reaction": "",
+    "timestamp": 1722919620,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3F742DB7775582EA91788F696E18C488",
+    "remoteJid": "5493874760709-1463854462@g.us",
+    "msgContext": {
+      "text": "Con saleh"
+    },
+    "reaction": "",
+    "timestamp": 1722919623,
+    "senderName": "Cé Kaín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "043D7B7600329087D31814DBBDA5A80B",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Fíjate si encontras mi otro celu"
+    },
+    "reaction": "",
+    "timestamp": 1722685485,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F3D8F833F5DFDF32C4B5FCCA5D748B0F",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "La maia capaz que lo agarró"
+    },
+    "reaction": "",
+    "timestamp": 1722685495,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0107719B7590A7723A4DE16D170F4ED7",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "No lo encontré"
+    },
+    "reaction": "",
+    "timestamp": 1722685499,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "074A8D09C8A16D700455808EB4E6F8D3",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mándaselo con el Alfredo"
+    },
+    "reaction": "",
+    "timestamp": 1722685510,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "42FE112F650DBD858742C8F6DDBE64C3",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo que ver si hay pedidos por ahí"
+    },
+    "reaction": "",
+    "timestamp": 1722685517,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8600B553DA4855C3B076D777F8E691F4",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722687086,
+    "senderName": "Moni💜",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "55E32C32DA27BDC541A127AA3FF12B87",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que pasó"
+    },
+    "reaction": "",
+    "timestamp": 1722790088,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

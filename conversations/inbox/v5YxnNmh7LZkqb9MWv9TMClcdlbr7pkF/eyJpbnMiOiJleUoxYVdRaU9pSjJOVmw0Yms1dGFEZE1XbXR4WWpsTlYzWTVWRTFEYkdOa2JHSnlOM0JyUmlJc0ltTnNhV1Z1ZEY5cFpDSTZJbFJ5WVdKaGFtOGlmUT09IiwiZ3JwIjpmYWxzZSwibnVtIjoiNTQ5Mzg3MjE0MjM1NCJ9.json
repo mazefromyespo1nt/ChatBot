@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B7C1A705C3332DAAFE069B44128DCBB2",
+    "remoteJid": "5493872142354@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones \nPrecio de la quieres negra???"
+    },
+    "reaction": "",
+    "timestamp": 1722855906,
+    "senderName": "DITO@co",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5EA6E2451DEAA",
+    "remoteJid": "5493872142354@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, aquí te dejo algunas promociones disponibles en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14,999.99\n- Dr. Lemon con Vodka 12x1lt a $19,999.99 (único sabor)\n- Cajón de Coca Cola 8x2.5lt a $15,300, comprando más de 3 cajones a $14,800\n\nAdemás, ¿te gustaría saber el precio de la Quilmes Negra? ¡Déjame saber si te interesa alguna otra promoción o producto! ¡Estoy aquí para ayudarte!"
+    },
+    "reaction": "",
+    "timestamp": 1722855916,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "231E0A6EDD6461E3F35E08E752F063AD",
+    "remoteJid": "5493872142354@s.whatsapp.net",
+    "msgContext": {
+      "text": "Quilmes negra precio?"
+    },
+    "reaction": "",
+    "timestamp": 1722855932,
+    "senderName": "DITO@co",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5C9DB67927CFD",
+    "remoteJid": "5493872142354@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! En este momento no contamos con la cerveza Quilmes Negra en nuestra lista de precios. Sin embargo, te invito a revisar nuestras otras opciones de cervezas disponibles, como la Cerveza Quilmes Rubia 10x1.2lt a $20,000. ¡Si te interesa alguna otra bebida, no dudes en consultarme! Recuerda que puedes realizar tus pedidos a través de la aplicación Arya en el siguiente enlace: https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2 ¡Estoy aquí para ayudarte con cualquier consulta que tengas! ¡Gracias por tu interés en DJ Distribuidora!"
+    },
+    "reaction": "",
+    "timestamp": 1722855940,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

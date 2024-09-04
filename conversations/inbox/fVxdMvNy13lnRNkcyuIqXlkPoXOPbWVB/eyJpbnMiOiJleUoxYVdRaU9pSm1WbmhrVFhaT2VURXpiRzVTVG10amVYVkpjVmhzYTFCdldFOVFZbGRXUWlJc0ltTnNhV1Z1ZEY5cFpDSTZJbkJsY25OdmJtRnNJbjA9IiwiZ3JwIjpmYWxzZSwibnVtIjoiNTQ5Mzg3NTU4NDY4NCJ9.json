@@ -1,0 +1,20 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3E1EDEA4B4F3959DD3210E82A1248DA7",
+    "remoteJid": "5493875584684@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BikzHS.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722781787,
+    "senderName": "Claudia Granado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

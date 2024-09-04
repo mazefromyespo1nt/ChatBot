@@ -1,0 +1,505 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7C1608484219540D5F6CFFDF7E9C3AF3",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7GUEbf.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722838814,
+    "senderName": "Fabricio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADB9D4BF1FC243A98DD",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-Qs3rPOjSA/?igsh=MXFhaXJoeDhoZjljcA=="
+    },
+    "reaction": "",
+    "timestamp": 1722855643,
+    "senderName": "Tania",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D0EE17782D83E02EBD9D0ACB930918B3",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Buen día... Los hechos demostrarán lo genuino!  💪💪 Viva la Libertad carajo."
+    },
+    "reaction": "",
+    "timestamp": 1722868848,
+    "senderName": "Pamm",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493462554969@s.whatsapp.net",
+      "id": "76542EC98E16A4BEDBE652E731548C92"
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "FE6DDB562A441C5922D5490FBF9F48E7",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "xnZ8Qp.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722869661,
+    "senderName": "Aylu ☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A1F2140E757C7FDE69D",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Proclama por la Libertad\n\nLos magistrados del Tribunal Supremo de Justicia legítimo de Venezuela emitieron una proclama destacando la importancia de la libertad como un derecho fundamental y la base de una sociedad justa y democrática. Reconocen la valentía del pueblo venezolano en su lucha constante por la libertad y la democracia, y reafirman su compromiso de apoyar estos esfuerzos.\n\nLa proclama subraya que la lucha por la libertad en Venezuela es noble y debe continuar hasta lograr una nación verdaderamente libre y democrática. Se rinde homenaje a los héroes de la jornada electoral del 28 de julio de 2024, quienes desafiaron la tiranía y defendieron su derecho al voto. Sin embargo, denuncian que el régimen se autoproclamó ganador, lo que constituye un golpe a la democracia. Los magistrados se comprometen a seguir luchando hasta que la verdad y la justicia prevalezcan en Venezuela. \n\nDoral, Florida, 5 de agosto de 2024."
+    },
+    "reaction": "",
+    "timestamp": 1722870383,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc",
+    "msgId": "3A96F709D813E41DDA6F",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "g574j5.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1722870384,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "A5B95B4F84BAF9B194CD5B9B4F005B3B",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "El Presidente Javier Milei recibió al medallista de oro José Torres Gil en Casa Rosada y lo felicitó por poner a la Argentina en lo más alto.",
+      "fileName": "L8t0RQ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722873990,
+    "senderName": "Tomy",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "688D1D474609A61918DB41D3D02D8561",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NP2wVw.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722874191,
+    "senderName": "Jessica🐍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3B208361C3DF7007344BBFC3FC1C4377",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "💪🏼 porque tiene ⚽🏀🏈⚾"
+    },
+    "reaction": "",
+    "timestamp": 1722875596,
+    "senderName": "√ Ricardo  (+)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5492615873866@s.whatsapp.net",
+      "id": "688D1D474609A61918DB41D3D02D8561"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "73BD5E248BF86C6869AB502DE822D6E2",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "*PRIVATIZACIONES, EMPLEO PÚBLICO Y PROCEDIMIENTO ADMINISTRATIVO*\n\n- Hoy se reglamentaron cuatro puntos muy importantes incluidos en la Ley de Bases: las facultades delegadas, las privatizaciones, las reformas al empleo público y las reformas al procedimiento administrativo\n\n- El presidente Milei aplicó un plan motosierra que jamás vivió una administración en la República Argentina: 32% se redujo el gasto público en siete meses\n\n- Con las facultades, la administración va a adecuar o cerrar cualquier organismo del Estado que no funcione\n\n- Además, se cambian las formas societarias de las empresas públicas, es decir, empresa estatal que se puede privatizar, se privatiza\n\n- También se incorpora un examen objetivo de competencias en el empleo público. También se endurecen las sanciones por incumplimientos y se obliga a descontar el día no trabajado. Empleado que para, empleado que no cobra\n\n- Por último, se introduce el proceso de silencio positivo para las autorizaciones y otros trámites que el Poder Ejecutivo determine. Este es un virtuoso mecanismo anti extorsiones y anti coimas porque implica que si el Estado no se expide en un plazo de tiempo determinado, quien lo solicita queda automáticamente autorizado\n\n- Hoy la ecuación indica que la motosierra es infinita y que es el crecimiento del sector privado el que le dará prosperidad a la Argentina\n\n*CAMBIOS EN EL INCAA*\n\n- El Gobierno nacional cambió los requisitos de acceso a los subsidios del lNCAA para dejar de financiar películas que sean fracasos comerciales\n\n- Más de 100 películas tuvieron menos de 1.000 espectadores en 2023\n \n- Entre estas películas con baja audiencia encontramos a “Camuflaje”, evidentemente a los espectadores les resultó difícil encontrarla en cartelera, “Una Sola Primavera”, que tuvo apenas cinco espectadores, y “Trescientos Metros Cuadrados y Ocho Ventanas”, que tuvo sólo cuatro espectadores. Más ventanas que espectadores\n\n- A partir del decreto, las producciones deberán conseguir financiamiento propio para cubrir, por lo menos, la mitad de los fondos necesarios para su proyecto. Además, tampoco podrán solicitar un subsidio en años consecutivos\n\n- Los subsidios a estas películas representan casi el 50% de los proyectos financiados el año pasado\n\n- No hay más lugar para gastos superfluos\n\n*INVERSIONES MINERAS EN SALTA - RIGI*\n\n- Salta envió un proyecto de adhesión al RIGI a la Legislatura con el fin de impulsar el desembarco de grandes inversiones en la provincia\n\n- Ya hay cinco empresas con proyectos de inversión en Salta en el orden de los 9 mil dólares \n\n- El camino de la Argentina hacia el mundo desarrollado es irrefrenable"
+    },
+    "reaction": "",
+    "timestamp": 1722875995,
+    "senderName": "Noe Vidal",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "FD7202BD53BACB16EA5CBE4A6F32CB68",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uM3Ywr.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "😂",
+    "timestamp": 1722876327,
+    "senderName": "Eduardo Cesareo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "7BA7A94CC276BD0C586E3C477117DA98",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wbn5Pt.mpga",
+      "mimetype": "audio/mpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722876937,
+    "senderName": "Diego Sena 👀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7610DEFFEE2C4758B10FD2AD77310959",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-S5cWXO7Fb/?igsh=MWZlNHBsYnBzOWRuMQ=="
+    },
+    "reaction": "",
+    "timestamp": 1722879027,
+    "senderName": "Noe Vidal",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "84D7DD13FF3996C413FD476C074153EF",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "🥇 3..  2..  1.. kuka llorando 🤣",
+      "fileName": "VY96i4.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722879028,
+    "senderName": "Diego Sena 👀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D396FBF18421E93ACF811FA3D1F3E31E",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Muy genio los dos 💪🏻"
+    },
+    "reaction": "",
+    "timestamp": 1722879074,
+    "senderName": "Noe Vidal",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "96FE8FB3D8B7FFFB201F38E55D312B87",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-S7_l2v5bN/?igsh=YnA0eXZmMzF1aGw1"
+    },
+    "reaction": "",
+    "timestamp": 1722879219,
+    "senderName": "Noe Vidal",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "85FF4D64B51DEC031F5E358028FDAD0A",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9xp6Pv.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "😮",
+    "timestamp": 1722892407,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "704394E4320B4D4D1ABDB8214A2B5275",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/1196862002/posts/10234160856221677/?mibextid=AQBXeECoIFSgMqhe"
+    },
+    "reaction": "",
+    "timestamp": 1722895118,
+    "senderName": "Jorge Flores",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "2520B27C40E311C3B7B4C46937647355",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "yElIgU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "😂",
+    "timestamp": 1722899533,
+    "senderName": "Horacio Machado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "38121C815366FA89D08834DD8DA2A939",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "😂😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1722899892,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "C40AEED33F8E1497F0EE20291126B26E",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "M0oK2G.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722900035,
+    "senderName": "Horacio Machado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "417B885933932A5190054A3B28037A39",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-TJeZGRQMV/?igsh=MTQ2OHFmMXBrZTAzZg=="
+    },
+    "reaction": "",
+    "timestamp": 1722900805,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AA4A7711FEB555D2E47",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "El crimen organizado en Venezuela. Qué opinan?\n\nhttps://www.instagram.com/reel/C-TEyWSJBjD/?igsh=endhOG9xamsyYXYy"
+    },
+    "reaction": "",
+    "timestamp": 1722907754,
+    "senderName": "Tania",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5EF9BA0DA2E21E18CD66",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-SaumPuF3z/?igsh=MTEwd3BwYXJiazJ3Zw=="
+    },
+    "reaction": "",
+    "timestamp": 1722907976,
+    "senderName": "Tania",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8D8657445DC47C221FB0D7A0FAFDC9C5",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://youtu.be/zornjqemJJ0?si=aUCHFRgMHe9T2RJI"
+    },
+    "reaction": "",
+    "timestamp": 1722911536,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B64D841A1BA40B43BBD38338B74B817E",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TTALRq.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722916671,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "7C5E2D43E2B0CD23FEE7495377025E01",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "nDWV6Z.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722917429,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

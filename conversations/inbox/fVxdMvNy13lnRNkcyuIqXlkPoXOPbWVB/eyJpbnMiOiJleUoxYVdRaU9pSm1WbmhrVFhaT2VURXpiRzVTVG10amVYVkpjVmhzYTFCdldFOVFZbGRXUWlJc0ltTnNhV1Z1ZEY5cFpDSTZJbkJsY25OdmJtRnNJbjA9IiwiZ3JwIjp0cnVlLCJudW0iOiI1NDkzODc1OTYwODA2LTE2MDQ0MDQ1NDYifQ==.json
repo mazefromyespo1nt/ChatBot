@@ -1,0 +1,106 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "76EACDA1B9D5DA423FC54610703AA90C",
+    "remoteJid": "5493875960806-1604404546@g.us",
+    "msgContext": {
+      "text": "Hola alguien tiene la lista de precios de la Quilmes"
+    },
+    "reaction": "",
+    "timestamp": 1722717931,
+    "senderName": "😻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0087464E590F216FC5B02E38A42D4EA4",
+    "remoteJid": "5493875960806-1604404546@g.us",
+    "msgContext": {
+      "text": "A cuanto venden los monsters y speed grande por favor"
+    },
+    "reaction": "",
+    "timestamp": 1722720095,
+    "senderName": "Nely",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "66E02FCE134784E9BC4D17342B3DF554",
+    "remoteJid": "5493875960806-1604404546@g.us",
+    "msgContext": {
+      "text": "Moster 1800\nSpeed 1500"
+    },
+    "reaction": "",
+    "timestamp": 1722721450,
+    "senderName": "😻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5F205413237EBA4EE03D3C6C002DDEF8",
+    "remoteJid": "5493875960806-1604404546@g.us",
+    "msgContext": {
+      "text": "Nadie pasa la lista de precio no comparte la info"
+    },
+    "reaction": "",
+    "timestamp": 1722722085,
+    "senderName": "Cruz 2021",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493874882790@s.whatsapp.net",
+      "id": "8B3840913A5E354AE3DACC9C487DAF22"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "88A932DD1C889515A59E1BEDDC7FC1CC",
+    "remoteJid": "5493875960806-1604404546@g.us",
+    "msgContext": {
+      "caption": "Estimados clientes hoy nueva lista de precios en cervezas ⚠️⚠️⚠️⚠️⚠️",
+      "fileName": "rOoCgZ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍",
+    "timestamp": 1722722996,
+    "senderName": "Makii☺️☺️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "ED993348126ED71F52B6BF8FA0675041",
+    "remoteJid": "5493875960806-1604404546@g.us",
+    "msgContext": {
+      "text": "Muchas gracias!"
+    },
+    "reaction": "👍",
+    "timestamp": 1722723527,
+    "senderName": "😻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

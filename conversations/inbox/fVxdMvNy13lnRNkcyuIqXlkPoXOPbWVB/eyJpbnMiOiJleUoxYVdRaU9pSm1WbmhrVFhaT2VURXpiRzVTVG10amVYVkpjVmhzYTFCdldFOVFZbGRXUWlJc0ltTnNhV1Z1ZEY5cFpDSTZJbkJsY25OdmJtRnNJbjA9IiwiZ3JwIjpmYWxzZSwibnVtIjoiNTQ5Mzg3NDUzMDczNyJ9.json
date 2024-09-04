@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "69EF02B83416BB1297D40AAC7B61E7EC",
+    "remoteJid": "5493874530737@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722717113,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "94B2E7F3071A4380BDF84A824C92BBB2",
+    "remoteJid": "5493874530737@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tiene pedido de Arya"
+    },
+    "reaction": "",
+    "timestamp": 1722717116,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "886D53396BD5EB25213D19181F61401C",
+    "remoteJid": "5493874530737@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estamos yendo"
+    },
+    "reaction": "",
+    "timestamp": 1722717131,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

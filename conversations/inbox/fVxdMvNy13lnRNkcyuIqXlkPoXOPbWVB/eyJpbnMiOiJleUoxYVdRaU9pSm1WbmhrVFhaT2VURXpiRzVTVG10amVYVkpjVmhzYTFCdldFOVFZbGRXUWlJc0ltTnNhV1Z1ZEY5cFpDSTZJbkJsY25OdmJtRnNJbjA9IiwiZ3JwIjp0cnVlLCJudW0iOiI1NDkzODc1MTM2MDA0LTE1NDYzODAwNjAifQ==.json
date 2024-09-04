@@ -1,0 +1,634 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B3458DE8DDD49D33C2ECDF8EDF1D03A3",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Que onda la muchachada"
+    },
+    "reaction": "",
+    "timestamp": 1722714661,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AEAD1B91E86605F54F0AF902589FFEBA",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Ando por salta..."
+    },
+    "reaction": "",
+    "timestamp": 1722714664,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D72F249F93D200F8978B4413BCD31541",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Quien puede más tarde"
+    },
+    "reaction": "",
+    "timestamp": 1722714680,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6E636CAC9103BA4629E85DED935671EC",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Estoy"
+    },
+    "reaction": "",
+    "timestamp": 1722715320,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E6DF75B8CC2B82E03283C6C8BA00F078",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1722715323,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CF43C7A7DD88CCF48F11C0C82680B17F",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1722715529,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9765D1A08C97D098F0AB0A48EBAFCE82",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Que hacen chiques"
+    },
+    "reaction": "",
+    "timestamp": 1722718024,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AA41C652CFBFF949E5877B50A1101FF1",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Metro?? 😂😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1722718029,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "01F414F2EFA52C31DEC61E9BC6ED0DB8",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "De una"
+    },
+    "reaction": "",
+    "timestamp": 1722718214,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "20441B948B1DF32ECC78CD072BA168E6",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Perdón no paso yo"
+    },
+    "reaction": "",
+    "timestamp": 1722721499,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "151FEE5EF4C0E94B03604A2D8DCA5D61",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Es para mayores de 30"
+    },
+    "reaction": "",
+    "timestamp": 1722721518,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "01521CA9C38B09C616A7092B4B7A39E0",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Viejos chotos"
+    },
+    "reaction": "",
+    "timestamp": 1722721520,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "42F164367E281BCA38F74FE1220DA304",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1722721524,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CD3C841DCEB957EC52E19463589D52EA",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Me queda un mes todavía jaja"
+    },
+    "reaction": "",
+    "timestamp": 1722721611,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E337EBF174C60965D2A553405C568CAD",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Pero vamos 😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1722721617,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "84EBDCDB2E8F7739DAC5299B8EDAD6CC",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jaja"
+    },
+    "reaction": "",
+    "timestamp": 1722721721,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "58172F553F471415BFDF32194D3E7D2E",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Treinta y pico es la onda"
+    },
+    "reaction": "",
+    "timestamp": 1722722906,
+    "senderName": "Miguel Esteban Núñez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C5565DD2E34E6208C3679851C38BCDA4",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1722722911,
+    "senderName": "Miguel Esteban Núñez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6B854ACDAE555778CE21C1C8F70972FF",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Salón??"
+    },
+    "reaction": "",
+    "timestamp": 1722815949,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "93170CDF3D605E9A468ABED1D64F0089",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Vamos"
+    },
+    "reaction": "",
+    "timestamp": 1722816080,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C3FD73244F2C7B9A24ADEAE9654454F7",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jaja"
+    },
+    "reaction": "",
+    "timestamp": 1722816080,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F56D2D99F7D0A9323067FAC6B3A2CFBD",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Dale q me voy solo sino"
+    },
+    "reaction": "",
+    "timestamp": 1722816205,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B56207B0F6DCFF354B",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "los acompaño con mis pensamientos"
+    },
+    "reaction": "",
+    "timestamp": 1722816432,
+    "senderName": "Miguel Esteban Núñez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "BDD1B4C3B05FEDF5A8847FC11AF402D8",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "caption": "Cuidando a la bendi",
+      "fileName": "7TwD2b.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722816766,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CAA300AEA15DCD7B75",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "lo tienen cagando a carloncho"
+    },
+    "reaction": "",
+    "timestamp": 1722816816,
+    "senderName": "Miguel Esteban Núñez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9683C7A2EF9508C27805E9AE362416B1",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jaja"
+    },
+    "reaction": "",
+    "timestamp": 1722817331,
+    "senderName": "Jose Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "CE010E45813073946B135DC64FD3DFBC",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3zIN2Z.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722817609,
+    "senderName": "Miguel Esteban Núñez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8F95AF0C0686BBFFFBB8EC063495DB00",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Yo también cuidando las bendis"
+    },
+    "reaction": "",
+    "timestamp": 1722817646,
+    "senderName": "Miguel Esteban Núñez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E378310F488570387FB2249ECDC4C208",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "caption": "Yo tmb...jajaja",
+      "fileName": "mhvDIX.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722819156,
+    "senderName": "Jose Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "53313D938B907559CF709CA28EC9191F",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Como cambiaron las cosas"
+    },
+    "reaction": "",
+    "timestamp": 1722819164,
+    "senderName": "Jose Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D1E76C286B8971210AEE20DA24F12017",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Que culiados"
+    },
+    "reaction": "",
+    "timestamp": 1722819639,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "868EE7ACC957E83A5C28786DC885D415",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Que son"
+    },
+    "reaction": "",
+    "timestamp": 1722819641,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D7C10A87CCBF1A6A728491156F12CBF6",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Ahora con Luciano vamos a mandar los culos en tangas"
+    },
+    "reaction": "",
+    "timestamp": 1722819681,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6B84BC67554294103861AE6BDB8B7D31",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Claro"
+    },
+    "reaction": "",
+    "timestamp": 1722819788,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6C426604CD107C45EE77CBBF7FE9EB80",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1722819796,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "745D5B9F6CFDE5E8D8558140FB84F680",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fmJmFQ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722821564,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "56409CDE48975D363C08C12729B13D26",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Ningunos dominados"
+    },
+    "reaction": "",
+    "timestamp": 1722821573,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9295307555A925F5580BF7DAC1BC52E6",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "😂😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1722821643,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "192974CA4C385B2BE95E042F01491D92",
+    "remoteJid": "5493875136004-1546380060@g.us",
+    "msgContext": {
+      "text": "Yendo"
+    },
+    "reaction": "",
+    "timestamp": 1722821750,
+    "senderName": "Mariano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,260 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B05B152AA21D30A8AD656F25AC05756",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes no voy vienen con el pedido? Para esperar"
+    },
+    "reaction": "",
+    "timestamp": 1722714972,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0F6D190535B297500EF12B0013460950",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722715072,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A3A2661760A41294220705A90104E866",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1722715073,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E410A5FC81CD32F2AF8E282C0F061E44",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estamos atrasados"
+    },
+    "reaction": "",
+    "timestamp": 1722715076,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B1979E6C3189AEF931753EE07217F95B",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722715085,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B086D0C0D1D91BDF05E3F8CE1FC16F2B",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "A las 18 30"
+    },
+    "reaction": "",
+    "timestamp": 1722715121,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6A44E1559596E4896ECB998B4B03DBBB",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vuelvo"
+    },
+    "reaction": "",
+    "timestamp": 1722715132,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D1DC56B81669B93921F84CFED9CCFAF0",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "O cuando venga le toca la ventana"
+    },
+    "reaction": "",
+    "timestamp": 1722715174,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6BACAC53CC1D90A07119FAA2ABAE7F2C",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y lo atiende"
+    },
+    "reaction": "",
+    "timestamp": 1722715183,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2A9005708DDE42D6028DE9C4286A0F91",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy hasta el cajero"
+    },
+    "reaction": "",
+    "timestamp": 1722715211,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "738CA98FD910A960B059E637B1B6D21D",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me avisa"
+    },
+    "reaction": "",
+    "timestamp": 1722715220,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F9957F008F63D2B34A57A39584AF52EA",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya estamos por salir a su zona"
+    },
+    "reaction": "",
+    "timestamp": 1722716594,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B3552D9196E263A67B9916E8C106E707",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "A bien"
+    },
+    "reaction": "",
+    "timestamp": 1722716607,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F2355A2DD238810764D7AE141F9422D3",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Toque nomás la ventana"
+    },
+    "reaction": "",
+    "timestamp": 1722716618,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "B41776D3F7E772EF13D3ABA58EA15DDC",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sDHgsb.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722719465,
+    "senderName": "Magdalena Zeballos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "387F1890A3C25DE497BAF7B2E4CACD11",
+    "remoteJid": "5493875357821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722720519,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

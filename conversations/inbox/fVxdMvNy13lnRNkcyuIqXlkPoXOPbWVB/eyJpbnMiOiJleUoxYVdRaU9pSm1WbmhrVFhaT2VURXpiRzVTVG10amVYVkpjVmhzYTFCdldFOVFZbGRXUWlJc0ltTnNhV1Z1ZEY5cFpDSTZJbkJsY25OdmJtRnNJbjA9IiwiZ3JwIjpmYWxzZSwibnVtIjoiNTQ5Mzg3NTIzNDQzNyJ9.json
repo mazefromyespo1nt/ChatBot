@@ -1,0 +1,212 @@
+[
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB0CABEB2C36EFA7853B4",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Products_20240803_20240803.pdf",
+      "fileName": "WZprNE.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1722666001,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C3A2DD5C5F57B9B1CD2B23ABCFC150CE",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mí gorra, está en el espaldar de la cama"
+    },
+    "reaction": "",
+    "timestamp": 1722684390,
+    "senderName": "Pedro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6F8F1BCDF4898F25661EBD5F9061BD6E",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Uh"
+    },
+    "reaction": "",
+    "timestamp": 1722685404,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CDB58FE8044FC9FB68E4A7EA732C34A0",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya salí"
+    },
+    "reaction": "",
+    "timestamp": 1722685406,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B3ADAFAB39D22D9B627A2BB05017A6B",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Decile al Alfredo"
+    },
+    "reaction": "",
+    "timestamp": 1722685410,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E5DA2BA25030B6D10CAB5BFA805D53C",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "A cuanto cobras las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722693458,
+    "senderName": "Pedro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "248F791D83BD02D51DB31EBEA7DF55AA",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuánto era?"
+    },
+    "reaction": "",
+    "timestamp": 1722693631,
+    "senderName": "Pedro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B8CDDDBF1D2C69FA2B30A4F736867B06",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "25800"
+    },
+    "reaction": "",
+    "timestamp": 1722694169,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2D3962E8428C8AE41818155B901E66C0",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esta en el sistema"
+    },
+    "reaction": "",
+    "timestamp": 1722694173,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6A1EEE0CA0CC20B2FAE629DB234E828A",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Masomenos en cuanto terminan el reparto"
+    },
+    "reaction": "",
+    "timestamp": 1722704937,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "171609062EE543AA4E83D9547B022BEB",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bastante nos falta"
+    },
+    "reaction": "",
+    "timestamp": 1722705057,
+    "senderName": "Pedro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "747B4B3AE234498D2EAD5188C1F7AF67",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "En cuanto llegan"
+    },
+    "reaction": "",
+    "timestamp": 1722713607,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8D8489B259DE7E412C669B5A214CE171",
+    "remoteJid": "5493875234437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya estamos volviendo"
+    },
+    "reaction": "",
+    "timestamp": 1722714668,
+    "senderName": "Pedro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

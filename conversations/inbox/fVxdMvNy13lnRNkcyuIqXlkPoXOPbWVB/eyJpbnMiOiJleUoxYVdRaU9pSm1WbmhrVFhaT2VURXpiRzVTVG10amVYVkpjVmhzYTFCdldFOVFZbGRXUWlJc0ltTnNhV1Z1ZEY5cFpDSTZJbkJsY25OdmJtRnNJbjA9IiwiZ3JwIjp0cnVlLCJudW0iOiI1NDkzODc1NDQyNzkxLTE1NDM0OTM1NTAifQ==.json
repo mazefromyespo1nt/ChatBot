@@ -1,0 +1,343 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D9A02156244352B3164FCF988E74A86E",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Quien llevo las pelotitas??"
+    },
+    "reaction": "",
+    "timestamp": 1722691614,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "C2A3834E6880BB05F4C80EDBEBC70E39",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "caption": "Mi perritaaa",
+      "fileName": "JTLW1I.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722697051,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "918A83C801E87E6982E12CDAA74A0F5C",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Jajaaj"
+    },
+    "reaction": "",
+    "timestamp": 1722697053,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BE3C052E116C53776A87B9E2C179D451",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Ganamos !!"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722697069,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B2B34BD939194B925E599B640A20335A",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Estamos esperando a maxi rioja"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722697079,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "198BEBA00D38E8D8000A58E5432F1A22",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Jaja"
+    },
+    "reaction": "",
+    "timestamp": 1722697081,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "19844709581E5FF92BC4D5E2D87406D8",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Ahora a las 12"
+    },
+    "reaction": "",
+    "timestamp": 1722697092,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "04A884CEC400631A4626AD31105AA7B7",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Ufaaa"
+    },
+    "reaction": "",
+    "timestamp": 1722697113,
+    "senderName": "Gast\"N",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875442791@s.whatsapp.net",
+      "id": "B2B34BD939194B925E599B640A20335A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B3FA2FDF37F8ECAAB3EF1A65755AEA6",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "WO"
+    },
+    "reaction": "",
+    "timestamp": 1722697276,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4451CCB1F09437F42320B4E244071C6E",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Si no llegaaa"
+    },
+    "reaction": "",
+    "timestamp": 1722697282,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "68617E9344E6E29AABAB40086450C9FC",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Bien ahí rana"
+    },
+    "reaction": "",
+    "timestamp": 1722697301,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0028C53926551C8AE5CB80FA029780CC",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "🤭🤭🤭"
+    },
+    "reaction": "",
+    "timestamp": 1722697302,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9CCAD26CF4939D5AC466FD19A45323DA",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Che 5mil por pera te tienen que transferir"
+    },
+    "reaction": "",
+    "timestamp": 1722697322,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C2206A2E6083315FB1B1E529A57F415",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Te mandaron algo??"
+    },
+    "reaction": "",
+    "timestamp": 1722697332,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AC5BA8421B2D38CBA32DC61D8B91AE7D",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Xio 5\nTula 5\nGaston 5\nCarlitos 4\nVaquita 500p 🤭"
+    },
+    "reaction": "",
+    "timestamp": 1722697436,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AEA88FFB3D04DAF2DB810759CAA4E8CB",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Te debo mil"
+    },
+    "reaction": "",
+    "timestamp": 1722697661,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7BB662EE8FD0625A1A6D2861AE1C7B70",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Amigo"
+    },
+    "reaction": "",
+    "timestamp": 1722697663,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FF9BF1BE5B2E636C54F57C492AB0AAC4",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Paguen che"
+    },
+    "reaction": "",
+    "timestamp": 1722697745,
+    "senderName": "Gast\"N",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "937147E13BF6DFB293C52427495CC7FF",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Quien falta"
+    },
+    "reaction": "",
+    "timestamp": 1722698183,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "241C95E246FAD8BBD4C392407862ACEF",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "🤣🤣"
+    },
+    "reaction": "",
+    "timestamp": 1722698192,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B8FEEE642B9237453B97BD7508409B35",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Enseguida te mando"
+    },
+    "reaction": "",
+    "timestamp": 1722700544,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F2B30C857848B67517F7E16E0008DABA",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenos dias no me llego el pedido ayer hoy me lo podes mandar"
+    },
+    "reaction": "",
+    "timestamp": 1722686164,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C598BB171582F745E3C7E17F5D3D48F9",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es para barrio municipal  la cerveza 1.2 salra y quilmrs"
+    },
+    "reaction": "",
+    "timestamp": 1722686221,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7C29718B0788B21F94F4B64098371BED",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día"
+    },
+    "reaction": "",
+    "timestamp": 1722686422,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "220ABC9CC85C356B08A7CAEC4A51B402",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy le llevan"
+    },
+    "reaction": "",
+    "timestamp": 1722686427,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FC1A1EA8790961EE8CFEAEB8340C398D",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya le paso el recibo"
+    },
+    "reaction": "",
+    "timestamp": 1722686433,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C5D8B4561F3F7B78AF5F3289EC5CB3A0",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Okcuanto esta la salta y el precio de la quilmes"
+    },
+    "reaction": "",
+    "timestamp": 1722686491,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EAD44E7EE475AD09ACBE9029B70BDF61",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mismos precios"
+    },
+    "reaction": "",
+    "timestamp": 1722692526,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "E9B497CA4CAE654C382C947FD38FA1F6"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9A25B507DCA2332A33C8D23EC9FFB705",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me mandaste di podes agregarme otra quilmes serian 2 salta y 2 quilmes 1.2"
+    },
+    "reaction": "",
+    "timestamp": 1722692636,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "24586CABEB9E9903AE2FE95C80E3A4CA",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KqxQmb.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722692667,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7EE71244B802FCC92181BD940D33B8E1",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok graciad"
+    },
+    "reaction": "",
+    "timestamp": 1722692705,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E3893581BA9655DF68F0032902161234",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya le sumo"
+    },
+    "reaction": "",
+    "timestamp": 1722692891,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EE29ECAE68D437CB46A91CEE1CCCB161",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1722692934,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9240063912AD7E42F7E083D8F81B13A9",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esta yendo el chofer"
+    },
+    "reaction": "",
+    "timestamp": 1722693523,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

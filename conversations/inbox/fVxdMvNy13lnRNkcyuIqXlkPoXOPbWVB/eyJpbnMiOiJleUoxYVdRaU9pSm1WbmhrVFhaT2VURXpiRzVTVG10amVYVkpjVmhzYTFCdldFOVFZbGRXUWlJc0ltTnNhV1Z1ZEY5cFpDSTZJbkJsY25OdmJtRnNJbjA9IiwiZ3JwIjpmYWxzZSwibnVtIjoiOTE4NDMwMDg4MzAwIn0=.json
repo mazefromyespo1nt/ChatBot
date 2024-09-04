@@ -1,0 +1,244 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A95E04A700CA00858D",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "hello"
+    },
+    "reaction": "",
+    "timestamp": 1722663981,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09425FEF18D1C114525",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "I bought WhatsApp, my username is carlosduran099@gmail.com"
+    },
+    "reaction": "",
+    "timestamp": 1722664026,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB030BFD162BAC318E9D3",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "b49b0e3a-db73-4f51-b99d-e72a9eff484c"
+    },
+    "reaction": "",
+    "timestamp": 1722664040,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0279EE274EA21516FF5",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "FwMg2s.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722664092,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085A4DB0A38766EB12F",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "WhatsHam"
+    },
+    "reaction": "",
+    "timestamp": 1722664103,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0040F41A76EA61782A0",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "It doesn't show me the conversations"
+    },
+    "reaction": "",
+    "timestamp": 1722664128,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B2A889CDDAD0E5338D",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "send a it will be shown"
+    },
+    "reaction": "",
+    "timestamp": 1722664458,
+    "senderName": "codeyon.com",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB015B64BEC6CF8F3854D",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "yes"
+    },
+    "reaction": "",
+    "timestamp": 1722664707,
+    "senderName": "codeyon.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05478B1FAC36BF5997D",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "I can see this chat now"
+    },
+    "reaction": "",
+    "timestamp": 1722664735,
+    "senderName": "codeyon.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B1CD82C393E1F9C6FE",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "I wanted to know if the panel can be made for multiple agents."
+    },
+    "reaction": "",
+    "timestamp": 1722664777,
+    "senderName": "codeyon.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB025B0821203B98177FE",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "Why can't I install the PWA on my Android?"
+    },
+    "reaction": "",
+    "timestamp": 1722665243,
+    "senderName": "codeyon.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB004FA216A7E13D9650B",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "Thanks"
+    },
+    "reaction": "",
+    "timestamp": 1722778354,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DC42294E9D5D0AF0E1",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "error found in fetchProfileUrl()\nError: bad-request\nat assertNodeErrorFree (/www/wwwroot/babiato.pro/node_modules/@whiskeysockets/baileys/lib/WABinary/generic-utils.js:56:15)\nat query (/www/wwwroot/babiato.pro/node_modules/@whiskeysockets/baileys/lib/Socket/socket.js:145:48)\nat process.processTicksAndRejections (node:internal/process/task_queues:95:5)\nat async Object.profilePictureUrl (/www/wwwroot/babiato.pro/node_modules/@whiskeysockets/baileys/lib/Socket/chats.js:442:24)\nat async /www/wwwroot/babiato.pro/functions/control.js:8:74 {\ndata: 400,\nisBoom: true,\nisServer: true,\noutput: {\nstatusCode: 500,\npayload: {\nstatusCode: 500,\nerror: 'Internal Server Error',\nmessage: 'An internal server error occurred'\n},\nheaders: {}\n}\n}\nno broadcast found"
+    },
+    "reaction": "",
+    "timestamp": 1722788557,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02EF1AC1FA6FE22DE71",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "I have a problem with the server, it works fine but I get that error and it closes"
+    },
+    "reaction": "",
+    "timestamp": 1722788633,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB031FC81F7B12F8B4585",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "delete your instance and re add it"
+    },
+    "reaction": "",
+    "timestamp": 1722789340,
+    "senderName": "codeyon.com",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

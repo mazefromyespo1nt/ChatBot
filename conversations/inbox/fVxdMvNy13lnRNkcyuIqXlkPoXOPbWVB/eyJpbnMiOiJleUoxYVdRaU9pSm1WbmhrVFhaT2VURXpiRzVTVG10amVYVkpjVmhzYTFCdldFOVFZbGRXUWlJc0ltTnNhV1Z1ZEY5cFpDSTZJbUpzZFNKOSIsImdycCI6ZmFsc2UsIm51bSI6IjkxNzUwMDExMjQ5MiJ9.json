@@ -1,0 +1,37 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "305FFDB89B3511FC0ED19E8C3B69685E",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "Link"
+    },
+    "reaction": "",
+    "timestamp": 1722874544,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "917500112492@s.whatsapp.net",
+      "id": "FFB6461DF27D8A67FB51DFE29396D7E2"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "22CE7A3D285ED2B43751598E5A8BBDFA",
+    "remoteJid": "917500112492@s.whatsapp.net",
+    "msgContext": {
+      "text": "bot.wazbulk.in"
+    },
+    "reaction": "",
+    "timestamp": 1722877195,
+    "senderName": "ONBVN Technologies India Pvt Ltd.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

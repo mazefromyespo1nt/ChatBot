@@ -1,0 +1,279 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E1AD37559D32640180B363F13CC32906",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen dia , queria encargarte xfavor\n1 cajon de quilmes 1.2ltr\n2 six pack de quilmes en lata \n1 caja dr lemon clasico con vodka\n1 fardo toro tinto en caja"
+    },
+    "reaction": "",
+    "timestamp": 1722685383,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "983E8037F3321DA6650C643376960A71",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "amigo?"
+    },
+    "reaction": "",
+    "timestamp": 1722711260,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA5C709F19C9C59206FFE7D21A43303E",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "si venis o si me tomaste el pedido disculpa? Es para saber cuanto seria y a que hora vendrias masomenos"
+    },
+    "reaction": "",
+    "timestamp": 1722711296,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6D92688DC1707D84351592ABAA3385A",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola si"
+    },
+    "reaction": "",
+    "timestamp": 1722711497,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "638D03B494C4B140E349838BBE47015F",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpa"
+    },
+    "reaction": "",
+    "timestamp": 1722711499,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AB616285A680EF53B56B53754CFC69BF",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Más tarde te llevamos"
+    },
+    "reaction": "",
+    "timestamp": 1722711503,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0DD7C576F636F96928DD62FDB31A637C",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "A que hora masomenos le calculas? Queria tipo 5 ir a comprar unos cigarrillos que me hacen falta , seria ir y volver de buscar eso nomas , para asi no rebotar el pedido por que no tengo a nadie mas para dejarlo a recibir , disculpa amigo , si podes avisarle al que me trae el pedido si puede traerlo despues de las 19 masomenos te agradeceria mucho😅"
+    },
+    "reaction": "",
+    "timestamp": 1722712050,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0C61DE903EA8D08380BC597558B164B5",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "avisame por favor eso , yo ahora a las 17 salgo"
+    },
+    "reaction": "",
+    "timestamp": 1722712654,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B64BC9880EF3B03002D7054ED6E31884",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si después de las 19"
+    },
+    "reaction": "",
+    "timestamp": 1722712826,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "099AD20AF0803D49956CF6367364B441",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listoooo"
+    },
+    "reaction": "",
+    "timestamp": 1722712859,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1B63B08622E5B1EEF8DE3D32EA661B",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias!"
+    },
+    "reaction": "",
+    "timestamp": 1722712863,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "021F66A3569B27ED568BB8CA660DE86A",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Agregame por favor al pedido 1 cajon mas de quilmes 1.2ltr , serian 2 cajones en total que necesitaria mil disculpas la molestia y gracias amigo 😅"
+    },
+    "reaction": "",
+    "timestamp": 1722714806,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493872149493@s.whatsapp.net",
+      "id": "E1AD37559D32640180B363F13CC32906"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E9A48C1A937E1E43D918D1CB57011143",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1722715103,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4B1ECD45B6B965865C67B3C85909DD20",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "La Quilmes subió, $20000 cada cajón"
+    },
+    "reaction": "",
+    "timestamp": 1722715117,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E291BFE1DC586686D236AD81D120DF53",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "bien"
+    },
+    "reaction": "",
+    "timestamp": 1722715176,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "7009B7D02F6689D3511585179C586D6B",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "kw7RRV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722715469,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8742C94FA5B9D7521DDA0100ABD76086",
+    "remoteJid": "5493872149493@s.whatsapp.net",
+    "msgContext": {
+      "text": "De 10 amigo gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722715679,
+    "senderName": "Nacho Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

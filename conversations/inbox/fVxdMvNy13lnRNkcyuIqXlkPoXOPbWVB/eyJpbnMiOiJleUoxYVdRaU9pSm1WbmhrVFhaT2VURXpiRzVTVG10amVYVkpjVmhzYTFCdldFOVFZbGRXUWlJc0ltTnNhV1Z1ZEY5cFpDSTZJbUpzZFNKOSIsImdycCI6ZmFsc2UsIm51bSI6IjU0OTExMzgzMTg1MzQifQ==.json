@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07223CB9F472413CA51",
+    "remoteJid": "5491138318534@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen dia, como estas? todo bien? cuando quieran comenzamos, cualquier duda me dicenn"
+    },
+    "reaction": "",
+    "timestamp": 1722883479,
+    "senderName": "Mundo Freelance",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

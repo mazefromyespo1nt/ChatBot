@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "70EBBDA149090C882B4D98ECF40870AC",
+    "remoteJid": "5493875356516@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722808957,
+    "senderName": "Pedro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5834026065576",
+    "remoteJid": "5493875356516@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, aquí te dejo algunas de nuestras promociones en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14999.99\n- Dr. Lemon con vodka 12x1lt a $19999.99 (único sabor)\n- Cajón de Coca Cola 8x2.5lt a $15300, comprando más de 3 cajones a $14800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25800\n- 1 cajón de Coca Cola 8x2lt + 1 cajón de Coca Cola 8x1.5lt a $23800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Fanta/Sprite 8x2.5lt a $27800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Salta 10x1.2lt a $33800\n- 1 cajón de Cerveza Salta 10x1.2lt + 1 cajón de Cerveza Quilmes 10x1.2lt a $38500\n\nRecuerda que también tenemos más promociones y productos en nuestra tienda en línea https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2 ¡No dudes en visitarnos!"
+    },
+    "reaction": "",
+    "timestamp": 1722808968,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

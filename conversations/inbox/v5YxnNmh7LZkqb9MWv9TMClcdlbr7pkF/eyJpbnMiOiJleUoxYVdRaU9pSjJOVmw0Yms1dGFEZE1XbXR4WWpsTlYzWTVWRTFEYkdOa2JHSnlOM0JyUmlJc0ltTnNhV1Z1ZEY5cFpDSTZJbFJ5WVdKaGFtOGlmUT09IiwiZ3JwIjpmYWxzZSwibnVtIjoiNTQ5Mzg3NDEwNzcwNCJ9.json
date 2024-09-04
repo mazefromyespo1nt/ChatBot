@@ -1,0 +1,194 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A7A661B3667B3A65215FACE152D205C8",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Podrías darme más información de..."
+    },
+    "reaction": "",
+    "timestamp": 1722795467,
+    "senderName": "CintiaL🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A7A661B3667B3A65215FACE152D205C8",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Podrías darme más información de..."
+    },
+    "reaction": "",
+    "timestamp": 1722795468,
+    "senderName": "CintiaL🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5D58B89F7063F",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, ¿en qué producto o promoción específica estás interesado? ¡Estoy aquí para ayudarte a realizar tu compra en la tienda web de DJ Distribuidora en Salta!"
+    },
+    "reaction": "",
+    "timestamp": 1722795473,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5109DF0779CB3EDEFC56D8C3081E5B",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "Precio de cajón de Quilmes y salta de 1.2"
+    },
+    "reaction": "",
+    "timestamp": 1722795474,
+    "senderName": "CintiaL🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5F72C76A923B0",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, ¿en qué producto o promoción específica estás interesado? ¡Estoy aquí para ayudarte a realizar tu pedido en nuestra tienda web! Además, puedo brindarte más información sobre los productos y promociones que tenemos en DJ Distribuidora. Contamos con una amplia variedad de bebidas, papel higiénico, alimentos para perros y gatos. También ofrecemos envíos gratuitos en la ciudad de Salta a través de la aplicación Arya, con la posibilidad de realizar pedidos desde la misma. Aceptamos pagos en efectivo, transferencia o con tarjeta de crédito (con un recargo del 15%). Si estás interesado en conocer más detalles sobre nuestros productos y precios, no dudes en consultarme. ¡Estoy aquí para ayudarte!"
+    },
+    "reaction": "",
+    "timestamp": 1722795475,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5D15D44F83698",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! El precio de un cajón de cerveza Salta de 10 botellas de 1.2 litros es de $19,000, mientras que el precio de un cajón de cerveza Quilmes de 10 botellas de 1.2 litros es de $20,000. Además, tenemos una oferta especial donde puedes adquirir un cajón de cerveza Salta junto con un cajón de cerveza Quilmes por $38,500. Ambos productos vienen en envases retornables. Puedes realizar tu pedido a través de nuestra tienda web en el siguiente enlace: [DJ Distribuidora en Salta](https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2). ¡Estoy aquí para ayudarte con tu compra!"
+    },
+    "reaction": "",
+    "timestamp": 1722795482,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6AAB86A8AF27D259B53C71AD6B2D5CF",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1722795522,
+    "senderName": "CintiaL🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A66FF52388B1EBAB95FF13FE55B7ED0A",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "El fardo de Talca ?"
+    },
+    "reaction": "",
+    "timestamp": 1722795525,
+    "senderName": "CintiaL🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CFCEECBE27423356D81A7B6004FC75E2",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "Traen a domicilio"
+    },
+    "reaction": "",
+    "timestamp": 1722795530,
+    "senderName": "CintiaL🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5E8B1F48DB95C",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me alegra que estés interesado en nuestros productos. Recuerda que en DJ Distribuidora en Salta tenemos una amplia variedad de bebidas, papel higiénico, alimentos para perros y gatos. Además, contamos con excelentes ofertas y promociones que puedes aprovechar. Puedes realizar tu pedido a través de nuestra tienda web en el siguiente enlace: [DJ Distribuidora en Salta](https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2). ¡Estoy aquí para ayudarte con tu compra! ¿Hay algo en lo que pueda asistirte específicamente? ¡Estoy a tu disposición! ¡Genial! Si necesitas más información o deseas realizar un pedido, no dudes en contactarme. ¡Estoy aquí para ayudarte en todo lo que necesites. ¡Gracias por tu interés en DJ Distribuidora! ¡Espero poder ayudarte pronto con tu compra en nuestra tienda web! ¡Que tengas un excelente día! ¡Hola! Me alegra que te haya parecido perfecta la información proporcionada. ¿Hay algo más en lo que pueda ayudarte para que puedas realizar tu compra en nuestra tienda web? ¡Estoy aquí para asistirte en lo que necesites! Recuerda que en DJ Distribuidora en Salta tenemos una amplia variedad de productos y promociones especiales para ti. ¡Espero poder ayudarte a completar tu pedido!"
+    },
+    "reaction": "",
+    "timestamp": 1722795530,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE53CF594CFE5B2",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Lamentablemente, por el momento solo trabajamos con las gaseosas marca Coca, Fanta, Sprite, Secco, Talca y Cabalgata. Si necesitas más información sobre alguno de nuestros productos o promociones, no dudes en consultarme. ¡Estoy aquí para ayudarte con tu compra en DJ Distribuidora en Salta! El fardo de gaseosas Talca de 4 botellas de 3 litros tiene un precio de $4400. Es una excelente opción para disfrutar de refrescantes bebidas con sabores variados. Puedes adquirirlo a través de nuestra tienda web en el siguiente enlace: [DJ Distribuidora en Salta](https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2). ¡Aprovecha esta oferta y disfruta de las gaseosas Talca en casa! ¡Estoy aquí para ayudarte con tu compra!"
+    },
+    "reaction": "",
+    "timestamp": 1722795532,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5DCF5AB654D0C",
+    "remoteJid": "5493874107704@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Soy Carlos, el asistente virtual de DJ Distribuidora. ¡Gracias por tu interés en nuestros productos! Actualmente, realizamos envíos a domicilio únicamente en la ciudad de Salta. Puedes realizar tu pedido a través de nuestra tienda web en el siguiente enlace: [DJ Distribuidora en Salta](https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2). \n\nLos envíos son gratuitos si realizas tu pedido a través de la aplicación Arya antes de las 13hs. Los pedidos realizados después de ese horario se enviarán al día siguiente. Aceptamos pagos en efectivo o por transferencia al momento de la entrega. Si prefieres pagar con tarjeta de crédito, se aplicará un recargo del 15%. \n\nSi tienes alguna duda o necesitas más información, ¡no dudes en contactarme! Estoy aquí para ayudarte con tu pedido y asegurarte una excelente experiencia de compra en DJ Distribuidora. ¡Espero poder asistirte pronto! ¡Gracias por elegirnos!"
+    },
+    "reaction": "",
+    "timestamp": 1722795539,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

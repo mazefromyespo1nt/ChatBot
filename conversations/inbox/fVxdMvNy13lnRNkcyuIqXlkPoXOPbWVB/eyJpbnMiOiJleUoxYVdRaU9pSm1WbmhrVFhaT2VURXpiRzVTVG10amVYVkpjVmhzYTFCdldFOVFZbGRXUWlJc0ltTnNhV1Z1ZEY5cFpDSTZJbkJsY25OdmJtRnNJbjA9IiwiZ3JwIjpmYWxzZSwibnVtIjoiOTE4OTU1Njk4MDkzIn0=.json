@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A5DA27EE8B1A99E878C64A862B532B15",
+    "remoteJid": "918955698093@s.whatsapp.net",
+    "msgContext": {
+      "text": "Thank you for contacting Zebyoo! Please let us know how we can help you."
+    },
+    "reaction": "",
+    "timestamp": 1722832357,
+    "senderName": "Zebyoo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

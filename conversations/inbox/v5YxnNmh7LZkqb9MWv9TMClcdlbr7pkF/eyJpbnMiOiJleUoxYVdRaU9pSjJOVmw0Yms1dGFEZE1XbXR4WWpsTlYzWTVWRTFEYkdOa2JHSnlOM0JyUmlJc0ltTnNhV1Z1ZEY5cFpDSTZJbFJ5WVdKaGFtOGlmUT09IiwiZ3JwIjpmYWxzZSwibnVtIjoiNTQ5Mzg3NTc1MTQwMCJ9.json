@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B1E8AA698081EE30A06978DC5191DF40",
+    "remoteJid": "5493875751400@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola me pasas precio de la Secco de 3 litros"
+    },
+    "reaction": "",
+    "timestamp": 1722915580,
+    "senderName": "Ricardo Mauno😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "23E3F37F8D88E1C7D31E1F6A802BA368",
+    "remoteJid": "5493874154360@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "W04Lfi.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722726088,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

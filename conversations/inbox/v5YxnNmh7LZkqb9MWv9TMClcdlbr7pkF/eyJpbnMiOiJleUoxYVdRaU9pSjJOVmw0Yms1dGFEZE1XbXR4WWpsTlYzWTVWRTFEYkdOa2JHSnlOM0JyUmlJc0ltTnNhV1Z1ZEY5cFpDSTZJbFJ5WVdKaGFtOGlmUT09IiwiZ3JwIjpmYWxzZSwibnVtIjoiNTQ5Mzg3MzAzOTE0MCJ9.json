@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "62E8C37A355A814C58E4D5D49E6D169C",
+    "remoteJid": "5493873039140@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722799188,
+    "senderName": "Manu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5ACFD9E3E8C28",
+    "remoteJid": "5493873039140@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, aquí te paso algunas de las promociones que tenemos actualmente en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14999.99\n- Dr. Lemon con Vodka 12x1lt a $19999.99\n- Cajón de Coca Cola 8x2.5lt a $15300, comprando más de 3 cajones a $14800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25800\n- 1 cajón de Coca Cola 8x2lt + 1 cajón de Coca Cola 8x1.5lt a $23800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Fanta/Sprite 8x2.5lt a $27800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Salta 10x1.2lt a $33800\n\nAdemás, tenemos más promociones y precios especiales en la aplicación Arya. Recuerda que hacemos envíos gratis por la aplicación Arya en la ciudad de Salta. ¡No dudes en consultar más ofertas! ¡Gracias por tu interés!"
+    },
+    "reaction": "",
+    "timestamp": 1722799198,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

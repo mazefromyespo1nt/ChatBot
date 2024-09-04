@@ -1,0 +1,130 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F7A55283EECC51C52BCED92FD59B3001",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Podrías darme más información de..."
+    },
+    "reaction": "",
+    "timestamp": 1722817896,
+    "senderName": "Eze",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F7A55283EECC51C52BCED92FD59B3001",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Podrías darme más información de..."
+    },
+    "reaction": "",
+    "timestamp": 1722817897,
+    "senderName": "Eze",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE58879AA34E5BD",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, ¿en qué producto o promoción específica estás interesado? ¡Estoy aquí para ayudarte a realizar tu compra en DJ Distribuidora!"
+    },
+    "reaction": "",
+    "timestamp": 1722817902,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5E370B426D7C4",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, puedo brindarte más información sobre los productos y promociones disponibles en DJ Distribuidora. ¿En qué producto o promoción específica estás interesado? ¡Estoy aquí para ayudarte!"
+    },
+    "reaction": "",
+    "timestamp": 1722817902,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9769A08B50DCB6AF83D29F1723CF5325",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas será que me pueda pasar los precios de la bebidas ."
+    },
+    "reaction": "",
+    "timestamp": 1722818142,
+    "senderName": "Eze",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5B028691A528D",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, aquí te dejo algunos precios de las bebidas disponibles en DJ Distribuidora:\n\n- Coca Cola 6x3lt: $14,999.99\n- Dr. Lemon con Vodka 12x1lt: $19,999.99\n- Cajón Coca Cola 8x2.5lt: $15,300 (comprando más de 3 cajones a $14,800)\n- Cajón Coca Cola 8x2.5lt + Cajón Coca Cola 8x1.5lt: $25,800\n- Cajón Coca Cola 8x2lt + Cajón Coca Cola 8x1.5lt: $23,800\n- Cajón Coca Cola 8x2.5lt + Cajón Fanta/Sprite 8x2.5lt: $27,800\n- Cajón Coca Cola 8x2.5lt + Cajón Salta 10x1.2lt: $33,800\n- Cajón Cerveza Salta 10x1.2lt + Cajón Cerveza Quilmes 10x1.2lt: $38,500\n\nEspero que esta información te sea útil. ¡Si necesitas más detalles o precios de otros productos, no dudes en preguntar!"
+    },
+    "reaction": "",
+    "timestamp": 1722818152,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FDC54B6C2617F1F4C42E877D17110732",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tenés bandeja de SCHNEIDER 710"
+    },
+    "reaction": "",
+    "timestamp": 1722818199,
+    "senderName": "Eze",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE559013D165DD6",
+    "remoteJid": "5493875471633@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! En DJ Distribuidora actualmente no contamos con bandejas de Schneider 710 en nuestro catálogo de productos. Sin embargo, te invitamos a revisar nuestra amplia variedad de bebidas disponibles en nuestra tienda online en el siguiente enlace: [DJ Distribuidora - Tienda Online](https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2). Si estás interesado en realizar un pedido de otras bebidas, estaré encantado de ayudarte con cualquier consulta o información adicional que necesites. ¡Gracias por considerar a DJ Distribuidora para tus compras!"
+    },
+    "reaction": "",
+    "timestamp": 1722818206,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

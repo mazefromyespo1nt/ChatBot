@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "74DB107466102C29C1C91B79C86A5DAF",
+    "remoteJid": "5491160082245@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me interesan saber los costos de powerchat Marca Blanca"
+    },
+    "reaction": "",
+    "timestamp": 1722682185,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "04D697E8E7DBC949BE83587941FA0682",
+    "remoteJid": "5491160082245@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722682400,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "701C8084C76209F9BE9730FB0A96D52C",
+    "remoteJid": "5491160082245@s.whatsapp.net",
+    "msgContext": {
+      "text": "Carlos"
+    },
+    "reaction": "",
+    "timestamp": 1722682402,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADD865055882D81A7813EF89181DAFF",
+    "remoteJid": "5491160082245@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que precio"
+    },
+    "reaction": "",
+    "timestamp": 1722682405,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

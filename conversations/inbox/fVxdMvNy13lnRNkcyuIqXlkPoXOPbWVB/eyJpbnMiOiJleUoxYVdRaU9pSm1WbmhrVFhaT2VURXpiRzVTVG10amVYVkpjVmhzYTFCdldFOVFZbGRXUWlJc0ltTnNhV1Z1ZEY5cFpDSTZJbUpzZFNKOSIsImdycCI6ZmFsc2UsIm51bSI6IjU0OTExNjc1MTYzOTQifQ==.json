@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03CAADF6E968C7024AB",
+    "remoteJid": "5491167516394@s.whatsapp.net",
+    "msgContext": {
+      "text": "Holaa👋, como estas? Soy Juan de nuevo jaja, quería saber si viste mi mensajes anteriores👆. Si ya resolviste o no te interesa la información, avisame😁."
+    },
+    "reaction": "",
+    "timestamp": 1722867938,
+    "senderName": "Juan Furtado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DF273671C9DFE238A11F931CD1C9F15F",
+    "remoteJid": "5491167516394@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722871262,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0F7CE4A844FA9A6C5DD5A4D41FA8AF0D",
+    "remoteJid": "5491167516394@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo estaba gastando $100mil por mes"
+    },
+    "reaction": "",
+    "timestamp": 1722871274,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C18C7C7326E5DBB167E0F6A1BE4065E3",
+    "remoteJid": "5491167516394@s.whatsapp.net",
+    "msgContext": {
+      "text": "Masomenos cuánto ahorraría"
+    },
+    "reaction": "",
+    "timestamp": 1722871315,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D31EC22097BC137FEB",
+    "remoteJid": "5491167516394@s.whatsapp.net",
+    "msgContext": {
+      "text": "nuestro minimo es de $200.000"
+    },
+    "reaction": "",
+    "timestamp": 1722873179,
+    "senderName": "Juan Furtado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E3A1E0FA89A72FCDC42C5930078D6B8D",
+    "remoteJid": "5491167516394@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah bien"
+    },
+    "reaction": "",
+    "timestamp": 1722874444,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

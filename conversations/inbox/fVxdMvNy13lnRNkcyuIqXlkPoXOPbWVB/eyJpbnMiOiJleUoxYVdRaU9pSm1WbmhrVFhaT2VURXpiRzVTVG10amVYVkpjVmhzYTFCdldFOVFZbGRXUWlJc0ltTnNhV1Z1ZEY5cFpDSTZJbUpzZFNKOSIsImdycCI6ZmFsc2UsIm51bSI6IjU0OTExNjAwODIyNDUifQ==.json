@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABFEACA5B75DF0D7DCD",
+    "remoteJid": "5491160082245@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola $99 mes"
+    },
+    "reaction": "",
+    "timestamp": 1722865756,
+    "senderName": "Megacom",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

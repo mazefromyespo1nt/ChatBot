@@ -1,0 +1,684 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A63DB334FDD2E592243",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Torneo Osvaldo  + 50\n \" Copa brutus \"\n\n1 Adolfo  Lahorgue - Omar Latorre\n2 Oscar Rosciano -  guillermo castillo\n3 Victor  Costilla  - David Lizarraga\n4  Jorgen Herraez -  Teron \n5  Gustavo ibarra  - Julin \n6  Gustavo Escudero - rodrigo  saicha \n7   ariel Toconas - aldo villafañe \n8 Corcho  ten  -  jorge mocci\n9  Andres Moreno - \n10 ossola - Christian  oliver \n11 javier Miranda- Fabian Romero\n12. Turco - perro\n13. Ale Mohor  - Miguel Caniza\n14  Alberto Ruiz - carlitos \n15 Ramiro Gutierrez - claudio Mohor\n16 Lalo  Montoya -  Guido F\n17\n18\n19\n20"
+    },
+    "reaction": "",
+    "timestamp": 1722692650,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A1C00213405295127BB",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Todo listo para mañana"
+    },
+    "reaction": "",
+    "timestamp": 1722692650,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB444C2C450A8C8D8BA",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "El sorteo ya se realizó \nLos espero mañana a las 9:00 en ciudad padel \nLleven el 🧉, que la organización de los Torneos   Osvaldo  invita  las masas para acompañar el desayuno"
+    },
+    "reaction": "",
+    "timestamp": 1722692651,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A1A223BEF27509F555D",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Enseguida les mando la modalidad  del.torneo"
+    },
+    "reaction": "",
+    "timestamp": 1722692651,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AFDB8A74035433FECBE",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Julio Hector Munoz\nCVU: 0000003100085097103164\nAlias: julinsalta\nCUIT/CUIL: 20216349416\nMercado Pago"
+    },
+    "reaction": "",
+    "timestamp": 1722692651,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB32CDE809D9B220CD9",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Ahí están los datos para los que hacen transferencia"
+    },
+    "reaction": "",
+    "timestamp": 1722692651,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FE0D13E32EA75486555124CC57FD50DC",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-EVblytbA4/?igsh=MWY3MGdoY2N4dHc4MQ=="
+    },
+    "reaction": "",
+    "timestamp": 1722692739,
+    "senderName": "Christian Oliver",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A9D708E4E082498A8A5",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/r/eDjFmhcQUBqnZAvb/?mibextid=J7ZoRX"
+    },
+    "reaction": "",
+    "timestamp": 1722700555,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "13B15E9B0A9718FC954C1A29974AA0B5",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9yoegJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722704521,
+    "senderName": "Ramiro Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "C818B514D39FFA49FB1833A8A8EF3523",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uvOjix.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722704584,
+    "senderName": "francodcrespo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DCB4092E185429BBF62545F5B903F392",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "😂🤣😂🤣"
+    },
+    "reaction": "",
+    "timestamp": 1722704601,
+    "senderName": "David Varas Santander 😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "0A25A5292A5FEF2E0000E0D99EF822DC",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "Necesito 3 players para partido, mando ubicación",
+      "fileName": "Ekhr5c.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722789054,
+    "senderName": "Nicolás Salazar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "loc",
+    "msgId": "D9F1E87DF917FBC05712913923553077",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "lat": 21.2691826,
+      "long": -86.8212084,
+      "name": "",
+      "address": ""
+    },
+    "reaction": "",
+    "timestamp": 1722789069,
+    "senderName": "Nicolás Salazar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CC468413553FFED62B670D9262081B4B",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Sos un bolu, nunca avisas con tiempo. Le dí el día al piloto del jet"
+    },
+    "reaction": "😂",
+    "timestamp": 1722789411,
+    "senderName": "Christian Oliver",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875017424@s.whatsapp.net",
+      "id": "0A25A5292A5FEF2E0000E0D99EF822DC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4FB7C8C29852B7332D324F697D6EAD97",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Juga sólo ahora"
+    },
+    "reaction": "",
+    "timestamp": 1722789422,
+    "senderName": "Christian Oliver",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CB661848B3D4F2ECAAA5E1154A02D280",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Cagate"
+    },
+    "reaction": "",
+    "timestamp": 1722789424,
+    "senderName": "Christian Oliver",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB3F767F632E83841AC",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "En camino"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722789926,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875017424@s.whatsapp.net",
+      "id": "D9F1E87DF917FBC05712913923553077"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "25809C0ABBFA90EC468F82C6DF4D24E6",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Es murcy Nico"
+    },
+    "reaction": "",
+    "timestamp": 1722790855,
+    "senderName": "francodcrespo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4CB3CA6A6EBCE175CFF9F7D4281237BE",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "A que hora ? No se si llego.."
+    },
+    "reaction": "",
+    "timestamp": 1722791162,
+    "senderName": "GUIDO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1266707511E551FAFA7FE2B5ACA06E9A",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Lunes de Pádel Popeye 18 a 20 Hs \n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10"
+    },
+    "reaction": "",
+    "timestamp": 1722796085,
+    "senderName": "Ramiro Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3A128BC87AD7C0668EFD",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "kdDsJr.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722796581,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3A573D8DD3D06D2889E8",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "O707vQ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722796584,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C94EDB103224128CD313102097FF62E6",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Cuando quieras, hasta el martes al mediodía estoy acá. Ya somos 3 argentinos, nos falta 1 nomás 🙏🏻"
+    },
+    "reaction": "",
+    "timestamp": 1722796586,
+    "senderName": "Nicolás Salazar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875718709@s.whatsapp.net",
+      "id": "4CB3CA6A6EBCE175CFF9F7D4281237BE"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9776D90174702C93F3FD70D393673FBD",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Arranca la final de la Rioja \nTolito - Alfonso\nMaxi Arce - Dal Bianco.\nPor ESPN"
+    },
+    "reaction": "",
+    "timestamp": 1722798930,
+    "senderName": "Andres Moreno🇦🇷",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "677A2DFC55EB893FC5C137D0753C7FF8",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "VPovEp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722806903,
+    "senderName": "Ramiro Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "669B5F1565F5642A8F257A86CD87BA1A",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Lunes de Pádel Popeye 18 a 20 Hs \n\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10"
+    },
+    "reaction": "",
+    "timestamp": 1722822531,
+    "senderName": "Ramiro Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AE11DDCBE32124B88DF",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1722822656,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A3B556E75A053D94CFF",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "A las 10, 30 de l mañana tengo q confirmar las canchsb"
+    },
+    "reaction": "",
+    "timestamp": 1722822681,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A074C0B0FB785D16060",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Ya las suspendimos la semana pasada"
+    },
+    "reaction": "",
+    "timestamp": 1722822693,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ACDF3E55192428DBE77",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Vamos a perder el turno"
+    },
+    "reaction": "",
+    "timestamp": 1722822701,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADE6D8A9135A190D2A8",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Si son tan amables de contestar por favor"
+    },
+    "reaction": "",
+    "timestamp": 1722822722,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DD96394760C73703C864250B93B5227D",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Hola fabi. Imposible para mi. Estoy trabajando estos días por el día del niño."
+    },
+    "reaction": "",
+    "timestamp": 1722822759,
+    "senderName": "GUIDO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A8B85F621898D9E54FE",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Yo entiendo a todos"
+    },
+    "reaction": "",
+    "timestamp": 1722822773,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A33C26EC39942913389",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Pero la falta de compromiso para con los q tratamos de mantener el turno es mucho"
+    },
+    "reaction": "",
+    "timestamp": 1722822798,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB148E4511CC89A772E",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Somos 70 y necesitamos 8"
+    },
+    "reaction": "",
+    "timestamp": 1722822808,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A100AE22BA8896CC7AE",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1722822824,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5002F6D222CABF7A9E",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Juegan todos los días !"
+    },
+    "reaction": "",
+    "timestamp": 1722822852,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A9B156A2A9FC45315D3",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Pero los lunes y miércoles no ?"
+    },
+    "reaction": "",
+    "timestamp": 1722822862,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2B58D8884C3113BA3948FF2D2B99A48A",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Buenas, lunes por el momento no puedo"
+    },
+    "reaction": "",
+    "timestamp": 1722823157,
+    "senderName": "David Varas Santander 😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B3E6DEE789DBEEC16F9FC83E815C5F34",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Voy"
+    },
+    "reaction": "",
+    "timestamp": 1722823223,
+    "senderName": "RAMIRO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

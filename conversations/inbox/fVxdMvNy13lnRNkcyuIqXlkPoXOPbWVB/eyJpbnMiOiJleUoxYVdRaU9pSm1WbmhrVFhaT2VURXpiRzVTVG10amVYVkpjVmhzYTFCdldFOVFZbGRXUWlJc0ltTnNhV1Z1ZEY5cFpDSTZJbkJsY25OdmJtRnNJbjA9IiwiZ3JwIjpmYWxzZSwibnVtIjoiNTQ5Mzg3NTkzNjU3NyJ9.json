@@ -1,0 +1,84 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "38223CD8D29369CD369AF7667826CB63",
+    "remoteJid": "5493875936577@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Hola si hoy pasan por la zona  traeme  un fardo de vino y el Sprite de 2.5 L",
+      "fileName": "bnARdx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722683919,
+    "senderName": "Cel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "17E5C1F8B7B355CE22FFEC6E47731CFC",
+    "remoteJid": "5493875936577@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722704959,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBA7AEF4EC4CEC2A904B71881C6DB46F",
+    "remoteJid": "5493875936577@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1722704960,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E50D6D550895C561B07F6ED92D4531CF",
+    "remoteJid": "5493875936577@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le aviso cuando esté por su zona"
+    },
+    "reaction": "",
+    "timestamp": 1722704966,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "524D12DE742C7667F741140BFFAAEAE9",
+    "remoteJid": "5493875936577@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏼"
+    },
+    "reaction": "",
+    "timestamp": 1722710187,
+    "senderName": "Cel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

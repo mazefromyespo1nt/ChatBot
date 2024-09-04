@@ -1,0 +1,296 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "323DF124D6BE7B77DE0194EF51FC448B",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722686209,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6B45FC98A2632C8F636A488A870EF176",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perdón anoche me re dormí temprano"
+    },
+    "reaction": "",
+    "timestamp": 1722686219,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E12C52631EBD2C98FE8EF4A21819E930",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Pau"
+    },
+    "reaction": "",
+    "timestamp": 1722728973,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BD301EBE21F09A24EDB09ABE45DEB247",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que haces"
+    },
+    "reaction": "",
+    "timestamp": 1722728975,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DB50157EEDD7D91B2D1EA66A0EEBC7D1",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1722730179,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FBBDA2E4ABE23D75D8448E7DE4E12B72",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "En casa ahora y vs"
+    },
+    "reaction": "",
+    "timestamp": 1722730183,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F30C018BA84D6FBCAFA812F4EE63F50F",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "También"
+    },
+    "reaction": "",
+    "timestamp": 1722731051,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4C9ADCAD519F3FAA53EA7C83BA33FA07",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hace un rato llegué"
+    },
+    "reaction": "",
+    "timestamp": 1722731065,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ABD5384A042240F1CED23DDDAA00344E",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "A bien y que onda haces algo hoy"
+    },
+    "reaction": "",
+    "timestamp": 1722731223,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AE79E48E01D60B1A93CA2B13D81BD00F",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creo que no"
+    },
+    "reaction": "",
+    "timestamp": 1722732836,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5BD0B70A847DF8F1B202FE6844A943FC",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vos?"
+    },
+    "reaction": "",
+    "timestamp": 1722732839,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA4755FF3D3F0EF8E7E42958261F023F",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mañana me tengo que levantar temprano"
+    },
+    "reaction": "",
+    "timestamp": 1722732851,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "AA5419EE4BF7F86F4F4915A3BAFF0AA0",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aUhLLU.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722733122,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E2D77F5536ABF8C68A7339519D0D9B42",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creo que alma mora"
+    },
+    "reaction": "",
+    "timestamp": 1722733380,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FA1086D0C5FA4925FE19711F45DBDBDC",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y hasta que leí el mensaje compré un don David"
+    },
+    "reaction": "",
+    "timestamp": 1722733507,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3D837E51DD1E8BAF56D5FDB67CC715F0",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo un cumple"
+    },
+    "reaction": "",
+    "timestamp": 1722733513,
+    "senderName": "Pauu",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "5BD0B70A847DF8F1B202FE6844A943FC"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D887E3AE7F7ACDFFC1D2D68583DE2947",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722733835,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "194FA75CEEA061ECE44421278ABADD3D",
+    "remoteJid": "5493874032324@s.whatsapp.net",
+    "msgContext": {
+      "text": "En donde"
+    },
+    "reaction": "",
+    "timestamp": 1722733845,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

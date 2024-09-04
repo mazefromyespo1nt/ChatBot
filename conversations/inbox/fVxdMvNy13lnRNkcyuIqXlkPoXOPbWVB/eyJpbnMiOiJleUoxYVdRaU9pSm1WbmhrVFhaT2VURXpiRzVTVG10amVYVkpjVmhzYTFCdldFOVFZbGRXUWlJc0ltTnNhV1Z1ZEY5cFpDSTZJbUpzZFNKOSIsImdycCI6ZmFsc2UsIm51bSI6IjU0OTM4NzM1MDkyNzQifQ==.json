@@ -1,0 +1,258 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4DCDA4E2E69D2699124A34226AB1708B",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gay"
+    },
+    "reaction": "",
+    "timestamp": 1722865698,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "77B1629C22ECE2E6072FFC56576222CB",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Podés dejar la plata en tres cerritos"
+    },
+    "reaction": "",
+    "timestamp": 1722865707,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01B2E17A3CFFD550C8842B342095A231",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Alfredo está acá"
+    },
+    "reaction": "",
+    "timestamp": 1722865725,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "123100688308F72F709720AF8F06655D",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo capaz que salga dentro de un rato"
+    },
+    "reaction": "",
+    "timestamp": 1722865736,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F637FA3969290A5EB3D704B53FDD561D",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gay"
+    },
+    "reaction": "",
+    "timestamp": 1722867020,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A9D7A24B3863E6120A96E3687FBC6663",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722867026,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BD5E9F17BEED7B9295B015F018531B5F",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy no voy a ir"
+    },
+    "reaction": "",
+    "timestamp": 1722867045,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8A4602C134F82D05340FB6D9849CF628",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1722867182,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE7AFB16F0F18283807EBECF2E1F6690",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier cosa ya aviso que para mañana"
+    },
+    "reaction": "",
+    "timestamp": 1722867209,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "76D77B53EE3B887381C4A33408959A2B",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vos ya saliste??"
+    },
+    "reaction": "",
+    "timestamp": 1722870857,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5E5EF8462615AA6F81861D6B5295E065",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estoy acá"
+    },
+    "reaction": "",
+    "timestamp": 1722871137,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "56501D57DCF2BB8B3A32B00C8758AD31",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Avisame"
+    },
+    "reaction": "",
+    "timestamp": 1722871139,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6830FB3095574B8B6DE06D3AFFEC497",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale ahí voy"
+    },
+    "reaction": "",
+    "timestamp": 1722871149,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C03F27A821396728C4177FFE0C6FA092",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estoy"
+    },
+    "reaction": "",
+    "timestamp": 1722871544,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "795792871BA456E2C867873B1755C242",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya bajo"
+    },
+    "reaction": "",
+    "timestamp": 1722871679,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0514364E69E26CED8DAD14AE87B43985",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1722871757,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

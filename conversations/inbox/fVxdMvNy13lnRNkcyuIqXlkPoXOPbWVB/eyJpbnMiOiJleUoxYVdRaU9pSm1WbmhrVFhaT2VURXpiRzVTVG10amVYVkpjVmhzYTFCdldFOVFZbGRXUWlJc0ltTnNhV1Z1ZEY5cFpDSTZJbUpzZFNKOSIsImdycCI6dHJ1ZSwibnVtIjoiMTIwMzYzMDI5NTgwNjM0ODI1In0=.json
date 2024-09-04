@@ -1,0 +1,230 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B9B0E7A53CAE2AD16FFF98F22163D8C0",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9eUowj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722862288,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "CD3456CFDDD40C3540E0D7FCD9C3665D",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aQiAL8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722862324,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "672D511BB9066B4F3593E560F1AE1360",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ONfNVk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873029,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "36D17D0A9005827D7D1063C86CB473D7",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lYDSXR.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873030,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "FBA9867E0400FAF04AE26DB700580D7D",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "hY1BDZ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "😂",
+    "timestamp": 1722873031,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B5C0018AFC380F91550FEA15B53DC8B2",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "O8zVLT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873031,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "C3786006B5EECDDC0EF653032186D3D9",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "A0qJIR.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873032,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9C7E22B535F6F7AF488D35B38E0EF91E",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0tJaXX.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873033,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E43D350EA19736C56DC881C13ADE1701",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "S6RykC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873033,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "09FB2E93AE8A26388A622CCC2272C574",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AMhBav.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873034,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "0ECFBA8344E399AFC35521AD3BD9904C",
+    "remoteJid": "120363029580634825@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "a3Q96r.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722873035,
+    "senderName": "Mini Mayorista Libertad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

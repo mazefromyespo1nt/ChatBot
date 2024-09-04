@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "0B00F055875BAAE5FE239057A6E0E16C",
+    "remoteJid": "917983647844@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "MTcHqT.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1720881951,
+    "senderName": "Zaid Aashmohammad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

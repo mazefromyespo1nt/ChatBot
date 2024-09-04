@@ -1,0 +1,402 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "63F3EA306BA045EBF511B72E48444AA5",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Recién hace pedido Ana Claudia paredo"
+    },
+    "reaction": "",
+    "timestamp": 1722700477,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "37179C65A14755696639A6F88C41D929",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le voy a decir que ya saliste a su zona"
+    },
+    "reaction": "",
+    "timestamp": 1722700489,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FB46E9F14635FF753D48DBB119BA1972",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya fue"
+    },
+    "reaction": "",
+    "timestamp": 1722700494,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "56B6128A13B8602135680508ED696903",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si recién veo 🤦🏻‍♂️"
+    },
+    "reaction": "",
+    "timestamp": 1722700568,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01F901558FA6A71DB4B096BC4CBD5A13",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si decile que si puede que lo haga temprano al pedido el otro día tmb lo hizo tarde ya había ido para zona sur"
+    },
+    "reaction": "",
+    "timestamp": 1722700591,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25924604A3718250B6F6413C23B1C3F5",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yanina luna quiere agregar un cajón más de salta"
+    },
+    "reaction": "",
+    "timestamp": 1722701108,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "536F26B96D9015D5FBE353457BB4DAB7",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "No hay nadie en Yanina luna"
+    },
+    "reaction": "",
+    "timestamp": 1722719924,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3803A9C1FBD718662F9A1BF8D8623E96",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me recibió"
+    },
+    "reaction": "",
+    "timestamp": 1722720443,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5CF07DAF0885227762FD6016CE529CBF",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale de diez"
+    },
+    "reaction": "",
+    "timestamp": 1722720455,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6334B3A468D51889EAF1FB593C41111F",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Finaliza los pedidos"
+    },
+    "reaction": "",
+    "timestamp": 1722720505,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "476F190587E8920B103EF9F15B90AD69",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya entregué todos los de zona sur este"
+    },
+    "reaction": "",
+    "timestamp": 1722720513,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E9FF01D937C1385555CA0410E1F42868",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gay"
+    },
+    "reaction": "",
+    "timestamp": 1722814121,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2D23A220DA711B4DA879C797A82C8AEE",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vamos a comer algo a la noche con Mariano"
+    },
+    "reaction": "",
+    "timestamp": 1722814166,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "941B8FC68723D67E710F16E0659B8945",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gay"
+    },
+    "reaction": "",
+    "timestamp": 1722814676,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBC9FDE274DE6A3EE24B42AA02EB5970",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te aviso che"
+    },
+    "reaction": "",
+    "timestamp": 1722814681,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4A0724E47FB5797F754B61BA3039DC94",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pasa que mañana viaja la Gisela con la Ariana"
+    },
+    "reaction": "",
+    "timestamp": 1722814699,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "655713DF30635F741F4953CE1BCA1F7F",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y no la voy a ver por 10 días"
+    },
+    "reaction": "",
+    "timestamp": 1722814710,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0CFC7DB3C49EA5980EC6ADEA1CFBC2C2",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah claro"
+    },
+    "reaction": "",
+    "timestamp": 1722814723,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D7DCF482B02EFACD14FA06B0CE40BE3C",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno si tranqui"
+    },
+    "reaction": "",
+    "timestamp": 1722814728,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9D5D78F18F74052180F4D30A5F5C7352",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te aviso si me puedo escapar"
+    },
+    "reaction": "",
+    "timestamp": 1722814728,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "05A306760536F3833314DD41C7B6CFD8",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si tranqui igual"
+    },
+    "reaction": "",
+    "timestamp": 1722814734,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F64BDB41C58AA5D6DAE2FF8A7CE8959B",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Después salón"
+    },
+    "reaction": "",
+    "timestamp": 1722814738,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "19553C0626656382A1C49A7A1AFBCAE8",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1722814740,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE25A9B3ABAD1FEF46C97194780B460C",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno avisa cualquier cosa"
+    },
+    "reaction": "",
+    "timestamp": 1722814747,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D8B872127260113A944AF19C77B9A548",
+    "remoteJid": "5493873509274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuando sepamos bien adonde vamos a ir te aviso"
+    },
+    "reaction": "",
+    "timestamp": 1722814762,
+    "senderName": "Luciano Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

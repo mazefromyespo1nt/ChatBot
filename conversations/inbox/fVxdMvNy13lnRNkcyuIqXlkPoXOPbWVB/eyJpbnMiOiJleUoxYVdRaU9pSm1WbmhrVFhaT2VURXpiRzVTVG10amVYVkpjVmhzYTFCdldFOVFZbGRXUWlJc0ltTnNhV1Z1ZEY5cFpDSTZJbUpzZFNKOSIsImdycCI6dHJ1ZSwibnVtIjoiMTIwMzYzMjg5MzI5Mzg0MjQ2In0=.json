@@ -1,0 +1,530 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "24B1D38FC9CC8E3F6A780E547FB62935",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Qie onda las chocas"
+    },
+    "reaction": "",
+    "timestamp": 1722890087,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C1157162E1AE47BD8C9728D0DC5A7895",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Chicas"
+    },
+    "reaction": "",
+    "timestamp": 1722890090,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "034AB33C8D22CA3B6352B2785F9D2E77",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "No hay gym hoy"
+    },
+    "reaction": "",
+    "timestamp": 1722890095,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "ABEB5C6C3354398D7BFD16D9BF2B0DAC",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Yo nop"
+    },
+    "reaction": "",
+    "timestamp": 1722890435,
+    "senderName": "Gast\"N",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1BD28786871B51F15B4917EF4F9D6E92",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Che hasta cuándo tienen ustedes??"
+    },
+    "reaction": "",
+    "timestamp": 1722890672,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D3E747F91167FBACB90653E79E6A89B8",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "A mí ya se me venció hace como 10 días 😅"
+    },
+    "reaction": "",
+    "timestamp": 1722890683,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DC29C7CDC6373C5DDB9C30A9E6C0A300",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Hasta el 10 yo"
+    },
+    "reaction": "",
+    "timestamp": 1722890696,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B8B0E41FDE2FB2CC2114D67C067AF851",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "No se que van hacer van a seguir"
+    },
+    "reaction": "",
+    "timestamp": 1722890729,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CD4C48BEE8C03917C8269CE8B7A60E58",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "O ya fue"
+    },
+    "reaction": "",
+    "timestamp": 1722890731,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E8EB69688A02F8295CD1B74D5D4C0E58",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "🤣🤣🤣"
+    },
+    "reaction": "",
+    "timestamp": 1722890737,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B263ADCC5E241F62A16824E97FED58C",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Yo creo que no sigo che"
+    },
+    "reaction": "",
+    "timestamp": 1722890901,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C9BA96A3892B244CE9D529EDF7A333B6",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Medio que me aburre el gym"
+    },
+    "reaction": "",
+    "timestamp": 1722890909,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9D2F79317B77C50A5431A69D15F4AB48",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "A menos que pague personalizado para que me dé algo de bola el profe"
+    },
+    "reaction": "",
+    "timestamp": 1722890931,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E041376D5D28FAC906A8A8C26ECE7482",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Hasta que me aprenda todas las rutinas bien"
+    },
+    "reaction": "",
+    "timestamp": 1722890940,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "62B545F7550A3E7E511E62147C90471E",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "O sino funcional.. capaz"
+    },
+    "reaction": "",
+    "timestamp": 1722890952,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B6192681AAFB7B99680CF6B59CF2473A",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Creo que hacen funcional ahi"
+    },
+    "reaction": "",
+    "timestamp": 1722890994,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "18856EA1BDE75CCB852205D22E1D496A",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Pero so. Días especificos"
+    },
+    "reaction": "",
+    "timestamp": 1722891002,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DC182F355E1006D67CB9FC40DA2DE959",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Hay en el complejo hay uno que hace algo parecido al funcional"
+    },
+    "reaction": "",
+    "timestamp": 1722891035,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4C4935D7C22E564494F2B87608620F22",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Claro"
+    },
+    "reaction": "",
+    "timestamp": 1722891119,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A30510FC2D00ADFC84E871A5F51A86F7",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Si yo tengo días específicos y un horario para cumplir no voy a faltar"
+    },
+    "reaction": "",
+    "timestamp": 1722891132,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "621A9CD3424B38600E19BE727E388C4A",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Eso de ir el día que quiero a la hora que quiero no funciona conmigo soy muy pajero 😅"
+    },
+    "reaction": "",
+    "timestamp": 1722891149,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "36CC628F2BADCBA942CF405CB8E7F807",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Si ya me di cuenta"
+    },
+    "reaction": "",
+    "timestamp": 1722891358,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "908EE71C2D0487D48B1B13962B840404",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "La verdad que me ayudo bastante el gym"
+    },
+    "reaction": "",
+    "timestamp": 1722891368,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5CC31CA0C9341EC0FF80623F696C7A4F",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Pero.me da igual si hacemos funcional o balet"
+    },
+    "reaction": "",
+    "timestamp": 1722891383,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "23C575F42779DBC3CCB7109143932644",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Lonque venga"
+    },
+    "reaction": "",
+    "timestamp": 1722891386,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F9F2F0DF7FAA4D9A1E7E1B872A5BF3FA",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Pero tengo que seguir haciendo actividad si no voy a volver a ser el mismo pajero de antes"
+    },
+    "reaction": "",
+    "timestamp": 1722891406,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "71FDD3F4C9D9A82B32F305CA1DCD61CD",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Bueno ja a ver qué opinan los otros mariks"
+    },
+    "reaction": "",
+    "timestamp": 1722891483,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AF7CCF8992FFDEDAB18BD7EE3234AE91",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "30mil"
+    },
+    "reaction": "",
+    "timestamp": 1722891650,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7392D6F2316E77028D050BB587F4D16F",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Era personalizado??"
+    },
+    "reaction": "",
+    "timestamp": 1722891660,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8DA292D85F12DA0B141140E17D46A554",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1722891670,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BA13893C9D606C6ED9325A8FC6ABDE7D",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "Mejor vamos a classe de bachata"
+    },
+    "reaction": "",
+    "timestamp": 1722891685,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C48170FCFC3D92DFC0951D470A9FEE12",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "🤣🤣🤣"
+    },
+    "reaction": "",
+    "timestamp": 1722891688,
+    "senderName": "Gr0n3x",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "978A27CDF92E63391BB26576FFB5D011",
+    "remoteJid": "120363289329384246@g.us",
+    "msgContext": {
+      "text": "De u jaja"
+    },
+    "reaction": "",
+    "timestamp": 1722891691,
+    "senderName": "Efraín",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

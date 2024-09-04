@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5E6436A3715B54AD1C",
+    "remoteJid": "919717224090@s.whatsapp.net",
+    "msgContext": {
+      "text": "Please have a look to the reply of that email"
+    },
+    "reaction": "",
+    "timestamp": 1720798930,
+    "senderName": "hamidsaifi.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8701C236F2EF1D222F",
+    "remoteJid": "919717224090@s.whatsapp.net",
+    "msgContext": {
+      "text": "If you want i can resend the email"
+    },
+    "reaction": "",
+    "timestamp": 1720798936,
+    "senderName": "hamidsaifi.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB2D0E60769F497686F",
+    "remoteJid": "919717224090@s.whatsapp.net",
+    "msgContext": {
+      "text": "Rajat parchcha is the concern staff \nKindly connect him on Monday"
+    },
+    "reaction": "",
+    "timestamp": 1720798974,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8B31C3C6E68009635C",
+    "remoteJid": "919717224090@s.whatsapp.net",
+    "msgContext": {
+      "text": "Does he know abouty concern ?"
+    },
+    "reaction": "",
+    "timestamp": 1720799133,
+    "senderName": "hamidsaifi.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A24FCEE81470F319963",
+    "remoteJid": "919717224090@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yes I have spoken to him only in front of u"
+    },
+    "reaction": "",
+    "timestamp": 1720799167,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

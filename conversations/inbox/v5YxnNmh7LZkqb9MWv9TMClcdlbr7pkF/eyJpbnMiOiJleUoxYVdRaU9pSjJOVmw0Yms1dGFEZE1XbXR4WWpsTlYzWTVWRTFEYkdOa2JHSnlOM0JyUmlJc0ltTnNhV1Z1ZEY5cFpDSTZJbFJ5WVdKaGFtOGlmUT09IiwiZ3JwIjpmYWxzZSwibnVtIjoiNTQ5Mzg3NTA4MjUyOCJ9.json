@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "07302B3DF4F3449E158B3D3C576C6F19",
+    "remoteJid": "5493875082528@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722882687,
+    "senderName": "Pablo Cruz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "07302B3DF4F3449E158B3D3C576C6F19",
+    "remoteJid": "5493875082528@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722882688,
+    "senderName": "Pablo Cruz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB054D88A80DAE9D2D5D8",
+    "remoteJid": "5493875082528@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, aquí tienes las promociones disponibles en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14999.99\n- Dr. Lemon con vodka 12x1lt a $19999.99 (único sabor)\n- Cajón de Coca Cola 8x2.5lt a $15300, comprando más de 3 cajones a $14800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25800\n- 1 cajón de Coca Cola 8x2lt + 1 cajón de Coca Cola 8x1.5lt a $23800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Fanta/Sprite 8x2.5lt a $27800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Salta 10x1.2lt a $33800\n- 1 cajón de Cerveza Salta 10x1.2lt + 1 cajón de Cerveza Quilmes 10x1.2lt a $38500\n\nAdemás, hay ofertas en otros productos como vino, cerveza, papel higiénico, entre otros. Puedes consultar la lista completa de precios en la aplicación Arya en el siguiente enlace: https://arya.ar\n\nRecuerda que ofrecemos envíos gratis por la aplicación Arya para pedidos realizados antes de las 13hs. ¡No dudes en aprovechar estas promociones!"
+    },
+    "reaction": "",
+    "timestamp": 1722900191,
+    "senderName": "Pablo Cruz",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

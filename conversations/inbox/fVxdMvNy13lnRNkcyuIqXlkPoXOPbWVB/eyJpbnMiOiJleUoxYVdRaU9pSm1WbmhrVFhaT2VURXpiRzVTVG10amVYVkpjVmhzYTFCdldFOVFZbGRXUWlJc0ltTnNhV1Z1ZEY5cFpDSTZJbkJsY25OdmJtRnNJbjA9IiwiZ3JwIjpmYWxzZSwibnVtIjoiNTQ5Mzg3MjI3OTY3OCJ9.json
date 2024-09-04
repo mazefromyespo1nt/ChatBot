@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "148604E14EFFC7815CB97726635FEFD4",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1722664933,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5951C6D140009",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! ¿En qué puedo ayudarte hoy? Si necesitas información sobre nuestros productos, promociones o cómo realizar un pedido en nuestra tienda en línea de Arya, ¡no dudes en decírmelo! Estoy aquí para asistirte con cualquier consulta que tengas. ¡Gracias por visitar nuestra tienda en línea en Arya y por confiar en DJ Distribuidora para tus compras al por mayor de bebidas y otros productos! 🛒🥤📱🐶🐱"
+    },
+    "reaction": "",
+    "timestamp": 1722664940,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F8C0DEC8127AB452C3B261A7059DE220",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722664940,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5382EC77FBFE4",
+    "remoteJid": "5493872279678@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡De nada! Si necesitas más información, deseas realizar un pedido o tienes alguna otra consulta, ¡no dudes en contactarnos! Estamos aquí para ayudarte en lo que necesites. ¡Gracias por visitar DJ Distribuidora y por confiar en nosotros para tus compras al por mayor de bebidas y otros productos! 🛒🥤📱"
+    },
+    "reaction": "",
+    "timestamp": 1722664946,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

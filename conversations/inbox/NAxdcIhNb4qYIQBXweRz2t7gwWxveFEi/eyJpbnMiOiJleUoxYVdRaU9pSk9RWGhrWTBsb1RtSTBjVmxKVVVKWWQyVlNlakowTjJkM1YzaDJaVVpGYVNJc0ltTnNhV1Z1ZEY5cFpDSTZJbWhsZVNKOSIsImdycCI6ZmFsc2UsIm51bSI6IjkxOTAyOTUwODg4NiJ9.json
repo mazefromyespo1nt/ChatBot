@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D8274CF03CED8498F6A9C6BBE8372F0A",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sat nyt ana padega na"
+    },
+    "reaction": "",
+    "timestamp": 1718025844,
+    "senderName": "Harshita Shah",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA055C2C95C294B6C4F",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "Call me"
+    },
+    "reaction": "",
+    "timestamp": 1718026204,
+    "senderName": "hamidsaifi.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "98A6A84DFAE05104BD2E7ED66F1EEBA9",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "10 mins m?"
+    },
+    "reaction": "",
+    "timestamp": 1718026254,
+    "senderName": "Harshita Shah",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C39783555964EA084D0A96EBEC5ECCA9",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "Awaz nhi aa rahi thi"
+    },
+    "reaction": "",
+    "timestamp": 1718029217,
+    "senderName": "Harshita Shah",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "07DB862B2BBB89CBB5EFDD8E1A4579A8",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "Isliye cut kiya.."
+    },
+    "reaction": "",
+    "timestamp": 1718029223,
+    "senderName": "Harshita Shah",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2949ED540C4A0B992E19519DD0889090",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "Wahi bat krni thi bas"
+    },
+    "reaction": "",
+    "timestamp": 1718029228,
+    "senderName": "Harshita Shah",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A67DB3609B7818CB0BF",
+    "remoteJid": "919029508886@s.whatsapp.net",
+    "msgContext": {
+      "text": "Okay"
+    },
+    "reaction": "",
+    "timestamp": 1718029729,
+    "senderName": "hamidsaifi.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F58A1455ED342443C8756F4942B7FE35",
+    "remoteJid": "918505921457@s.whatsapp.net",
+    "msgContext": {
+      "text": "Wow"
+    },
+    "reaction": "",
+    "timestamp": 1718272058,
+    "senderName": "Irshad Malik",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "919690309316@s.whatsapp.net",
+      "id": "3ABECB8F5935D9AA9E5B"
+    }
+  }
+]

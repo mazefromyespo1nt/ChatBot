@@ -1,0 +1,68 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A5C466F9CF38FBBDD2BB595745986CE9",
+    "remoteJid": "5493874026650@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722700507,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E47B3CC42EC0926BF61A0251FEE66637",
+    "remoteJid": "5493874026650@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpe, hace media hora ya había salido el chófer a su zona"
+    },
+    "reaction": "",
+    "timestamp": 1722700517,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C43CE393193E6B7224C5241B37DC9CD2",
+    "remoteJid": "5493874026650@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya no vuelve, disculpe"
+    },
+    "reaction": "",
+    "timestamp": 1722700527,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "C75AE3217264AD08B1916336BC389D3D",
+    "remoteJid": "5493874026650@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "rb0QNk.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722703489,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

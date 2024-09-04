@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A5AD4C2270F9015BE9F141F45E1FDB25",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen dia podes mandarme 1 quilmes 1 salta  1.2  al pasaje  milagro 1537 barrio municipal"
+    },
+    "reaction": "",
+    "timestamp": 1722862097,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1B9681CE295B15DE4DA13242ADF7C2F5",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me podes mandar hoy"
+    },
+    "reaction": "",
+    "timestamp": 1722881599,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "563D57E31B0928D34F43BD84EB531B89",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722882013,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C84575CB0CBF246F685870CC557F31F2",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para mañana le podemos llevar"
+    },
+    "reaction": "",
+    "timestamp": 1722882019,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2E2BCA6C0346EC8907CD2567C1CEFDA9",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "No hay forma hoy"
+    },
+    "reaction": "",
+    "timestamp": 1722882247,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7C3C699C7FEA3C08B2E48175BD69D889",
+    "remoteJid": "5493875331053@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puede ser temprano o durante la mañana"
+    },
+    "reaction": "",
+    "timestamp": 1722882276,
+    "senderName": "Andrea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

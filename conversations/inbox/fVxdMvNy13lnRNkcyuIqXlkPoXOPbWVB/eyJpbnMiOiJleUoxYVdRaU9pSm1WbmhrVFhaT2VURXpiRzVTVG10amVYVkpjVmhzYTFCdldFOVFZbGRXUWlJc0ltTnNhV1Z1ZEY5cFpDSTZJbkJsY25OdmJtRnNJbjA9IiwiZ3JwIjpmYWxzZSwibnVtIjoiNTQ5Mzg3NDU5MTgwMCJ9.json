@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2E0FD9D73B7025B429ED4DB9D316169A",
+    "remoteJid": "5493874591800@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, a que precio tiene a caja de balbo y el cajón salta 1,2 ?"
+    },
+    "reaction": "",
+    "timestamp": 1722702856,
+    "senderName": "Andrea Salvatierra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1CD488A6C453E1360DBCC2AA98360DFF",
+    "remoteJid": "5493874591800@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722703769,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "59F4FBB17C54250B8F2D690354660353",
+    "remoteJid": "5493874591800@s.whatsapp.net",
+    "msgContext": {
+      "text": "$19000 salta 1.2lt\n$13000 viñas de balbo"
+    },
+    "reaction": "",
+    "timestamp": 1722703782,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DE6C5829FEF02CAE67EB4FBC2290957E",
+    "remoteJid": "5493874591800@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si le hago pedido ahora ,cuando podría enviarme ?"
+    },
+    "reaction": "",
+    "timestamp": 1722713310,
+    "senderName": "Andrea Salvatierra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

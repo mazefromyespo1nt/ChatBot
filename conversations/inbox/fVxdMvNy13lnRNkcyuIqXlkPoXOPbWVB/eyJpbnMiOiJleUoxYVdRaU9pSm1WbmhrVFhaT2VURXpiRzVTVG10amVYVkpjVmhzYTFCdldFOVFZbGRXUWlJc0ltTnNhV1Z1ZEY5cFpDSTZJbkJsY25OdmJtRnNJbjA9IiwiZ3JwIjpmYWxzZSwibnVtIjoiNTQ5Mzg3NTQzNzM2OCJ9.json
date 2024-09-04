@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8241933D186F7C2ED287E1C7C6F96C9E",
+    "remoteJid": "5493875437368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola tenes papel higiénico disponible ?"
+    },
+    "reaction": "",
+    "timestamp": 1722692304,
+    "senderName": "Sil",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

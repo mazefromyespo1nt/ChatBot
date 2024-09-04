@@ -1,0 +1,342 @@
+[
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB0B251B895A3AB28BD05",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Products_20240803_20240803.pdf",
+      "fileName": "smkAlO.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1722666008,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "6CE0135942704EAFE9414DB66783C234",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "r8B9cT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722689735,
+    "senderName": "jhonny Duran",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "D1B6477409596979F52746CDC554224A",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "UMb6P2.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722700601,
+    "senderName": "jhonny Duran",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "B53CA5811F0E10CF1C43D155A86A35E2",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9b47Ox.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722703728,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "CEF082D66E74D29C189483EFCA533A7A",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "z2xoxp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722703728,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "589CEF656410B355F835231A3BA0A449",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te sobra coca y Salta"
+    },
+    "reaction": "",
+    "timestamp": 1722703739,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "48799DC81735B322C569200A0CB6A74D",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es ese de floresta que a veces viene"
+    },
+    "reaction": "",
+    "timestamp": 1722703749,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C15CF6FE16DE605F875D0A664542727C",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vos le llevabas en moto"
+    },
+    "reaction": "",
+    "timestamp": 1722703756,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "268D6D5647DACF0DE89357A3F192EE17",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HEWSai.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722713459,
+    "senderName": "jhonny Duran",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "D17C6146246B0374FC2D8861232F56BC",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "1zRjCM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722714021,
+    "senderName": "jhonny Duran",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "433D0E9EF70FA0E0DDEAC86D2D48BC15",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Donde es"
+    },
+    "reaction": "",
+    "timestamp": 1722714227,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5493875061857@s.whatsapp.net",
+      "id": "D17C6146246B0374FC2D8861232F56BC"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D4B7B875EB434D50E4AEBBBE3CC90281",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "La señora de la 20 de febrero"
+    },
+    "reaction": "",
+    "timestamp": 1722714313,
+    "senderName": "jhonny Duran",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2BD8834C68FDF9C605A9697EB1E988AB",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que era el pedido de viveros"
+    },
+    "reaction": "",
+    "timestamp": 1722722438,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A17EDCE1C76ED3DB847E69E51F0A8C5",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "No me acuerdo de quién mas era"
+    },
+    "reaction": "",
+    "timestamp": 1722722472,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D5AC3033922A1C576C6356A49FE305F2",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "No facturaste"
+    },
+    "reaction": "",
+    "timestamp": 1722722477,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BFCD1E31EF08AC5AF6A3E937A7AB2A2B",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "$20300 me hizo transferencia Gisela Belén"
+    },
+    "reaction": "",
+    "timestamp": 1722726360,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B35FFA09DBC62E1CE50818C9D06633F5",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está bien?"
+    },
+    "reaction": "",
+    "timestamp": 1722726363,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6A07CBDCA1AF846426C5F389FDF81C55",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tenés que pedirle ahí nomás el comprobante xq se estaba haciendo la viva"
+    },
+    "reaction": "",
+    "timestamp": 1722726383,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6133113E5CA9560044643F84BD9DC19",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me estaba pasando de menos"
+    },
+    "reaction": "",
+    "timestamp": 1722726409,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A3F89847E7285660AD23ABFBFD216156",
+    "remoteJid": "5493875061857@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si está bien"
+    },
+    "reaction": "",
+    "timestamp": 1722732259,
+    "senderName": "jhonny Duran",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DB57CDB7D0447C4C35BAD771E15E96D2",
+    "remoteJid": "5493876514810-1629144533@g.us",
+    "msgContext": {
+      "text": "https://vm.tiktok.com/ZMrXgy4P9/"
+    },
+    "reaction": "",
+    "timestamp": 1722714187,
+    "senderName": "Maxi Casasola",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6386C23E0BD9E62A8030D063E93608EF",
+    "remoteJid": "5493876514810-1629144533@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-ONxd6x9gf/?igsh=MXNkdGhhZGNqYXlj"
+    },
+    "reaction": "",
+    "timestamp": 1722720084,
+    "senderName": "Maxi Casasola",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

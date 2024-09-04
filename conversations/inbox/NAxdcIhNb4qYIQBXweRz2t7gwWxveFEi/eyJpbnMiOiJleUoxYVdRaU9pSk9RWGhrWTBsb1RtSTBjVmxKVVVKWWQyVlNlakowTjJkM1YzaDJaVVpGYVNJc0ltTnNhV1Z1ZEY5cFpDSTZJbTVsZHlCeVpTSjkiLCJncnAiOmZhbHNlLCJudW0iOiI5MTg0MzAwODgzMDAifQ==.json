@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08CADB61AD2FC2C835B",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": ".a"
+    },
+    "reaction": "",
+    "timestamp": 1718270084,
+    "senderName": "codeyon.com",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CFD077961B0871C661",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "ola"
+    },
+    "reaction": "",
+    "timestamp": 1718270088,
+    "senderName": "codeyon.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

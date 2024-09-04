@@ -1,0 +1,44 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "222BBAD9D7E415B695",
+    "remoteJid": "918018801808@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CVq2LD.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722889251,
+    "senderName": "TechKaka",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "CC8554BA08B1CA820B",
+    "remoteJid": "918018801808@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fjy2lg.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1722889257,
+    "senderName": "TechKaka",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

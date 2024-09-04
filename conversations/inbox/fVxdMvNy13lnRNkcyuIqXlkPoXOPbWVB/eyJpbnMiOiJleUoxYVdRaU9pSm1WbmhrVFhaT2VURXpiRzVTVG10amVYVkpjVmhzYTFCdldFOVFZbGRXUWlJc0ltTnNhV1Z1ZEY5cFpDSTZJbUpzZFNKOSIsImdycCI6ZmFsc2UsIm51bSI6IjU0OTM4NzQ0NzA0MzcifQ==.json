@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FF5BE83D639D5902E1E8C231AD61654A",
+    "remoteJid": "5493874470437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola amigo"
+    },
+    "reaction": "",
+    "timestamp": 1722861661,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E36A70C5762B16B66F4250DFFA89BE60",
+    "remoteJid": "5493874470437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como estás"
+    },
+    "reaction": "",
+    "timestamp": 1722861664,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2994F1A2012D99459DDFF6E6EC32B20A",
+    "remoteJid": "5493874470437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que precio la secco"
+    },
+    "reaction": "",
+    "timestamp": 1722861668,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D8A4F57C8CE39F1DA957C20F2C155FCD",
+    "remoteJid": "5493874470437@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas pa ya consulto y le paso"
+    },
+    "reaction": "",
+    "timestamp": 1722867182,
+    "senderName": "Teo Chaile",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

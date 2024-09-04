@@ -1,0 +1,210 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F4E6F2FB3627BDF09432BEF48951E319",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "lo estoy yamado"
+    },
+    "reaction": "",
+    "timestamp": 1722899778,
+    "senderName": "José morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D9293181B17FCA9BEF1E573FFAC90235",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "por un pedido"
+    },
+    "reaction": "",
+    "timestamp": 1722899794,
+    "senderName": "José morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09B71FF3E7D9F2CBD1C",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "buenas, no puedo atender ahora"
+    },
+    "reaction": "",
+    "timestamp": 1722899867,
+    "senderName": "José morales",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0206893454172161FC3",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "dejeme por aca su pedido"
+    },
+    "reaction": "",
+    "timestamp": 1722899875,
+    "senderName": "José morales",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01E597F5F5F7279FA35",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "apenas pueda lo facturo"
+    },
+    "reaction": "",
+    "timestamp": 1722899880,
+    "senderName": "José morales",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AEBF699AFE3CD066CC5DBB076E4BAB06",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "es por transferencia"
+    },
+    "reaction": "",
+    "timestamp": 1722899896,
+    "senderName": "José morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C8F252B0EDFC57403FB1CB4BA69D7130",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "cuando puedas yamame"
+    },
+    "reaction": "",
+    "timestamp": 1722899926,
+    "senderName": "José morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02167D667993CDE6E2B",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "le paso el numero de mi viejo"
+    },
+    "reaction": "",
+    "timestamp": 1722899980,
+    "senderName": "José morales",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01A0CC8659098A49C67FCBBA71C8EEBE",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "si xf"
+    },
+    "reaction": "",
+    "timestamp": 1722900001,
+    "senderName": "José morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01501C33F3EB2930FA9",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "3875061857"
+    },
+    "reaction": "",
+    "timestamp": 1722900008,
+    "senderName": "José morales",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02C86FD1DE5D4CCF275",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "le paso los alias para las transferencias"
+    },
+    "reaction": "",
+    "timestamp": 1722900029,
+    "senderName": "José morales",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F5A11B4101802C8644",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "dj.dis"
+    },
+    "reaction": "",
+    "timestamp": 1722900036,
+    "senderName": "José morales",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0733F56B933715D2CDA",
+    "remoteJid": "5493875221548@s.whatsapp.net",
+    "msgContext": {
+      "text": "a nombre de carlos alberto duran"
+    },
+    "reaction": "",
+    "timestamp": 1722900043,
+    "senderName": "José morales",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

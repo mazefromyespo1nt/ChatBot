@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "7FE8E1257D93E489C347F344BEB354AD",
+    "remoteJid": "919837637149@s.whatsapp.net",
+    "msgContext": {
+      "caption": "1 july से लगा यह कानून खौफनाक",
+      "fileName": "N8wowW.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1720792238,
+    "senderName": "Hh",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A633642F6FF4F8525222ABFD2B9B50E8",
+    "remoteJid": "919837637149@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/r/1yckb6Q4gsrXPzpk/?mibextid=0VwfS7"
+    },
+    "reaction": "",
+    "timestamp": 1720858485,
+    "senderName": "Hh",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,84 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "E0374F82B7D8A53C8398FF713E6BCDE6",
+    "remoteJid": "5493874190331@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uRoXgQ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722708233,
+    "senderName": "acunagabriela010",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "959AD64E7E1BB658A8E5705E15A5EDE1",
+    "remoteJid": "5493874190331@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gaby"
+    },
+    "reaction": "",
+    "timestamp": 1722708261,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8CB62128B23604E98430859C2C1EFAF8",
+    "remoteJid": "5493874190331@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722708262,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D871AFD779E1BBF8312A468B683D8CAF",
+    "remoteJid": "5493874190331@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gaby"
+    },
+    "reaction": "",
+    "timestamp": 1722726327,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "513A91BE39280C36703DF2C1EC23FCAC",
+    "remoteJid": "5493874190331@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me queda un pedido más y voy"
+    },
+    "reaction": "",
+    "timestamp": 1722726335,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

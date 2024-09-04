@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01825CACE6A55D3A567",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "hi"
+    },
+    "reaction": "",
+    "timestamp": 1722901684,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6A16C54875A1A851CEC6A7B065983639",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello"
+    },
+    "reaction": "",
+    "timestamp": 1722901705,
+    "senderName": "Codeseller",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07CE42594BC1CFFEA05",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "I'm interested in foodappi"
+    },
+    "reaction": "",
+    "timestamp": 1722901718,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DC5E47A21B0580BB97FC7A8550EF33CF",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "Let me know if you have aby questions"
+    },
+    "reaction": "",
+    "timestamp": 1722901739,
+    "senderName": "Codeseller",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0938EE80698BBC612F0",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "If I buy it, could you help me install it?"
+    },
+    "reaction": "",
+    "timestamp": 1722901744,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7278D02535F54C29DB5715CC29CF570C",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "We take $50 fee for installation"
+    },
+    "reaction": "",
+    "timestamp": 1722901760,
+    "senderName": "Codeseller",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FD6015FE59AA720164",
+    "remoteJid": "37253123341@s.whatsapp.net",
+    "msgContext": {
+      "text": "ok"
+    },
+    "reaction": "",
+    "timestamp": 1722901769,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

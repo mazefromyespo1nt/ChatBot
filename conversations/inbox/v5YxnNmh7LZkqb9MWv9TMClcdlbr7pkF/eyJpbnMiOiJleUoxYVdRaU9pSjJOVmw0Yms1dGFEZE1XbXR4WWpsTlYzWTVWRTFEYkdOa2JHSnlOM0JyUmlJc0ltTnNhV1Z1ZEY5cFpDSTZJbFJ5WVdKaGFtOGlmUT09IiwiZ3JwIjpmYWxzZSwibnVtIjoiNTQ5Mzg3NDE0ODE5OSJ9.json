@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F01D80EFAB864F303B147613AA1E51B6",
+    "remoteJid": "5493874148199@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722792076,
+    "senderName": "Walter Lopez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5B739A6B3F209",
+    "remoteJid": "5493874148199@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, te paso las promociones disponibles en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14999.99\n- Dr. Lemon con Vodka 12x1lt a $19999.99 (único sabor)\n- Cajón de Coca Cola 8x2.5lt a $15300, comprando más de 3 cajones a $14800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25800\n- 1 cajón de Coca Cola 8x2lt + 1 cajón de Coca Cola 8x1.5lt a $23800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Fanta/Sprite 8x2.5lt a $27800\n- 1 cajón de Cerveza Salta 10x1.2lt + 1 cajón de Cerveza Quilmes 10x1.2lt a $38500\n\nAdemás, hay ofertas en otros productos como vino, cerveza, papel higiénico y más. ¡No dudes en aprovechar estas promociones! ¿Te interesa alguna en particular?"
+    },
+    "reaction": "",
+    "timestamp": 1722792086,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D43151242CAA8C42EE4E3C51EE2332E0",
+    "remoteJid": "5493874148199@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenas , recién tarjeta de crédito naranja ?"
+    },
+    "reaction": "",
+    "timestamp": 1722792089,
+    "senderName": "Walter Lopez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE58FF874C1851F",
+    "remoteJid": "5493874148199@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Sí, aceptamos pagos con tarjeta de crédito Naranja en DJ Distribuidora. Puedes realizar tu compra en nuestra tienda online https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2 y seleccionar la opción de pago con tarjeta de crédito al finalizar tu pedido. Ten en cuenta que hay un recargo del 15% por pagos con tarjeta de crédito. Si necesitas ayuda con el proceso de compra, no dudes en consultarme. ¡Estoy aquí para ayudarte!"
+    },
+    "reaction": "",
+    "timestamp": 1722792096,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

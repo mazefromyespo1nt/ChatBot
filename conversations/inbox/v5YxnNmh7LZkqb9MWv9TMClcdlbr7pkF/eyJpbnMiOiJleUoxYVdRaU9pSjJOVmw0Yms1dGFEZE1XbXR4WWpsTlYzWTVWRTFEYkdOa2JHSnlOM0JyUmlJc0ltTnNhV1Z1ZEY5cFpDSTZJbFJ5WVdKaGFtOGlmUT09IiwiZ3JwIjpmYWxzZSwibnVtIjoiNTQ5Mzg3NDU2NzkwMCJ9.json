@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8F0AD78A5B87104E133A36E5E0E0159E",
+    "remoteJid": "5493874567900@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches solo x mayor?"
+    },
+    "reaction": "",
+    "timestamp": 1722908028,
+    "senderName": "..Ariel..",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

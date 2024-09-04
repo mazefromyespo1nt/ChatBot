@@ -1,0 +1,345 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "271C570E999B1EE5625AB21D6ADCEA79",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Baileys provider o wppconnect, puedes utilizar BuilderBot para hacer los flujos"
+    },
+    "reaction": "👍",
+    "timestamp": 1722851531,
+    "senderName": "Simon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59895638191@s.whatsapp.net",
+      "id": "3AA75A376F5912387FD0"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "36EB6DAA2BBD63DF3DF5648E6050DC96",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Ya lo tiene desarrollado?"
+    },
+    "reaction": "",
+    "timestamp": 1722859457,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34641125379@s.whatsapp.net",
+      "id": "271C570E999B1EE5625AB21D6ADCEA79"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "648F76C0760EC6931B17351881939AF6",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Hola, puedes explicar en ke consiste la api, y como funciona?"
+    },
+    "reaction": "",
+    "timestamp": 1722860024,
+    "senderName": "lacero.uno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573164602376@s.whatsapp.net",
+      "id": "1B8FF255407CADEEA2"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8FD1B90B35E0B3DBD18EB5483D9A4C04",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Casi prácticamente"
+    },
+    "reaction": "🙌🏼",
+    "timestamp": 1722864364,
+    "senderName": "Simon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573164602376@s.whatsapp.net",
+      "id": "36EB6DAA2BBD63DF3DF5648E6050DC96"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "05F88E3C5D2401829DEE91A83BDA9451",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Luego le envío para que lo pruebe"
+    },
+    "reaction": "",
+    "timestamp": 1722864379,
+    "senderName": "Simon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34641125379@s.whatsapp.net",
+      "id": "8FD1B90B35E0B3DBD18EB5483D9A4C04"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3564BC780BEAA37136",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "consiste en que puedes hacer tu chatbot con código usando Python, PHP o Node js o usar los endpoints mediante llamada http para manipular la api... \n\n\nse pueden enviar stickers ,  guardar automáticamente toda la multimedia del WhatsApp y genera link para manipularla , queda guardada la multimedia solo 30 días en el server\n\nes muy estable permite manipular el catalogo de WhatsApp , crear comunidades ,  grupos ,  mención a todos , colocar etiquetas en WhatsApp bussines , fijar mensajes  y mas..."
+    },
+    "reaction": "",
+    "timestamp": 1722864527,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34641109934@s.whatsapp.net",
+      "id": "648F76C0760EC6931B17351881939AF6"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1654391372776BC96F0FB7C627EB031F",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Es posible crear catálogos de forma masiva con un listado de pdtos en un sheet."
+    },
+    "reaction": "",
+    "timestamp": 1722865074,
+    "senderName": "lacero.uno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573164602376@s.whatsapp.net",
+      "id": "3564BC780BEAA37136"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4E42A5F1F16157716A",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "si claro lo puede hacer en n8n sin problemas... puede crear o eliminar productos también"
+    },
+    "reaction": "",
+    "timestamp": 1722865102,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34641109934@s.whatsapp.net",
+      "id": "1654391372776BC96F0FB7C627EB031F"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7B5B549C241B31861A020A4D1B3C788C",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Ke tipo de conocimientos se necesitan?"
+    },
+    "reaction": "",
+    "timestamp": 1722865217,
+    "senderName": "lacero.uno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573164602376@s.whatsapp.net",
+      "id": "4E42A5F1F16157716A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "695545EB6154575791",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "exactamente a que se refiere ?"
+    },
+    "reaction": "",
+    "timestamp": 1722865582,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34641109934@s.whatsapp.net",
+      "id": "7B5B549C241B31861A020A4D1B3C788C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FC4A05D0DB473C2953",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "tambien se puede iniciar sesión con código qr o mediante  una notificación de WhatsApp y escribiendo el código"
+    },
+    "reaction": "",
+    "timestamp": 1722865613,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573164602376@s.whatsapp.net",
+      "id": "3564BC780BEAA37136"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6DE75EA39A70AC326F48830A91785AF9",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Hay alguna interfaz para poder cargar los pdtos masivamente."
+    },
+    "reaction": "",
+    "timestamp": 1722865619,
+    "senderName": "lacero.uno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FA68577E060D062677F3A095A5FBB64E",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "O todo con n8n"
+    },
+    "reaction": "",
+    "timestamp": 1722865629,
+    "senderName": "lacero.uno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EEC7CB0F073869FF5D",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "claro todo con n8n.. ya usted lo desarrolla..."
+    },
+    "reaction": "",
+    "timestamp": 1722865645,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34641109934@s.whatsapp.net",
+      "id": "FA68577E060D062677F3A095A5FBB64E"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "756D69D250F7A6A24A",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "y la sesión no es en Google Chrome como en casi todas las apis… usa navegadores como safari de mac os , entre otros mas"
+    },
+    "reaction": "",
+    "timestamp": 1722865695,
+    "senderName": "Máxima Gestión Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573164602376@s.whatsapp.net",
+      "id": "FC4A05D0DB473C2953"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "753B63270BE47391F9",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Disculpen quye me haya desaparecido el fin de msenaa. Pero aun estoy con la necesidad del apoyo :) Tuve un tema y me aleje de los electronicos"
+    },
+    "reaction": "",
+    "timestamp": 1722879197,
+    "senderName": "Isaahck Matus",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6574D6CECA8FF66EF7",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "si aun quieres, puedes, mandame un mensajes, para hacer video llamada. Necesito configurar correctamente mis 2 instancias de docker, con portainer."
+    },
+    "reaction": "",
+    "timestamp": 1722879494,
+    "senderName": "Isaahck Matus",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A878E5ABDBB6B893E79",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Hola compañeros"
+    },
+    "reaction": "",
+    "timestamp": 1722913915,
+    "senderName": "Isaias Herrera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A2785FB3A05E8001F59",
+    "remoteJid": "120363150353486693@g.us",
+    "msgContext": {
+      "text": "Alguno ha instalado en estos días el baserow"
+    },
+    "reaction": "",
+    "timestamp": 1722913916,
+    "senderName": "Isaias Herrera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

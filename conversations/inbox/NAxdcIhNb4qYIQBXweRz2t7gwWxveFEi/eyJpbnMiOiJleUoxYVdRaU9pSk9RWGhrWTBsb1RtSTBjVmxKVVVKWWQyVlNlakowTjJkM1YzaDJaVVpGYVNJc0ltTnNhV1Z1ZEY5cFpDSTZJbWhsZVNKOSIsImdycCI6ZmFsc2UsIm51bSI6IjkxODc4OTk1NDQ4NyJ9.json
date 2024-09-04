@@ -1,0 +1,21 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3A9DF6C6C5077E5DA8",
+    "remoteJid": "918789954487@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bhai yhi ncr me h to class de dia kr fee le lena 🙏🏻"
+    },
+    "reaction": "😂",
+    "timestamp": 1717763811,
+    "senderName": "hamidsaifi.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "918789954487@s.whatsapp.net",
+      "id": "65BE006745C24E0567842310E26D08B9"
+    }
+  }
+]

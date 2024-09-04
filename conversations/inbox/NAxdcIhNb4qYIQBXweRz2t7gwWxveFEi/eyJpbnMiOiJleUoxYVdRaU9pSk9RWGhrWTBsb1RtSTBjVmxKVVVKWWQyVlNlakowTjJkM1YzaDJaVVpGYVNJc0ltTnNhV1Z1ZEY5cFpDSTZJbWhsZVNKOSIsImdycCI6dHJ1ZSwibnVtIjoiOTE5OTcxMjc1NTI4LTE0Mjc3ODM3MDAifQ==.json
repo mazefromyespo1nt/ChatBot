@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "67FAF3F5DC16D6D23CE53E7F122BBD27",
+    "remoteJid": "919971275528-1427783700@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/reel/25534733369507698?mibextid=FsRMYhg12H5JuPBo"
+    },
+    "reaction": "",
+    "timestamp": 1717168831,
+    "senderName": "Fakhruddin Saifi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EE1E062475ABEFA7F393023138EF499A",
+    "remoteJid": "5493872105876@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola los precios de la publicación de Facebook son por unidad? Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722812413,
+    "senderName": "Toro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5D92E2432BF43",
+    "remoteJid": "5493872105876@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Los precios de la publicación en Facebook son por unidad. Si estás interesado en realizar una compra, te invito a visitar nuestra tienda en línea en https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2 para ver más detalles sobre los productos y realizar tu pedido. ¡Gracias por tu interés! ¡Estamos aquí para ayudarte en lo que necesites!"
+    },
+    "reaction": "",
+    "timestamp": 1722812421,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3BB528CA65B3578007639F599A5B161E",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Primoo"
+    },
+    "reaction": "",
+    "timestamp": 1722728005,
+    "senderName": "Eduardo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "18E359D7F5CA4A36092910D571FE5BB2",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q ondaa.. avísame si salimos así no hago planes..."
+    },
+    "reaction": "",
+    "timestamp": 1722728021,
+    "senderName": "Eduardo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "56A4FBDBA396A246A04DAB6BE473ABFE",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Primo"
+    },
+    "reaction": "",
+    "timestamp": 1722728742,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AA018376642FE80236E1E42905ED4E62",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Recién llego"
+    },
+    "reaction": "",
+    "timestamp": 1722728744,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "52C8A81D41CDE60B9E5E8A8BAFCED000",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cansado chd"
+    },
+    "reaction": "",
+    "timestamp": 1722728749,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F2B962FBA480D1299C5BC04B9420EA34",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creo que no salgo"
+    },
+    "reaction": "",
+    "timestamp": 1722728754,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4061C026A5510871C5D8CDDC1E0CEC56",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aparte la Gisela viaja el lunes y mañana quiero estar con mi bebé todo el día"
+    },
+    "reaction": "",
+    "timestamp": 1722728771,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F07E8DE19E01BAB6F9B4E4BC0F042814",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ha está bien primo no hay problema...lo dejamos para el otro finde ..."
+    },
+    "reaction": "",
+    "timestamp": 1722728857,
+    "senderName": "Eduardo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9CBB1659796DDE8B7C33FC93E87775DD",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si querés te doy unos cuantos free"
+    },
+    "reaction": "",
+    "timestamp": 1722728941,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E877B6DC8498AA356F4BBB2EABFFC5DF",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Avísame"
+    },
+    "reaction": "",
+    "timestamp": 1722728943,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6A258C661C5987571D8A98338C3E953",
+    "remoteJid": "5493875211056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ha dale dale.te aviso ..."
+    },
+    "reaction": "",
+    "timestamp": 1722729028,
+    "senderName": "Eduardo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

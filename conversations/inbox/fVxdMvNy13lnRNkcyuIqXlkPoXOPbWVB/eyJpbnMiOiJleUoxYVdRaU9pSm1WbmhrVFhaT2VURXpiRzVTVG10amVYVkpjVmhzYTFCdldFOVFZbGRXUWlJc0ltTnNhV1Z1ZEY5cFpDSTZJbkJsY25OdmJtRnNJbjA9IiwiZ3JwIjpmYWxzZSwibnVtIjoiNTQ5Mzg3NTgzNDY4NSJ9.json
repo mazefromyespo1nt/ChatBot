@@ -1,0 +1,119 @@
+[
+  {
+    "group": false,
+    "type": "loc",
+    "msgId": "D381544AAEA1430531B22819F1E463F0",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "lat": -24.7614995,
+      "long": -65.4060178,
+      "name": "",
+      "address": ""
+    },
+    "reaction": "",
+    "timestamp": 1722711068,
+    "senderName": "Jose Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "77AC7AD6A2814D869FE6DF8721B8F15A",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "snUPyf.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722711074,
+    "senderName": "Jose Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4FF7AB693FA74A892F722868BC3CE9DD",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gay"
+    },
+    "reaction": "",
+    "timestamp": 1722711460,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9BE5BA9198882E1492A4E47DE7CE5784",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy es el cumple del papá de la Gisela"
+    },
+    "reaction": "",
+    "timestamp": 1722711467,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4DCB04A52CFFEA5F9F06BAA83635BBB6",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "text": "Recién le dije del cumple"
+    },
+    "reaction": "",
+    "timestamp": 1722711478,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3FA4B92009A60875C0DD14A564B86DB4",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya veo si me puedo escapar con la Ari"
+    },
+    "reaction": "",
+    "timestamp": 1722711487,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2D7A428A20F7412317",
+    "remoteJid": "5493875834685@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ha bueno. Sino podes no hay drama. Ya nos organizamos después entonces "
+    },
+    "reaction": "",
+    "timestamp": 1722711727,
+    "senderName": "Jose Ferreyra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

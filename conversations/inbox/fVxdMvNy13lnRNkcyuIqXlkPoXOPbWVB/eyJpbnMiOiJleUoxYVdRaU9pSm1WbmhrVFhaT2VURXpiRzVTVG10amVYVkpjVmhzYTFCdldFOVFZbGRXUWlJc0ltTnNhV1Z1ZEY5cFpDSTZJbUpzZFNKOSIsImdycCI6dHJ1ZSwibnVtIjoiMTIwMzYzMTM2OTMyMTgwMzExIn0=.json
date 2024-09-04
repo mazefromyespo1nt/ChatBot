@@ -1,0 +1,34 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "93E94E9683266776138EB246A0E84092",
+    "remoteJid": "120363136932180311@g.us",
+    "msgContext": {
+      "text": "Estás invitado/a al asistente de inteligencia artificial *Microsoft Copilot!*\n\nCopilot es tu destino único dentro de *Telegram* para respuestas, consejos y conversaciones divertidas.\n\nhttps://t.me/CopilotOfficialBot?form=MG0AUV&OCID=MG0AUV"
+    },
+    "reaction": "",
+    "timestamp": 1722907461,
+    "senderName": "Disrupción e Innovación",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "93E94E9683266776138EB246A0E84092",
+    "remoteJid": "120363136932180311@g.us",
+    "msgContext": {
+      "text": "Estás invitado/a al asistente de inteligencia artificial *Microsoft Copilot!*\n\nCopilot es tu destino único dentro de *Telegram* para respuestas, consejos y conversaciones divertidas.\n\nhttps://t.me/CopilotOfficialBot?form=MG0AUV&OCID=MG0AUV"
+    },
+    "reaction": "",
+    "timestamp": 1722907611,
+    "senderName": "Disrupción e Innovación",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

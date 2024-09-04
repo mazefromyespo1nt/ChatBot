@@ -1,0 +1,825 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3E778CC0CEB3A39D05CD220C3C1E5631",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Me la mandó una venezolana que vive en BsAs"
+    },
+    "reaction": "",
+    "timestamp": 1722691714,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491163698273@s.whatsapp.net",
+      "id": "A660FC241E005169F3ED50E14726B1AE"
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "476A486AC0E36EB54A152A6B46DE83CA",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "En tres de febrero la casta tiene miedo!! Q sigan llorando los kukas",
+      "fileName": "f3Lg8h.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722691896,
+    "senderName": "Nahuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FB8F1353CD543B6BCC950E34DED9E16F",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "*ESTOS SON LOS ROSTROS DE LOS GENERALES Y ALMIRANTES, QUE INTEGRAN \"EL CARTEL DE LOS SOLES\"*\n\n*ELLOS  ESTÁN INVOLUCRADOS CON EL NARCOTRÁFICO, CAE MADURO Y ELLOS SE VAN PRESOS* \n\n*REACCIONA AMÉRICA* SERVICIO DE VIRALIZAR, REENVIAR A CADA VENEZOLANO QUE CONOZCAS POR FAVOR \n\nhttps://x.com/informeorwell/status/1819399140322816421?s=48&t=0SYlariXZde9y5YySOosSA"
+    },
+    "reaction": "",
+    "timestamp": 1722699465,
+    "senderName": "luis Abbad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "94CBB6AFAFE9396FAA1F7C24A151E62B",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "X6SUeH.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722708953,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "87DD194276F7A50575273BBCED6AE917",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "Mí amiga venezolana escribió esto en sus redes",
+      "fileName": "NEwkUu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722712911,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "EC2886750C3EBAA3B3EA3919E6559D85",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SSYoPG.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722713018,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "435848E540E80AE5715CECC004CD686C",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-N6iMbNfeX/?igsh=enR0Z2NvYmQ0MHpv"
+    },
+    "reaction": "",
+    "timestamp": 1722715477,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9D09A0C1078D6316C148D0262DB0CFD9",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://youtube.com/live/gIB-CBz6fXU?si=8oDntttk1dfW86wX"
+    },
+    "reaction": "",
+    "timestamp": 1722716197,
+    "senderName": "Mauricio Sandoval",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "12E8E5089DFD26A238BABA46CC607BD7",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://youtu.be/nzrFksP3g3U?si=Xv8Kn1zZNVlCM8fN"
+    },
+    "reaction": "",
+    "timestamp": 1722716446,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "99F4AFB79DD60B7173F9CF559AB53E9A",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "Mi respuesta a las Madres de Plaza de Mayo como hija de montonero Peronista",
+      "fileName": "6w6B0F.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722722226,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B8DE392AA07327E118FB964CB374E85B",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "Venezuela en el obelisco contra el tirano",
+      "fileName": "ISqZOd.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "🙏",
+    "timestamp": 1722723105,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "2F10327864F9FD058BCEC305ACCF27E4",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "JMAG0A.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722725910,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5492944306991@s.whatsapp.net",
+      "id": "52A5948E58AD9EC52F013613C0EA38EC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F400A4CF74FD718C7BAC251CB571F466",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Es tremendo. El que crea que no puede hacer nada rece y el que no sabe rezar piense una vez por hora en Venezuela. Sostengamos lo entre todos"
+    },
+    "reaction": "",
+    "timestamp": 1722726017,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "1D90DB31B1D724067C8CE05CE4991536",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6TQluH.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722727290,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AA4B9B52D61204BC7F0",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-F3pSHOsxz/?igsh=aXVldnJ0cjVxZjNu"
+    },
+    "reaction": "",
+    "timestamp": 1722729255,
+    "senderName": "Tania",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "A99539542D5D4BD3616ADCC3DDF7D6E3",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "HÉROES 💪💪💪",
+      "fileName": "IbGGqu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "🙏",
+    "timestamp": 1722729370,
+    "senderName": "Fabricio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AF9BEFD7540BD07FBA9",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.instagram.com/reel/C-HBsdoo8oq/?igsh=MTRidGYwMXYxemYxaw=="
+    },
+    "reaction": "",
+    "timestamp": 1722729448,
+    "senderName": "Tania",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "CBA5FDB56080FA8121C9B89031F3F6E1",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SmDf6V.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722729978,
+    "senderName": "Fabricio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E7E88788F5E64203C9DD559EF5C5EB27",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Los peronchorros se doman solos\n\nhttps://www.instagram.com/reel/C-OHOpXObKU/?igsh=em9nbGZod3I4Mnp5"
+    },
+    "reaction": "",
+    "timestamp": 1722730531,
+    "senderName": "Fabricio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "3A0B35D9156199FC34E1",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "Hdp",
+      "fileName": "XL4ZIt.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722780524,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DC14211D3E4C5A92E837637C8753AA42",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Eso es verdad????"
+    },
+    "reaction": "",
+    "timestamp": 1722780638,
+    "senderName": "CARBON & SABOR E.I.R.L",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "05A52B5E8920065611B0BB6A81F766A8",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Esto es real ?"
+    },
+    "reaction": "",
+    "timestamp": 1722780661,
+    "senderName": "Franco Agustín 🦁🐍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491126733181@s.whatsapp.net",
+      "id": "3A0B35D9156199FC34E1"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB12297D7CE552D697A",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Lamentablemente si"
+    },
+    "reaction": "",
+    "timestamp": 1722781125,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AE9045A4BE9E68C3AB1",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Eso está sucediendo en Venezuela en este momento"
+    },
+    "reaction": "",
+    "timestamp": 1722781139,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "3A57D0958B945D4018BD",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7b7eo1.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "😡",
+    "timestamp": 1722781218,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "3A685B61E9C9D3DB181E",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Fsqbd9.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722781219,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E44CD209CAD7C2633B",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "que horror"
+    },
+    "reaction": "",
+    "timestamp": 1722782163,
+    "senderName": "CARBON & SABOR E.I.R.L",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "62300A69243E52B033D6AAAD7F2DE307",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/v/n7vPKQkrUV1epEDQ/?mibextid=xfxF2i"
+    },
+    "reaction": "",
+    "timestamp": 1722788439,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5DCFC7B3E0E2CC216E3562D699FB7804",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "👆 hermana del General Padrino"
+    },
+    "reaction": "",
+    "timestamp": 1722788478,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A83DAFF73B574F3C409",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Esto es un socialista. No pueden mantener un discurso coherente ni con ellos mismos. https://www.instagram.com/reel/C-Prx2tOmb9/?igsh=MWthZzJvbzBpNmF6eA=="
+    },
+    "reaction": "",
+    "timestamp": 1722790756,
+    "senderName": "J. C. J.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F4996B6488CAC431923B80386B564DD9",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/1196862002/posts/10234145647521469/?mibextid=AQBXeECoIFSgMqhe"
+    },
+    "reaction": "",
+    "timestamp": 1722793415,
+    "senderName": "Jorge Flores",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "5C6C43CDE27DC1AEFD5120A8BAA7C6AE",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DelDMw.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722794781,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "01A001D0BBDA1EC2C3DF9008943AB6A1",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "90YJXn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722794788,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D67086EA78BC7601BC14664CF99514E5",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mIYwRA.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722795579,
+    "senderName": "Fabricio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "5ED67D109A4373ADF9FD9BEFBB2404BE",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Awzegk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "😂",
+    "timestamp": 1722796700,
+    "senderName": "Horacio Machado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9DF92398B62239F4F1266FF7CF1E4E89",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "*YO SÍ LE PIDO EXPLICACIONES AL CONSECIONARIO Y SI NO SON SATISFACTORIAS, LE REVOCAMOS EL CONTRATO Y PUNTO*\n\n*RAFAEL LÓPEZ ALIAGA, ROMPE LA CADENA DE LA CORRUPCIÓN Y BAJA DEL COCHE A LOS PAYASOS*\n\n🇵🇪 *SERVICIO DE VIRALIZAR, ESTO NO LO INFORMA EL GRUPO DUEÑO DEL 80% DE LOS PRINCIPALES MEDIOS DE COMUNICACIÓN DEL PERÚ, SOCIO DE ODERBRECHT*\n\nhttps://vm.tiktok.com/ZMr4YMFdP/"
+    },
+    "reaction": "",
+    "timestamp": 1722796828,
+    "senderName": "luis Abbad",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "C9422A7E22994C37C6F10C61F6F892E1",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2J19WK.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722798362,
+    "senderName": "Mauricio Sandoval",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7A6D79D6D675EA9744D3C9BDA063F025",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://youtu.be/TWcafYlZ3xU?si=81yIvurErNK86A7T"
+    },
+    "reaction": "",
+    "timestamp": 1722802034,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BC0B3C0567E32639C665671B5409E37C",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "https://www.clarin.com/politica/paso-ministra-dictadura-santacrucena_0_r1Mz9UknDml.html"
+    },
+    "reaction": "",
+    "timestamp": 1722813980,
+    "senderName": "Eduardo Cesareo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AE54393A93557FE413D",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "text": "Esto está tan bien ambientado y encuadrado que parece una producción de cine"
+    },
+    "reaction": "",
+    "timestamp": 1722817406,
+    "senderName": "Tania",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491126733181@s.whatsapp.net",
+      "id": "3A0B35D9156199FC34E1"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "C0B7B6F8B0B37300915BB9422199D96E",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9LQlot.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722817929,
+    "senderName": "Horacio Machado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "ACA3BA6C3F49584CA46C485C9D8842EF",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "yZJydq.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "😂",
+    "timestamp": 1722818096,
+    "senderName": "Roberto Venini",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "F227C40293D25B1304192B8CDE372C2C",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dGxvAG.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722819143,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "DAADFC7C81375B79E95099E71A2D627E",
+    "remoteJid": "5491138547334-1603769466@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "qbaeaN.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722821017,
+    "senderName": "Medardo D'Ambrosio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34652671713@s.whatsapp.net",
+      "id": "C0B7B6F8B0B37300915BB9422199D96E"
+    }
+  }
+]

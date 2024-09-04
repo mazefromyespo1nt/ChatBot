@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C8C3EFC156C67E476919D1A0912501EE",
+    "remoteJid": "5493874481637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día maestro"
+    },
+    "reaction": "",
+    "timestamp": 1722718994,
+    "senderName": "Nicolás 🤠",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A26A1E6038CB35FEFD4213C107FAC074",
+    "remoteJid": "5493874481637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le encargo el alimento cuando pueda"
+    },
+    "reaction": "",
+    "timestamp": 1722718999,
+    "senderName": "Nicolás 🤠",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "287B11FBFBC4D4255BBC3726F59AA765",
+    "remoteJid": "5493874481637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola si"
+    },
+    "reaction": "",
+    "timestamp": 1722719422,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0E71972D61150E22475382ABBACE9386",
+    "remoteJid": "5493874481637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya te llevan"
+    },
+    "reaction": "",
+    "timestamp": 1722719425,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1524A6D375E36A50FBF494FA50CBD1E5",
+    "remoteJid": "5493874481637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpa"
+    },
+    "reaction": "",
+    "timestamp": 1722719427,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D3F971DEEA62B288D9D6A371E59B5D57",
+    "remoteJid": "5493874481637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenísimo"
+    },
+    "reaction": "",
+    "timestamp": 1722721131,
+    "senderName": "Nicolás 🤠",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

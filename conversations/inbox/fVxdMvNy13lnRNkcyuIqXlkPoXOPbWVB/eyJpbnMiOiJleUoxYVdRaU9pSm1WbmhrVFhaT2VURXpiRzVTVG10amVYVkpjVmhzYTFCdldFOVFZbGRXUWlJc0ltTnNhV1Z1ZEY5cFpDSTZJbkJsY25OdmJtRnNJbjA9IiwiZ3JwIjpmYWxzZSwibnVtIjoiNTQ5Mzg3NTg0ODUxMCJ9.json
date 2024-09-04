@@ -1,0 +1,1041 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6B47B112B99660C1BBD9745F062147D6",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si me llego a dormir llamame"
+    },
+    "reaction": "",
+    "timestamp": 1722666179,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DEACC92CBF5ADF753F03093912C1DB08",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me baño y salga"
+    },
+    "reaction": "",
+    "timestamp": 1722682343,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F5056A70E188FA3ABEA07A00F1965AFF",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Salgo"
+    },
+    "reaction": "",
+    "timestamp": 1722682345,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DD4F025099B1F24991CF6AFFB41D7B79",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722682969,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B783720C92F104A07904E1C902214DDC",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya estoy por el centro"
+    },
+    "reaction": "",
+    "timestamp": 1722684765,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "48723515379EC9BAD55D41DECC9ABA9B",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estoy afuera"
+    },
+    "reaction": "",
+    "timestamp": 1722685298,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B8186AA9A370631FA746E6ED52F5A0EC",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya te abro"
+    },
+    "reaction": "",
+    "timestamp": 1722685332,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EF1F1302CAAE4CE9F6FCCE7457B52CD5",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "A qué hora venis"
+    },
+    "reaction": "",
+    "timestamp": 1722695629,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3DF0FB7890072FD0E8DD240551697114",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Avisame"
+    },
+    "reaction": "",
+    "timestamp": 1722695635,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EC09232DDB8130F3FBAB8F4C9F835013",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahi voy"
+    },
+    "reaction": "",
+    "timestamp": 1722697318,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4A0F971391B4E05A4DDC1227CFAE0B1C",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1722697532,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AC0F56E17423AFC234D9E6794DF1D9AE",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pasame para comprar el shampoo"
+    },
+    "reaction": "",
+    "timestamp": 1722727445,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8493E071EF4433162D8A18E87AD07AA5",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya te mandé"
+    },
+    "reaction": "",
+    "timestamp": 1722728867,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AC7AD9D6A701F6A95F764EA7FC60B60B",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Feliz día a tu papá"
+    },
+    "reaction": "",
+    "timestamp": 1722728873,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "B1A74261BBFB43F8682C95BBD6A4B9CB",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lsC5FR.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722728998,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "0B0E2CBFFBF0F8A8720F87EE364A22C5",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "z5durv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722729012,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "98BFF42086CE20E7DBCEC1AA37F15823",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si reciben"
+    },
+    "reaction": "",
+    "timestamp": 1722729020,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2C3E5BDB236E37ABE33DFFCC1B5AB4FD",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo crédito encima en la tarjeta del videojuego"
+    },
+    "reaction": "",
+    "timestamp": 1722729033,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DF4C88F43DAC150C9008A17AF17334AE",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pucha"
+    },
+    "reaction": "",
+    "timestamp": 1722729326,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A8D9EE1CBECE1CF6C411D0E8E2F52A89",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722779145,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "13D8ED41F4930CB3CFBAF8BBCDC299C1",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Recien nos estamos despertando"
+    },
+    "reaction": "",
+    "timestamp": 1722779155,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FE422036800AB90354C70AC1B3572034",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Toda la noche renego la bb"
+    },
+    "reaction": "",
+    "timestamp": 1722779169,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1FAE4581002681FE66FCD1FCA61F4EFE",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Uh porqué"
+    },
+    "reaction": "",
+    "timestamp": 1722779254,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EDC4D92517BE980EF06060A23ACE03F",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nose se movio una banda"
+    },
+    "reaction": "",
+    "timestamp": 1722779273,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B4237B188768CD4C70B0CD98E71CF4F7",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tiene la nariz parece que  con moquito seco"
+    },
+    "reaction": "",
+    "timestamp": 1722779294,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "60346DF11752A3B702EF54E0210C3327",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me la pase tapandola"
+    },
+    "reaction": "",
+    "timestamp": 1722779341,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F34FDB9E88DCBE3CFCA68E1E279825E3",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ayer estaba moqueando"
+    },
+    "reaction": "",
+    "timestamp": 1722779783,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6F0717F15F79AEEEF6E76CC030D6C5C",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Uuuu"
+    },
+    "reaction": "",
+    "timestamp": 1722780965,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F3561D250A4D94CEE9C1E84CE318253F",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Espero que no se enferme"
+    },
+    "reaction": "",
+    "timestamp": 1722780972,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BCC24A63C896331DCC17BF77A7909E58",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Noche se puso frio"
+    },
+    "reaction": "",
+    "timestamp": 1722780979,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "0F789571AF43E19D7BD2B6DA74E9DEB0",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "EkjKsm.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1722781171,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C786DC065BA0739EFB7A5EC5B2282ED0",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nose vos avisame"
+    },
+    "reaction": "",
+    "timestamp": 1722781834,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02EC1232FDF5BE3C9DB",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "avisame cuando salgas"
+    },
+    "reaction": "",
+    "timestamp": 1722789372,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A670B0D853D1DBC8E0C2969FF8A9EF95",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora voy a comprar la buti"
+    },
+    "reaction": "",
+    "timestamp": 1722789525,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D954E3C1F78164477D51044948957C5E",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya sali"
+    },
+    "reaction": "",
+    "timestamp": 1722790737,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CA2ABB8E426E4FCD676EB4C347294632",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero me vas a tener que dar efectivo  me re colgue de cambiar el metodo"
+    },
+    "reaction": "",
+    "timestamp": 1722790738,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "375CF9A78058506DB08E41A6BBB2A970",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahi te devuelvo los 4"
+    },
+    "reaction": "",
+    "timestamp": 1722790747,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "186F8222F71D3A58544334F5A31991F3",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1722790806,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "20CE8B0568ECA582AA84C23E425E8A6E",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Avisame"
+    },
+    "reaction": "",
+    "timestamp": 1722790809,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5468A51094D03507D31FE86887FD8F6E",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "En cuanto llegas maso"
+    },
+    "reaction": "",
+    "timestamp": 1722790834,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A4C618AC2EBF4ABBBDA686EA10FDE6B8",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "En 10"
+    },
+    "reaction": "",
+    "timestamp": 1722790855,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D5E694BEC021E2606D635FAD05373790",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1722790985,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7BD43E7C7639DEAC0358A007BF0AEB51",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya estamos cerca"
+    },
+    "reaction": "",
+    "timestamp": 1722791339,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E5CB54FCC0315BFFA6E6503867667DB",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Baja"
+    },
+    "reaction": "",
+    "timestamp": 1722791442,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE874BA64409E9D50A305D04C2B6C703",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Compraste?"
+    },
+    "reaction": "",
+    "timestamp": 1722795595,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875136004@s.whatsapp.net",
+      "id": "A670B0D853D1DBC8E0C2969FF8A9EF95"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8CECF51B7B8B60B273D442FCBD2A0FE7",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que saber querés"
+    },
+    "reaction": "",
+    "timestamp": 1722797563,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D13ED3DB947D1A054DDCBFE9E5BA58AB",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estamos en el grido"
+    },
+    "reaction": "",
+    "timestamp": 1722797569,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "34B7B49D1890B5ABB155E2BAF4A98BF4",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le quería comprar en los negocios un palito de helado y no tenían"
+    },
+    "reaction": "",
+    "timestamp": 1722797585,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "80A85D94882696B77F8E1202953BCC39",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aoFuRM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722797876,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5762E670093BF00B28277FB9CA8725BA",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Frutilla"
+    },
+    "reaction": "",
+    "timestamp": 1722798678,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "603DCB308CBE92553572C71F268038AB",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Americana o granizado o banana con dulce de leche"
+    },
+    "reaction": "",
+    "timestamp": 1722798694,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C2C1BE52BFB0DE0AF5EF4875253A8D36",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que hacen?"
+    },
+    "reaction": "",
+    "timestamp": 1722816800,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "745A559FFC985AD9DF39231269206B6C",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como esta la gorda?"
+    },
+    "reaction": "",
+    "timestamp": 1722816811,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E5225B873028AF67F01D0F811869CBD",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bien"
+    },
+    "reaction": "",
+    "timestamp": 1722817655,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EC1D555EC0FAD6FE151C560801873C06",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jugaron bastante en la plaza"
+    },
+    "reaction": "",
+    "timestamp": 1722817665,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "9CE2A0BB1B6A665BE3A1929FD27D99C4",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "UvAaYR.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1722818142,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D7582F0F5D29BAA38CB2F7CFCEF3F0D0",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1722819191,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EDB5BAA4C64A1842761BA55316999F69",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se van a comprar?"
+    },
+    "reaction": "",
+    "timestamp": 1722819203,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3E950E904F3EE4C16B1E13BB3FA89A1F",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "La lleve a comprar un rato"
+    },
+    "reaction": "",
+    "timestamp": 1722820072,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A1AE82B68C5528D2AC68C9DD7F0B6709",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que bueno"
+    },
+    "reaction": "",
+    "timestamp": 1722820728,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "33668317F885C6D774A6DE778FDBFCBB",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "GeLqHb.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722820871,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "96341D6109A83AD566A87567A8501792",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está comiendo"
+    },
+    "reaction": "",
+    "timestamp": 1722820879,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FCEEBC3D2DA661687DDE5DCCA1569E04",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mi vida"
+    },
+    "reaction": "",
+    "timestamp": 1722820960,
+    "senderName": "Gi Y Arianita 👩‍👧💞",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F542795474B35F8830E6FF59235830A",
+    "remoteJid": "5493875848510@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya estás en tu casa?"
+    },
+    "reaction": "",
+    "timestamp": 1722823048,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

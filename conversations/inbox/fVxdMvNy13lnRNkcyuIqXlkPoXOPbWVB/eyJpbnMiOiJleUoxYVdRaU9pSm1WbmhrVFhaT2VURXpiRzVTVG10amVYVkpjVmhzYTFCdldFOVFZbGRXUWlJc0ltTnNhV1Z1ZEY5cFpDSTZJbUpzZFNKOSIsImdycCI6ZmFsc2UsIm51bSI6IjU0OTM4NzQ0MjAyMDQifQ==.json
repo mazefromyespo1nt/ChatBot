@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E7DB0493A0D09373826A3BD0EB98725",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hicieron pedido de la coca?"
+    },
+    "reaction": "",
+    "timestamp": 1722882473,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DD88DF5865A1FE7902B3A29BF9B3367B",
+    "remoteJid": "5493874420204@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1722889209,
+    "senderName": "Moni💜",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

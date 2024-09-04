@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8BE490E364CE0EC70C6ED31075902BC9",
+    "remoteJid": "5493875063249@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 👋 Aceptan tarjeta de crédito? Y traen a domicilio? Soy de barrio santa lucía \nEstoy buscando gaseosa coca cola de 3 LTS.\nY cerveza de 1 litro"
+    },
+    "reaction": "",
+    "timestamp": 1722812031,
+    "senderName": "Nati",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE57DDE02CB5CF2",
+    "remoteJid": "5493875063249@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! En DJ Distribuidora aceptamos tarjeta de crédito con un recargo del 15%. Realizamos envíos a domicilio en la ciudad de Salta, por lo que podemos llevar tu pedido hasta tu casa en Barrio Santa Lucía. En nuestra tienda online https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2 puedes encontrar la gaseosa Coca Cola de 3 litros y cerveza de 1 litro que estás buscando. ¡Esperamos tu pedido!🚚🥤🍺"
+    },
+    "reaction": "",
+    "timestamp": 1722812040,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

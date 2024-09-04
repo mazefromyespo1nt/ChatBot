@@ -1,0 +1,156 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DA82BA483336C5D5F1",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "text": "send me the .py file"
+    },
+    "reaction": "",
+    "timestamp": 1717762152,
+    "senderName": "hamidsaifi.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "BAE5AF9B743D4A99",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "Hey there, please choose an option to continue",
+        "values": [
+          "Track you order",
+          "Buy new item"
+        ],
+        "selectableCount": 1
+      }
+    },
+    "reaction": "",
+    "timestamp": 1717762153,
+    "senderName": "hamidsaifi.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "3EB0968B57EDB1092A1903",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9f9Li5.txt",
+      "mimetype": "text/plain"
+    },
+    "reaction": "",
+    "timestamp": 1717762471,
+    "senderName": "Ar.Sofia Saifi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1F1EC5D8AC1EF4E1537BC868AA9FECEF",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bhej di"
+    },
+    "reaction": "",
+    "timestamp": 1717762480,
+    "senderName": "Ar.Sofia Saifi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "BAE531F3D2BB9B70",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "Hey there, please choose an option to continue",
+        "values": [
+          "Track you order",
+          "Buy new item"
+        ],
+        "selectableCount": 1
+      }
+    },
+    "reaction": "",
+    "timestamp": 1717762481,
+    "senderName": "Ar.Sofia Saifi",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5F1E2649619D306C7F67C03EB65E0E66",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ye kya hai"
+    },
+    "reaction": "",
+    "timestamp": 1717762510,
+    "senderName": "Ar.Sofia Saifi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "BAE51EBE4590FA4F",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "Hey there, please choose an option to continue",
+        "values": [
+          "Track you order",
+          "Buy new item"
+        ],
+        "selectableCount": 1
+      }
+    },
+    "reaction": "",
+    "timestamp": 1717762511,
+    "senderName": "Ar.Sofia Saifi",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A76A50C18BAD839E137",
+    "remoteJid": "917290829979@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏻"
+    },
+    "reaction": "",
+    "timestamp": 1717763664,
+    "senderName": "hamidsaifi.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

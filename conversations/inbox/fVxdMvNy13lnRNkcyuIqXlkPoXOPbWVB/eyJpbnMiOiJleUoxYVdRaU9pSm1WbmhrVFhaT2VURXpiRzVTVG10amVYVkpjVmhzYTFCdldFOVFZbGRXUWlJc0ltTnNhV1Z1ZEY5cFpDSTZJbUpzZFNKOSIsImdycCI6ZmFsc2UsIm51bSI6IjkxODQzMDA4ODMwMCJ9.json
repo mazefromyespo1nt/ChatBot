@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B5483AFF6933CA93B8",
+    "remoteJid": "918430088300@s.whatsapp.net",
+    "msgContext": {
+      "text": "hi, is it possible to change domain to whatsham?"
+    },
+    "reaction": "",
+    "timestamp": 1722910399,
+    "senderName": "Dj Distribuidora",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

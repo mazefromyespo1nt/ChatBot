@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4DB604259C7F4554BA8698004DB40A36",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1722796304,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8FE290C6E500CE410AD43386DE8568D3",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tiene coca retor grande $$"
+    },
+    "reaction": "",
+    "timestamp": 1722796321,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73310D5FDCC0E2341C773F6F3B5F3974",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Salta$$"
+    },
+    "reaction": "",
+    "timestamp": 1722796326,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "00A876C9909879E73D03C65EA44AE3BC",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Quilme$$"
+    },
+    "reaction": "",
+    "timestamp": 1722796334,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6D22B2D54DB95D4E6B2D5A290B57C740",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Viña$$"
+    },
+    "reaction": "",
+    "timestamp": 1722796338,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "05F00F14FC54D2F4B1886BD1CEB6DB9C",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Seco$$"
+    },
+    "reaction": "",
+    "timestamp": 1722796343,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "89F53CBBEC06B84F5DB5644C8CB80874",
+    "remoteJid": "5493874537080@s.whatsapp.net",
+    "msgContext": {
+      "text": "Toro fardo$$"
+    },
+    "reaction": "",
+    "timestamp": 1722796354,
+    "senderName": "🤍🤍🤍🌹🌹🌹🌹🌹🌹🤍🤍🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "030994A2FD06018624D8CBE0F97AC6C3",
+    "remoteJid": "120363032264828616@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HhO4GW.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1720797719,
+    "senderName": "sikandarbharti24",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

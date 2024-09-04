@@ -1,0 +1,381 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D917DF79D73982CFE62584D5BFACD6E9",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Lunes de Pádel Popeye 18 a 20 Hs \n\n1 TULA\n2 Adolfo \n3 Fabián \n4 Pela\n5 Guido F\n6 ariel\n7 Fernando \n8\n9\n10"
+    },
+    "reaction": "",
+    "timestamp": 1722848334,
+    "senderName": "Fernando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A60454AA25DBD0D0BA6",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Buen día"
+    },
+    "reaction": "",
+    "timestamp": 1722863488,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A70F76593E965C23F4E",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Uno más por favor"
+    },
+    "reaction": "",
+    "timestamp": 1722863493,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AEEC0F5B31FD5F82504",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Lunes de Pádel Popeye 18 a 20 Hs \n\n1 TULA\n2 Adolfo \n3 Fabián \n4 Pela\n5 Guido F\n6 ariel\n7 Fernando \n8 julio \n9\n10"
+    },
+    "reaction": "",
+    "timestamp": 1722863618,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A67C86D4966BE6984D9",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Canchas confirmadas"
+    },
+    "reaction": "",
+    "timestamp": 1722863659,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "28462E0B5BABDA74DD8377620070AA29",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Lunes de Pádel Popeye 18 a 20 Hs \n\n1 TULA\n2 Adolfo \n3 Fabián \n4 Pela\n5 Guido F\n6 ariel\n7 Fernando \n8 julio \n9 Marcelo\n10"
+    },
+    "reaction": "",
+    "timestamp": 1722877106,
+    "senderName": "Marcelo Gallo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CAADD74646E966B5881231222E3AD762",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Si no se suma nadie me bajo.\nPara no joder al resto"
+    },
+    "reaction": "",
+    "timestamp": 1722877139,
+    "senderName": "Marcelo Gallo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5D25D963B407462EFD",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Anda"
+    },
+    "reaction": "",
+    "timestamp": 1722877155,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "50E618C59DF2FA86A081A3403001B7B3",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Yo esta semana ando de tarde trab😬 así que se me complica ir"
+    },
+    "reaction": "👍",
+    "timestamp": 1722877285,
+    "senderName": "Loco Andres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A9E6CC173ECCCE9565C",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Lunes de Pádel Popeye 18 a 20 Hs \n\n1 TULA\n2 Adolfo \n3 Fabián \n4 Pela\n5 Guido F\n6 ariel\n7 Fernando \n8 julio \n9 Marcelo\n10oscar"
+    },
+    "reaction": "",
+    "timestamp": 1722877445,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "717348E9549B1C670C09B1702C343F6C",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "👍👍👏👏"
+    },
+    "reaction": "",
+    "timestamp": 1722880405,
+    "senderName": "Marcelo Gallo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3AF6FB65A39F172AE27A",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "kB0c8u.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1722913529,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AA1B50C2F0CBF1A442D",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Felicitaciones 🎊🎉"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722913549,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A4F65FC3193F9B6FA3B",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Maxi !!!!"
+    },
+    "reaction": "",
+    "timestamp": 1722913558,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ACFA6214CD34EFA61A7",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Amarillo !!!"
+    },
+    "reaction": "",
+    "timestamp": 1722913563,
+    "senderName": "Fabian Romero",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1F4EF588206E0E297BC0E46053577567",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Felicidades..dos cracks"
+    },
+    "reaction": "",
+    "timestamp": 1722913630,
+    "senderName": "Javier Miranda",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A855C01083757993AC6FFCD39912045E",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Felicidades"
+    },
+    "reaction": "",
+    "timestamp": 1722913955,
+    "senderName": "francodcrespo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9E61683C8AA6013AB193993E7F7F4126",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Gracias muchachos"
+    },
+    "reaction": "",
+    "timestamp": 1722914207,
+    "senderName": "Maxi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4111C0153315B4621F002B8A0786EC34",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Buena maxiii  felicidades  amigo y tmb a lauty"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722914295,
+    "senderName": "Matias Trigo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FE03DD041C982F9D0AA32806EE59BFCA",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "💪🏻🎾"
+    },
+    "reaction": "",
+    "timestamp": 1722914307,
+    "senderName": "Matias Trigo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B644FC145E8A1C5B6A",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "grandeeeeeeeee papaaaaaaaaaa!!! bien ahi maxiiii"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722914535,
+    "senderName": "Sebastian",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875166595@s.whatsapp.net",
+      "id": "3AF6FB65A39F172AE27A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1A1E7EE1638F03905B87DA4ED4E17D3D",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Buena muchachos!!"
+    },
+    "reaction": "❤️",
+    "timestamp": 1722915378,
+    "senderName": "GUIDO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AFBB269765C3158E5D5",
+    "remoteJid": "5493874155044-1551746346@g.us",
+    "msgContext": {
+      "text": "Que grandes!! 🥳"
+    },
+    "reaction": "",
+    "timestamp": 1722917945,
+    "senderName": "AgustinFlores🏃🏻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493875166595@s.whatsapp.net",
+      "id": "3AF6FB65A39F172AE27A"
+    }
+  }
+]

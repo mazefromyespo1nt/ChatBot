@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AD56C157AFDCCCA377CF7F8C9EDFCB2F",
+    "remoteJid": "5493874443470@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días le quería preguntar si yo compro 10 cajones de cerveza ustedes prestan el envase y después van a retirar"
+    },
+    "reaction": "",
+    "timestamp": 1722788442,
+    "senderName": "Walter",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE59E8A6AD06F41",
+    "remoteJid": "5493874443470@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! En DJ Distribuidora, al comprar cajones de cerveza, te prestamos los envases retornables. Una vez que realices tu compra, te entregaremos los cajones con las cervezas y los envases correspondientes. Luego, cuando necesites que retiremos los envases vacíos, puedes coordinar con nosotros para que pasemos a recogerlos. ¡Estamos aquí para ayudarte con tus pedidos de bebidas y más! Recuerda que también tenemos promociones especiales en nuestra tienda en línea https://arya.ar/store/dj-distribuidora ¡Esperamos tu compra! ¡Saludos!"
+    },
+    "reaction": "",
+    "timestamp": 1722788450,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "46A2DAF303C62E0E1A55939AF36EE6E7",
+    "remoteJid": "5493874443470@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por avisarme"
+    },
+    "reaction": "",
+    "timestamp": 1722790499,
+    "senderName": "Walter",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE58CBC217490FA",
+    "remoteJid": "5493874443470@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! ¡Gracias por tu interés! Recuerda que en DJ Distribuidora tenemos una amplia variedad de productos a precios increíbles, incluyendo cervezas, vinos, gaseosas y más. Puedes realizar tus pedidos a través de nuestra tienda en línea en https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2. También puedes contactarnos al número 3875061857 (a nombre de Adolfo) para obtener más información o hacer tus consultas. ¡Esperamos que disfrutes de nuestras promociones y ofertas especiales! ¡No dudes en contactarnos si necesitas algo más! ¡Saludos!"
+    },
+    "reaction": "",
+    "timestamp": 1722790507,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1E9914FA9DAF077D672776FA394699B7",
+    "remoteJid": "5493874443470@s.whatsapp.net",
+    "msgContext": {
+      "text": "Okey gracias"
+    },
+    "reaction": "",
+    "timestamp": 1722790590,
+    "senderName": "Walter",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5A4FCBAA13E99",
+    "remoteJid": "5493874443470@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! ¡Gracias por tu interés! Recuerda que en DJ Distribuidora tenemos una amplia variedad de productos a precios increíbles, incluyendo cervezas, vinos, gaseosas, papel higiénico, alimentos para perros y gatos, y más. Puedes realizar tus pedidos a través de nuestra tienda en línea en https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2. También puedes contactarnos al número 3875061857 (a nombre de Adolfo) para obtener más información o hacer tus consultas. ¡Esperamos que disfrutes de nuestras promociones y ofertas especiales! Recuerda que tenemos envíos gratis por la aplicación Arya y varias formas de pago disponibles. ¡No dudes en contactarnos si necesitas algo más! ¡Saludos!"
+    },
+    "reaction": "",
+    "timestamp": 1722790597,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

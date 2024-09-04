@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9EF7363E170B4FAE364AB338861B08E9",
+    "remoteJid": "5493876239417@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722793665,
+    "senderName": "Ante Todos Mi Familia 😍🥳🥳",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9EF7363E170B4FAE364AB338861B08E9",
+    "remoteJid": "5493876239417@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722793666,
+    "senderName": "Ante Todos Mi Familia 😍🥳🥳",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE587AA814303E0",
+    "remoteJid": "5493876239417@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, te paso algunas de nuestras promociones en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14999.99\n- Dr. Lemon con vodka 12x1lt a $19999.99\n- Cajón de Coca Cola 8x2.5lt a $15300, comprando más de 3 cajones a $14800\n- Combinación de 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25800\n- Cajón de cerveza Salta 10x1.2lt + 1 cajón de cerveza Quilmes 10x1.2lt a $38500\n\nEstas son solo algunas de las promociones que tenemos en la tienda. Puedes ver más ofertas en la aplicación Arya en el siguiente enlace: https://arya.ar\n\nRecuerda que hacemos envíos gratis por la aplicación Arya en la ciudad de Salta. ¡Esperamos tu compra!"
+    },
+    "reaction": "",
+    "timestamp": 1722793675,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5EF2924624B15",
+    "remoteJid": "5493876239417@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Aquí te dejo algunas de las promociones que tenemos esta semana en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14999.99\n- Dr. Lemon con Vodka 12x1lt a $19999.99 (único sabor)\n- Cajón de Coca Cola 8x2.5lt a $15300, comprando más de 3 cajones a $14800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25800\n- 1 cajón de Coca Cola 8x2lt + 1 cajón de Coca Cola 8x1.5lt a $23800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Fanta/Sprite 8x2.5lt a $27800\n- 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Salta 10x1.2lt a $33800\n- 1 cajón de cerveza Salta 10x1.2lt + 1 cajón de cerveza Quilmes 10x1.2lt a $38500\n\nAdemás, tenemos más ofertas en la aplicación Arya, donde también ofrecemos envíos gratis. ¡No dudes en consultar la lista completa de precios y promociones en la app! ¡Gracias por tu interés!"
+    },
+    "reaction": "",
+    "timestamp": 1722793677,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A2415BA80BA6FF02F72E6063131856F6",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Che quien se llevó las bochitas??"
+    },
+    "reaction": "",
+    "timestamp": 1722873117,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5C68BE2FE98D67D58BC5BFAD0989009D",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "🎾🎾🎾🎾🤔"
+    },
+    "reaction": "",
+    "timestamp": 1722873128,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "39FAD5468A9B35314EB0A4E82F91391C",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Necesito 2 para esta tardee"
+    },
+    "reaction": "",
+    "timestamp": 1722873139,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5CE002906C9629C950AE4097EB1D12D9",
+    "remoteJid": "5493875442791-1543493550@g.us",
+    "msgContext": {
+      "text": "Bochitasss!!"
+    },
+    "reaction": "",
+    "timestamp": 1722873154,
+    "senderName": "R@NIT@ ReNé⚽🎾❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

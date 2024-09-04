@@ -1,0 +1,130 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "86C6DA49BB724B732FE1B40FCEB33E8F",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Me pasas las promociones"
+    },
+    "reaction": "",
+    "timestamp": 1722859515,
+    "senderName": "Alecampo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5CD1580D7DDDE",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Claro, aquí te dejo algunas de las promociones vigentes en DJ Distribuidora:\n\n- Coca Cola 6x3lt a $14,999.99\n- Dr. Lemon con Vodka 12x1lt a $19,999.99 (único sabor)\n- Cajón de Coca Cola 8x2.5lt a $15,300, comprando más de 3 cajones a $14,800\n- Combinación de 1 cajón de Coca Cola 8x2.5lt + 1 cajón de Coca Cola 8x1.5lt a $25,800\n- Combinación de 1 cajón de Coca Cola 8x2lt + 1 cajón de Coca Cola 8x1.5lt a $23,800\n\nEstas son solo algunas de las promociones disponibles. Recuerda que también tenemos ofertas en cerveza Salta, vino Toro tinto, entre otros productos. Para más detalles y conocer todas las promociones vigentes, te invito a visitar nuestra tienda en línea en el siguiente enlace: [DJ Distribuidora en Arya](https://arya.ar/store/dj-distribuidora?module_id=2&module_type=grocery&store_zone_id=2)\n\n¡No dudes en aprovechar estas increíbles ofertas y realizar tu pedido en línea! Si necesitas más información o tienes alguna pregunta, estoy aquí para ayudarte. ¡Gracias por tu interés en DJ Distribuidora!"
+    },
+    "reaction": "",
+    "timestamp": 1722859531,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8F8B005C3AED20DFB105F84E120F6BDC",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola  cajones de cerveza salta"
+    },
+    "reaction": "",
+    "timestamp": 1722859541,
+    "senderName": "Alecampo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5ABB9366EBB21",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! En DJ Distribuidora tenemos una oferta especial de cerveza Salta en cajones de 10 botellas de 1.2 litros cada una a un precio de $19,000. Además, tenemos la promoción de combinar un cajón de cerveza Salta con un cajón de cerveza Quilmes (ambos de 10 botellas de 1.2 litros cada una) por tan solo $38,500. Estas son excelentes opciones para disfrutar de una buena cerveza con amigos o en eventos especiales. ¡Aprovecha estas ofertas y realiza tu pedido en nuestra tienda en línea en Arya para recibir tus cervezas Salta y Quilmes en la puerta de tu hogar en Salta! ¡Gracias por tu interés en DJ Distribuidora!"
+    },
+    "reaction": "",
+    "timestamp": 1722859552,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DD74F59534B27C01D234CBAA5DE5DFBB",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "X 15 cajones q precio queda"
+    },
+    "reaction": "",
+    "timestamp": 1722859591,
+    "senderName": "Alecampo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5DC1F5790DB96",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para 15 cajones de cerveza Salta de 10 botellas de 1.2 litros cada una al precio de $19,000 por cajón, el cálculo sería el siguiente:\n\nPrecio por cajón: $19,000\nCantidad de cajones: 15\n\nPrecio total: $19,000 x 15 = $285,000\n\nPor lo tanto, el precio total para 15 cajones de cerveza Salta sería de $285,000. ¡Aprovecha esta oferta y realiza tu pedido en la tienda en línea de DJ Distribuidora en Arya para disfrutar de cerveza Salta en casa! ¡Gracias por tu interés en nuestros productos!"
+    },
+    "reaction": "",
+    "timestamp": 1722859599,
+    "senderName": "Dj Distribuidora",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "784D5CBAC40415884D88AC796D51E701",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenaw"
+    },
+    "reaction": "",
+    "timestamp": 1722900507,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "69CA18EE9F3C70AFCBC8B55683557D1C",
+    "remoteJid": "5493874635949@s.whatsapp.net",
+    "msgContext": {
+      "text": "No tenemos precios por cantidad"
+    },
+    "reaction": "",
+    "timestamp": 1722900515,
+    "senderName": "Dj Distribuidora",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

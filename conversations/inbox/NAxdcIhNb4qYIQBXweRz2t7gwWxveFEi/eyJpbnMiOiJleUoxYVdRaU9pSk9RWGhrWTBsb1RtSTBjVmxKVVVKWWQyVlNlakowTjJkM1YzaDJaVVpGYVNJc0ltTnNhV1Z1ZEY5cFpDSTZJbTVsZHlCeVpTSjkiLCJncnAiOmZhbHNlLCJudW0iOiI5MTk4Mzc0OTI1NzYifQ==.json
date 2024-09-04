@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0ADA813B21A957D3F92229FB1263D50E",
+    "remoteJid": "919837492576@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1718366022,
+    "senderName": "Awardee",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]
