@@ -1,0 +1,281 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AD296232DA56A4C98B4",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "text": "💕 *NUEVA COLECCIÓN* \n💕Biker dama stretch\n💕talla s hasta l \n💕💲20.000 *por mayor*"
+    },
+    "reaction": "",
+    "timestamp": 1725909198,
+    "senderName": "Templo De La Moda 1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3A987C1B38F8D024F004",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ueyXM2.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725909204,
+    "senderName": "Templo De La Moda 1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3A9C7367C628D842B3C3",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BXtIJG.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725919958,
+    "senderName": "Templo De La Moda 1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADE610D4C83C54B7748",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "text": "📍𝕹𝖚𝖊𝖛𝖆 𝖈𝖔𝖑𝖊𝖈𝖈𝖎𝖔́𝖓📍\n🕸️Tipo polo hombre 🕸️\n 🕸️tela texturizada    🕸️\n🕸️Talla s hasta xl       🕸️\n💲40.000 al por mayor \n\n📲Escríbenos para tener el gusto de atenderte."
+    },
+    "reaction": "",
+    "timestamp": 1725919961,
+    "senderName": "Templo De La Moda 1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AF8D68612A9F57A9396",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "text": "🛍️ *Nuevo precio aprovecha* Conjunto dama 🌸🛍🛍🛍💲25.000 al por mayor ✔️talla s hasta xl material 💕burda 🌸"
+    },
+    "reaction": "",
+    "timestamp": 1725922713,
+    "senderName": "Templo De La Moda 1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3AFE930E84AA14F24E9F",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Dk0DiX.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725922715,
+    "senderName": "Templo De La Moda 1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "77DBFE2C48972AE77E767B1E7719A095",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "text": "🚨 *NUEVAMENTE DISPONIBLE*\n🇨🇴tipo polo  selección colombia hombre📯\n🇨🇴replica importada \n🇨🇴 tallas m - l - xl -xxl\n( horma normal ) \n💲*60.000  al por mayor*\nSujeto a disponibilidad"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725983541,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "788FF859C862139909FA1E64C8A6B6EF",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6N1C5h.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725983542,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E5A5473A12BA4014082FC16868729E44",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "WJOF0t.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725983543,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "1B4795AE6B0AEEB7D374CF9255FCC6AA",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "O16TKg.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725983544,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "77DBFE2C48972AE77E767B1E7719A095",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "text": "🚨 *NUEVAMENTE DISPONIBLE*\n🇨🇴tipo polo  selección colombia hombre📯\n🇨🇴replica importada \n🇨🇴 tallas m - l - xl -xxl\n( horma normal ) \n💲*60.000  al por mayor*\nSujeto a disponibilidad"
+    },
+    "reaction": "",
+    "timestamp": 1725983570,
+    "senderName": "temploredes11",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E5A5473A12BA4014082FC16868729E44",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "APhgph.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725983571,
+    "senderName": "temploredes11",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "788FF859C862139909FA1E64C8A6B6EF",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dSS8Br.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725983572,
+    "senderName": "temploredes11",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "1B4795AE6B0AEEB7D374CF9255FCC6AA",
+    "remoteJid": "120363042741587014@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "G7Raai.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725983572,
+    "senderName": "temploredes11",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

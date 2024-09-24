@@ -1,0 +1,59 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3EB0D4459CC3DFA1A15098",
+    "remoteJid": "593989417762@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Ty5iCQ.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725932301,
+    "senderName": "Abogado Tributario",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB089EB84A997E45BE3B5",
+    "remoteJid": "593989417762@s.whatsapp.net",
+    "msgContext": {
+      "caption": "CONTRASEÑA.txt",
+      "fileName": "FIvuTB.txt",
+      "mimetype": "text/plain"
+    },
+    "reaction": "",
+    "timestamp": 1725934264,
+    "senderName": "Abogado Tributario",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB0DDD2D78BB12303A046",
+    "remoteJid": "593989417762@s.whatsapp.net",
+    "msgContext": {
+      "caption": "P0000126407.p12",
+      "fileName": "sFNC6w.p12",
+      "mimetype": "application/x-pkcs12"
+    },
+    "reaction": "",
+    "timestamp": 1725934264,
+    "senderName": "Abogado Tributario",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

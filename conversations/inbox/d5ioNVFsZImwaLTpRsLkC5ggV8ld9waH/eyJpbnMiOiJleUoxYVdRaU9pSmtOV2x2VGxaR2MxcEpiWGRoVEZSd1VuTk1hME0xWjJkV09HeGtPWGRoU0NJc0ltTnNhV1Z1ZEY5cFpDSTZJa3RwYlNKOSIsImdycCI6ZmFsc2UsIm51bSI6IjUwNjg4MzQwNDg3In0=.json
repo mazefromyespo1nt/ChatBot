@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB08A832E7AC4C5D16C6D",
+    "remoteJid": "50688340487@s.whatsapp.net",
+    "msgContext": {
+      "caption": "4 en 1 en una misma factura. Ahorre y agilice incluye 😁: \n-Conserva su mismo número (KOLBI o CLARO)\n-Aumenta los datos de su plan móvil a 22GB 0 30 GB con cobertura dentro y fuera del país ✈️ \n-Se incluye 1 regalía 🎁 de una número nuevo post pago de 4GB (*recomendado para menores de edad*) -TV Digital  250 canales+ HBO MAX streaming + Telefonía fija de casa + internet de150 MB +  Paramount durante 3 meses 🎁😁\n-Desde 150 MB 0 300 MB de internet veloz 🛜",
+      "fileName": "bsi6HM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903687,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FFAB9CFB9D03D341D3",
+    "remoteJid": "50688340487@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈"
+    },
+    "reaction": "",
+    "timestamp": 1725903778,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

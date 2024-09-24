@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0725892625BEFB2893",
+    "remoteJid": "584129194894@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ay si"
+    },
+    "reaction": "",
+    "timestamp": 1725678393,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD5A97D55AB22789BC8",
+    "remoteJid": "584129194894@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por favor puedes escribir métodos de pago ?"
+    },
+    "reaction": "",
+    "timestamp": 1725678424,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A44B70B72254D48F172",
+    "remoteJid": "584129194894@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aquí en el chat"
+    },
+    "reaction": "",
+    "timestamp": 1725678432,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

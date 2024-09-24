@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC24E7367416A1BCC10",
+    "remoteJid": "32491366490@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://youtu.be/owUzIPXmhoE?si=C58ef_hAWEcWEykj"
+    },
+    "reaction": "",
+    "timestamp": 1725822771,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,1944 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A2D88385543BF0B2FCF",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pasen grupo de telegram de deep web"
+    },
+    "reaction": "",
+    "timestamp": 1725575608,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1C42FAF4087E6370B604648AF39EA4C7",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Hola?"
+    },
+    "reaction": "",
+    "timestamp": 1725576078,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6F717005873992ADF72B08D554CB03A2",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725576093,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "1C42FAF4087E6370B604648AF39EA4C7"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0E76CC4E467C24ACE99C95E488261309",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que tal"
+    },
+    "reaction": "",
+    "timestamp": 1725576135,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5A272D161B324A56CC8EAFC8FC8807D6",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Todo bien"
+    },
+    "reaction": "",
+    "timestamp": 1725576145,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "84AD2A3EDA7EF4EACAB674DC218C7036",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yeah"
+    },
+    "reaction": "",
+    "timestamp": 1725576168,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BAF03238186972AA9BA18D93D750BE0B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "💯"
+    },
+    "reaction": "",
+    "timestamp": 1725576287,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "84AD2A3EDA7EF4EACAB674DC218C7036"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0CCBB3B837B7F4EE2AC634636A1DE8DD",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que conversación más muerta"
+    },
+    "reaction": "",
+    "timestamp": 1725576305,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CE22D77647BB9A63E452AE4C2A9561CC",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo acabé de unirme jaja"
+    },
+    "reaction": "",
+    "timestamp": 1725576322,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "012B232594BC3C25D28268609FB9E204",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Nadie escribe"
+    },
+    "reaction": "",
+    "timestamp": 1725576332,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7A15756D0D2A446283AB93ABE10D066B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Sí"
+    },
+    "reaction": "",
+    "timestamp": 1725576340,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "012B232594BC3C25D28268609FB9E204"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A3DEAEEA5A9954DF2478397715DB1BA8",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Es que no hemos agarrado confianza"
+    },
+    "reaction": "",
+    "timestamp": 1725576353,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1225A75F47C9B772337D7C14AC60B62C",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Fjx"
+    },
+    "reaction": "",
+    "timestamp": 1725576381,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D80C2BAEF3108F9536FEEE3179476D06",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo soy confianzudo"
+    },
+    "reaction": "",
+    "timestamp": 1725576386,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50586559938@s.whatsapp.net",
+      "id": "A3DEAEEA5A9954DF2478397715DB1BA8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9CB854670D2E264A86E8F7F4F553F641",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo también"
+    },
+    "reaction": "",
+    "timestamp": 1725576393,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "06F7F63DC0E4B480AA2B642A56F78430",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Van al colegio?"
+    },
+    "reaction": "",
+    "timestamp": 1725576427,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9F0C8D93D94E5E7DA0F9C6C41DB3E427",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Dame un segundo"
+    },
+    "reaction": "",
+    "timestamp": 1725576431,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "13380DE79F852FEAF1139C275EF7183A",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Estoy jugando fornite"
+    },
+    "reaction": "",
+    "timestamp": 1725576437,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B5E70F5C313C5F2C5ECA5D697C2450D9",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Nombré Christian \nEdad 23 \nPaís Nicaragua \nEntretenimiento: pubg \nTrabajo confidencial"
+    },
+    "reaction": "",
+    "timestamp": 1725576443,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "342BEA07900B1127263C6C881DFD79EB",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "No"
+    },
+    "reaction": "",
+    "timestamp": 1725576456,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "06F7F63DC0E4B480AA2B642A56F78430"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9CE6922911B7A62B4334AC4706BFCDF3",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ya veo"
+    },
+    "reaction": "",
+    "timestamp": 1725576464,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6A7D49A3BB6E70124142667467289C34",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Y tú?"
+    },
+    "reaction": "",
+    "timestamp": 1725576468,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8D36A558B60C13F693C22FB03922E2C0",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725576472,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E649E6960A31656BCD3B721D3DB4A794",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Eres de panamá"
+    },
+    "reaction": "",
+    "timestamp": 1725576479,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E0F8EF519E739B0D05F0B51006EAFEC2",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Cierto"
+    },
+    "reaction": "",
+    "timestamp": 1725576481,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "948167057CF8F8AD139107828BA839B2",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yeah"
+    },
+    "reaction": "",
+    "timestamp": 1725576483,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FD6DA0E33E9F116EA6365D793B14DD6F",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "507"
+    },
+    "reaction": "",
+    "timestamp": 1725576485,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6FDF914E1B26028F3B7EE2EB3E33F9CA",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Entrenamiento?"
+    },
+    "reaction": "",
+    "timestamp": 1725576506,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "61B1669C5E2A9486F69659389D8FFE98",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Oye"
+    },
+    "reaction": "",
+    "timestamp": 1725576511,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50586559938@s.whatsapp.net",
+      "id": "B5E70F5C313C5F2C5ECA5D697C2450D9"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "93620AADA2368F8E23A5EAC7D020725C",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "En qué te gusta entretenerte"
+    },
+    "reaction": "",
+    "timestamp": 1725576517,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "81652F6B9629455D45BD4E1C48C5B675",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Demasiada confianza XD"
+    },
+    "reaction": "",
+    "timestamp": 1725576522,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3D6EC97E611498A596DE39D782DCDF8A",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Nada"
+    },
+    "reaction": "",
+    "timestamp": 1725576559,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "643B4493186B51D839455D5BCE194768",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Solo estudio"
+    },
+    "reaction": "",
+    "timestamp": 1725576559,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "26ACBEF0442CB60940D417D53F03777B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que aburrid@"
+    },
+    "reaction": "",
+    "timestamp": 1725576570,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B00DE2AE521B83324C32BDB579DAFA61",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Jajajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725576582,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8C28A0BF5FC8615A7ACFBCE0273512AA",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Seee"
+    },
+    "reaction": "",
+    "timestamp": 1725576583,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E19C3A013BE2C86ADF816548584BB003",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Solo estudiar"
+    },
+    "reaction": "",
+    "timestamp": 1725576591,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A7175C011714A595861A7FACDD2667DE",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ksk"
+    },
+    "reaction": "",
+    "timestamp": 1725576602,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "446708D8BFC967A2FB50F22858F1C501",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pinche jente marihuana respondan"
+    },
+    "reaction": "",
+    "timestamp": 1725576610,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BD4C408DC582A4981100F69E59E26E8F",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que edad tienes?"
+    },
+    "reaction": "",
+    "timestamp": 1725576615,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FDA37FB010EDEF4F2FB966699CD02064",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Están fumados"
+    },
+    "reaction": "",
+    "timestamp": 1725576620,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "18094392824@s.whatsapp.net",
+      "id": "446708D8BFC967A2FB50F22858F1C501"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "50DE930F676FFAAB124E9F593040D6D8",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo 17"
+    },
+    "reaction": "",
+    "timestamp": 1725576625,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50586559938@s.whatsapp.net",
+      "id": "BD4C408DC582A4981100F69E59E26E8F"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "35235A0FAD00860A67C8407CD8694C27",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Va"
+    },
+    "reaction": "",
+    "timestamp": 1725576631,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "50DE930F676FFAAB124E9F593040D6D8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3E9783069B7AB9DA1BA5F543E2424A04",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Eres menor"
+    },
+    "reaction": "",
+    "timestamp": 1725576633,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4AFE529EB6B7C90E42C971E1E0044899",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Bueno fué un gusto"
+    },
+    "reaction": "",
+    "timestamp": 1725576644,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9FB47DF4ACAB5FE8C456E2E454FFC1A0",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "WTF"
+    },
+    "reaction": "",
+    "timestamp": 1725576670,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493765011868@s.whatsapp.net",
+      "id": "B543D40D95932F216E3074F3A1A0CDB4"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DF40897C44251765CCFDBEDB6BA81169",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que random"
+    },
+    "reaction": "",
+    "timestamp": 1725576688,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3818395494505F661EB196860673FD16",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Jaja q"
+    },
+    "reaction": "",
+    "timestamp": 1725576699,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493765011868@s.whatsapp.net",
+      "id": "B543D40D95932F216E3074F3A1A0CDB4"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3F65A27A3347265FD749ABC72DCA1E0C",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Alguien para compartir stickers"
+    },
+    "reaction": "",
+    "timestamp": 1725576718,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AC94BCA9DD123E36854097F177F6F3EC",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Intercambiar?"
+    },
+    "reaction": "",
+    "timestamp": 1725576721,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DA06B7FF0F6F52914C15F7E3A417C3D2",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo no tengo"
+    },
+    "reaction": "",
+    "timestamp": 1725576727,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C829B2416CC62BEC06EC909F361BADB9",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Necesito stikers"
+    },
+    "reaction": "",
+    "timestamp": 1725576731,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C3B6789547B7551C99BE9E64ECEC74BB",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Nop"
+    },
+    "reaction": "",
+    "timestamp": 1725576731,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5C227AA78D11FF981A3C553D503B4E03",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Nada mas tengo 4 😔👍🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725576743,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A52E5AE06DC45658534D16CC73327AD2",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Bueno yo te envío"
+    },
+    "reaction": "",
+    "timestamp": 1725576743,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7DD2218FC35A122FFEBC40332E7B558B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "4"
+    },
+    "reaction": "",
+    "timestamp": 1725576748,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "5C227AA78D11FF981A3C553D503B4E03"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "624151FE0487E25FA0581CBBA72EE0C8",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Lindo gato"
+    },
+    "reaction": "",
+    "timestamp": 1725576798,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E94E6475560594B45052750E609F618B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Mi gata"
+    },
+    "reaction": "",
+    "timestamp": 1725576813,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AD6E3FEA1755B95A292F80A48C9B79E3",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Está bonita"
+    },
+    "reaction": "",
+    "timestamp": 1725576831,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1E3F8EACE44AAD0FAE59A435BE760952",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Tiene 6 meses"
+    },
+    "reaction": "",
+    "timestamp": 1725576855,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D59256D23603670FC1054A5BE4C25469",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Tambien tengo 3 mas"
+    },
+    "reaction": "",
+    "timestamp": 1725576866,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9F38690D9EADD7D9EDCF0AF048B1E581",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Y porque tantos ajjajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725576889,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E6BC1D55F40D21B22F9E721F0A15FC94",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "No se"
+    },
+    "reaction": "",
+    "timestamp": 1725576907,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "50E4F8CAFED108BF7AAE6312D1A6C550",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que lindo oe"
+    },
+    "reaction": "",
+    "timestamp": 1725576918,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "3A2CE2803998D256EFF79E7D1C5085BB"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D3B1EAA8DC429BC7147C2384EE8BBC39",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "3 son de 6 meses y uno de dudosa procedencia"
+    },
+    "reaction": "",
+    "timestamp": 1725576928,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CE7657513759CA627117DFC9A6F6EE30",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Michi"
+    },
+    "reaction": "",
+    "timestamp": 1725576928,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CFE3595C3356378FEB15A705ACC5D79A",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Na gato de película mis gatos tan feos"
+    },
+    "reaction": "",
+    "timestamp": 1725576977,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "B751CA92E98716E398223F69812389CE"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5D185BD92165131218DD39C3D2964A70",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Jajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725577007,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5F4E82071EAE7651C7F7447C2D96537F",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Los otros estan por allí, uno se llama niki otra haerin y ella se llama ella"
+    },
+    "reaction": "",
+    "timestamp": 1725577051,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "B751CA92E98716E398223F69812389CE"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "55095A95A3B7473EBB97E609C566A43B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Shh que"
+    },
+    "reaction": "",
+    "timestamp": 1725577184,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "57A72118416BBB0B430A8FC1353487B6",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Zzzzz"
+    },
+    "reaction": "",
+    "timestamp": 1725577239,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "68D19C311F668382EBBC4D3DFE85CD48",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Jajjaja"
+    },
+    "reaction": "",
+    "timestamp": 1725577307,
+    "senderName": "franklyn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D7AAF186F2A9703182156EB02994DC2A",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Justo se fue"
+    },
+    "reaction": "",
+    "timestamp": 1725577321,
+    "senderName": "Salinas.li",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A3CFAFAC6AF6737EF2A",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Holi agg"
+    },
+    "reaction": "",
+    "timestamp": 1725577663,
+    "senderName": "Raul.🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EA5E1F1EB9AB1C3BC0AF5B5B8D0A1080",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Sí alguien quiere agregar para ver estados que avíse"
+    },
+    "reaction": "",
+    "timestamp": 1725577700,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A7CB986B2C944BC4ECA",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo"
+    },
+    "reaction": "",
+    "timestamp": 1725577714,
+    "senderName": "Raul.🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50586559938@s.whatsapp.net",
+      "id": "EA5E1F1EB9AB1C3BC0AF5B5B8D0A1080"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "35D0E4E803E7C7AD2D42A33160086FDF",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725577722,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AC1E2EC1B1D2275D8C7",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725577744,
+    "senderName": "Raul.🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C2794B15F47E66EFCE9F10432D39356C",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "???"
+    },
+    "reaction": "",
+    "timestamp": 1725577934,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4DDE43C3ACB269BEFDFB7E37DE205996",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725577950,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59176585369@s.whatsapp.net",
+      "id": "C2794B15F47E66EFCE9F10432D39356C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "050D648A2394B2753A4435B8A2E3BCBB",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que se hace aca"
+    },
+    "reaction": "",
+    "timestamp": 1725578379,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7AD8A45D3872C183FBF1DF9D1631264D",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pz de todo"
+    },
+    "reaction": "",
+    "timestamp": 1725578390,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A69794D8237C0404E239F8A58276DD66",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Soy nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725578392,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1BD3EC1A647CCE9ADF598AE5DB6C2E0D",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Yo tmb"
+    },
+    "reaction": "",
+    "timestamp": 1725578399,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BA6AF378BEF9BD7B947D57C1BE2E1DDC",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pero supongo que compartir"
+    },
+    "reaction": "",
+    "timestamp": 1725578400,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FC7A1DF2F1C7D5F1FDB4FE5D0CAEF56E",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Hola nos agg"
+    },
+    "reaction": "",
+    "timestamp": 1725578402,
+    "senderName": "DameUnHolaY.TeMuestroMi🍆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "85AFFCCCACDC44546583BE30CD348D0C",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Creo que está muerto este grupo"
+    },
+    "reaction": "",
+    "timestamp": 1725578406,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9EE9776C00986C8C26BEEDD202F2FA4D",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Stickers, videos"
+    },
+    "reaction": "",
+    "timestamp": 1725578409,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D606AB9CA736BEAB46CE93BE6EC59892",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ideas"
+    },
+    "reaction": "",
+    "timestamp": 1725578411,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "702D8EB780B28583AC466F3F030B4034",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Noticia o algo"
+    },
+    "reaction": "",
+    "timestamp": 1725578416,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F4A1CC4171ED094B08A8C27DCB2D5DCF",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que se yo"
+    },
+    "reaction": "",
+    "timestamp": 1725578419,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "011CDD1FEF45A268638E40BBE4A626BD",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725578526,
+    "senderName": "DameUnHolaY.TeMuestroMi🍆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7972AB6D0D651310DDF0923043342407",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pinche grupo más muerto"
+    },
+    "reaction": "",
+    "timestamp": 1725578571,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "407103FB2E155386F0EDEF9B9626C876",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Así véo"
+    },
+    "reaction": "",
+    "timestamp": 1725578582,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "91C7BBBF355E56776DCC25C51B49C90F",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Tengo un grupo propio pero es de Clash of clans"
+    },
+    "reaction": "",
+    "timestamp": 1725578599,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "83AB2FDF47DF7B82C644ABF922B9AE09",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ese si es activo"
+    },
+    "reaction": "",
+    "timestamp": 1725578603,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9317FF885CA11A5A3794586C24DFB80F",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Méteme ahí 😇"
+    },
+    "reaction": "",
+    "timestamp": 1725578616,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0397919DBDEBB3BD8A2C7A92EC1680D0",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pero si alguien no lo juega pz los demás miembros no se lo toman muy agusto"
+    },
+    "reaction": "",
+    "timestamp": 1725578625,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "97EC4314D297DD65138B01762002B50C",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Lo juegas"
+    },
+    "reaction": "",
+    "timestamp": 1725578630,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59176585369@s.whatsapp.net",
+      "id": "9317FF885CA11A5A3794586C24DFB80F"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5560618ED96BDF249254DCA4E0B7F459",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "No 😔"
+    },
+    "reaction": "",
+    "timestamp": 1725578640,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50586559938@s.whatsapp.net",
+      "id": "97EC4314D297DD65138B01762002B50C"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "2E2BE1B222170935BB2DB209BCFCE891",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "caption": "Este es mi Th",
+      "fileName": "HyCf9U.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725578896,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A7676F6D6A07E40E26B",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que rico"
+    },
+    "reaction": "",
+    "timestamp": 1725578996,
+    "senderName": "Moy",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573122041022@s.whatsapp.net",
+      "id": "1757ACF495DB2E27207F950FB463BD69"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A66BB5208AD7735DBEC6BA01BDC63392",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Pueden mandar lo que sea ?"
+    },
+    "reaction": "",
+    "timestamp": 1725579013,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6CD4BDC1CD0182410C69687EF9335AB7",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Creo que si"
+    },
+    "reaction": "",
+    "timestamp": 1725579028,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "97E73FA0914F67EEADBE91977549A499",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Si creo que sí"
+    },
+    "reaction": "",
+    "timestamp": 1725579032,
+    "senderName": "Neftaly",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59176585369@s.whatsapp.net",
+      "id": "A66BB5208AD7735DBEC6BA01BDC63392"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F9331DE34A6B3E5397FE6884C7D1BD48",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Ah bueno"
+    },
+    "reaction": "",
+    "timestamp": 1725579042,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F23B2E3722414F1FD007F26BE88D8162",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "No, soy albañil ☠️"
+    },
+    "reaction": "",
+    "timestamp": 1725579114,
+    "senderName": "Manuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "06F7F63DC0E4B480AA2B642A56F78430"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "56EE501F3FE5E07538AA52060B7C1FCD",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que piensas mandar we jajs"
+    },
+    "reaction": "",
+    "timestamp": 1725579119,
+    "senderName": "Neftaly",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59176585369@s.whatsapp.net",
+      "id": "F9331DE34A6B3E5397FE6884C7D1BD48"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FB8B61461F8E798002818BE64BA3AAE8",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "No y tu"
+    },
+    "reaction": "",
+    "timestamp": 1725579134,
+    "senderName": "Neftaly",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50767691391@s.whatsapp.net",
+      "id": "06F7F63DC0E4B480AA2B642A56F78430"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1B35B50F4EFF245B02F98FF15687F0A6",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725580075,
+    "senderName": "DameUnHolaY.TeMuestroMi🍆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADA18B9CAB0E00B11F4",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "https://vm.tiktok.com/ZMroMGK5E/"
+    },
+    "reaction": "",
+    "timestamp": 1725580225,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D3E74DD0E1ED4E386E9166646EF8F409",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Que"
+    },
+    "reaction": "",
+    "timestamp": 1725582011,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491127277990@s.whatsapp.net",
+      "id": "14623BB5ABDF78E0645FB1DD3F131341"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "74D6B48FFCE18B2017FFD9CB8E4E7CB7",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Chingas a tu madre"
+    },
+    "reaction": "",
+    "timestamp": 1725582038,
+    "senderName": "Manuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491127277990@s.whatsapp.net",
+      "id": "14623BB5ABDF78E0645FB1DD3F131341"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7B8065D6184CF965456CE70F33FA3EE7",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "😧"
+    },
+    "reaction": "",
+    "timestamp": 1725582113,
+    "senderName": ".•*•°Dan°•.•*",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "18016444709@s.whatsapp.net",
+      "id": "01BC2A5C4899FACE51B8028A965A7EE5"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CD92A79CAA8ED430DD6F941AD50D9068",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Alguien para intercambiar stickers"
+    },
+    "reaction": "",
+    "timestamp": 1725582169,
+    "senderName": "CG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2BC8269188AEDA94A3C097EAFB299761",
+    "remoteJid": "120363322541737633@g.us",
+    "msgContext": {
+      "text": "Te Recomiendo que mejor te salgas de esté grupo, aquí mandan puro mmd"
+    },
+    "reaction": "",
+    "timestamp": 1725582174,
+    "senderName": "Manuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59176585369@s.whatsapp.net",
+      "id": "7B8065D6184CF965456CE70F33FA3EE7"
+    }
+  }
+]

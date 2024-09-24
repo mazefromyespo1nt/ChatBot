@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ED3CF58ADC59118824",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725665017,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB037E2D8C938AB2FE543",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725667864,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

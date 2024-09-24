@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACCD768581A199D3465",
+    "remoteJid": "5217442392565@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725491747,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E880A8158BE401C04B",
+    "remoteJid": "5217442392565@s.whatsapp.net",
+    "msgContext": {
+      "text": "wep"
+    },
+    "reaction": "",
+    "timestamp": 1725491751,
+    "senderName": "Aldhair Gomez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

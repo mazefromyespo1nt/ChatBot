@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2D71A187014A67B899C4CFB8571826D7",
+    "remoteJid": "50672072490@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725646561,
+    "senderName": "johanjimenez1428",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B01F88C0F5A7D794BEE1B48EA58A5A7C",
+    "remoteJid": "50672072490@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga un buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725647207,
+    "senderName": "Sharon Trejos",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

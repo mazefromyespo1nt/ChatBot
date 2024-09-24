@@ -1,0 +1,50 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABCF190E23D1716D12F",
+    "remoteJid": "120363315027192173@g.us",
+    "msgContext": {
+      "text": "Habla"
+    },
+    "reaction": "",
+    "timestamp": 1725892266,
+    "senderName": "Hannibal Rodriguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A3231F9B656C3776447",
+    "remoteJid": "120363315027192173@g.us",
+    "msgContext": {
+      "text": "Prueben esto Te comparto el demo del sistema, inicias sesión con las credenciales que te proporcioné y lo primero que debes hacer es ir dar clic en la imagen de perfil, luego seleccionar \"Administrar instancias\", ahí vas a ponerle nombre a la instancia y vas a dar clic en el icono + y se generará un código QR, ese código lo vas a leer con tu WhatsApp (igual que como funciona WhatsApp Web) y ya las conversaciones te estarán llegando al sistema también, las puedes visualizar en \"Bandeja de entrada\", cualquier duda que tengas me avisas.\n\nhttp://sistemacrmwhats.com/user/login\nhannibal@angel.com\n123456\n\nLAS CREDENCIALES DE ACCESO TIENEN VALIDEZ SOLAMENTE POR EL DÍA DE HOY"
+    },
+    "reaction": "",
+    "timestamp": 1725892271,
+    "senderName": "Hannibal Rodriguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A3A4B60DA5A371E7411",
+    "remoteJid": "120363315027192173@g.us",
+    "msgContext": {
+      "text": "Si les ayuda lo compro"
+    },
+    "reaction": "",
+    "timestamp": 1725892276,
+    "senderName": "Hannibal Rodriguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

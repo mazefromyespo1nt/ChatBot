@@ -1,0 +1,279 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD051F0DE35071B5052",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuando está disponible esta campaña?"
+    },
+    "reaction": "",
+    "timestamp": 1725813019,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CE6EFC9E5DC6BE7023",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "HOY MISMO"
+    },
+    "reaction": "",
+    "timestamp": 1725813042,
+    "senderName": "Claudia",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1FFE29F262510D10A8",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amazon"
+    },
+    "reaction": "",
+    "timestamp": 1725818571,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB017815106C5A4D40054",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Tarifas de amazon",
+      "fileName": "VZk0TpD9uRWT5KxMsKjitg3q41qz1R3X.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725818573,
+    "senderName": "Claudia",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA10419F875E761B8E0",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Google"
+    },
+    "reaction": "",
+    "timestamp": 1725818591,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F8D3EA532FDFB0BF1A",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Hola  soy gooogle !!!!",
+      "fileName": "C8tjf4XliXc9nuPPkePkgWVBfqckUu2w.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725818592,
+    "senderName": "Claudia",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A72FE58661D2A91857C",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/r/qsit7zniXkWQ9QDr/?mibextid=UalRPS"
+    },
+    "reaction": "",
+    "timestamp": 1725819905,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A50D824E7164F6A2F49",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://youtu.be/owUzIPXmhoE?si=C58ef_hAWEcWEykj"
+    },
+    "reaction": "",
+    "timestamp": 1725822873,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A49CBA1245FE0CA129D",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, yo uso Wise para enviar dinero al extranjero. ¡Realmente es muy fácil y mucho más barato que con el banco! Pruébalo con una transferencia sin comisiones de hasta 14.000 MXN. https://wise.com/invite/diw/miguelangelramoshernandezr"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4548E503FAFC300AEE",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Correo: Mike.ramosh2@gmail.com"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2C3DE174214A57F2E4",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nombre Completo: Miguel Angel Ramos Hernández"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADA650DA9B89F2DC95A",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "CLABE: 012180015074825046"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A21E0C6A61467A1CD36",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "CURP: RAHM930702HSLMRG09"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A15925BA0D0F3A43BFF",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "País: México"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEAED1391765CE677DF",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ciudad: Culiacán"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7DE59B8DCD0E71293B",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dirección: Sinaloa"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AABD5CE2B465255732C",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Código Postal: 80246"
+    },
+    "reaction": "",
+    "timestamp": 1725834138,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

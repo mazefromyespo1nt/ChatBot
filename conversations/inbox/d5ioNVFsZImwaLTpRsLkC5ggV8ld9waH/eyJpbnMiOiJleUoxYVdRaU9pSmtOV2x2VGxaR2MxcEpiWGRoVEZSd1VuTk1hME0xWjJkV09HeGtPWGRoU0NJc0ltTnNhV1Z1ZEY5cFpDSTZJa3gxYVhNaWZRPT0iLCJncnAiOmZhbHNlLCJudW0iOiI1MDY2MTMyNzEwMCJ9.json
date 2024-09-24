@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0748048BFACFF773CB8",
+    "remoteJid": "50661327100@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Último Mensaje\n\nCarlos, un joven programador, pasaba largas horas trabajando en su ordenador en un pequeño apartamento en el centro de la ciudad. Una noche, mientras estaba en medio de un proyecto, su teléfono sonó con una notificación de mensaje. Era de un número desconocido.\n\nEl mensaje decía: “Sé lo que hiciste.” Carlos frunció el ceño, pensando que era una broma o un error. Decidió ignorarlo y continuar trabajando. Sin embargo, el mensaje se repetía cada noche a la misma hora, con un contenido cada vez más inquietante: “Te estoy vigilando. Pronto pagarás.”\n\nCarlos, ya molesto y asustado, bloqueó el número, pero el mensaje seguía llegando desde diferentes números. Empezó a sentirse observado y paranoico, como si alguien estuviera acechándolo desde las sombras.\n\nUna noche, mientras revisaba sus correos electrónicos, encontró un archivo adjunto en uno de ellos que no recordaba haber recibido. El archivo tenía el nombre: “Prueba de tu culpa”. Temblando, lo abrió y encontró una grabación de video. El video mostraba a Carlos en su propia casa, desde una cámara oculta que no había notado antes.\n\nEn el video, se veía a Carlos moviéndose por su apartamento, trabajando en su ordenador, y al final del clip, una figura enmascarada aparecía brevemente en el fondo, observándolo.\n\nCarlos sintió un escalofrío recorrer su espalda. Rápidamente revisó cada rincón de su apartamento, pero no encontró ninguna cámara. Desesperado, trató de rastrear el origen del archivo, pero no pudo encontrar ninguna pista.\n\nEsa noche, el mensaje más reciente llegó con una foto. Era una imagen de Carlos durmiendo en su cama, tomada desde un ángulo que solo alguien muy cercano podría haber usado. Junto a la foto había un mensaje final: “Gracias por tu colaboración. Ahora, el juego ha terminado.”\n\nCarlos nunca pudo averiguar quién estaba detrás de los mensajes ni cómo habían logrado infiltrarse en su vida de esa manera. La sensación de estar siempre vigilado y el terror de las noches interminables lo llevaron a abandonar su apartamento, y nunca volvió a encontrar tranquilidad."
+    },
+    "reaction": "",
+    "timestamp": 1725991624,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0497A9FED03DF009D84",
+    "remoteJid": "50661327100@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725994699,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08E1C36C1037B817101",
+    "remoteJid": "50661327100@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió?\n\nPorque tenía demasiados problemas."
+    },
+    "reaction": "",
+    "timestamp": 1725994743,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D9692C3C54A3AE2E85",
+    "remoteJid": "50661327100@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le Chat et la Lune\n\nUne nuit d’été, alors que le ciel était parsemé d’étoiles scintillantes, un chat noir nommé Minou se prélassait sur le toit d’une vieille maison. Il regardait la lune avec admiration, la trouvant particulièrement brillante cette nuit-là.\n\n« Que fais-tu là-haut, petite lune ? » demanda Minou, intrigué par la beauté mystérieuse de l’astre.\n\nLa lune, surprise par la question, lui répondit doucement : « Je veille sur vous tous, en éclairant la nuit et en guidant les voyageurs perdus. Mais ce soir, j’aimerais entendre un conte de ta part, cher Minou. »\n\nMinou, qui aimait les histoires, accepta avec enthousiasme. Il commença à raconter une vieille légende sur une forêt enchantée, où les arbres parlaient et les rivières chantaient des mélodies envoûtantes. Il parla aussi d’un prince courageux et d’une princesse sage qui avaient sauvé leur royaume grâce à leur bravoure et leur sagesse.\n\nLa lune écoutait avec attention, éblouie par la richesse des détails et la tendresse des émotions que Minou dépeignait. En écoutant cette histoire merveilleuse, elle se sentait plus proche des créatures terrestres qu’elle illuminait chaque nuit.\n\nLorsque le conte fut terminé, la lune remercia Minou avec une lueur encore plus éclatante. « Merci pour cette belle histoire, Minou. Elle m’a rappelé combien il est important de partager des rêves et des légendes, même lorsque l’on est à des millions de kilomètres d’ici. »\n\nMinou sourit et regarda la lune qui se parait d’un éclat doré. Il se frotta contre le toit avec satisfaction, puis s’endormit paisiblement, sachant qu’il avait offert un cadeau précieux à son amie céleste.\n\nDepuis ce soir-là, chaque nuit, la lune brille un peu plus fort, comme pour rappeler aux gens qu’une bonne histoire peut illuminer même les nuits les plus sombres."
+    },
+    "reaction": "",
+    "timestamp": 1726001736,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

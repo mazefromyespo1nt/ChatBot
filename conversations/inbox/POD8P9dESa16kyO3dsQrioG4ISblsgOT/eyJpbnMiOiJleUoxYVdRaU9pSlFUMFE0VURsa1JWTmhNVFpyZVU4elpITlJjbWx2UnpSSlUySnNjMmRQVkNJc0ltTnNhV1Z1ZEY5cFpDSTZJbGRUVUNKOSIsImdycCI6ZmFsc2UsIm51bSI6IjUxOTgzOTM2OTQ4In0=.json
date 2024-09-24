@@ -1,0 +1,85 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DFB9040A96BBF9F17F",
+    "remoteJid": "51983936948@s.whatsapp.net",
+    "msgContext": {
+      "text": "*CAIDA DISNEY + ESPN*\nC6VRMJUZB@juanpa.fun | vip923812"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725507266,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1D94A5FC3A74391A65BCAC42FFF4E1A1",
+    "remoteJid": "51983936948@s.whatsapp.net",
+    "msgContext": {
+      "text": "DPJTPK8CT@juanpa.pro Vip156445\n\n*DIS PREM ESPN / REEMPLAZO*"
+    },
+    "reaction": "",
+    "timestamp": 1725546261,
+    "senderName": "Giovanni",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51935359876@s.whatsapp.net",
+      "id": "3EB0DFB9040A96BBF9F17F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5A3A2C7890D6F1DC5F529C5E4AE4A5DF",
+    "remoteJid": "51983936948@s.whatsapp.net",
+    "msgContext": {
+      "text": "D6K29ZYY1@juanpa.one\npremiumstore033@streamples.com\n\nDIS PREM SIN"
+    },
+    "reaction": "",
+    "timestamp": 1725566090,
+    "senderName": "Giovanni",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AB9D5E7D5D90119169",
+    "remoteJid": "51983936948@s.whatsapp.net",
+    "msgContext": {
+      "text": "se renueva se reneuva"
+    },
+    "reaction": "",
+    "timestamp": 1725566146,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9B5292CC29E7FCFE7C1B63D41C95B350",
+    "remoteJid": "51983936948@s.whatsapp.net",
+    "msgContext": {
+      "text": "Queda queda"
+    },
+    "reaction": "",
+    "timestamp": 1725566681,
+    "senderName": "Giovanni",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

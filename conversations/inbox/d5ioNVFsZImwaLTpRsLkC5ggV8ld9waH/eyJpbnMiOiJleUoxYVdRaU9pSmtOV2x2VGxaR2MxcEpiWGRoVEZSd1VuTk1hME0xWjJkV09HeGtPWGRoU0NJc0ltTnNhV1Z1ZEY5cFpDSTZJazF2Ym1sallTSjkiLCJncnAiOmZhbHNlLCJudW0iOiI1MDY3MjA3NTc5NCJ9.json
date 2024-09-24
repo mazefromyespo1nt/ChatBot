@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "64A764FC10751207F4D03CDB4EDA9B4B",
+    "remoteJid": "50672075794@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, gracias.\nYa tengo un servicio telefónico Liberty"
+    },
+    "reaction": "",
+    "timestamp": 1725919285,
+    "senderName": "Patsy Juárez 🌸",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "44FAD43AA3F643027E23C1170C9E5307",
+    "remoteJid": "50672075794@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto.\nTambién cuentas ya servicios de hogar(cable e Internet)? En este momentos tenemos excelentes promociones."
+    },
+    "reaction": "",
+    "timestamp": 1725919414,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0DCD3F944D2054D9A48F10A15A68BFA0",
+    "remoteJid": "50672075794@s.whatsapp.net",
+    "msgContext": {
+      "text": "De momento estoy bien.\nGracias"
+    },
+    "reaction": "",
+    "timestamp": 1725920132,
+    "senderName": "Patsy Juárez 🌸",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A65D23BB05BC9EBC9E",
+    "remoteJid": "50672075794@s.whatsapp.net",
+    "msgContext": {
+      "text": "Entiendo muchas gracias por el timpo"
+    },
+    "reaction": "",
+    "timestamp": 1725920195,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

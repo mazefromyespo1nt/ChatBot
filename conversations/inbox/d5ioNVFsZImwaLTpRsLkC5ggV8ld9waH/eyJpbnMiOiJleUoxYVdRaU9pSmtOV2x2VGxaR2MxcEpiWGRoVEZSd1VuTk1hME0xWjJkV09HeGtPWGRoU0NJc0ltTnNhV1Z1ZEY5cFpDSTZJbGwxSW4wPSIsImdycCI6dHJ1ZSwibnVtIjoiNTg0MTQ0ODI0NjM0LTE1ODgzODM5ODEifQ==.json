@@ -1,0 +1,126 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2C6AB995BBD68574B79B3DAE76D3C2BC",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "la 3ra persona que me dice eso"
+    },
+    "reaction": "",
+    "timestamp": 1725575623,
+    "senderName": "Canguro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5219831369377@s.whatsapp.net",
+      "id": "2C278D99681B511365A3B21209E983DD"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "531E878C4889BFC702644EA147A33E5E",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "Pq"
+    },
+    "reaction": "",
+    "timestamp": 1725575653,
+    "senderName": "Luis Ángel 🎼",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "595986381062@s.whatsapp.net",
+      "id": "2C6AB995BBD68574B79B3DAE76D3C2BC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "82921AA9B74FA05CD687AD0171628257",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "Se me acaba de ocurrir"
+    },
+    "reaction": "",
+    "timestamp": 1725575667,
+    "senderName": "Luis Ángel 🎼",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "61047F77B0A82F01D913E69CDA1172DB",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "Yo lo invente"
+    },
+    "reaction": "",
+    "timestamp": 1725575671,
+    "senderName": "Luis Ángel 🎼",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "845D95887A0DB12F941B1C201129C84F",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "te respondí antes"
+    },
+    "reaction": "",
+    "timestamp": 1725575691,
+    "senderName": "Joss",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5219831369377@s.whatsapp.net",
+      "id": "09AB9DEF02C4F5A5386DFF4253714A7E"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BAF255E48A82282A64F5E5CB7FAEA150",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "pamplin"
+    },
+    "reaction": "",
+    "timestamp": 1725575693,
+    "senderName": "Joss",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "ED8516B2787FC7A6861066A7C824CC71",
+    "remoteJid": "584144824634-1588383981@g.us",
+    "msgContext": {
+      "text": "ok"
+    },
+    "reaction": "",
+    "timestamp": 1725575700,
+    "senderName": "Joss",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5219831369377@s.whatsapp.net",
+      "id": "2C278D99681B511365A3B21209E983DD"
+    }
+  }
+]

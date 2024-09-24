@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0775ADC9AACA58CFB16",
+    "remoteJid": "50661329621@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725575716,
+    "senderName": "Hillary Dist Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

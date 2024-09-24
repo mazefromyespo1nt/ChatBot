@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB099554794BCABF721FC",
+    "remoteJid": "50661331236@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué hace una abeja en el gimnasio?\n\n¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725992486,
+    "senderName": "Hillary Dist Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03B10E59B84B4C2E51C",
+    "remoteJid": "50661331236@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Último Mensaje\n\nCarlos, un joven programador, pasaba largas horas trabajando en su ordenador en un pequeño apartamento en el centro de la ciudad. Una noche, mientras estaba en medio de un proyecto, su teléfono sonó con una notificación de mensaje. Era de un número desconocido.\n\nEl mensaje decía: “Sé lo que hiciste.” Carlos frunció el ceño, pensando que era una broma o un error. Decidió ignorarlo y continuar trabajando. Sin embargo, el mensaje se repetía cada noche a la misma hora, con un contenido cada vez más inquietante: “Te estoy vigilando. Pronto pagarás.”\n\nCarlos, ya molesto y asustado, bloqueó el número, pero el mensaje seguía llegando desde diferentes números. Empezó a sentirse observado y paranoico, como si alguien estuviera acechándolo desde las sombras.\n\nUna noche, mientras revisaba sus correos electrónicos, encontró un archivo adjunto en uno de ellos que no recordaba haber recibido. El archivo tenía el nombre: “Prueba de tu culpa”. Temblando, lo abrió y encontró una grabación de video. El video mostraba a Carlos en su propia casa, desde una cámara oculta que no había notado antes.\n\nEn el video, se veía a Carlos moviéndose por su apartamento, trabajando en su ordenador, y al final del clip, una figura enmascarada aparecía brevemente en el fondo, observándolo.\n\nCarlos sintió un escalofrío recorrer su espalda. Rápidamente revisó cada rincón de su apartamento, pero no encontró ninguna cámara. Desesperado, trató de rastrear el origen del archivo, pero no pudo encontrar ninguna pista.\n\nEsa noche, el mensaje más reciente llegó con una foto. Era una imagen de Carlos durmiendo en su cama, tomada desde un ángulo que solo alguien muy cercano podría haber usado. Junto a la foto había un mensaje final: “Gracias por tu colaboración. Ahora, el juego ha terminado.”\n\nCarlos nunca pudo averiguar quién estaba detrás de los mensajes ni cómo habían logrado infiltrarse en su vida de esa manera. La sensación de estar siempre vigilado y el terror de las noches interminables lo llevaron a abandonar su apartamento, y nunca volvió a encontrar tranquilidad."
+    },
+    "reaction": "",
+    "timestamp": 1725992549,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EC7501C0DDB66DDC0B",
+    "remoteJid": "50661331236@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuántos huesos tiene el cuerpo humano?"
+    },
+    "reaction": "",
+    "timestamp": 1725993515,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E51B5DD10D78F07EB6",
+    "remoteJid": "50661331236@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué le dice un jardinero a otro?\n\n¡Disfrutemos mientras podamos!"
+    },
+    "reaction": "",
+    "timestamp": 1725999567,
+    "senderName": "Hillary Dist Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

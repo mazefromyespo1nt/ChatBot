@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2DE2E1267F838344DC7574830ED87A92",
+    "remoteJid": "573118534887@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy"
+    },
+    "reaction": "",
+    "timestamp": 1725500391,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

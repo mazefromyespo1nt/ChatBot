@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB098E59CE656C6A6824B",
+    "remoteJid": "50672068522@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725925106,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

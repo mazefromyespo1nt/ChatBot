@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB010542D09A769E65FB7",
+    "remoteJid": "50672070943@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, \n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado en servicios móviles, digitá 1️⃣ y  para servicios residenciales, digitá 2️⃣ y\nte enviaré todos los detalles.\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725983356,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB083D5891B3F876E00A3",
+    "remoteJid": "50689383660@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Oriana Matarrita, es un gusto saludarle de nuevo😃 como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual *CON NUESTRA CAMPAÑA*"
+    },
+    "reaction": "",
+    "timestamp": 1725730338,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0782945A080037B8269",
+    "remoteJid": "50689383660@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* antes costaba 37.500 colones *Puede adquirirlo a un súper precio* .Le incluye  :\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "2lBAuJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730382,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0428A0117E3FC1C4A85",
+    "remoteJid": "50689383660@s.whatsapp.net",
+    "msgContext": {
+      "caption": "os mejores  Planes liberty con el *envio gratis🚚,  sin deposito , con buena cobertura de red fuera y dentro del país✈️* (centro america y norteamerica sin costo) . \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈 y conservamos su número si es  KOLBI o CLARO lo conservas si ya es Liberty te damos uno nuevo mejorado😄",
+      "fileName": "wrRWIT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730412,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

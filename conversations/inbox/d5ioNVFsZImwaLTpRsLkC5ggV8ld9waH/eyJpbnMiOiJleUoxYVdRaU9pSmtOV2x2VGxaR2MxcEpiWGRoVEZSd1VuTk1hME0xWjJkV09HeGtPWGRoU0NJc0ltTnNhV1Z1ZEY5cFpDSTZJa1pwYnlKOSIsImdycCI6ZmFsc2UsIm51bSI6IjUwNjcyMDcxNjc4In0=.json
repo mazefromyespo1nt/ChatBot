@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "999EB3F0724C6C7C7ACC3A02C36E1FD5",
+    "remoteJid": "50672071678@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725663701,
+    "senderName": "btecher145",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

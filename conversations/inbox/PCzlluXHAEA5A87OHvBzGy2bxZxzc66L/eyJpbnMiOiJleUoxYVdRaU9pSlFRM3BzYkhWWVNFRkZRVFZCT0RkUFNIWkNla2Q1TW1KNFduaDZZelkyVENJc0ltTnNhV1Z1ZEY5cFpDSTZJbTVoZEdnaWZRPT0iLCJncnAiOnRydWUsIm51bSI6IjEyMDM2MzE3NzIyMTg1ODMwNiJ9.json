@@ -1,0 +1,52 @@
+[
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB08B82E8E772CE196A09",
+    "remoteJid": "120363177221858306@g.us",
+    "msgContext": {
+      "caption": "pedido (2) URIANGATO SEPTIEMBRE 2024  (1).xlsx",
+      "fileName": "EZOnNZ.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725652248,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DCE0B4780E52C3F559",
+    "remoteJid": "120363177221858306@g.us",
+    "msgContext": {
+      "text": "buen dia, por aqui dejo mi pedido, saludos"
+    },
+    "reaction": "",
+    "timestamp": 1725652260,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B2C737A74691CB22D2",
+    "remoteJid": "120363177221858306@g.us",
+    "msgContext": {
+      "text": "Muchas gracias, Fer. Confirmo de recibido"
+    },
+    "reaction": "",
+    "timestamp": 1725654322,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

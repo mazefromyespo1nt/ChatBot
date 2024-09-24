@@ -1,0 +1,274 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0FF1AACC1D5CB4E8E02",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "Hola, Marco. Una pregunta, en tu pedido hay una \"p\" en el espacio de charola desehcable"
+    },
+    "reaction": "",
+    "timestamp": 1725657746,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5214521641360@s.whatsapp.net",
+      "id": "3EB072A8B31F60B1B35EAA"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09CB79996EE3C270EE2",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "¿Estás pidiendo charola o es error de dedo?"
+    },
+    "reaction": "",
+    "timestamp": 1725657761,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "806BC6AA775E4F15794D8E4E8135BA8A",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "No me aparece"
+    },
+    "reaction": "",
+    "timestamp": 1725657815,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0ACC4267A6B6DFD6ABE",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "Ah vale"
+    },
+    "reaction": "",
+    "timestamp": 1725657898,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03BF56BA661C89B271D",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725657905,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0336B2774CF17E89622",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "Hola, holaaa \n\nMe pasas de favor tu *Pedido de REFRESCO* para la próxima  semana.\n\nGracias ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725658113,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CF127F2865CAD1633B4E4D7A8ED339BC",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "*Para Villas y Tréboles*\nRefresco de 2 L\n3 Pepsi\n2 de manzana\n2 de sangría \n2 7up\n2 miranda \nRefresco de 600mL\n1 de pepsi\n1 de manzana \n1 sangría \n\n*AGAVES y TESISTAN*\nRefresco de 2L \n4 Pepsi\n3 manzana\n3 sangría\n3 miranda \n3 7up\nRefresco de 600mL\n2 pepsi\n1 manzana \n1 sangría"
+    },
+    "reaction": "",
+    "timestamp": 1725659815,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "36084424B2294BC3D6C4FAFFC2795603",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "caption": "Ya van 2 masas que salen con ese tipo de pelos",
+      "fileName": "bpsBTs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725739719,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB0942F7F00F15C6E311C",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "caption": "TESISTAN.xlsx",
+      "fileName": "W7MAJP.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725888330,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB03B158A212158EB5524",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "caption": "TREBOLES.xlsx",
+      "fileName": "DRB7d4.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725888330,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB0035C4A70D0EF0F8AAB",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "caption": "VILLAS DE GUADALUPE.xlsx",
+      "fileName": "7AY6zG.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725888330,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB05521045ED55BF760B4",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "caption": "AGAVES.xlsx",
+      "fileName": "ZbHRPv.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725888780,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A774EE13709FC1163C9",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "Holaaa Marco 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725891533,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03F0E771DCEA8EB05C9",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725891844,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB028AF7C27568B8D25C0",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725891855,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0736823F0DE87B1A5F0",
+    "remoteJid": "120363194969942585@g.us",
+    "msgContext": {
+      "text": "Contenedor de papa para Agaves"
+    },
+    "reaction": "",
+    "timestamp": 1725891899,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

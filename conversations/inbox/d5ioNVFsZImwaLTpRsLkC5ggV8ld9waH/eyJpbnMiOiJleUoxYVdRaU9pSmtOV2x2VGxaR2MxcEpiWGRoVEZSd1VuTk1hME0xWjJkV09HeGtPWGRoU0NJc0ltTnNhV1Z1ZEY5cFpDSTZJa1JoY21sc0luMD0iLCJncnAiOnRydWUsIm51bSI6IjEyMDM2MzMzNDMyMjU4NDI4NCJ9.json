@@ -1,0 +1,54 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "82BF258C75326C6DF75F9FCBAF6AF848",
+    "remoteJid": "120363334322584284@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sJxH9o.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725914613,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7AFD051BE6F80D2D79D68E66F6EA7368",
+    "remoteJid": "120363334322584284@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NzEf6C.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725915110,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB075C0178168D56863B3",
+    "remoteJid": "120363334322584284@g.us",
+    "msgContext": {
+      "text": "💪☺️✨"
+    },
+    "reaction": "",
+    "timestamp": 1725919075,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

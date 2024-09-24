@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D23DC1E80F3E7799AA",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725662195,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D9C700DEBB8BAB2D6C",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725662229,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DBA87DF371361901D1",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725662271,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E18C0A3ECF9E6ED24B",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725662783,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0611D1D08D799CF9B1F",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725662926,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D247F8F081337DF5C3",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725663186,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

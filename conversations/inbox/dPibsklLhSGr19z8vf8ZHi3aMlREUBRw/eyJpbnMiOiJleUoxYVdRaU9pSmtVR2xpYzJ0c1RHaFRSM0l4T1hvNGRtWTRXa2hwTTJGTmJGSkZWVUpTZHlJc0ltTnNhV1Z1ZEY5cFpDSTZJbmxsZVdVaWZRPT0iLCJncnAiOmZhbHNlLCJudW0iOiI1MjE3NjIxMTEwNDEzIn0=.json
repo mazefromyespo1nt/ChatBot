@@ -1,0 +1,100 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E091C5ED006D38E56617D07F9E259187",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "Holaaaaa"
+    },
+    "reaction": "",
+    "timestamp": 1726784756,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F9995A2562F78F7B85F6FBBDAEB36787",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "🦆"
+    },
+    "reaction": "",
+    "timestamp": 1726784783,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068DC2DD25AC5323FE9",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola querido cliente, somos la empresa Marlboro, ¡Éste mes patrio temblamos con un ofertón que se te caen las nalgas!, en la compra de dos cajetillas Garden Fusion, ¡Llévate una cajetilla de clavo totalmente gratis!\n\nSólo tienes que escribir la cantidad de cajetillas y sabor que deseas comprar.\n\nejemplo: \n1 Garden Fusion\n\n¡Gracias! Evita el exceso\n"
+    },
+    "reaction": "",
+    "timestamp": 1726784783,
+    "senderName": "Jegab091",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9C8D7D041815B91341E81F93B06802CD",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1726784817,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "478841795ACBAD6EAE0C9D8A19F377DE",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "1 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726784833,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0BCCD76342782103361",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste únicamente una cajetilla Garden Fusion!",
+      "fileName": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726784836,
+    "senderName": "Jegab091",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

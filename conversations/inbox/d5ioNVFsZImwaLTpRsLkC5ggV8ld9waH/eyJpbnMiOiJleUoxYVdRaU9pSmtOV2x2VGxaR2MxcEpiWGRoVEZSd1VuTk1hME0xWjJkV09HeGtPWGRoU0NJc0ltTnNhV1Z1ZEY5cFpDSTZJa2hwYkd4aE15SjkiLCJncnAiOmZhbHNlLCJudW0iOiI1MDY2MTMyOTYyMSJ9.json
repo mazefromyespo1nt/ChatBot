@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D9310B3BE9B7762EEE",
+    "remoteJid": "50661329621@s.whatsapp.net",
+    "msgContext": {
+      "text": "test"
+    },
+    "reaction": "",
+    "timestamp": 1725992774,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D4A5B87136D012B87C",
+    "remoteJid": "50661329621@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué le dice un jardinero a otro?\n\n¡Disfrutemos mientras podamos!"
+    },
+    "reaction": "",
+    "timestamp": 1725995960,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

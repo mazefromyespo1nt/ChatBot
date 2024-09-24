@@ -1,0 +1,102 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04ED68D818D02531891",
+    "remoteJid": "50671046382@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!"
+    },
+    "reaction": "",
+    "timestamp": 1725643223,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "60A88D21FB5EC004D1F7E0FDD629E83C",
+    "remoteJid": "50671046382@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏾👍🏾"
+    },
+    "reaction": "",
+    "timestamp": 1725645192,
+    "senderName": "Jose Washington",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB002E0540F73FBD4B83B",
+    "remoteJid": "50671046382@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días!\n\nLe saluda Luis Calderón de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactarle con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos planes postpago que se adapten a ti.\n\nEn Liberty Costa Rica tenemos opciones increíbles que podrían interesarte. Desde planes flexibles hasta cobertura confiable, ¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso.\n\nDigita 1️⃣ si deseas más información y contar con su autorización, o bien digita 2️⃣ para darte de baja y no recibir más mensajes como este."
+    },
+    "reaction": "",
+    "timestamp": 1725645211,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "48B715F1661FF2789C35F135B3260C60",
+    "remoteJid": "50671046382@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725645422,
+    "senderName": "Jose Washington",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07CE4343F0A782DED92",
+    "remoteJid": "50671046382@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725646052,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07CE4343F0A782DED92",
+    "remoteJid": "50671046382@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725646047,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

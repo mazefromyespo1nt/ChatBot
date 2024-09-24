@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "357AED852D3BA3BE0928C3F6DDA8AB34",
+    "remoteJid": "50672068290@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Mayerlin Alvarado Barrantes. ¿Cómo puedo ayudarte?"
+    },
+    "reaction": "",
+    "timestamp": 1725916907,
+    "senderName": "Mayerlin Alvarado Barrantes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "74DFD660811F018F3699E5BDA481FBD6",
+    "remoteJid": "50672068290@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725916981,
+    "senderName": "Mayerlin Alvarado Barrantes",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

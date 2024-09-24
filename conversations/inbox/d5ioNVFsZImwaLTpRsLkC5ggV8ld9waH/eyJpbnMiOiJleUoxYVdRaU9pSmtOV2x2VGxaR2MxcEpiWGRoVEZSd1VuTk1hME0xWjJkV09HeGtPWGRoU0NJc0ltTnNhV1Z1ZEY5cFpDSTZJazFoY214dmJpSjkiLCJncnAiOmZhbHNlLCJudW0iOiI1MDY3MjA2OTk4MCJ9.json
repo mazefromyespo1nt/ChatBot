@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6E555124AB2F507CA72214497CBE629",
+    "remoteJid": "50672069980@s.whatsapp.net",
+    "msgContext": {
+      "text": "SERIA hoy después de las 4 30 de la tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725903770,
+    "senderName": "❤️❤️🇲🇽🇲🇽🇲🇽🥰🥰😍😍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F072D5FEB609B4C0F6",
+    "remoteJid": "50672069980@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto, yo le contacto a esa hora, no hay problema."
+    },
+    "reaction": "",
+    "timestamp": 1725904011,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E35FC0D2529A6491BA85B787D8877257",
+    "remoteJid": "120363308713733266@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "w3WiTX.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725579249,
+    "senderName": "~Jojo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B0D5BF42B75304CF450FAFAB67DA909A",
+    "remoteJid": "120363308713733266@g.us",
+    "msgContext": {
+      "text": "No entendí ayuda jaja"
+    },
+    "reaction": "",
+    "timestamp": 1725580359,
+    "senderName": "Fran🐉",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "17606792910@s.whatsapp.net",
+      "id": "E35FC0D2529A6491BA85B787D8877257"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "B83108EDF838A6D1249467E50A3C3FA4",
+    "remoteJid": "120363308713733266@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "c3emPn.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725580373,
+    "senderName": "Fran🐉",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "17606792910@s.whatsapp.net",
+      "id": "E35FC0D2529A6491BA85B787D8877257"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "2CF3045647E624F37418DD01901BFAEC",
+    "remoteJid": "120363308713733266@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2Cdvdd.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725580382,
+    "senderName": "Fran🐉",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

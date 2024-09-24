@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05CF1C4D47514DA9A3C",
+    "remoteJid": "50683136963@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Denia quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera.¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725728138,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

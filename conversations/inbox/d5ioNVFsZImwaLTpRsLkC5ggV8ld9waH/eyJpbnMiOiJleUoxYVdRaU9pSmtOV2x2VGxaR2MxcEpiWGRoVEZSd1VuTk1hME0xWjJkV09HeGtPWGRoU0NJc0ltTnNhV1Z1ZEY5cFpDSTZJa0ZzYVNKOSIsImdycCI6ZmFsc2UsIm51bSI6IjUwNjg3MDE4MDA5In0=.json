@@ -1,0 +1,134 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E8B033F81FBC6193A1",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gusto en saludarle nuevamente Jairo. Por acá Allison González, asesora de servicio y distribución autorizada Liberty.\nPor este medio le estaremos adjuntando la información solicitada mediante la llamada telefónica, para nosotros es muy importante mantener a salvo la integridad e información de nuestros clientes, recordando que nunca vamos a solicitar información bancaria o sensible que les pueda poner en riesgo."
+    },
+    "reaction": "",
+    "timestamp": 1725911189,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB099C7DD5BCD77232045",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nuestro Internet Hogar es un servicio de Internet de alta velocidad diseñado para ofrecerle la mejor conectividad en casa, garantizando estabilidad y rendimiento superior para todas tus actividades en línea. Nuestros planes de internet hogar le permiten navegar, trabajar y disfrutar de streaming sin interrupciones. Con equipo Wifi incluido, tendrás cobertura en cada rincón de tu hogar. ¡Conéctate con la mejor tecnología y mejora tu experiencia digital hoy mismo!"
+    },
+    "reaction": "",
+    "timestamp": 1725911246,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB039BA9B17BDBC397C36",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "QCMdnR.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725911322,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0773E17E2E1B9139FE3",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5FrFLS.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725911335,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F8CA795C0D44AB0141",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier consulta, con gusto!"
+    },
+    "reaction": "",
+    "timestamp": 1725911370,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA19414E5A59E0EAF3B",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por la información, 👍🏼"
+    },
+    "reaction": "",
+    "timestamp": 1725912442,
+    "senderName": "Jairo Acosta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04F86B0FA68F95BB9FC",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con mucho gusto, quedo atenta por si desea adquirir un servicio."
+    },
+    "reaction": "",
+    "timestamp": 1725912755,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A16CDEE53060944DCF7",
+    "remoteJid": "50687018009@s.whatsapp.net",
+    "msgContext": {
+      "text": "😉"
+    },
+    "reaction": "",
+    "timestamp": 1725913576,
+    "senderName": "Jairo Acosta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

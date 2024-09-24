@@ -1,0 +1,23 @@
+[
+  {
+    "source": "1725909734947",
+    "sourceHandle": "A todo tu fuego le cargo el gas",
+    "target": "1725909841065",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725909734947A todo tu fuego le cargo el gas-1725909841065undefined_target"
+  },
+  {
+    "source": "1725910063953",
+    "sourceHandle": "A todo tu fuego le cargo el gas",
+    "target": "1725909841065",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725910063953A todo tu fuego le cargo el gas-1725909841065undefined_target"
+  },
+  {
+    "source": "1725910063953",
+    "sourceHandle": "Dont pruv im rait",
+    "target": "1725910006830",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725910063953Dont pruv im rait-1725910006830undefined_target"
+  }
+]

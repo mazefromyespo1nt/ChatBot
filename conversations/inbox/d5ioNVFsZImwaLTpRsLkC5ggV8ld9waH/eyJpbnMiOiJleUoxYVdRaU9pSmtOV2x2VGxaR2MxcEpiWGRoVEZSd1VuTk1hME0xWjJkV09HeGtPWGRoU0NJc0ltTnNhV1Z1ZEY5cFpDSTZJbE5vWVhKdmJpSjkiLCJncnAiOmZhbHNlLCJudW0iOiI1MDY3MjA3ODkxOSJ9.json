@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB067A979548B15E689C1",
+    "remoteJid": "50672078919@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 👋🏻 Mi nombre es Sharon de Liberty, Adquiere hoy tu plan sin contrato (por ₡10,900) y goce de beneficios LIBERTY sin competencia puedes conservar tu numero KOLBI o CLARO o bien (número nuevo LIBERTY)\n✅ Paga hasta el dia 20 de  OCTUBRE. \n🆕 Opción de teléfono después de 5 facturas. \n✅12 GB de Internet ¡acumulables!\n🆓 WhatsApp, Facebook, Instagram, Twitter y Waze ¡ilimitados!😲\n✅ Obtenga 300 min y SMS LIBERTY.\n🆒 150 minutos y SMS a C.R.🇨🇷, Tigo Nicaragua, U.S.A. y Canadá. \n                              \n✳️ Para mayor información, por favor responda \"Sí\"; si no desea más mensajes, responda BAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725908271,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F0FDA410D88C6FBC3C0502574AB33121",
+    "remoteJid": "50672078919@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725908348,
+    "senderName": "josuemejias430",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0250D1FFD5E5C36135C",
+    "remoteJid": "50672078919@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes! Te interesa la oferta? El día de hoy tenemos la campaña de no pago anticipado, por lo que con solo la cédula puedes adquirir el servicio y pagar la primera factura hasta el 20 de octubre. ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725908434,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB005A010C30EBBD08B85",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725898448,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB033DBB01C2265E6C978",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725900439,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06B5047AED6B1629945",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725901338,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A8F9CF03D3DEAA685C",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725904282,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

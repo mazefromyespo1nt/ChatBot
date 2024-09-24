@@ -1,0 +1,23 @@
+[
+  {
+    "source": "1725652851862",
+    "sourceHandle": "si",
+    "target": "1725652912129",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725652851862si-1725652912129undefined_target"
+  },
+  {
+    "source": "1725652851862",
+    "sourceHandle": "no",
+    "target": "1725652937183",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725652851862no-1725652937183undefined_target"
+  },
+  {
+    "source": "1725652912129",
+    "sourceHandle": "ok",
+    "target": "1725652851862",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725652912129ok-1725652851862undefined_target"
+  }
+]

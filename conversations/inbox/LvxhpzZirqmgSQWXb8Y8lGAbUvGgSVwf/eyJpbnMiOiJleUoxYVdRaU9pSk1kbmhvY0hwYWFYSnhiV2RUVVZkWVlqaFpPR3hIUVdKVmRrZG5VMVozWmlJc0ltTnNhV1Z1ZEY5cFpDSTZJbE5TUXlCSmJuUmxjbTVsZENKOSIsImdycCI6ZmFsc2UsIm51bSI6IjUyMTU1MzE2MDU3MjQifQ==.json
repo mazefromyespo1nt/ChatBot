@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B5A85512F80DC6C35AAD6DF24E2ADB44",
+    "remoteJid": "5215531605724@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amigo buena noche! Saludos cómo estás ?"
+    },
+    "reaction": "",
+    "timestamp": 1725506087,
+    "senderName": "\"Baruj Hashem\"",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CCEB41E6D0494AFA5AF59D0920936513",
+    "remoteJid": "5215531605724@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bien dame chance no he podido generar la orden de pago de la PZA ahorita que llege a mi casa te la mando la cuenta y precio vale"
+    },
+    "reaction": "",
+    "timestamp": 1725506153,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C2C4A7DE2604B2112F3404F2847C8C93",
+    "remoteJid": "5215531605724@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok amigo gracias y disculpa tanta molestia"
+    },
+    "reaction": "",
+    "timestamp": 1725507791,
+    "senderName": "\"Baruj Hashem\"",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

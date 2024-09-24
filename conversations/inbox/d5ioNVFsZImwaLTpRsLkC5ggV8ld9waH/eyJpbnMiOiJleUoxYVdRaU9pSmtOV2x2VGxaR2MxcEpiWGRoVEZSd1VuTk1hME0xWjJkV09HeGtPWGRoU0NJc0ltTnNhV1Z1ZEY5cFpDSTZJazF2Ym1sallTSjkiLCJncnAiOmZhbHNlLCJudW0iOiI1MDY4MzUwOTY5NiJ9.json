@@ -1,0 +1,38 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB05B72787A4D589511B9",
+    "remoteJid": "50683509696@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "YPCNmH.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726000146,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0855DECC3C58611E039",
+    "remoteJid": "50683509696@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "YwsqSO.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726000146,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

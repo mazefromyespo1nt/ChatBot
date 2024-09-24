@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "94C8C7A4B956A9F38B1735D346D19F0F",
+    "remoteJid": "573015773661@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hi"
+    },
+    "reaction": "",
+    "timestamp": 1725913613,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "7BD9B8AAD1AB458BEB6C463ADCB8E32E",
+    "remoteJid": "573015773661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "c5OYdr.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725913658,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

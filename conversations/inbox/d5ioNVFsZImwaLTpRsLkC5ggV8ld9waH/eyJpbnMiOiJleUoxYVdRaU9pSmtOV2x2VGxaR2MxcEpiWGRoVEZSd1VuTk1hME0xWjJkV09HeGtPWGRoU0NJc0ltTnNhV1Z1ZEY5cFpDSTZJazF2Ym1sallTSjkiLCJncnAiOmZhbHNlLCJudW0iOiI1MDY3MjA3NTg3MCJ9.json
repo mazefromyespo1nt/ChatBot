@@ -1,0 +1,70 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A20B10429E1418993FF",
+    "remoteJid": "50672075870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte. Por favor hazme saber cómo podemos ayudarte. Pronto me pondré en contacto contigo ✨"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725980333,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A20B10429E1418993FF",
+    "remoteJid": "50672075870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte. Por favor hazme saber cómo podemos ayudarte. Pronto me pondré en contacto contigo ✨"
+    },
+    "reaction": "",
+    "timestamp": 1725980761,
+    "senderName": "RE_NAC by Adri Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A20B10429E1418993FF",
+    "remoteJid": "50672075870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte. Por favor hazme saber cómo podemos ayudarte. Pronto me pondré en contacto contigo ✨"
+    },
+    "reaction": "",
+    "timestamp": 1725980859,
+    "senderName": "RE_NAC by Adri Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A20B10429E1418993FF",
+    "remoteJid": "50672075870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte. Por favor hazme saber cómo podemos ayudarte. Pronto me pondré en contacto contigo ✨"
+    },
+    "reaction": "",
+    "timestamp": 1725981244,
+    "senderName": "RE_NAC by Adri Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

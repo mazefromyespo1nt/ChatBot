@@ -1,0 +1,21 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8F2FD8481D79A88818C1514E311455DF",
+    "remoteJid": "573508445488-1541785822@g.us",
+    "msgContext": {
+      "text": "Solo hay plátanos, la maracuyá y demás se acabó"
+    },
+    "reaction": "",
+    "timestamp": 1725504380,
+    "senderName": "Andrés Agudelo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573118553960@s.whatsapp.net",
+      "id": "D4D901096100B12399502F706AB02B3C"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "50BB3AD7929DA9BCCD35B06831155BF0",
+    "remoteJid": "120363130580259509@g.us",
+    "msgContext": {
+      "text": "Sera cierto???"
+    },
+    "reaction": "",
+    "timestamp": 1725996868,
+    "senderName": "El Fantasma",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A12C8A3B13C551A988",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día. Le saluda Mónica Urbina de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactar le con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos servicios de: \n🟠Planes postpago\n🟠Servicios de hogar (Cable e Internet)\n\nLo que mejor se adapten a ti.\n◾ No es necesario un depósito.\n◾ Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero). \n◾ Se omite mancha/deuda de otros operadores o casas comerciales. \n◾ Paga hasta el próximo mes.\n◾ Después de 5 facturas pagas le damos opción de adquirir un celular en el caso de adquirir un plan📲 \n\nSi deseas más información coloca SI"
+    },
+    "reaction": "",
+    "timestamp": 1725914799,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8A51DFE8ED61CECD5E399F3044FF0D43",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725915762,
+    "senderName": "Un Nuevo Día 😇",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB07350AD7EB053935F67",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenas tardes. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "YleJik.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725915920,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C1EB72A026A47CFD77",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Y también contamos con oferta en los servicios de hogar como cable e internet. Que también se cancela la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "a1K4o2.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725915934,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DF8B473FDDBC9B6B7D",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que servicios te interesa mas?\n1️⃣ Planes postpago\n2️⃣ Servicios de hogar (CABLE e INTERNET)"
+    },
+    "reaction": "",
+    "timestamp": 1725915954,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D43D9727D3DA287F42B789100BA73EFA",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchacha uno que sea solo internet de casa  que no sea con cable"
+    },
+    "reaction": "",
+    "timestamp": 1725916037,
+    "senderName": "Un Nuevo Día 😇",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03BCE111288441B6FF0",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KPO0Dp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725916153,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0D6D0516C02894A05E3",
+    "remoteJid": "50672075725@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para adquirir nuestro servicio requerimos\n- *Foto por ambos lados de su documento de identidad* que esté vigente o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Foto tipo selfy de su documento de identidad que esté vigente* o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Correo electrónico*\n- *Dirección exacta* lugar de residencia con *provincia, cantón, distrito* .\n- *2 nombres y números de referencia* por si no lográramos poner nos en contacto al momento de hacer la entrega",
+      "fileName": "sYLIgE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725916211,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

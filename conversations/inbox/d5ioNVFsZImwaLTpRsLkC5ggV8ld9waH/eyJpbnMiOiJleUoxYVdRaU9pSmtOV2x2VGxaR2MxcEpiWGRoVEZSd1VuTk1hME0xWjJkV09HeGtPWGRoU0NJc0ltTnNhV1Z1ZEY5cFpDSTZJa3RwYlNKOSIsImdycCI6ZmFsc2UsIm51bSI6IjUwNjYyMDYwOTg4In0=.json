@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0256961DC0DBBA3E2A5",
+    "remoteJid": "50662060988@s.whatsapp.net",
+    "msgContext": {
+      "text": "HOLA"
+    },
+    "reaction": "",
+    "timestamp": 1725906110,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

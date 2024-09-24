@@ -1,0 +1,57 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6BE5EF561E114BDB199CF35F5B69E2AB",
+    "remoteJid": "573163133881@s.whatsapp.net",
+    "msgContext": {
+      "text": "48070"
+    },
+    "reaction": "",
+    "timestamp": 1725910578,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3BB6C987D0A28E1C2EF64854F070C6F6",
+    "remoteJid": "573163133881@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "PZvK5r.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910579,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "19470A4DD9C80308677B5830D7F9D6BE",
+    "remoteJid": "573163133881@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0PLwfJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910580,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

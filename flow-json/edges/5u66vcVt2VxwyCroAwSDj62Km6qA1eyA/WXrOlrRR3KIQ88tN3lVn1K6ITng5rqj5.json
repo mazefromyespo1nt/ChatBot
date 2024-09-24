@@ -1,0 +1,66 @@
+[
+  {
+    "source": "1725901286957",
+    "sourceHandle": "hola",
+    "target": "1725901320413",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725901286957hola-1725901320413undefined_target"
+  },
+  {
+    "source": "1725901286957",
+    "sourceHandle": "ey",
+    "target": "1725901350531",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725901286957ey-1725901350531undefined_target"
+  },
+  {
+    "source": "1725901320413",
+    "sourceHandle": "hu",
+    "target": "1725903037593",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725901320413hu-1725903037593undefined_target",
+    "selected": false
+  },
+  {
+    "source": "1725901350531",
+    "sourceHandle": "pol",
+    "target": "1725903037593",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725901350531pol-1725903037593undefined_target"
+  },
+  {
+    "source": "1725903176573",
+    "sourceHandle": "{{OTHER_MSG}}",
+    "target": "1725903186558",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725903176573{{OTHER_MSG}}-1725903186558undefined_target"
+  },
+  {
+    "source": "1725903176573",
+    "sourceHandle": "{{OTHER_MSG}}",
+    "target": "1725903300740",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725903176573{{OTHER_MSG}}-1725903300740undefined_target"
+  },
+  {
+    "source": "1725903300740",
+    "sourceHandle": "Rentar",
+    "target": "1725903345899",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725903300740Rentar-1725903345899undefined_target"
+  },
+  {
+    "source": "1725903300740",
+    "sourceHandle": "comprar",
+    "target": "1725903380049",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725903300740comprar-1725903380049undefined_target"
+  },
+  {
+    "source": "1725903345899",
+    "sourceHandle": "Casa",
+    "target": "1725903396865",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725903345899Casa-1725903396865undefined_target"
+  }
+]

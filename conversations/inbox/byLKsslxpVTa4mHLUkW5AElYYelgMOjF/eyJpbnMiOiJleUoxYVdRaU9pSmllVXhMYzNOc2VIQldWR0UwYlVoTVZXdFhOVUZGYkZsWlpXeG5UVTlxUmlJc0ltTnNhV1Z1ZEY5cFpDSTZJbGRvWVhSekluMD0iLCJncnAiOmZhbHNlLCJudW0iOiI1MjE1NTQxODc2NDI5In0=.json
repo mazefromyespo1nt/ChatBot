@@ -1,0 +1,89 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0522EF7B41B8B6C4F0",
+    "remoteJid": "5215541876429@s.whatsapp.net",
+    "msgContext": {
+      "text": "Entonces hagamos también el plan de Linkdln que nos ofreciste"
+    },
+    "reaction": "",
+    "timestamp": 1725653080,
+    "senderName": "Marvelous",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5218135618086@s.whatsapp.net",
+      "id": "8896864140C130E496904C6E2C911BAB"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3C446AB80AB9B71DFD",
+    "remoteJid": "5215541876429@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya nada más nos dices si lo pagamos nosotros y cuál y dónde elegir el correcto o si tienes que hacerlo tu a a fuerza"
+    },
+    "reaction": "",
+    "timestamp": 1725653119,
+    "senderName": "Marvelous",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "CCCCE1F6DD83486D718320EE2A863CB7",
+    "remoteJid": "5215541876429@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XmcG4T.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725653414,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "AE7F3B7299B2AE248EBDD6FB4DFBED0B",
+    "remoteJid": "5215541876429@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "eTVvIR.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725653446,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E22B71AE2F0F1AA6AD",
+    "remoteJid": "5215541876429@s.whatsapp.net",
+    "msgContext": {
+      "text": "o tu me dices como le hacemos"
+    },
+    "reaction": "",
+    "timestamp": 1725656244,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

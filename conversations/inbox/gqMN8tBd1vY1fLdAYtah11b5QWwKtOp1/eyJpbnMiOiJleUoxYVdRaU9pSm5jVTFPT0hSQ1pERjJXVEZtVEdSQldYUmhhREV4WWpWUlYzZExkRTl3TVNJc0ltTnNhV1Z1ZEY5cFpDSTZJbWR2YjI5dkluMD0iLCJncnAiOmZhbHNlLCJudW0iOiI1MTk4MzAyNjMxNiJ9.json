@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB016576975909841CC62",
+    "remoteJid": "51983026316@s.whatsapp.net",
+    "msgContext": {
+      "text": "que te dijieron en el colegio"
+    },
+    "reaction": "",
+    "timestamp": 1725631928,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

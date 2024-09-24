@@ -1,0 +1,84 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "DF6BAD0899744D183D5FA4FCC6070C95",
+    "remoteJid": "120363040473354244@g.us",
+    "msgContext": {
+      "caption": "Su ayuda",
+      "fileName": "LYGBTs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725559369,
+    "senderName": "Pmotors Automotriz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BFEDDAFED3B9E93065A59F6FF464DA77",
+    "remoteJid": "120363040473354244@g.us",
+    "msgContext": {
+      "text": "Buen día"
+    },
+    "reaction": "",
+    "timestamp": 1725559384,
+    "senderName": "Pmotors Automotriz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D8836FBE9AEA786C26",
+    "remoteJid": "120363040473354244@g.us",
+    "msgContext": {
+      "text": "Buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725559771,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D95961BA927482FD7D",
+    "remoteJid": "120363040473354244@g.us",
+    "msgContext": {
+      "text": "entiendo que no le deja crear este cliente, es correcto?"
+    },
+    "reaction": "",
+    "timestamp": 1725559787,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "68905A18C171451627",
+    "remoteJid": "120363040473354244@g.us",
+    "msgContext": {
+      "text": "si es así por favor verificar que no este creado en su lista de clientes."
+    },
+    "reaction": "",
+    "timestamp": 1725559828,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

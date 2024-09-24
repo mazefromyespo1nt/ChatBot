@@ -1,0 +1,20 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB032D5F4030BCA9EAAF9",
+    "remoteJid": "5493755526325@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "k5IC7T.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725968700,
+    "senderName": "CrediSi!",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

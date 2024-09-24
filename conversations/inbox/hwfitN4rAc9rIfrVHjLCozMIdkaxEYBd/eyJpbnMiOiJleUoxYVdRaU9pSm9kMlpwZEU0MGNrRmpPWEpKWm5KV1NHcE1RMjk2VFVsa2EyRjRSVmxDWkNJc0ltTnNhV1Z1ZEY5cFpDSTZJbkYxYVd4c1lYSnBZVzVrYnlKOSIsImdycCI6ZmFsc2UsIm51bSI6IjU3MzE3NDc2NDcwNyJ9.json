@@ -1,0 +1,130 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4FAEB12AA8BEBD4A80D273121539DC96",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día"
+    },
+    "reaction": "",
+    "timestamp": 1725897989,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DC886A62789B559907F66529C9F738AE",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "Miller"
+    },
+    "reaction": "",
+    "timestamp": 1725897991,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A7D92187E902937BE603FD38A8C425FA",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te cayó algo ?"
+    },
+    "reaction": "",
+    "timestamp": 1725897996,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4216F211079CEC4D91E73E86D0114C6B",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nojoda no se deja y entró a la cuenta"
+    },
+    "reaction": "",
+    "timestamp": 1725900586,
+    "senderName": "Miller  😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0283A948E911D4A5308EA8B5B2B58168",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nada cero peso"
+    },
+    "reaction": "",
+    "timestamp": 1725900826,
+    "senderName": "Miller  😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5DD33244692DECE995",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "te deben pagar en cheque"
+    },
+    "reaction": "",
+    "timestamp": 1725901832,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "60276FDC3AD02B2620371AC00EA324C7",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "No nada a nosotros de eventuales pagan en nómina enseguida los que pagan con chebre es otra"
+    },
+    "reaction": "",
+    "timestamp": 1725901873,
+    "senderName": "Miller  😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "440A7B1ABB9B3417AA",
+    "remoteJid": "573174764707@s.whatsapp.net",
+    "msgContext": {
+      "text": "aja"
+    },
+    "reaction": "",
+    "timestamp": 1725902222,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

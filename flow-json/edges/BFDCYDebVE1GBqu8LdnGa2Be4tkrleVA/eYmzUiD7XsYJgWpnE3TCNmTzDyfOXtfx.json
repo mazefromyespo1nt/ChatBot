@@ -1,0 +1,16 @@
+[
+  {
+    "source": "1725817825805",
+    "sourceHandle": "Amazon",
+    "target": "1725818282696",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725817825805Amazon-1725818282696undefined_target"
+  },
+  {
+    "source": "1725817825805",
+    "sourceHandle": "Google",
+    "target": "1725818363186",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725817825805Google-1725818363186undefined_target"
+  }
+]

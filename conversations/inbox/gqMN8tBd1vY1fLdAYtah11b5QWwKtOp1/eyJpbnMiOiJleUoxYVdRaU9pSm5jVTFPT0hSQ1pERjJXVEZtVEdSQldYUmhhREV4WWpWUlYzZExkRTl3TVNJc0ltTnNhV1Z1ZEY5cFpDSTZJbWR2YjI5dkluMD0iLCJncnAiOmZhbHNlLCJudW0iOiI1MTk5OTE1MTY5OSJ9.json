@@ -1,0 +1,139 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F02B866A95D4FD736F968099986CECC2",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que tipos de Software para municipalidades ofrecen?"
+    },
+    "reaction": "",
+    "timestamp": 1725623015,
+    "senderName": "Will",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB078931563AFD1229A55",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725623021,
+    "senderName": "Will",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB06919017F27BF79E21C",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725623035,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB05A589F910857607E35",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725623042,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04D066905453DDBB490",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725628347,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F0CC071540CBB69E68",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "text": "En esta ocasión, estamos emocionados de mostrarte nuestra demostración de software 🖥️, una herramienta innovadora que simplifica la gestión de procesos municipales de forma eficiente y efectiva. Está preparado para cumplir las metas del plan de incentivo 💪, Impuesto Predial, Alcabalas, Arbitrios, Fiscalización Tributaria y muchos otros servicios más. ¡Integrado a Fiscalización Tributaria, Ejecución Coactiva, Catastro, comercialización y mucho más! 🏛️📊 ¿Estás listo para conocer más acerca de nuestra solución? ¡Te esperamos con ansias! 😉👍"
+    },
+    "reaction": "",
+    "timestamp": 1725629523,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB5330AA0494736C67",
+    "remoteJid": "51999151699@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta 🙌🏼👀✉️¡Que tenga un excelente día! 😊🌟"
+    },
+    "reaction": "",
+    "timestamp": 1725629536,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,648 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEE134914B2F2D87E7A",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725678451,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A237F410006176A0E91",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que haces"
+    },
+    "reaction": "",
+    "timestamp": 1725678458,
+    "senderName": "Alexis Pestano",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7BFEC6EA359F6D977A6647B84814B74C",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola mi amor"
+    },
+    "reaction": "",
+    "timestamp": 1725678481,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584127148368@s.whatsapp.net",
+      "id": "3A237F410006176A0E91"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "207A90296593C0A2A14D85D10665DA9C",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno te cuanto que estabas viendo videos"
+    },
+    "reaction": "",
+    "timestamp": 1725678490,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "091D777D1C075B6E44436E30B7B85EBC",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y tú ?"
+    },
+    "reaction": "",
+    "timestamp": 1725678492,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9B65DA0B9A29C8FDCA",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nada programando desde mi cel"
+    },
+    "reaction": "",
+    "timestamp": 1725678504,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A78732F15F08D97F34B",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jejeje"
+    },
+    "reaction": "",
+    "timestamp": 1725678506,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A81259EEFC86DBC7E5D",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cosas aburridas"
+    },
+    "reaction": "",
+    "timestamp": 1725678511,
+    "senderName": "Alexis Pestano",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7BEF70B5CB9C4A661C",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes escribir métodos de pago ?"
+    },
+    "reaction": "",
+    "timestamp": 1725678522,
+    "senderName": "Alexis Pestano",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "070999911E873D307C8FD01DF434FBE9",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jaja siempre dices eso"
+    },
+    "reaction": "",
+    "timestamp": 1725678524,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584127148368@s.whatsapp.net",
+      "id": "3A81259EEFC86DBC7E5D"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD16639097EA5A1821A",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "O Hola 1"
+    },
+    "reaction": "",
+    "timestamp": 1725678535,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A66834EBFC99359E1E4",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 2"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725678543,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A45FFD080E45A57BFCC",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 3"
+    },
+    "reaction": "",
+    "timestamp": 1725678550,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC18DDA388E69E867CA",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jejeje"
+    },
+    "reaction": "",
+    "timestamp": 1725678553,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF91466D885339362D4",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero si lo son"
+    },
+    "reaction": "",
+    "timestamp": 1725678565,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "584142992373@s.whatsapp.net",
+      "id": "070999911E873D307C8FD01DF434FBE9"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A214CA0D7A40C664959",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para mí es algo hermoso"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725678575,
+    "senderName": "Alexis Pestano",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3E8AC126F99F0F63D416A24CADF7ED95",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por qué te gusta lo que haces"
+    },
+    "reaction": "",
+    "timestamp": 1725678644,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584127148368@s.whatsapp.net",
+      "id": "3A214CA0D7A40C664959"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBF90D0E7738563EA3B05CC5FEA62699",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y eso es bonito"
+    },
+    "reaction": "",
+    "timestamp": 1725678647,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD156759AD11A3BEB94",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Escribeme Hola 1"
+    },
+    "reaction": "",
+    "timestamp": 1725679300,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB019E370FEA98EFA1434",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "😇"
+    },
+    "reaction": "",
+    "timestamp": 1725679339,
+    "senderName": "kellys requena",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ED9A66150C2452DB8999DFA5C2930E12",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 1"
+    },
+    "reaction": "",
+    "timestamp": 1725679351,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB092364898DB52DCBD87",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Mundo"
+    },
+    "reaction": "",
+    "timestamp": 1725679352,
+    "senderName": "kellys requena",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB000ECDF7CF443C4DFB8",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "trim.0BF4634D-6D0E-40E3-9AC0-FB61A347EFEB.MOV",
+      "mimetype": ""
+    },
+    "reaction": "",
+    "timestamp": 1725679354,
+    "senderName": "kellys requena",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "017166D540A1928C1B47B462C975C1EB",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 1"
+    },
+    "reaction": "",
+    "timestamp": 1725679354,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04903D863542BCEB0AE",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Mundo"
+    },
+    "reaction": "",
+    "timestamp": 1725679355,
+    "senderName": "kellys requena",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0948D0DAB3EE6FAC1A6",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "trim.0BF4634D-6D0E-40E3-9AC0-FB61A347EFEB.MOV",
+      "mimetype": ""
+    },
+    "reaction": "",
+    "timestamp": 1725679357,
+    "senderName": "kellys requena",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "49DF52498115E5A131F38104CE388383",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 2"
+    },
+    "reaction": "",
+    "timestamp": 1725679359,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "loc",
+    "msgId": "3EB0D05479C4C56D299C60",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "lat": "56.34",
+      "long": "55.43",
+      "name": "",
+      "address": ""
+    },
+    "reaction": "",
+    "timestamp": 1725679360,
+    "senderName": "kellys requena",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "244D67E7E2BAC5E83DE1EB9C81F3F9FC",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 3"
+    },
+    "reaction": "",
+    "timestamp": 1725679370,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7D2226653B1F3749CFAEB1A58A47FBF1",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "....?"
+    },
+    "reaction": "",
+    "timestamp": 1725679415,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B7FA3B3FA762EC72B3532E485F9FBBBF",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eso son las pruebas"
+    },
+    "reaction": "",
+    "timestamp": 1725679492,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B7EE7CD5A58F5D8DE68E77360541EAE",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mensajes automáticos según si el texto contiene alguna de esas frases"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725679542,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "09A520E1CF496B7ABACD258D06AABF9A",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero tranquila no te molesto más para que sigas en tus cosas"
+    },
+    "reaction": "",
+    "timestamp": 1725679566,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7F978FE799C2A3BB4EC1B650A76FEEA9",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te quiero"
+    },
+    "reaction": "",
+    "timestamp": 1725679573,
+    "senderName": "Alexis Pestano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4C57933BF9DC78443DC58B981C66B88B",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Chau"
+    },
+    "reaction": "",
+    "timestamp": 1725679592,
+    "senderName": "Alexis Pestano",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8CDFCAC8B882A99BCCF9236AF4350D94",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nooo"
+    },
+    "reaction": "",
+    "timestamp": 1725679691,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584127148368@s.whatsapp.net",
+      "id": "09A520E1CF496B7ABACD258D06AABF9A"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1856F3852BC2B8828EBA4D421ED3DBE4",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Molestame"
+    },
+    "reaction": "",
+    "timestamp": 1725679694,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2994ADA8AF7293FAC0B36B5F6221DD22",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Valeeee"
+    },
+    "reaction": "",
+    "timestamp": 1725679699,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EA9291D6E2BB2E64EB061CB5D3A6BD2C",
+    "remoteJid": "584142992373@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que fino"
+    },
+    "reaction": "",
+    "timestamp": 1725679704,
+    "senderName": "kellys requena",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

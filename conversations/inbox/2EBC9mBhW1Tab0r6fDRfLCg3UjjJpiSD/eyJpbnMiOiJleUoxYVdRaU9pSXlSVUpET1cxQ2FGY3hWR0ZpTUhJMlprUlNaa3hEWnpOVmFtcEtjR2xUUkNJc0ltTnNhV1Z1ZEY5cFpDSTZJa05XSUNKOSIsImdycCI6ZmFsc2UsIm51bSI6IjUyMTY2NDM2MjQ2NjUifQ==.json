@@ -1,0 +1,135 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D7BD87A517827C76BB",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día"
+    },
+    "reaction": "",
+    "timestamp": 1725991633,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADB94D4C5077D6925DC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amigo"
+    },
+    "reaction": "",
+    "timestamp": 1725991650,
+    "senderName": "Jakob Peña",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E4206411E9C4867B02",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si dime"
+    },
+    "reaction": "",
+    "timestamp": 1725991655,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD8B99DD295B73FDC2C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Al celular si me llegan"
+    },
+    "reaction": "",
+    "timestamp": 1725991655,
+    "senderName": "Jakob Peña",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6A581F101EE4DF9DE4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero en la pc no"
+    },
+    "reaction": "",
+    "timestamp": 1725991661,
+    "senderName": "Jakob Peña",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1867EF7F775519A57B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "quizá haya un poco de intermitencia por lo que te comenté en el mensaje inicial \n\nNota: Si llegas a presentar intermitencia en el sistema es porque hay otras 60 personas como tú probando el demo al mismo tiempo  y algunos con hasta 15 números conectados en una cuenta y el servidor en el que se encuentra no está tan potente."
+    },
+    "reaction": "",
+    "timestamp": 1725991890,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "BBEB421B43147347DC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "yo aquí estoy viendo nuestra conversación",
+      "fileName": "U0VSu1.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725991921,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB033AE05206A3BB17285",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "mira me estoy contestando yo mismo desde el sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725991927,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

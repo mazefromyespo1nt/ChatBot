@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "59217C9688E47809CB690D6E457EE2E0",
+    "remoteJid": "50672072293@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Parroquia Nuestra Señora De Los Ángeles Ipís.\n\nHorarios Misas:\nLunes, Martes, Miércoles y Viernes: Templo Parroquial: 8:00am y 6:00pm\nJueves Templo Parroquial 8:00am / Korobó 6:00pm\nSábados: Rancho Redondo 4:00pm / Korobó 5:30pm / Templo Parroquial 6:30 pm\nDomingos: Templo Parroquial 8:00am, 11:00am y 5:00pm /Korobó 9:00am / La Mora 10:00am / Zetillal 12:00md/ Vista de Mar 3:00pm\n\nConfesiones Todos los jueves durante la Hora Santa de 8:00am\n\n¿Cómo te podemos ayudar?"
+    },
+    "reaction": "",
+    "timestamp": 1725894989,
+    "senderName": "Parroquia Nuestra Señora De Los Ángeles Ipís",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

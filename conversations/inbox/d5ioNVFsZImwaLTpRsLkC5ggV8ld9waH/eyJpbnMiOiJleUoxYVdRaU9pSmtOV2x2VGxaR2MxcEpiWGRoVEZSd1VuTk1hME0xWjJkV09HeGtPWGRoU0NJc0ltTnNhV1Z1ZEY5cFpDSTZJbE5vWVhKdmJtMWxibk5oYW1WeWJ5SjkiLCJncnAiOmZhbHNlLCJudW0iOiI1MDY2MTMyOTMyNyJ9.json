@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB080272A644F347D79DC",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725908530,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E098052B2A8A2D870C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725909200,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

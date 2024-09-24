@@ -1,0 +1,118 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B060705A13136F2EE590A75370EF076E",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725925007,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03EDB86CC3C978C2F1D",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, somos el restaurante La chirimoya del sabor, elige una opción:\nSi deseas ver el menú, escribe: Menú\nSi deseas facturar, escribe: Factura\nSi deseas una chirimoyación a distacia, escribe: Respiracion de la Chirimoyacion Bestial"
+    },
+    "reaction": "",
+    "timestamp": 1725925202,
+    "senderName": "Jegab091",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03C949C8FDD64C88D99",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "menu"
+    },
+    "reaction": "",
+    "timestamp": 1725925228,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0817F38AD7F6759C24D",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "Menú"
+    },
+    "reaction": "",
+    "timestamp": 1725925249,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "3EB0D6033BD82CF178F9E0",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Este es el menú",
+      "fileName": "menu.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725925254,
+    "senderName": "Jegab091",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05E5047A247730FDB2B",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "text": "Respiracion de la Chirimoyacion Bestial"
+    },
+    "reaction": "",
+    "timestamp": 1725925318,
+    "senderName": "Jegab091",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0DB8A67C264BED53989",
+    "remoteJid": "5217621110413@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Haz sido chorimoyado!",
+      "fileName": "MTZKd9WztqCg8DroKEd6ATNDbKyBTI62.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725925320,
+    "senderName": "Jegab091",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

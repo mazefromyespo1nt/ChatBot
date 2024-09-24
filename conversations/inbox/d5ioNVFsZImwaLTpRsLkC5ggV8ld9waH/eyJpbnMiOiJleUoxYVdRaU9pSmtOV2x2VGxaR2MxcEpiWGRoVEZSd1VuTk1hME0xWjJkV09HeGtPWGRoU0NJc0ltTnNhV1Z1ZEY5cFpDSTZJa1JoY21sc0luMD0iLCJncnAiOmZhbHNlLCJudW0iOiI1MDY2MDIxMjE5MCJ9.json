@@ -1,0 +1,59 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "0BF1452DB4AE74E2076CB11CF7C80127",
+    "remoteJid": "50660212190@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "f11Z5t.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725809039,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB02AE4CBA42938CF6842",
+    "remoteJid": "50660212190@s.whatsapp.net",
+    "msgContext": {
+      "caption": "SMS.xlsx",
+      "fileName": "cTfGrV.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725893841,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3ACFB337365C19E42EB4",
+    "remoteJid": "50660212190@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bXELRw.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725914595,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

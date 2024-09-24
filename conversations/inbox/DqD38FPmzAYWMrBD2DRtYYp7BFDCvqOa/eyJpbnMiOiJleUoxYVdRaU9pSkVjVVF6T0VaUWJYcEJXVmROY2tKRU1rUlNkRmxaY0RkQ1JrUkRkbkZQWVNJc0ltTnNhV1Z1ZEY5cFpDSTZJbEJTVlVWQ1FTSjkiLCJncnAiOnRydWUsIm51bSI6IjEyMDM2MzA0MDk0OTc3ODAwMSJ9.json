@@ -1,0 +1,50 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "36DE55888E8FC60E728C54A56F324E02",
+    "remoteJid": "120363040949778001@g.us",
+    "msgContext": {
+      "text": "*👾3️⃣PANTALLA*\n\n*🤖NETFLIX*\n*🌻AMAZON*\n *🔥CRUNCHYROLL*\n*💰16.000*"
+    },
+    "reaction": "",
+    "timestamp": 1725984689,
+    "senderName": "Juli Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "413A2B2BB5A5658EA346B1174812CD67",
+    "remoteJid": "120363040949778001@g.us",
+    "msgContext": {
+      "text": "🌻 *DISFRUTA TUS VACACIONES CON ESTA PROMO*🔥❗\n\n~*SUPER REMATE HASTA LAS 11:00PM*~ 🔥 \n\n∆ ~*MINI COMBITOS*~\n                     💗\n• 🪄 Disney + Star: *$9.500*\n• 🪄 Paramount + Vix: *$9.500*\n• 🪄 Star + Plex: *$9.500*\n• 🪄 Vix + Crunchyroll: *$9.500* \n\n° _*CUALQUIER OTRO COMBO DE DOS PLATAFORMAS SIN NETFLIX $9.500*_ 🌈\n\n∆ ~*TRIPLE COMBITOS*~\n                       🌹\n • 🧨 Disney + HBO + Paramount: *$12.600* \n• 🧨 Cruchyrroll + Star + Disney: *$12.600*\n• 🧨 Star + Vix + Paramount: *$12.600* \n• 🧨 HBO + Crunchyroll + Vix: *$12.600* \n\n° _*CUALQUIER OTRO TRIPLE COMBITO DE TRES PLATAFORMAS SIN NETFLIX $12.600*_ 🌈"
+    },
+    "reaction": "",
+    "timestamp": 1725984691,
+    "senderName": "Juli Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9D11D49B45FE2745DFB2A2832DFA409D",
+    "remoteJid": "120363040949778001@g.us",
+    "msgContext": {
+      "text": "😫 *SÚPER CHISME*🥵\n*YA LLEGARON LOS COMBOS NO TE QUEDES SIN ELLOS*\n\n*MEGA COMBO*\n😳 Netflix + Amazon *$14.000*\n😳 Netflix + Rakuten *$16.500*\n😳Netflix + Hbo *$15.000*\n😳Netflix + Crunchyroll *$15.000*\n😳 Netflix + Disney+Star *$19.500*\n😳 Netflix + Vix *$15.000*"
+    },
+    "reaction": "",
+    "timestamp": 1725984691,
+    "senderName": "Juli Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

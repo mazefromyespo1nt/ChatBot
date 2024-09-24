@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FB8CD980404F4B8EE2F7CC7B06571FB7",
+    "remoteJid": "50672069160@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725910104,
+    "senderName": "Chelsea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

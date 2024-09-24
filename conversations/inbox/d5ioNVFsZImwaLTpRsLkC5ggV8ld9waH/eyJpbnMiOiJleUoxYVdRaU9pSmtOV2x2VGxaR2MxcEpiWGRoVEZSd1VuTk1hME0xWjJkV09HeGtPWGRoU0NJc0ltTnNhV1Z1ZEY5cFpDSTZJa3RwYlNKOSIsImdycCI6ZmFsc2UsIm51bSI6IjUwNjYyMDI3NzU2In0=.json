@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01F2F0BFB5D5379B187",
+    "remoteJid": "50662027756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Yesenia quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera. Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725979014,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "246D451B490126F3D218D772075E710C",
+    "remoteJid": "50662027756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725979086,
+    "senderName": "Yesenia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "475679FE7D800EFAE87699ACCBBA3163",
+    "remoteJid": "50662027756@s.whatsapp.net",
+    "msgContext": {
+      "text": "No yo ya tengo  un plan gracias"
+    },
+    "reaction": "👍",
+    "timestamp": 1725979114,
+    "senderName": "Yesenia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

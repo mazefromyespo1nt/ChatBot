@@ -1,0 +1,1099 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9CD3B76D0C3C1C3D8A",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola stiven"
+    },
+    "reaction": "",
+    "timestamp": 1725832681,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "07444D3DF8189428B8",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "estas donde mi mam a"
+    },
+    "reaction": "",
+    "timestamp": 1725832685,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FB3AB181AF256C75DEE2AF100545BF53",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tio no"
+    },
+    "reaction": "",
+    "timestamp": 1725832709,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E10339DCBA3AE19C43C7AFEFC2338BC6",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mi mamá estás en la iglesia."
+    },
+    "reaction": "",
+    "timestamp": 1725832719,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "46DC5A8559D949C39F",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "mm ok"
+    },
+    "reaction": "",
+    "timestamp": 1725832742,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E6D195310B98A0AFAE",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "ho cogi tripleta"
+    },
+    "reaction": "",
+    "timestamp": 1725832767,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7AD286BD5E2206CFC9",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "si vez"
+    },
+    "reaction": "",
+    "timestamp": 1725832771,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C56E3AFC4C75EDCBEA",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "no trabajo hoy ,ni mañana, ni pasado"
+    },
+    "reaction": "",
+    "timestamp": 1725832818,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D982CE39BC7E7625FE",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "entro el mierc"
+    },
+    "reaction": "",
+    "timestamp": 1725832832,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "081124A99FC9061F2AAE0B5FA34A7746",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Joa de bueno yo entro el martes"
+    },
+    "reaction": "",
+    "timestamp": 1725832925,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B37BDDAA0B978AEB8AFB5531816A84C9",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cojo martes y miércoles de día n"
+    },
+    "reaction": "",
+    "timestamp": 1725832937,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E8AE72EB484E1BFAD2",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "te dijeron"
+    },
+    "reaction": "",
+    "timestamp": 1725833045,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "529765B34A92E10C7BDA4FF5972684BA",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si me mandaron la programación"
+    },
+    "reaction": "",
+    "timestamp": 1725833068,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E522510BD61A656AB9",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "mm"
+    },
+    "reaction": "",
+    "timestamp": 1725833071,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "732C29B857382DD046",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "si viste"
+    },
+    "reaction": "",
+    "timestamp": 1725833072,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2D955FE51EB3F1AFDF",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "a estas el 2 x2"
+    },
+    "reaction": "",
+    "timestamp": 1725833077,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F28CF3100CA8F38DBB8BC843D976FDF",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si tío me colocaron el 2×2"
+    },
+    "reaction": "",
+    "timestamp": 1725833113,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D253DC6C54AD128401",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "mm  es mas relajado"
+    },
+    "reaction": "",
+    "timestamp": 1725833124,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "676A1CE88EC84A25F5",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "eso es lo bueno"
+    },
+    "reaction": "",
+    "timestamp": 1725833145,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0C96870FC4D3D46E1889779D762F7D97",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si siempre tío"
+    },
+    "reaction": "",
+    "timestamp": 1725833164,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4398C24A84B53AA525",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "es que los domingo no meten casi mucho"
+    },
+    "reaction": "",
+    "timestamp": 1725833183,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F77CE808399FC3E73F69FE791FA32917",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si eso estabas viendo tío"
+    },
+    "reaction": "",
+    "timestamp": 1725833228,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9A7299810DEA7523F1",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "o 3 días de descanso"
+    },
+    "reaction": "",
+    "timestamp": 1725833243,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08649B48C39EDD9B5C",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "según pagan la boni el marte"
+    },
+    "reaction": "",
+    "timestamp": 1725833250,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6FAAE64F8B5F291504E5A6A4330A839A",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tío y a mi sí me la darán?"
+    },
+    "reaction": "",
+    "timestamp": 1725833299,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2328D7664DEA4D39D7",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725833677,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "43054299A32C90E771",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "te dan unos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725833683,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C6DFB4478FC43E0950",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "jaj"
+    },
+    "reaction": "",
+    "timestamp": 1725835459,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "40808A910D7F5F3287",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "igual"
+    },
+    "reaction": "",
+    "timestamp": 1725835460,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "68244AA0658227CEB3B43D641B20BCE8",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estiven"
+    },
+    "reaction": "",
+    "timestamp": 1725896162,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8A02129FA0F0BF94F0CFB6EE45FA7615",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estás donde mi mamá"
+    },
+    "reaction": "",
+    "timestamp": 1725896167,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1DCA191F2396DF1233D61E80F4D3D09C",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mi mamá está en la casa de adulto mayor tio"
+    },
+    "reaction": "",
+    "timestamp": 1725896187,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "8A02129FA0F0BF94F0CFB6EE45FA7615"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BE4CEF79A3185E74BB57C450FD4E30F5",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sale a la 1"
+    },
+    "reaction": "",
+    "timestamp": 1725896190,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E70793058DC9E7988D4F8602A4CA523A",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mm ya"
+    },
+    "reaction": "",
+    "timestamp": 1725896194,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "75FF69189DC011FB4113AA324848B938",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y q debe caer"
+    },
+    "reaction": "",
+    "timestamp": 1725896203,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4102244D11FB137570F8D95B6BDABDF4",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "El que tío"
+    },
+    "reaction": "",
+    "timestamp": 1725896216,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "75FF69189DC011FB4113AA324848B938"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "906CEC4FBF932C7C2BEFA6755AC9C948",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "La.boni"
+    },
+    "reaction": "",
+    "timestamp": 1725896228,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E01C2CB143FC2469012E17F844D39FFC",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "No estás en grupos de WhatsApp"
+    },
+    "reaction": "",
+    "timestamp": 1725896234,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C788DCCC3DD9E6404B71E4BB75B32047",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nada tío"
+    },
+    "reaction": "",
+    "timestamp": 1725897328,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FB740E56BFAB218753F2B321A1CC3277",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "No me dieron a mi"
+    },
+    "reaction": "",
+    "timestamp": 1725897335,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C2B424E70F44ACAB341FC1A0526C7838",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q banco es"
+    },
+    "reaction": "",
+    "timestamp": 1725897340,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "099AC806FAAE63DCB45868707554325A",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "BBVA"
+    },
+    "reaction": "",
+    "timestamp": 1725897357,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "42BFC7304F08BD17B5F622A1ED5214E2",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Revisa en la app"
+    },
+    "reaction": "",
+    "timestamp": 1725897365,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8E737251BD6BDEF238D6E76958501D17",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya lo hize y nada"
+    },
+    "reaction": "",
+    "timestamp": 1725897373,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9067F9F85CA077838D3C6C1E1662B2EC",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mm ya es que a ti te deben de dar es por cheque"
+    },
+    "reaction": "",
+    "timestamp": 1725897384,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A155B6FB0D18AFB6B6AA6E86A04C8777",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Osea junto con el pago que ?"
+    },
+    "reaction": "",
+    "timestamp": 1725897395,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "9067F9F85CA077838D3C6C1E1662B2EC"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E512A9891ADD89BD1814076548CB0C08",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725897400,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "843782436450A7CF765C129DB872E83C",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "El viernes pagan"
+    },
+    "reaction": "",
+    "timestamp": 1725897407,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "559A0A5CB288266D55B7845B5399B912",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tu no estás en grupo de la bolsa"
+    },
+    "reaction": "",
+    "timestamp": 1725897422,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A264DD65EE686C72EF9AB9294069E08",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725897424,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01C29A0C5B6E3D3D7B651B7E526F7394",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahh esperemos tío pave"
+    },
+    "reaction": "",
+    "timestamp": 1725897429,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9E5B9888AF26522FEC6CF8BAB90C1CA6",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "No tio"
+    },
+    "reaction": "",
+    "timestamp": 1725897432,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "559A0A5CB288266D55B7845B5399B912"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "98C6A8FAB4D310E65A1E8C7C54C0CD20",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Deja y le pregunto al nuevo q entro aca"
+    },
+    "reaction": "",
+    "timestamp": 1725897787,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ED13BBB07DFC567EF967D8E0668575F5",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está bien tío"
+    },
+    "reaction": "",
+    "timestamp": 1725897802,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "98C6A8FAB4D310E65A1E8C7C54C0CD20"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A650214C8FC938605E43676492227562",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tío"
+    },
+    "reaction": "",
+    "timestamp": 1725901182,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6269BA1C267D4C6B93C19F900B960732",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "No han echo otra convocatoria"
+    },
+    "reaction": "",
+    "timestamp": 1725901194,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D676E396794DEBF24E",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "si a cada rato hacen"
+    },
+    "reaction": "",
+    "timestamp": 1725901788,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "AF77578B55272EB904093F62675F5F02",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wSNBLA.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725901844,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "436797D95ADAA494C8",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "el es técnico"
+    },
+    "reaction": "",
+    "timestamp": 1725902210,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A099CE5946A256EA49",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "bachiller"
+    },
+    "reaction": "",
+    "timestamp": 1725902213,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "90F71850B09A946D02E38F81176943C2",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4GBAeU.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725902230,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B73C95A94A35340B3",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "mm ok"
+    },
+    "reaction": "",
+    "timestamp": 1725902294,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "822EC6CE36F278E68E",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "al nuevo tampoco le vino"
+    },
+    "reaction": "",
+    "timestamp": 1725902576,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F45B5EC5B9928CD12F",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "debe ser por q como es cheque"
+    },
+    "reaction": "",
+    "timestamp": 1725902583,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8FC3869127B37C42C2",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "deja que publiquen los cheques"
+    },
+    "reaction": "",
+    "timestamp": 1725902594,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7D9982CB626487147032091A7CC74EDE",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Abueno a esperar tío"
+    },
+    "reaction": "",
+    "timestamp": 1725903522,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5A239C3F4D94543A3884D8A1B567E83E",
+    "remoteJid": "573245332460@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sera"
+    },
+    "reaction": "",
+    "timestamp": 1725903526,
+    "senderName": "Stiven Martínez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

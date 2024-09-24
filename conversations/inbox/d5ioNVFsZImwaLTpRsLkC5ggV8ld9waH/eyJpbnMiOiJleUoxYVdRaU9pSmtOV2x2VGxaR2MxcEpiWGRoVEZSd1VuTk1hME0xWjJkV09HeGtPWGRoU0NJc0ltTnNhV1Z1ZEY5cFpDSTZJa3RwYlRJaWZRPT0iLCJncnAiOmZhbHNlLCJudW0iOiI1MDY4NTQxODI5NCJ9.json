@@ -1,0 +1,70 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8EF676B319FF5B0A069AF3C009E09B7F",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sí por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725581816,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "2521D47E36136EC99F686B66DC64849A",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Ieh1Ok.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725581875,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "4BB19C9BADB4D9D42F10176B5AEE44A4",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jM7udF.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725581902,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "46ACDBEE69F51341FFEC9332FA896EFD",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725582037,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

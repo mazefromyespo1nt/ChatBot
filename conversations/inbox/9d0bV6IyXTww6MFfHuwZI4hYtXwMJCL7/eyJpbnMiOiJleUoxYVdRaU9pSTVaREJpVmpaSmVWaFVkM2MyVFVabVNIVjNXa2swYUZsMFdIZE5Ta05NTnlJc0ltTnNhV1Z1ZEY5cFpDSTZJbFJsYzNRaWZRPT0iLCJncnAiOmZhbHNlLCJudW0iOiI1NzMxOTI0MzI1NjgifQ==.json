@@ -1,0 +1,210 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "71D515FC6945175BEBBAC74FA3612175",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725556271,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "19E4AACA51FBB2128FBD3C8BA2206C3E",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725556325,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "901D2C67C7A3D05DA6CEF66B2E48AFF3",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725556419,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A156AA026435E10D70",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bienvenido a Gerencia, en qué te podemos ayudar?\n1. Radicar PQR\n2. Contactar a gerencia"
+    },
+    "reaction": "",
+    "timestamp": 1725556420,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7EA2A0E1FDCE9486702177D9621D873A",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725556437,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB065494CD3B010DCD9C4",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bienvenido a Gerencia, en qué te podemos ayudar?\n1. Radicar PQR\n2. Contactar a gerencia"
+    },
+    "reaction": "",
+    "timestamp": 1725556438,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A40FEA6BB277CCE18819790F4939E610",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725556444,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00FF7E9100661AED0A3",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bienvenido a ventas, cuéntanos que producto estás interesado en comprar?\n1. Carro\n2. Moto"
+    },
+    "reaction": "",
+    "timestamp": 1725556445,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E9E635FECC49C1482A0C3D82A08D1027",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725556880,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "85631AB4C5EE0511857B911869B39586",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725556884,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C4574DBA776DC7ACB3",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bienvenido a Gerencia, en qué te podemos ayudar?\n1. Radicar PQR\n2. Contactar a gerencia"
+    },
+    "reaction": "",
+    "timestamp": 1725556885,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09B0C71977F6F4F4A1F",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esta es la opción de radicar PQR"
+    },
+    "reaction": "",
+    "timestamp": 1725556886,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03D831A6BF1123E16C7",
+    "remoteJid": "573192432568@s.whatsapp.net",
+    "msgContext": {
+      "text": "Soy el carro"
+    },
+    "reaction": "",
+    "timestamp": 1725556887,
+    "senderName": "Soluciones Uraweb Mayli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

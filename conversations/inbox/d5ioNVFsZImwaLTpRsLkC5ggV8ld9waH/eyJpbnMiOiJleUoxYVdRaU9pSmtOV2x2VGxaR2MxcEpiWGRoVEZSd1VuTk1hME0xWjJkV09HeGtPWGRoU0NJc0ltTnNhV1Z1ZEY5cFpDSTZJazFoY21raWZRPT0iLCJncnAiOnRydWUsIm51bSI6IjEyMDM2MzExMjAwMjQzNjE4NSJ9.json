@@ -1,0 +1,37 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6AABF4272357AE8AA06C36D8E1815812",
+    "remoteJid": "120363112002436185@g.us",
+    "msgContext": {
+      "text": "Ola"
+    },
+    "reaction": "",
+    "timestamp": 1725575433,
+    "senderName": "Neptunx",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "364F3F9598F62FA6FABDB97F121F154B",
+    "remoteJid": "120363112002436185@g.us",
+    "msgContext": {
+      "text": "Ya te seguí xd"
+    },
+    "reaction": "",
+    "timestamp": 1725577948,
+    "senderName": "Law",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493425294014@s.whatsapp.net",
+      "id": "EE87EB9A9E1422D69B28E0C17E74C8E4"
+    }
+  }
+]

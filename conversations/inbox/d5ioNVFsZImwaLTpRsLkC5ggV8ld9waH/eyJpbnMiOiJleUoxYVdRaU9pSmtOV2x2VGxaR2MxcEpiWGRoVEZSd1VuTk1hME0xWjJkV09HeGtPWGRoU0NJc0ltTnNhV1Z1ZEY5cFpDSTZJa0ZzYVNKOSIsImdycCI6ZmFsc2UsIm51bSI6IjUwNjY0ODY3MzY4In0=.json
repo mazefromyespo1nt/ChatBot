@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E9E0580CC7EC870FD3",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725908055,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C91E41C34B422314F6",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725909086,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,322 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0708F9A724A55ADBE52",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "The pictures look stunning.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725571150,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E57E228767499A6DCC",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "The thrilling ride through the sand dunes was unforgettable.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725573115,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03A38F122979380A56F",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Let me know what you think after trying it out.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725573215,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB027C89D94169A37A10B",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "It's nice to have a connected and convenient driving experience.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725573273,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB687A6FBBB617FE66",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "The interior looks spacious and comfortable.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725573369,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB018BB5667FBCBAEDBB7",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "I'm looking forward to the culinary journey.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725575330,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0801B437DB8379CCF40",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "You'll have plenty of photo opportunities throughout the trip.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725575417,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08D7E7E56B6E55A52FC",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Your positive feedback will encourage others to join the adventure.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725577346,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05714D77DE85674B62D",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "It was thrilling and full of excitement.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725577436,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D927CAB6510F907273",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "I've noticed the performance improvement as well.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725577524,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DDD0758CC245750DE3",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Spreading the word about the desert safari will help others discover this unique experience.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725577581,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ABF119FDDFB745FF1C",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "It gives me peace of mind as a driver.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725579280,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EC4CDA8CEB13FB7DBF",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Anytime! Let's discuss our thoughts after you finish it.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725579385,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F8C899B7EE6A8C3BDF",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yes, I've been binge-watching it during my breaks. It's so engaging!\n"
+    },
+    "reaction": "",
+    "timestamp": 1725579464,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01DD860DB20C011BD30",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "It motivates me to stay active.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725579519,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08CDFD71F13E131DBED",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "How was the overall dining experience?\n"
+    },
+    "reaction": "",
+    "timestamp": 1725581587,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D6F54B1A1109D0CC1E",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "The sunset view was breathtaking and picturesque.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725581646,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F4D6FBC2C5E9179F64",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Agreed! I can't wait to make the switch.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725581737,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB017DA0834515FCD3F91",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "You're welcome! It's an experience not to be missed.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725581779,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BE03EA81ED9B8F31A9",
+    "remoteJid": "59160933976@s.whatsapp.net",
+    "msgContext": {
+      "text": "Definitely! I'm sure we'll have a lot to talk about.\n"
+    },
+    "reaction": "",
+    "timestamp": 1725583756,
+    "senderName": "Smartads",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

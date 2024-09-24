@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01E41D8DD8C8A9E3849",
+    "remoteJid": "5219993864325@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola estas"
+    },
+    "reaction": "",
+    "timestamp": 1725949267,
+    "senderName": "AnzenCode",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0A8A4DF7840DB1E577",
+    "remoteJid": "5219993864325@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725949567,
+    "senderName": "Rafa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB037F69C115A150114DB",
+    "remoteJid": "5219993864325@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725949582,
+    "senderName": "AnzenCode",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

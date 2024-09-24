@@ -1,0 +1,146 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "5F68B407CC531133811A5B13708FC614",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cLCeAq.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553668,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "961806B5CE9CC18B855438F81E8CA5A8",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "83zYED.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553985,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D1028B9203883B87EAC787A078008A91",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "EWeAVe.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725554030,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "478933CE38A2BA0AC96C76F0A16461CC",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dgXiwU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725554031,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9D6750374B63A6E96F185768817D8FAA",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "O3pm19.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725555026,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "95108AB4530FA61EF9F4F6D823EEF60C",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "benOQg.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725555027,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9CB6B98E7DA211E053B000BDA293B343",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bomHtJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725556629,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D1BB90C22A99ADEF001CDF7A507B6640",
+    "remoteJid": "120363314477518816@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7wJ7hv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725556658,
+    "senderName": "Asesor Redtelcom Camilo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

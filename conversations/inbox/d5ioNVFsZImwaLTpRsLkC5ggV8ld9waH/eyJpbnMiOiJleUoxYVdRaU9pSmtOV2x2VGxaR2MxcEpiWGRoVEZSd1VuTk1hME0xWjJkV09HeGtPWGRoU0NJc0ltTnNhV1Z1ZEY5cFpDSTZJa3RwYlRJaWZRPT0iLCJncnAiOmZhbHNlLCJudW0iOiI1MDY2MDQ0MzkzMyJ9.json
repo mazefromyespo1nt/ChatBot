@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05D51B2B58A88F6127A",
+    "remoteJid": "50660443933@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725575651,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06B3F497E41F4B7FF21",
+    "remoteJid": "50660443933@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725575915,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB045CB87A471B9B88D1D",
+    "remoteJid": "50660443933@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725582980,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

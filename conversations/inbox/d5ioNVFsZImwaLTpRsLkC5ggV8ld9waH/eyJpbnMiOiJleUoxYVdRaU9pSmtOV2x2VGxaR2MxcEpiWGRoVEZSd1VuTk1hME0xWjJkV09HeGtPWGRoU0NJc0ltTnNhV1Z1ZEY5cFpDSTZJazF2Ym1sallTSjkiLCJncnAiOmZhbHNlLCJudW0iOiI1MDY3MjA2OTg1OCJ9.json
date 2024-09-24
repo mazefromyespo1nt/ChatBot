@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE50699BC2B603DF33F",
+    "remoteJid": "50672069858@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725903368,
+    "senderName": "Daniela Campos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01C7787D7A0B05F1FE7",
+    "remoteJid": "50672069858@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725910386,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB034FF240B96C95D3C81",
+    "remoteJid": "50672069858@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que servicios te interesa mas?\n1️⃣ Planes postpago\n2️⃣ Servicios de hogar (CABLE e INTERNET)"
+    },
+    "reaction": "",
+    "timestamp": 1725913387,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

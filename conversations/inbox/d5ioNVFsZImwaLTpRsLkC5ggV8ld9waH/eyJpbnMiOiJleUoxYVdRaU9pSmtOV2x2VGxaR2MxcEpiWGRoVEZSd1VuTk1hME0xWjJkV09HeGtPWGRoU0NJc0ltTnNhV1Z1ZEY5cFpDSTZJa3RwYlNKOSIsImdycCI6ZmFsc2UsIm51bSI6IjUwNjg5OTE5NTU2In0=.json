@@ -1,0 +1,86 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AD060D4353F6F1045D",
+    "remoteJid": "50689919556@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Silvia Salgado, es un gusto saludarle de nuevo 😁"
+    },
+    "reaction": "",
+    "timestamp": 1725894783,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A99DC853AE9EA3EC013",
+    "remoteJid": "50689919556@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍"
+    },
+    "reaction": "",
+    "timestamp": 1725894819,
+    "senderName": "Silvia Salgado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0744AD41280DB3A5D30",
+    "remoteJid": "50689919556@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* . Actualice sus servicios *Puede adquirir un gran paquete a súper precio* .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "QwYGbu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725894853,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB01AF4F56BBF30312335",
+    "remoteJid": "50689919556@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Planes liberty con el *envio gratis🚚,  sin deposito y sin contrato, con la mejor cobertura de red fuera y dentro del país✈️* 👉(centro america y norteamerica sin costo) 👈. \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈 y *conservamos su número si es  KOLBI o CLARO*😄",
+      "fileName": "6kjvTj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725894932,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6287618429710A3B95",
+    "remoteJid": "50689919556@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "👍",
+    "timestamp": 1725894998,
+    "senderName": "Silvia Salgado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

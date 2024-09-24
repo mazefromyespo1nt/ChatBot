@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "86AE37E9CD62DB40BBBDF46F00ABC496",
+    "remoteJid": "50672071980@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725669019,
+    "senderName": "Efraín_Alfaro_Rojas.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

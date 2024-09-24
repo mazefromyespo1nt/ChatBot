@@ -1,0 +1,170 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1487C7461DE8689B54",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papi hola"
+    },
+    "reaction": "",
+    "timestamp": 1725824636,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC5F7D03853BF40A35F",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "text": "Una pregunta"
+    },
+    "reaction": "",
+    "timestamp": 1725824639,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F357FABE823517F97865489B492CAD2F",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuentamelo"
+    },
+    "reaction": "",
+    "timestamp": 1725826074,
+    "senderName": "Ronald Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AB453A6B80900CCEC31",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KWbUWN.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725826121,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A12029203A7A79DC48B",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Qa1xJE.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725826136,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "223A6F9D55E6DDF09A9D8D87325BF372",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amazon"
+    },
+    "reaction": "",
+    "timestamp": 1725826321,
+    "senderName": "Ronald Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F1F993B890F1967458",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Tarifas de amazon",
+      "fileName": "VZk0TpD9uRWT5KxMsKjitg3q41qz1R3X.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725826323,
+    "senderName": "Ronald Martin",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F1DD98D7DF48B0DE4137868E191A7905",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "text": "Google"
+    },
+    "reaction": "",
+    "timestamp": 1725826331,
+    "senderName": "Ronald Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0EF5283BCD4334B64D8",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Hola  soy gooogle !!!!",
+      "fileName": "C8tjf4XliXc9nuPPkePkgWVBfqckUu2w.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725826333,
+    "senderName": "Ronald Martin",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0C7E74D3A5AB3A300A519800D9CC4B74",
+    "remoteJid": "573216274022@s.whatsapp.net",
+    "msgContext": {
+      "text": "+573162878494"
+    },
+    "reaction": "",
+    "timestamp": 1725826795,
+    "senderName": "Ronald Martin",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

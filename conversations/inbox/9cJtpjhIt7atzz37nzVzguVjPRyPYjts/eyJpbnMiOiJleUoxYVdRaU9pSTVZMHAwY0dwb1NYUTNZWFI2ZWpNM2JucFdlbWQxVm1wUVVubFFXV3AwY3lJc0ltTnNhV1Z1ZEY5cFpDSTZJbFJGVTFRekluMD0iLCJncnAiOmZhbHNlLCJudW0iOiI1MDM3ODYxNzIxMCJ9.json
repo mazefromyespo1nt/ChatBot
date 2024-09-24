@@ -1,0 +1,213 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0C50FC74E1583DA4A86ED94D78C2AFBA",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola anny bendiciones"
+    },
+    "reaction": "",
+    "timestamp": 1725806359,
+    "senderName": "CloudStoreSV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "00357818903949164229DB482430520F",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "text": "Podrias enviarme las fotos de ayer"
+    },
+    "reaction": "",
+    "timestamp": 1725806372,
+    "senderName": "CloudStoreSV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "07588957517B0B9863D93F6F598A494A",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "kKCoYc.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725807842,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DD987E4273F76E871C",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "text": "gracias!!"
+    },
+    "reaction": "",
+    "timestamp": 1725814679,
+    "senderName": "CloudStoreSV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "423DF47E78BEE1C8457D4DA4508A2654",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "eI98Qt.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725815821,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8A8AF7F75A69A1F87BF13426E72C953E",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jKIoib.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725815821,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "9784E5F41C6D35213B51E15A9A723943",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "H9b356.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725815821,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "C31A30CFA49E8717295305E78CF90C54",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "LyERxj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725815821,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "DA1F389498ADC724899B6F51CCB19CBB",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7P1ztP.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725815837,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3955C3D8F31C5FC50BD3D27D3154E7FF",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias corazon bendiciones"
+    },
+    "reaction": "",
+    "timestamp": 1725841162,
+    "senderName": "CloudStoreSV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "18AB96D58EF09D5E6CFF23C5B18A377C",
+    "remoteJid": "50378617210@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NZ4KKC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725938757,
+    "senderName": "Anny Rivas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

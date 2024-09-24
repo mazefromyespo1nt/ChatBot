@@ -1,0 +1,1745 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6F3D72C63786F8ADA033BD9FEEB51085",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725722356,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7CABF7A3ED93BD1458CDCEEBEAFD89CA",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan por favor con esta cédula 503830474 si esta disponible el saldo pendiente"
+    },
+    "reaction": "",
+    "timestamp": 1725722469,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB032CABB13366A691BFB",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "107970263 buenos días, consulta de cédula para servicio fijo porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725723347,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CCD215BFCBAFF9A346",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "solo sale en lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725723551,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661511298@s.whatsapp.net",
+      "id": "7CABF7A3ED93BD1458CDCEEBEAFD89CA"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09CC4A66339B9C38EDC",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos dias   Chiquillos lindos"
+    },
+    "reaction": "",
+    "timestamp": 1725723560,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09DA472EA3DCEF55803",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "para fijo???"
+    },
+    "reaction": "",
+    "timestamp": 1725723575,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DC29ECCC67BDA46DCA",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Eso no se valida en pvl"
+    },
+    "reaction": "",
+    "timestamp": 1725723584,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB078571161C8862E3236",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos dias me ayudan a validar 110890628"
+    },
+    "reaction": "",
+    "timestamp": 1725723803,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C95B40B328FA121B9F",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "dale"
+    },
+    "reaction": "",
+    "timestamp": 1725723963,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660212190@s.whatsapp.net",
+      "id": "3EB078571161C8862E3236"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AFE8CB3944BAC1C0F0C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725724107,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E8A8AF9BC39664D617E10A0A16282409",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "118300556 // Me ayudan porfavor a validar está cédula"
+    },
+    "reaction": "",
+    "timestamp": 1725724748,
+    "senderName": "Hillary A...🪷🐼",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0272A3E7B9D8E3FF149",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "hola hemosha , dale"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725724871,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50684613939@s.whatsapp.net",
+      "id": "E8A8AF9BC39664D617E10A0A16282409"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB000DFF5832592BBF5D1",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Wg2Zqm.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725725131,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B90E58569B7BC5AA79",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan a verificar ced. gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725725131,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09F87EDDC5F549E3DEC",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "114400155 lista negra"
+    },
+    "reaction": "",
+    "timestamp": 1725725160,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB027E0800BE0FFD8240D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "pero me sale sin pendientes🥲"
+    },
+    "reaction": "",
+    "timestamp": 1725725214,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660034660@s.whatsapp.net",
+      "id": "3EB09F87EDDC5F549E3DEC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0418FB1372C60561B36",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "pasame el  pantallazo"
+    },
+    "reaction": "",
+    "timestamp": 1725725261,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB053C722175FDD67E214",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "RlA3Jp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725725277,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0AB55F3868B253B0626",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Verificar 208340187, María Chaves"
+    },
+    "reaction": "",
+    "timestamp": 1725725369,
+    "senderName": "telemercadeonargallo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A08517D3144E17D7C3",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "cliente  nuevo  🥳"
+    },
+    "reaction": "",
+    "timestamp": 1725725463,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661329973@s.whatsapp.net",
+      "id": "3EB0AB55F3868B253B0626"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0701098E38F5E8FF6A3",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "\"Gracias por el tiempo en espera, se realiza verificación de cédula 114400155, y se excluye de Lista Negra, pueden proceder. ¡Fue un placer atenderle! 🙂 CSH"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725726501,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663452932@s.whatsapp.net",
+      "id": "3EB053C722175FDD67E214"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "01E2A4CA2B69D80FB563FA7762A24EDA",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "oqHyNB.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725728529,
+    "senderName": "Aarón J.R.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "31937B0E393DBA50C9DA8C2B5CC4C41D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "RAlKax.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725728538,
+    "senderName": "Aarón J.R.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F019548D210DEA3EBD436DA5D8456FC4",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan por favor a limpiar"
+    },
+    "reaction": "",
+    "timestamp": 1725728551,
+    "senderName": "Aarón J.R.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0A6F617D72DD97562C4",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "FtzlwU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725728562,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0599DA5BCD1FDC86810",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "zJZ0Jh.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725728563,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2B49CC46EA3E6430BD8FE5B8B690C8E1",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Gracias por el tiempo en espera, se realiza verificación de cédula#303870774 se excluye de Lista Negra, pueden proceder.\nGAC:43623145\n¡Fue un placer atenderle! 🙂 ^\"JAF"
+    },
+    "reaction": "",
+    "timestamp": 1725731301,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50664565839@s.whatsapp.net",
+      "id": "31937B0E393DBA50C9DA8C2B5CC4C41D"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F023E126C279D2A4F5",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "114820512 me ayudan porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725733434,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03FE03F55EE4616AC4C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "cliente nuevo  🥳"
+    },
+    "reaction": "",
+    "timestamp": 1725733536,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50687323698@s.whatsapp.net",
+      "id": "3EB0F023E126C279D2A4F5"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0A0F17C137AB2E4C2CA",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Rm1r0e.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725733712,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04AB1622A5747D6E733",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "115790548"
+    },
+    "reaction": "",
+    "timestamp": 1725733712,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB039C988961B8C5F347D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "cliente nuevo"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725733764,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661331177@s.whatsapp.net",
+      "id": "3EB04AB1622A5747D6E733"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09EFEDC4A654E3D55A0",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "303800172 me ayudan porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725733925,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07C89ECA0913E1EC9A4",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "dale"
+    },
+    "reaction": "",
+    "timestamp": 1725733988,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50687323698@s.whatsapp.net",
+      "id": "3EB09EFEDC4A654E3D55A0"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB025FC4F4B548933C7B5",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos días me ayudan a consultar esta cédula por favor y gracias 702460176"
+    },
+    "reaction": "",
+    "timestamp": 1725892430,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05C026BB0F8F8BD7C42",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos día chiquillos , Feliz día"
+    },
+    "reaction": "",
+    "timestamp": 1725892680,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0490EB4A30429CA94EC",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "dale"
+    },
+    "reaction": "",
+    "timestamp": 1725892689,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661799379@s.whatsapp.net",
+      "id": "3EB025FC4F4B548933C7B5"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0807F8052170807AB27",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "en lista negra"
+    },
+    "reaction": "",
+    "timestamp": 1725892704,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661327729@s.whatsapp.net",
+      "id": "3EB097D184711EC0875414"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0B871DDD754183E278A",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "Me ayudas a limpiar",
+      "fileName": "mYDtMU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725892779,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660034660@s.whatsapp.net",
+      "id": "3EB0807F8052170807AB27"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0136C81376F985C332F",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "claro , pasame la cédula"
+    },
+    "reaction": "",
+    "timestamp": 1725892816,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B873829B614FFF15EB5AFB4C1502463B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jBBBiM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725892841,
+    "senderName": "Argery Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6308EAF46C3BC8F93220D57038947E57",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan con una verificación"
+    },
+    "reaction": "",
+    "timestamp": 1725893337,
+    "senderName": "Aarón J.R.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E5DA4CFF3A92A34B5AB4E1A96638AD3B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725893341,
+    "senderName": "Aarón J.R.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B9833B928557CD2371C7FF6D08EF8752",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "401440981"
+    },
+    "reaction": "",
+    "timestamp": 1725893349,
+    "senderName": "Aarón J.R.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB047B562BCAA196D39ED",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "en lista negra"
+    },
+    "reaction": "",
+    "timestamp": 1725893376,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50664565839@s.whatsapp.net",
+      "id": "B9833B928557CD2371C7FF6D08EF8752"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05B9A89B4D0BA99EDE1",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Gracias por el tiempo en espera, se realiza verificación de cédula 106180191, y se excluye de Lista Negra, pueden proceder. Caso GAC:43632568"
+    },
+    "reaction": "",
+    "timestamp": 1725893915,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663399579@s.whatsapp.net",
+      "id": "B873829B614FFF15EB5AFB4C1502463B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D30FB8B776D4CEC457B60DFB6788336B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Gracias guapa"
+    },
+    "reaction": "",
+    "timestamp": 1725893933,
+    "senderName": "Argery Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01F09C53FAF44C602E9",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "gf"
+    },
+    "reaction": "",
+    "timestamp": 1725898290,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09B734E4857602D5F29",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "gfghf"
+    },
+    "reaction": "",
+    "timestamp": 1725898290,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00CC1B600431615DE2B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "bhtt"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07508BA9A9F1B69539C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "nb"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0848D53C516E940496D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "gf"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0517B33F7788F3A6112",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "h"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B7A71CE9C5BF4B440C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0ABF1E16B3DDD5F0C54",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0513FE1193B2064E9CB",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07B12BF08B76C7F8AFC",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CAE3E4DFCB27BEDB42",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06B4979D3875B07C68A",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A00E4C857B1F082902",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "ng"
+    },
+    "reaction": "",
+    "timestamp": 1725898293,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB049047559ED6026E2E3",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "h"
+    },
+    "reaction": "",
+    "timestamp": 1725898293,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB083CC7996D057D3F39E",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "n"
+    },
+    "reaction": "",
+    "timestamp": 1725898294,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C56F44103977D0D773FEEA453DF12A0",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Chicos vamos por esas 15 hoy para que se vayan temprano"
+    },
+    "reaction": "💪🏼",
+    "timestamp": 1725900027,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EF8355A4D72BDF85D8",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "302480665 // Me ayudan a validar porfa 🙏🏻🤞🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725901049,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EBC2F765944CF6FE19",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "me validan 155842704323"
+    },
+    "reaction": "",
+    "timestamp": 1725901726,
+    "senderName": "Sharon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DB2B24E9848C91CEE1",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "por fi"
+    },
+    "reaction": "",
+    "timestamp": 1725901728,
+    "senderName": "Sharon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "64EA6DCB6EE79BA8D544B659532EAE53",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "208350542 me ayudan por favor."
+    },
+    "reaction": "🤑",
+    "timestamp": 1725902940,
+    "senderName": "Lizzy Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BD6CD17CDAE1751D58",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "114350192  // Me ayudan a validar porfa 🙏🏻🤞🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725903305,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DBF75ECA32E7BC06F3",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan a validar  ced. 108290069 gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725904003,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5ED6C66D76AD0DF587D2A4DC2F1B01CC",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Cliente nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725905100,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661335870@s.whatsapp.net",
+      "id": "3EB0EF8355A4D72BDF85D8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0039470353A3B6BB943",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Puede proceder"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725905112,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661335870@s.whatsapp.net",
+      "id": "3EB0BD6CD17CDAE1751D58"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "699A7455278B45214BEBA4C9B25ABCDA",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Dele"
+    },
+    "reaction": "👍",
+    "timestamp": 1725905119,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661329844@s.whatsapp.net",
+      "id": "64EA6DCB6EE79BA8D544B659532EAE53"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "008BD5C428DF2CA700634B275A2AD05B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Dele"
+    },
+    "reaction": "",
+    "timestamp": 1725905141,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661335870@s.whatsapp.net",
+      "id": "3EB0BD6CD17CDAE1751D58"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C434B3F24A6C4AAB08",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Cliente nuevo puede proceder"
+    },
+    "reaction": "",
+    "timestamp": 1725905145,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663452932@s.whatsapp.net",
+      "id": "3EB0DBF75ECA32E7BC06F3"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E23A517EF2EC42D3605C63A581AB7D83",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Lista negra"
+    },
+    "reaction": "",
+    "timestamp": 1725905159,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660212190@s.whatsapp.net",
+      "id": "3EB00DCB5B90BEB529D39C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F934D3E6E7CEF6F221B7D5DD34BD3537",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Dele"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725905185,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663452932@s.whatsapp.net",
+      "id": "3EB0DBF75ECA32E7BC06F3"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB020C9C7299D20A5579A",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "207920266 // Me ayudan a validar porfa"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725906849,
+    "senderName": "Colocha 🌙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E453DDA581D7C8C7B6CF77EDACA5B96D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Dele"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725907114,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50685085825@s.whatsapp.net",
+      "id": "3EB020C9C7299D20A5579A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB070F54CCA2FD98AB90B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "205330547 help please"
+    },
+    "reaction": "",
+    "timestamp": 1725910362,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB016F69050A357EBE090",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "puede proceder"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725910511,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661331177@s.whatsapp.net",
+      "id": "3EB070F54CCA2FD98AB90B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0783C60721A0A9F8276",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "207310565 Helbert Mora"
+    },
+    "reaction": "🤑",
+    "timestamp": 1725912617,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A77437261582411F70",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725912690,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661327729@s.whatsapp.net",
+      "id": "3EB0783C60721A0A9F8276"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09147E4E1C84EAF76F0",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "c02193296 Francisco Oviedo Rostran"
+    },
+    "reaction": "",
+    "timestamp": 1725921136,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07FD298F03CFF8A59A5",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me colaboran con este numero de pasaporte"
+    },
+    "reaction": "",
+    "timestamp": 1725921156,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50670993954@s.whatsapp.net",
+      "id": "3EB09147E4E1C84EAF76F0"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01B4C7E262F0201B65D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "puede proceder"
+    },
+    "reaction": "",
+    "timestamp": 1725921269,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50670993954@s.whatsapp.net",
+      "id": "3EB07FD298F03CFF8A59A5"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04B37E8EC270BCFB413",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "cliente nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725921568,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50664565839@s.whatsapp.net",
+      "id": "3F8D6018FD6E24FD940E2FFF09FB351A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB010FE97E2B528956A07",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan a validar por fa 114670875"
+    },
+    "reaction": "😂",
+    "timestamp": 1725921712,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB024C884E6A639E9478C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725921736,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661327729@s.whatsapp.net",
+      "id": "3EB010FE97E2B528956A07"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB039D8E787EFDAC40462",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "107260684 Fresy Jiménez Rivera"
+    },
+    "reaction": "",
+    "timestamp": 1725925036,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E11AD3E5598E1B7836",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos días!  Me validan esa cédula  por favor // Juan Carlos Hernández Salas / 7101159"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725978647,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00B676F885DC65AE1B4",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos dias  Chikis"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725979026,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B1315FB0BD7E280026",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1725979031,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50670993954@s.whatsapp.net",
+      "id": "3EB039D8E787EFDAC40462"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B6775D29220414DEB4",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "lista negra"
+    },
+    "reaction": "",
+    "timestamp": 1725979068,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661323744@s.whatsapp.net",
+      "id": "3EB0E11AD3E5598E1B7836"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0ED26D4CDCFB519361B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Buenos dias , me ayudan a validar 103510265"
+    },
+    "reaction": "",
+    "timestamp": 1725979293,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EA60E5D867ABE07C84",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "en lista negra"
+    },
+    "reaction": "",
+    "timestamp": 1725979330,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660212190@s.whatsapp.net",
+      "id": "3EB0ED26D4CDCFB519361B"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "729C426033F43BB570076C0D79586AFB",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TiHuxr.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725979597,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DEA0F95EF45B073607",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "112800388 me ayudan a validar por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725979615,
+    "senderName": "Lizzy Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EF28B6FA2345A1B898",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725979642,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661329844@s.whatsapp.net",
+      "id": "3EB0DEA0F95EF45B073607"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E4733BE40DE0E5EC58F9216087EA4372",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "207160534 Julio Gamboa"
+    },
+    "reaction": "🤑",
+    "timestamp": 1725982291,
+    "senderName": "Argery Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F0C8F51AA2D71500EB",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "503830474en lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725982383,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663399579@s.whatsapp.net",
+      "id": "E4733BE40DE0E5EC58F9216087EA4372"
+    }
+  }
+]

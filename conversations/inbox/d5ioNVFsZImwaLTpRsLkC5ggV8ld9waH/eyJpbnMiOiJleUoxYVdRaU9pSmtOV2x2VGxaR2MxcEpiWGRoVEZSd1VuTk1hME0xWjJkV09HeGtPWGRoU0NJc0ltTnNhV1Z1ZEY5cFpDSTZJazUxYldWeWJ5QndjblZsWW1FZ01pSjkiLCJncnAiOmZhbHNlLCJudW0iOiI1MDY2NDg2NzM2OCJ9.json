@@ -1,0 +1,2850 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CBBE5DE05ACD81AF33",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571291,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0705E0622C3E2E3377C",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571295,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AB2B6BE0D01EF3C466",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571297,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A4E11C559CD4938EF9",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571301,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FABD5FFE286D185163",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571309,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00D1C8426762CC17DB6",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571312,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03527CDE7732A5C1721",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571316,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03AE4993A3DB5449B40",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571318,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F63AC9D2E449F53E42",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571326,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A72EE05CAFF4F01102",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571328,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03853FC748A389FEA97",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571330,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07C6C74C63CF1DF906A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571334,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03EB96BE63CD389C8AB",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571341,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0648389B3B4692DA594",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571343,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03DE75D25ADBD25E0CC",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571345,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0818AFE109F1D62C8AA",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571347,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05AECC83135B21C96FE",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571349,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A5BCE56F366346F4B9",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571351,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB095BEA43632C212A17D",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571360,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02AC2D458ECC1605C25",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571362,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E4C8D99A9EC455D42E",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571364,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0621231B75053EB9F22",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571366,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D286B13FD91801551A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571368,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB050993B35C5CF1C112A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571370,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02AE28DFD5B0C3C75D8",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571372,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB097FB67A00008D4CB74",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571374,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CEE1A4E8F37799B0BE",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571376,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0260318FDEBCD9BBE98",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571379,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01C22C4DE5DD52311D1",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571381,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0290EE4354080F12228",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571383,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0284AC4ACAD375592AD",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571391,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02C8C5BFF709DB1641D",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571393,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F3635C245E043F0B71",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571395,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07BE872B26710669081",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571397,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DDA9320484A2919928",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571399,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB078A20E00593A00CD19",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571402,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D47E6CF5E7D50960EF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571404,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07FB0D4F7EAAE22DD00",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571408,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB059BFEA8068E1483DE7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571410,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ACA5BDAF2E1D80605A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571412,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB043E53600937C5C35FD",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571414,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB016B6AB85AF072E3163",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571422,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A649A6A70B91915F88",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571427,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04AE3C2E8A8D5824158",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571429,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D8A536B422FB24C247",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571435,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB045A4ED0296526074CA",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571437,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB050FC6C4C1779532C6B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571439,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB064A1488B1312A58890",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571447,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00D4C8BE3BA8D688FDE",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571451,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DFC48D154F8281F25B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571454,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0727E1C25A8C840F708",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571456,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07329C50AC176C51BFA",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571458,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB079F4E06EF3F84A1A90",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571460,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02CC1450F928F96F8AE",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571464,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B3D6D143AE8BB305F5",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571466,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0164007FFC1F24D7B8E",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571476,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08E3729450C26D7137B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571481,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04B1F290A68E0E43793",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571485,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB071407EE1387D0DE8E2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571489,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BBE558DC61522244D7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571491,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0879134551E3B4D6DB2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571499,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB005565065F846D55664",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571503,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB078FE09C562FD2295FC",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571510,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0420CC58213CE08985B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571518,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FC0A76C5ED734BBD6E",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571520,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07D0BF60E070106F5E9",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571522,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02F643606D86E82F73F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571528,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DFE4FE14AC916D828C",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571531,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00F5973D4AF79EFFBE4",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571533,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09E7D6F42D08A692013",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571537,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0715CC892CB996B1C7F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571539,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0890420DBBD1223E1DA",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571543,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D3E0543D52A5AC0CD4",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571545,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03103173BED48A0BC01",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571549,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D767BDFD087D3FBA6F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571554,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08D5C36667EC4A837A7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571556,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB092CD8AA5C54E2DB0F9",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571558,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F0A7B9061159D7DA6",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571560,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BD419F8CFC7DC5A8DF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571566,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06A9039111120F6C07F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571572,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B35E8651DC6F822802",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571583,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02F17F1E8FCBCFEFCE6",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571587,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0702E9F7D6FD5D9E0A9",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571591,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09A7EC249D96EAB182D",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571593,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB077467A4F76C7B1774F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571600,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04C3E12404D443988E8",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571603,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04004E5BFFC1C5220EF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571605,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ECC78EF1FCB8204837",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571607,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0549A7C057873EF0B18",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571611,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB093EDA9AB895D28459A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571613,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0123D1B3A02CA6C1982",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571615,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C45F3F222AF90000ED",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571617,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0897CE3FA9988CC3E87",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571619,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0726EE1825C62A7430B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571628,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09CE75B858C2AAB99B1",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571636,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB053D1282046C3C27B32",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571642,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB0E9105C97F6E9FB5",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571646,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0367DE8E617A8B27D7C",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571652,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02A378AED2C986B1238",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571655,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB0BC50025510E8469",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571657,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E6AC2701DA8838AE6E",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571659,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FA1AFF734FAF210699",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571669,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB017D8B26DEE1B9822D8",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571671,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E7D9B8A833957942E2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571682,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05B7FB9E2471C08B1BF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571688,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01480367911FB8C6541",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571690,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B25728EA276BC3010D",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571692,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06AE0F2E66AC6E2B73A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571694,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F107A401A7D6F383A7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571698,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB096B58C4B22C57570EC",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571701,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FEBA6803F59697D954",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571703,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01037EDB308F7B88823",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571709,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DEBF13588676AA2DC1",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571717,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03B1FC24ABAA9AD13F5",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571719,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01086D4F6089E1F21A5",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571726,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05C4C2E5AA61777234A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571728,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09DB455203D63D5A2A2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571730,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FAFDC59CCA156438BE",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571732,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0021E415BD80ACFA603",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571736,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BAB0193D5CF6F3E269",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571738,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB088FE6B1A7CCD422ECF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571742,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB041ACCC846A9E18C3BA",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571744,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F930C12D5A9588710",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571746,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02C3548B7EC4851C3B3",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571749,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB077A626DB0C39CF6C5B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571751,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04713BA0C5DBF7459D2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571753,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB046B3C23F9C84F15B2B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571761,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B65AF8C8B774D75778",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571763,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09802FA82DF195573F0",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571769,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04DD681C779A4EAB5BF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571771,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F3AB4591B08DEB8B1A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571776,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB065061401FB9136FCB0",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571782,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB073BFD8886B67D2AE40",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571784,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB086FC3E7353544942DC",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571794,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B999C23FF6F522F177",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571805,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03B76C2B906DBBE8A5D",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571809,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB001FC14C910C93E16C7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571817,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FC436CC95DE8206E26",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571819,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0524BABBF0901C37E2A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571829,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C7A485008DAE72844F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571832,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068EA454EBD080AE434",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571836,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB079E29F8BA1AF952A70",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571844,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05F7F5E5B2E016253EE",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571850,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00AC951B1BA323AF112",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571854,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB049D38694B009B13831",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571856,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F4AE47A3872E524046",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571859,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00FD29D97DA6F3A250B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571861,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01731CC93FEDE82513B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571865,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02C4E6B63381BF6B430",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571869,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07105A2F0738D4F345C",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571873,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB026188B33FE12594555",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571906,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB053D849BA2E2E810340",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571913,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E02C2509CF4F4F320C",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725571917,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02305B4DCAB97FD3322",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571919,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04FDA78781F8BA1F315",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571926,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06D7BB3467C66FC86A7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571931,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BEA09EE40B63962C7E",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571940,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F8DED29FC06A0984B5",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571944,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01CFD9ACDA1B6B4E845",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571960,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DE4CC046FDEF067E40",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571962,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EAD096A86E1554F733",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571964,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09F2E25E14265C10CA7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571966,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E91B55515F7C703761",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571971,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0240BD096199CCB609F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571973,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D45468303AB89283E4",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571975,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB055C6D82AF00A91BCE2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571977,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BF15ECC3D3E39C616B",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725571979,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB014968C01202792D4B7",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571981,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0543590DEAA1647B3BD",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571983,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F3E8C18591979DE83",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725571995,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04B93F96EF7E56AD04C",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725571997,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D2FF66F067F199588E",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725571999,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C5D38A0CEF9309DFA2",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725572005,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03CF6E8A2E95B894345",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725572012,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB053604D80AD333F87AF",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725572014,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0209A0AA82AC34472A3",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725572016,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06580319936C991087F",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725572019,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B7D5809B578F08E501",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725572833,
+    "senderName": "Sharon Trejos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

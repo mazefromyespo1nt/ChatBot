@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08BCC5F729185B171556B0E886A8D853",
+    "remoteJid": "50672075788@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya tengo un plan con Kolby"
+    },
+    "reaction": "",
+    "timestamp": 1725922180,
+    "senderName": "Nelson",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E25CAAE23E78A1AC481249B6C6DF128A",
+    "remoteJid": "50672075788@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sorry"
+    },
+    "reaction": "",
+    "timestamp": 1725922187,
+    "senderName": "Nelson",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB025840FE8C53E907200",
+    "remoteJid": "50672075788@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro. También cuentas ya servicios de hogar(cable e Internet)? En este momentos tenemos excelentes promociones."
+    },
+    "reaction": "",
+    "timestamp": 1725925578,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BC3A2CA4C957A859126AE2F80FA8EA6D",
+    "remoteJid": "50672075788@s.whatsapp.net",
+    "msgContext": {
+      "text": "Son cliente de ustedes"
+    },
+    "reaction": "",
+    "timestamp": 1725926612,
+    "senderName": "Nelson",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AC8579BF13028352F1376515BE8A97EC",
+    "remoteJid": "50672075788@s.whatsapp.net",
+    "msgContext": {
+      "text": "Revise"
+    },
+    "reaction": "",
+    "timestamp": 1725926615,
+    "senderName": "Nelson",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BEB50E80CCEEE5DEB403DCCB373FEDD4",
+    "remoteJid": "50672075788@s.whatsapp.net",
+    "msgContext": {
+      "text": "Soy cliente de ustedes"
+    },
+    "reaction": "",
+    "timestamp": 1725928134,
+    "senderName": "Nelson",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

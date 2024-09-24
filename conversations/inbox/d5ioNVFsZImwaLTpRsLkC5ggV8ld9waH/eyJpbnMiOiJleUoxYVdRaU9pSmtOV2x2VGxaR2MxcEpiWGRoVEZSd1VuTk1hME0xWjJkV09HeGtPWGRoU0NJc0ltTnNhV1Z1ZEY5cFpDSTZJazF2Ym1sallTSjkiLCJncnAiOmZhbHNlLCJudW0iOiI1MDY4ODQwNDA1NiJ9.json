@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EEAA99919E6B97992B",
+    "remoteJid": "50688404056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Doña Lorena, le saluda Mónica Urbina quería saber que le pareció la información enviada, si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera.¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725899652,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A83CE0A7C0F430606BB",
+    "remoteJid": "50688404056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Monica voy a consultarlo y le aviso"
+    },
+    "reaction": "",
+    "timestamp": 1725899797,
+    "senderName": "Lorena Gómez Alpízar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB078AB7CCD58F173A999",
+    "remoteJid": "50688404056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro yo quedo atenta"
+    },
+    "reaction": "",
+    "timestamp": 1725900005,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

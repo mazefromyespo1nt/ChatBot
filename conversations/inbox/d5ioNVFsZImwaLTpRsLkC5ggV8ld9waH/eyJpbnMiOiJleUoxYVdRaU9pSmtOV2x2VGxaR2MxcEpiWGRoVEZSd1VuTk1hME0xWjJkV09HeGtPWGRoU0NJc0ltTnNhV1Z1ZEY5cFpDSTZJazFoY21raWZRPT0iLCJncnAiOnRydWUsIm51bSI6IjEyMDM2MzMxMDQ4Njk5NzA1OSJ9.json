@@ -1,0 +1,167 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0020BBA5CE39799230363BC8A83E4A80",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "Wtf"
+    },
+    "reaction": "",
+    "timestamp": 1725576354,
+    "senderName": "Dylan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "593989448951@s.whatsapp.net",
+      "id": "12551A5834C81D785294785634B30637"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EBA851483BDB67990D88A7A523F59A83",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "rumpelstiltskin este no era parte del trato"
+    },
+    "reaction": "",
+    "timestamp": 1725576419,
+    "senderName": "Dylan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "593989448951@s.whatsapp.net",
+      "id": "12551A5834C81D785294785634B30637"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CEDCC1A28553C86D23ADB2F1B01132E3",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "Me lo haré igual XD"
+    },
+    "reaction": "",
+    "timestamp": 1725576446,
+    "senderName": "Dylan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34722126906@s.whatsapp.net",
+      "id": "0493C02FC6CFC64C39630037B4A6C81C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "940603C193907DA7B84BF3672C5339D5",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "Jajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725581444,
+    "senderName": "Maicol Celi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59896066451@s.whatsapp.net",
+      "id": "EBA851483BDB67990D88A7A523F59A83"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9251255552E02EB28A0AE4AB30CCD5E8",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "Gracioso"
+    },
+    "reaction": "",
+    "timestamp": 1725581446,
+    "senderName": "Maicol Celi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "033E010CCF6952F7FDD7185679840C63",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": ":)"
+    },
+    "reaction": "",
+    "timestamp": 1725581457,
+    "senderName": "Maicol Celi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "18DA84DBA314B65BA2A08AD69B4E0ED5",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "🤣"
+    },
+    "reaction": "",
+    "timestamp": 1725581544,
+    "senderName": "Maicol Celi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59896066451@s.whatsapp.net",
+      "id": "7100F9FDBE1181960433BE95AF523DEC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BAB5A685FE60AF5F8EDC5AF5DC6B1F26",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "alta película"
+    },
+    "reaction": "",
+    "timestamp": 1725584173,
+    "senderName": "Lucas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59896066451@s.whatsapp.net",
+      "id": "7100F9FDBE1181960433BE95AF523DEC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CD73816E0AAAD01A5AB747D25DB10F4A",
+    "remoteJid": "120363310486997059@g.us",
+    "msgContext": {
+      "text": "Mal"
+    },
+    "reaction": "",
+    "timestamp": 1725584259,
+    "senderName": "Dylan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493704869470@s.whatsapp.net",
+      "id": "BAB5A685FE60AF5F8EDC5AF5DC6B1F26"
+    }
+  }
+]

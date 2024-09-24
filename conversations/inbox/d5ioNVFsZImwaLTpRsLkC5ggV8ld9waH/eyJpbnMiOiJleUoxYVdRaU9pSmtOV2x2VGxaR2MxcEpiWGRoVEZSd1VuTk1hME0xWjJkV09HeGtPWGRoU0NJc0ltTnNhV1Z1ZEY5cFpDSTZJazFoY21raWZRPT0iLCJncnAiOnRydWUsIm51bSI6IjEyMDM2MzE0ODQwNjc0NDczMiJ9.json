@@ -1,0 +1,91 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B5713EF1ED0A645A870B76DB55BB7D66",
+    "remoteJid": "120363148406744732@g.us",
+    "msgContext": {
+      "text": "Te amo dice"
+    },
+    "reaction": "",
+    "timestamp": 1725575603,
+    "senderName": "Hala Me Lule !!😬",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50671564455@s.whatsapp.net",
+      "id": "927B846916A7E9C58E6410B55ACF5237"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A4A5931CF49EF459AEECD3D613E16AC6",
+    "remoteJid": "120363148406744732@g.us",
+    "msgContext": {
+      "text": "Se le quiere es \n\nyou love him"
+    },
+    "reaction": "",
+    "timestamp": 1725575641,
+    "senderName": "Hala Me Lule !!😬",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C2405F628BB49982CBC38E12D894D1E",
+    "remoteJid": "120363148406744732@g.us",
+    "msgContext": {
+      "text": "😂"
+    },
+    "reaction": "",
+    "timestamp": 1725575665,
+    "senderName": "✨Tati✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "455898C489D3C6F0BB62289D0584432A",
+    "remoteJid": "120363148406744732@g.us",
+    "msgContext": {
+      "text": "😌Es que él me ama"
+    },
+    "reaction": "",
+    "timestamp": 1725575682,
+    "senderName": "✨Tati✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50684402067@s.whatsapp.net",
+      "id": "B5713EF1ED0A645A870B76DB55BB7D66"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A1E555414DF500F27B3693F885B0C8A2",
+    "remoteJid": "120363148406744732@g.us",
+    "msgContext": {
+      "text": "Muy muy en el fondo 🤣"
+    },
+    "reaction": "",
+    "timestamp": 1725575715,
+    "senderName": "Franko",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50664026388@s.whatsapp.net",
+      "id": "455898C489D3C6F0BB62289D0584432A"
+    }
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "94732E48A8FB0E2750D2AEC2051D72CF",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes doña Ana ya esta listo el contrato para firmar"
+    },
+    "reaction": "",
+    "timestamp": 1725744750,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BE045A720E46AE471E9DD0D96B6ADA8F",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://movicheck.com/invitacionFirma?NumGestion=854MCC24439307092400165431"
+    },
+    "reaction": "",
+    "timestamp": 1725744756,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5DFAF7A1F7CAE4578D",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Mónica"
+    },
+    "reaction": "",
+    "timestamp": 1725894737,
+    "senderName": "Ana 🤍🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6760B854C813CA70C1",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya lo firmamos"
+    },
+    "reaction": "",
+    "timestamp": 1725894744,
+    "senderName": "Ana 🤍🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C255AD0CE555DDAC89",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Doña Ana perfecto. Ahora vamos a esperar que lo validen para ya pasar a la cita con los técnicos."
+    },
+    "reaction": "",
+    "timestamp": 1725894870,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A934794514CC6DBAC0F",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias!!"
+    },
+    "reaction": "",
+    "timestamp": 1725895440,
+    "senderName": "Ana 🤍🌻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0516931ABA7F2C68963",
+    "remoteJid": "50689915799@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con muchísimo gusto"
+    },
+    "reaction": "",
+    "timestamp": 1725896145,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

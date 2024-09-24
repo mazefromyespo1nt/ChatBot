@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A38A3F893E5507985B3",
+    "remoteJid": "593998945084@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725558042,
+    "senderName": "CALEP FLORES | GETSOFT ERP",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1B436C43ED93834370",
+    "remoteJid": "593998945084@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le paso el contacto de la persona encargada"
+    },
+    "reaction": "",
+    "timestamp": 1725558050,
+    "senderName": "CALEP FLORES | GETSOFT ERP",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

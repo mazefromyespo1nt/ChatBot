@@ -1,0 +1,306 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "399C0401AB00BAC6386A254DEB0F8582",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725867809,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6A1BCF2F62E2EDCA68",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con www.reservatupista.com. Por favor, haznos saber cómo podemos ayudarte."
+    },
+    "reaction": "",
+    "timestamp": 1725867814,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "87B5F03738B20785D2DD1F9C1ADB5443",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "He realizado el pago para entrar al gimnasio de Calzada de Oropesa pero no me llega el PIN"
+    },
+    "reaction": "",
+    "timestamp": 1725867836,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8AB5133F410F443ABB89544A32222459",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hace 1 hora que lo hice, podrían enviarmelo?"
+    },
+    "reaction": "",
+    "timestamp": 1725867856,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C5ADDBAE43A1988EB453EECF59298AE5",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "El cobro ya me lo han hecho en mi tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725867872,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB20EE9096548E6B639",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola,en la web estan los plazos"
+    },
+    "reaction": "",
+    "timestamp": 1725867909,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "10FC2CEA0F01FAD5DBC19AACDBF08449",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Lo sé, pone que hasta 3 horas, pero me gustaria entrar ya porque estoy en la puerta"
+    },
+    "reaction": "",
+    "timestamp": 1725867944,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "47BC23FEC274A8E79736F119E523CDEB",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por si puedes forzarlo para que me llegue"
+    },
+    "reaction": "",
+    "timestamp": 1725867959,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7A987325029DBD1732C85244EC6210F2",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ayer tardó 5 minutos en llegarme y pensaba que hoy no tardaría tanto"
+    },
+    "reaction": "",
+    "timestamp": 1725867982,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1BE787A4BC349AFF36873DB7338467B2",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mi correo es alfredosg1985@gmail.com"
+    },
+    "reaction": "",
+    "timestamp": 1725868043,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "32F3DD339A07A9297AFDE3192161A415",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por si pudieras 🙂"
+    },
+    "reaction": "",
+    "timestamp": 1725868055,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "35662C170ED0E3351EBECF56F67515CB",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725868061,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5BDA134F7E949CFAFA",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola,depende cuanto el\nsistema hace liquidaciones,puede tardar de 1 minuto a 3 horas por eso esta puesto esoa tiempos,normalmente es menos pero para eso estan esos plazos.te llega un correo con el pin."
+    },
+    "reaction": "",
+    "timestamp": 1725869725,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A639843FEAD215D1C53",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "❌ticket cerrado❌"
+    },
+    "reaction": "",
+    "timestamp": 1725869739,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "93F3D39B4752916F6B8857B815E6936A",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok, ya me llegó"
+    },
+    "reaction": "",
+    "timestamp": 1725872518,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6EB31073165FE9C829F5D5DA7125969",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "Una duda, si hago la peticion de PIN pasadas las 00:00 de la noche, ya me valdría el acceso diario para todo el dia siguiente?"
+    },
+    "reaction": "",
+    "timestamp": 1725872573,
+    "senderName": "Alfredo Sánchez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAB5C4213C08BF61250",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "tiene que ser solicitado y pagado en el mismo dia"
+    },
+    "reaction": "",
+    "timestamp": 1725874758,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A40D736BFD4946C82C0",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "para no\ntener que eaperar y si vas a ir varios dias\nte interesa coger\nel mes"
+    },
+    "reaction": "",
+    "timestamp": 1725874813,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFF4B7023088EB0168B",
+    "remoteJid": "34637279572@s.whatsapp.net",
+    "msgContext": {
+      "text": "❌ticket cerrado❌"
+    },
+    "reaction": "",
+    "timestamp": 1725874820,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

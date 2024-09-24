@@ -1,0 +1,233 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "AA8D5046A834BE60BD19E2C53D95FFED",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "xYOZ9I.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725501807,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "91CF6BC9F7D193F11AEE9ADD31FE5FC6",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ing"
+    },
+    "reaction": "",
+    "timestamp": 1725501812,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D5C1CEC5452F7917CC4A69711E50BA9C",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le deposité temprano"
+    },
+    "reaction": "",
+    "timestamp": 1725501819,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C4EF516576648D8FCFAE2BD339BDE21F",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Quiere estar en el grupo"
+    },
+    "reaction": "",
+    "timestamp": 1725501824,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "41F0A94D03B80D1F403919E1A651B8D2",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahorita"
+    },
+    "reaction": "",
+    "timestamp": 1725501834,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B36D56D88F2EFA77D340A03E5FF59902",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaría bueno solo que salía a la cena"
+    },
+    "reaction": "",
+    "timestamp": 1725501851,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8F8BC92FC25BE069751C754CA3D964F5",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es en una hora por hay"
+    },
+    "reaction": "",
+    "timestamp": 1725501860,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6714E43B62895849E676E66B1C1FAEE",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725501865,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B8BCE5AB2C65EB61AA8869A0673E173A",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Probamos sercomm"
+    },
+    "reaction": "",
+    "timestamp": 1725505603,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "60D7E4B2D9798E0EB89940EA6FFAE517",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NXVkkA.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725512011,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB045BB30EF16F9D39FCD",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Versión del firmwareFG6122TM3011\nVersión de Bootloader0300"
+    },
+    "reaction": "",
+    "timestamp": 1725513291,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73760AC4FB98BA4C72A4BBB2656BB815",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eso que es"
+    },
+    "reaction": "",
+    "timestamp": 1725572545,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "18296678412@s.whatsapp.net",
+      "id": "16ACD2B5DFC56804DFDD7A843CCE36A9"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F86B371A911A63BB1412A2759B8B5448",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "El tr69"
+    },
+    "reaction": "",
+    "timestamp": 1725572725,
+    "senderName": "Real Firmware",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0D6D70CE484E22C299E88E477DD692C0",
+    "remoteJid": "18296678412@s.whatsapp.net",
+    "msgContext": {
+      "text": "O ya"
+    },
+    "reaction": "",
+    "timestamp": 1725572739,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

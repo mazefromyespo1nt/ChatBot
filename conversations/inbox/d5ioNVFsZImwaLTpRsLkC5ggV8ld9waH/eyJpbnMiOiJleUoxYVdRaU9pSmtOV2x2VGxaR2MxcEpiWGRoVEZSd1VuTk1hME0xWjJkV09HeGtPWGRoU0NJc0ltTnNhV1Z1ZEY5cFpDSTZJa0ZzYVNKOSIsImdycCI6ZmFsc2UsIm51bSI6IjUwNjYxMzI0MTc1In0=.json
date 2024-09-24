@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08A2E9A6E56AC4084C7",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725661515,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E4F3FD1C8FF390C354",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725661668,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB038D94EE89DC827239F",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725663847,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B118DD9EF313104DEAD6E8AB74C10F59",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725908350,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04E049252C81B94C8EF",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725913079,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B214A2E85C3409755C",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725913962,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

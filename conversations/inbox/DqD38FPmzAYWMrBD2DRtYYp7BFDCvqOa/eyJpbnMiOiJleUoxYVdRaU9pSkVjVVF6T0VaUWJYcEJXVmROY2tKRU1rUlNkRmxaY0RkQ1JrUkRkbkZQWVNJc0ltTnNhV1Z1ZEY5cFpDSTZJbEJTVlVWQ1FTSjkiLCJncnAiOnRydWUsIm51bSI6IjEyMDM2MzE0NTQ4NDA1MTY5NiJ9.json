@@ -1,0 +1,56 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C735A7773350A148B5FB65E026FDD70A",
+    "remoteJid": "120363145484051696@g.us",
+    "msgContext": {
+      "text": "*Agendando pedidos Disney Premium con STAR y ESPN a dominio sin GARANTÍA facturación DirecTVGO 🔥🔥🔥 y YouTube Mes Individual y Familiar* 🎉🎉🎉"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725984878,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C735A7773350A148B5FB65E026FDD70A",
+    "remoteJid": "120363145484051696@g.us",
+    "msgContext": {
+      "text": "*Agendando pedidos Disney Premium con STAR y ESPN a dominio sin GARANTÍA facturación DirecTVGO 🔥🔥🔥 y YouTube Mes Individual y Familiar* 🎉🎉🎉"
+    },
+    "reaction": "",
+    "timestamp": 1725984921,
+    "senderName": "AndrewNetCali",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B953D3A3121D357E30177F82380FA874",
+    "remoteJid": "120363145484051696@g.us",
+    "msgContext": {
+      "caption": "Cuentas del canal del fútbol por Youtube disponibles para revendedores y clientes finales 🇪🇨\n\nCon tu propio correo y contraseña \n\nContactame:\n https://wa.me/593964028658 📱",
+      "fileName": "1nBgSV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725984930,
+    "senderName": "Negretty Store",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

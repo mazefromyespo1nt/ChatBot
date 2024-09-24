@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B9F1CFED5B2DE49091",
+    "remoteJid": "50661009849@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días le saludo de parte de Liberty 😄"
+    },
+    "reaction": "",
+    "timestamp": 1725723023,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

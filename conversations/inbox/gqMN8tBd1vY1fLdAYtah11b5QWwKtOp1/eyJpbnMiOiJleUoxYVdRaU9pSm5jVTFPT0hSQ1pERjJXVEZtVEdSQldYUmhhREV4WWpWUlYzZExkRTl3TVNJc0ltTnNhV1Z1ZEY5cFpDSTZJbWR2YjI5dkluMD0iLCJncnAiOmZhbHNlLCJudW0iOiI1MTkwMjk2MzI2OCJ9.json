@@ -1,0 +1,59 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1CD995A2906820AD716F824D0843FFD5",
+    "remoteJid": "51902963268@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que tipos de Software para municipalidades ofrecen?"
+    },
+    "reaction": "",
+    "timestamp": 1725613001,
+    "senderName": "CONTABILIDAD PRIVADA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0FDE7D2AC20F10A409A",
+    "remoteJid": "51902963268@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725613007,
+    "senderName": "CONTABILIDAD PRIVADA",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F34DB3166C0EB35064",
+    "remoteJid": "51902963268@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725628644,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,179 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "540E44FFF066250187AF4DA306DD30E7",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HVcnpC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725724414,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FDBB7921ECE584A7B41B7FD8DBF15E9B",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725724418,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "41A7FB313B7B3A560D0CF34F225FDFC0",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BM0Kni.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730510,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D35B647158136CDDE399C4F9122A8A7B",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725730512,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "7927FBD3E512A0364AF7905A93027E1F",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7xXusZ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730903,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "42E17C3DD0AE78FD0B5B6C94CA9D9D0D",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "8qDtLU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730903,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "5FDC34A3485E34D9432F5A68226FEB93",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "H5eMJx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730904,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB03376854DA0D08B1D1C",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Sin título 3.odt",
+      "fileName": "SWJggp.odt",
+      "mimetype": "application/vnd.oasis.opendocument.text"
+    },
+    "reaction": "",
+    "timestamp": 1725731814,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB080D7BC437210DF1E90",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "caption": "SMS.xlsx",
+      "fileName": "F4oAov.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725899597,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "328B8B29B27A3EAABB40780B2172D1E7",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725899599,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

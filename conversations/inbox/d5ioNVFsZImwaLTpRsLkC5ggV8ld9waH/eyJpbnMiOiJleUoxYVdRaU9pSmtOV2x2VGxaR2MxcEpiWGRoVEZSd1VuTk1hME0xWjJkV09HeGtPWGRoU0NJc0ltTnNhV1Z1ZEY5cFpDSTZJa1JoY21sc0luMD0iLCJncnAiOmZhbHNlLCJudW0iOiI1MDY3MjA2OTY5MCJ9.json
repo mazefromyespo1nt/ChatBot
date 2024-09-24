@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A93B2626C09841D47DA",
+    "remoteJid": "50672069690@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias es una cuenta corporativa"
+    },
+    "reaction": "",
+    "timestamp": 1725914272,
+    "senderName": "Emmanuel Solano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

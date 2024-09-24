@@ -1,0 +1,543 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "68094C16E7A513368C64DCAE59E551A4",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mano consigue la contraseña"
+    },
+    "reaction": "",
+    "timestamp": 1725839639,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4E56047B5D4393B29E7E742586EAC5E6",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Moral"
+    },
+    "reaction": "",
+    "timestamp": 1725839646,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9090DD5691614ABC22C0F75B10A831FB",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mijo"
+    },
+    "reaction": "",
+    "timestamp": 1725894904,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "54C55498DFF5902946A74E3C457B704F",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cómo vamos"
+    },
+    "reaction": "",
+    "timestamp": 1725895960,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "97A8637BFC6ED15B78A95EAADB4E7006",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy a tirar"
+    },
+    "reaction": "",
+    "timestamp": 1725895972,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ED03B865ED1A2E6528D6C61F7ECF4F67",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mándame captura del escaneo"
+    },
+    "reaction": "",
+    "timestamp": 1725895989,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "877BD0B1A48850B7EA7D35F46239C97B",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bien mano gracias a Dios y tu"
+    },
+    "reaction": "",
+    "timestamp": 1725896002,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8CD0B635511264EB8E3FBF32E6A7EE51",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Todo buen"
+    },
+    "reaction": "",
+    "timestamp": 1725896031,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C57F9E570DA0C072280E5A122186F31C",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me alegro manito"
+    },
+    "reaction": "",
+    "timestamp": 1725896049,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FE56AEBF3FBB8C9A9921F57B62BC33C6",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y los niños la familia como está?"
+    },
+    "reaction": "",
+    "timestamp": 1725896061,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "014FB9F36382C5216E78C8F14C21285B",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mándame captura del escaneo del wifi"
+    },
+    "reaction": "",
+    "timestamp": 1725896071,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9C8D123E845AEFBF0AA68915E84BD6D1",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Todo bien"
+    },
+    "reaction": "",
+    "timestamp": 1725896079,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573015720695@s.whatsapp.net",
+      "id": "FE56AEBF3FBB8C9A9921F57B62BC33C6"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3C6B0CA728C064D5F37D4948473D146E",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "E34Lfn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725896360,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "763FD9A0DCFB7F587E1FE68D8D5514B1",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "A ps . Ya le IVA dar materire"
+    },
+    "reaction": "",
+    "timestamp": 1725896503,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DA36F94A13B17FA0E726BF134922124D",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Entonces habla claro mano"
+    },
+    "reaction": "",
+    "timestamp": 1725903947,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6434A6007F50EC9F6",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "mijo re cuerda que eso demora"
+    },
+    "reaction": "",
+    "timestamp": 1725904014,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "367F77CB5CD8CF5499",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "esta en proceso"
+    },
+    "reaction": "",
+    "timestamp": 1725904017,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1ECFA59A7E55CD068B9698F480D0C4AE",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si hermano"
+    },
+    "reaction": "",
+    "timestamp": 1725905885,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "474D83757E7FDD7250DEF9BED55685F5",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me avisas porque estoy en la sala"
+    },
+    "reaction": "",
+    "timestamp": 1725905893,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0D042DA1067068F8F8FEED227404CE9F",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pásame captura de la medición del wifi"
+    },
+    "reaction": "",
+    "timestamp": 1725906808,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "447765BC299021C836E25CD53E5BC9D8",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "."
+    },
+    "reaction": "",
+    "timestamp": 1725906820,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573015720695@s.whatsapp.net",
+      "id": "9D64693B9D5D3957F86D5022B2CD7DB2"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "1B1EFAFEFAF3B81D9C9C4D563DE7B90F",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tBR7n8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725907074,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A6A13A5425F4FEA3861C3EDA220BBD2B",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hey culion"
+    },
+    "reaction": "",
+    "timestamp": 1725936583,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5A74F20F18DCF4B0CB6AA98ED7D7ECE3",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "No sé puede !"
+    },
+    "reaction": "",
+    "timestamp": 1725936589,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C902B4FD2DB8F75E88905DAA84300195",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725936591,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E41748D4E7C2A2A61D92712BB1503C54",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mano voy a descargar maguis"
+    },
+    "reaction": "",
+    "timestamp": 1725936663,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C9466E1648E3959F71",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "esta a un escaneando"
+    },
+    "reaction": "",
+    "timestamp": 1725937624,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B9E48234424B4BD76433491E40C634BF",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Descargo maguis en el tv?"
+    },
+    "reaction": "",
+    "timestamp": 1725939021,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6C5C4CFBCD8547ED8D",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "mañana revisamos"
+    },
+    "reaction": "",
+    "timestamp": 1725939040,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D9B23CC7C5FF0A5DF4",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "a esto en la capsula"
+    },
+    "reaction": "",
+    "timestamp": 1725939046,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "809D90545EAE5F1BD7",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahi esta escaneando"
+    },
+    "reaction": "",
+    "timestamp": 1725939054,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ECDC4498585015180EEB056B5B724E2E",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eso va"
+    },
+    "reaction": "",
+    "timestamp": 1725939054,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BE5BE72174A2AA19D0CF04593706F3C1",
+    "remoteJid": "573015720695@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale mano"
+    },
+    "reaction": "",
+    "timestamp": 1725939074,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

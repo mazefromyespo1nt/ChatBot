@@ -1,0 +1,402 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "064753E1C000452889E2A55D1AF977AB",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "O no parse"
+    },
+    "reaction": "",
+    "timestamp": 1725643130,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7C6CCF328DF9092C3581D5F8509D2E89",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que tal hay de chamba"
+    },
+    "reaction": "",
+    "timestamp": 1725643139,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4119958E0DAB1657993D732178C55779",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pues más o menos pero como que luego aburre :V"
+    },
+    "reaction": "",
+    "timestamp": 1725643679,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2BD860105533060ECFD3947BB65DB3DC",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hay un man que como que no le conviene trabajar en equipo ,yo creo es con el que tuvo algún tema esta Ale no se"
+    },
+    "reaction": "",
+    "timestamp": 1725643731,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "38F13F50C770AB53DA9937820771D35F",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dice que cuando baja de svn truena su proyecto y  yo no he cambiado de proyecto y bajado todos sus cambios y me va bien"
+    },
+    "reaction": "",
+    "timestamp": 1725643762,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0DEAF28AF46385CDC043DC868D975F3B",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sabes si andan ocupando"
+    },
+    "reaction": "",
+    "timestamp": 1725644264,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "99FDE44AB1D7756FB25C7005FD7EAF4D",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Donde ahí??"
+    },
+    "reaction": "",
+    "timestamp": 1725644288,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "03C432182D5F69E8B71BCAD3134F2312",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725644345,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AAC1A276B406C9D05AEDD09AA8268BAC",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "No se ...igual en su fábrica si en Insurgentes.. es que según yo ando en dodne era la sede de santa Fe"
+    },
+    "reaction": "",
+    "timestamp": 1725644420,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CDC24C26846E57402AEECE8A9B6F44F3",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Orale"
+    },
+    "reaction": "",
+    "timestamp": 1725644499,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C7A684DE144B10E520075792005C4B95",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que tal el ínter desde tu casa"
+    },
+    "reaction": "",
+    "timestamp": 1725644515,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "664E63B41CD433F209219A66936F0592",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si jala"
+    },
+    "reaction": "",
+    "timestamp": 1725644517,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "90C1A9E85C477048C236DE3D88A6ABDD",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pues a veces"
+    },
+    "reaction": "",
+    "timestamp": 1725644523,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7DBBE307A209F38A7C5B356830E0309B",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahorita anda mal"
+    },
+    "reaction": "",
+    "timestamp": 1725644532,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A2F1DC2A2F5662C4D1FEDE6062313FDC",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dicen que el star link jala bien"
+    },
+    "reaction": "",
+    "timestamp": 1725644539,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7427BAE7B6318F74FF0F3384438FB679",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah ya y que cobertura tiene o  dodne"
+    },
+    "reaction": "",
+    "timestamp": 1725644571,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AAF568CE2909F6692D2BB16666CE53F2",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Luego lo checas es el de Elon Musk"
+    },
+    "reaction": "",
+    "timestamp": 1725644918,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "32C92F90760D25F96806DC2C051EB3F8",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": ":V ah entonces no llega acá .a lo mejor el de CFE"
+    },
+    "reaction": "",
+    "timestamp": 1725644942,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B24C3BB3E32681D8C8DD073DD1C25A30",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tal vez"
+    },
+    "reaction": "",
+    "timestamp": 1725645106,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0AFFAE383AB4D8AB7F063291BEC8CEB5",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Contigo no ocupan en santa fe"
+    },
+    "reaction": "",
+    "timestamp": 1725646448,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "00FEF21399CC8E664291594F9F6A7A68",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pues no sé ..sería de ver a quién le puedo preguntar...será que Beto les podrá comentar algo ?"
+    },
+    "reaction": "",
+    "timestamp": 1725646811,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "17B2895AD45FE7D23C51C6A477AE977D",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuanto están dando de becario sabes?"
+    },
+    "reaction": "",
+    "timestamp": 1725647029,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "28B29318AF755844E82F9CD9FB66CAE6",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "A mi me daban cuándo entre 8 ..me imagino lo subieron a 10 k"
+    },
+    "reaction": "",
+    "timestamp": 1725647071,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AC203BC2A3842A790F339F32B6301F0F",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "En cuanto andas ahora?"
+    },
+    "reaction": "",
+    "timestamp": 1725647243,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "27DE0856428369517DB91CA150A15DD0",
+    "remoteJid": "5215611976101@s.whatsapp.net",
+    "msgContext": {
+      "text": "15"
+    },
+    "reaction": "",
+    "timestamp": 1725647313,
+    "senderName": "Ruben Mtz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

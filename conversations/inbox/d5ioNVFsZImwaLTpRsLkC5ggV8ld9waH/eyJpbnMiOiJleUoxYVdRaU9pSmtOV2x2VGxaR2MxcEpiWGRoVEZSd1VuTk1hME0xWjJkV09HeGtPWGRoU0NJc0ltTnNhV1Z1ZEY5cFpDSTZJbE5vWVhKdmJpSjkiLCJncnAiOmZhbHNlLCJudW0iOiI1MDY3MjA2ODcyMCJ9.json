@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1C3DE59ED57A6746D3BD8E3CDD18C7E0",
+    "remoteJid": "50672068720@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725921904,
+    "senderName": "Ana",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03911E92A439D6E9DDF",
+    "remoteJid": "50672068720@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muy buenas tardes!"
+    },
+    "reaction": "",
+    "timestamp": 1725924900,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06255CB0775D5C9CAAC",
+    "remoteJid": "50672068720@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te interesa adquirir servicios Liberty? El día de hoy tenemos la campaña de no cobro de pago anticipado, por lo que puedes aquirir nuestros servicio y pagar la primera factura hasta el 20 de octubre."
+    },
+    "reaction": "",
+    "timestamp": 1725924914,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1255ED0BB6FE0F1DDE6F2EEF14032C74",
+    "remoteJid": "50672068720@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725924938,
+    "senderName": "Ana",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

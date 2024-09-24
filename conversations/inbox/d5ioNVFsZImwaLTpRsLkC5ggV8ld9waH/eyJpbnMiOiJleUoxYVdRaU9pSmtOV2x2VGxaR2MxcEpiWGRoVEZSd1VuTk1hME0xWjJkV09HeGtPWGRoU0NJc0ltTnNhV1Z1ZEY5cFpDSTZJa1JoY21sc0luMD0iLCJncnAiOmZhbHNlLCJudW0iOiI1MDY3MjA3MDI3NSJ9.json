@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "09612011253B4C6F4632FBA456814941",
+    "remoteJid": "50672070275@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola! Bienvenidos al chat de CENET. \n\n\nCon los siguientes datos le asignamos un asesor para atenderle, atendemos por orden de llegada, si tiene alguna consulta urgente no dude en comunicarse al 2248-0230.\n\n- 🪪Tu nombre\n- 📧Tu correo electrónico:\n- 📍 Consulta:\n\n*DOMINGO CERRADO*"
+    },
+    "reaction": "",
+    "timestamp": 1725896195,
+    "senderName": "CENET",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

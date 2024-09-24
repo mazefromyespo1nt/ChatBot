@@ -1,0 +1,34 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B29AFF4443ED2D1C48",
+    "remoteJid": "120363302439380224@g.us",
+    "msgContext": {
+      "text": "62570985"
+    },
+    "reaction": "",
+    "timestamp": 1725577056,
+    "senderName": "Hillary Dist Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2778A5A1F65D0F58C858C7EA6DE4D5E4",
+    "remoteJid": "120363302439380224@g.us",
+    "msgContext": {
+      "text": "Martes, 10 de septiembre 10:00 – 11:00\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_N2M4YTlhY2UtMDJkNy00YzZlLWI1MTAtOTY5ZjQ0Y2RlNDA4%40thread.v2/0?context=%7b%22Tid%22%3a%227d1308ea-7579-4056-a855-9217e17ccc29%22%2c%22Oid%22%3a%225ce99823-e6f0-44ed-90ed-de5fbab02973%22%7d"
+    },
+    "reaction": "",
+    "timestamp": 1725983360,
+    "senderName": "Hillary A...🪷🐼",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

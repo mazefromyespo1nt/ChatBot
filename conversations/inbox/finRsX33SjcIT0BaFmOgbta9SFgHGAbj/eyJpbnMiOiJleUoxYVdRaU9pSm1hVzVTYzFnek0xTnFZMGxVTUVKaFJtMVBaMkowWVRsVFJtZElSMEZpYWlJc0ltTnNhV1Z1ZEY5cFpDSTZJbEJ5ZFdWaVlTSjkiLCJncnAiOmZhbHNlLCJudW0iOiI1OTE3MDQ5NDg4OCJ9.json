@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3BF8D48096539D07F4CE7834A23BAB79",
+    "remoteJid": "59170494888@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725582194,
+    "senderName": "Jorge",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085EAE911BC1431724A",
+    "remoteJid": "59170494888@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725582207,
+    "senderName": "Jorge",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A3DAE97B09588975D498DF34392E3E61",
+    "remoteJid": "59170494888@s.whatsapp.net",
+    "msgContext": {
+      "text": "B"
+    },
+    "reaction": "",
+    "timestamp": 1725582210,
+    "senderName": "Jorge",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

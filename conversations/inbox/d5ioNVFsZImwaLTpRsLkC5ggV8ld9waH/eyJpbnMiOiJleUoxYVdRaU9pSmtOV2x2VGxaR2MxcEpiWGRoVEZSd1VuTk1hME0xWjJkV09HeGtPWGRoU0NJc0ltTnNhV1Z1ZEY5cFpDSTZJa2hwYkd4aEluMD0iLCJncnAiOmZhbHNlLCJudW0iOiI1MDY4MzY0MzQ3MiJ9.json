@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05AAB462B2D48F36AD8",
+    "remoteJid": "50683643472@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día!!\nMi nombre es  Hillary Arauz , Asesora autorizada de Liberty!\nQueremos darte los mejores beneficios y una excelente experiencia de servicio, tal y como lo conversamos por llamada le envió nuestros planes post pago y servicios para el hogar cable e internet quedo atenta a cualquier duda o consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725899539,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

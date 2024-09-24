@@ -1,0 +1,183 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25AAECBFC4DB8DAC42B527586021DBCF",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725647164,
+    "senderName": "Zamorita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "377AA6AAB7BFD8E5A8814E40E77FCDFD",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "De televisión q cuesta"
+    },
+    "reaction": "",
+    "timestamp": 1725647212,
+    "senderName": "Zamorita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E930E20EEFE2AC8571",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Contamos con varios paquetes de Internet y televisión que van desde los 45MBps hasta los 300Mbps de velocidad de internet y hasta 250 canales de televisión."
+    },
+    "reaction": "",
+    "timestamp": 1725647347,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03B5A53D6DF23911109",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6lZH2g.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725647536,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F13B87ECE3C781F9B2F32035F035DECD",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Acá en zarcero San Luis ase yegar eso"
+    },
+    "reaction": "",
+    "timestamp": 1725647616,
+    "senderName": "Zamorita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02B95DF925A0792FAC4",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me podría brindar una ubicación o la dirección por provincia, cantón, distrito y punto de referencia para poder verificar la cobertura."
+    },
+    "reaction": "",
+    "timestamp": 1725647697,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "loc",
+    "msgId": "AAB425769EA7902A18396D5EE36AD2E0",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "lat": 10.1784483,
+      "long": -84.414045,
+      "name": "",
+      "address": ""
+    },
+    "reaction": "",
+    "timestamp": 1725647743,
+    "senderName": "Zamorita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "71E4FFD29EF7A77201CD10C084DA8A1E",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Zarcero"
+    },
+    "reaction": "",
+    "timestamp": 1725647753,
+    "senderName": "Zamorita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0958CE32B10E03B0BCA",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Validando en nuestro sistema le comento que para esa localidad por el momento no contamos con la cobertura. \nLe comento que la red Liberty está en constante crecimiento por lo cuál en cualquier momento estaríamos bridnado cobertura a su localidad."
+    },
+    "reaction": "",
+    "timestamp": 1725647952,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "45C9CAE935399332D66B0B4DC2B3A041",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sisi aki es muy mala la señal y ocupamos aún q sea una 🗼 para tener buena señal"
+    },
+    "reaction": "",
+    "timestamp": 1725648066,
+    "senderName": "Zamorita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07D2ACE4DE0F9593ADD",
+    "remoteJid": "50672072464@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si le comprendo, en este caso voy a enviarlo a los encargados para que lo tomen en cuenta."
+    },
+    "reaction": "",
+    "timestamp": 1725648280,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

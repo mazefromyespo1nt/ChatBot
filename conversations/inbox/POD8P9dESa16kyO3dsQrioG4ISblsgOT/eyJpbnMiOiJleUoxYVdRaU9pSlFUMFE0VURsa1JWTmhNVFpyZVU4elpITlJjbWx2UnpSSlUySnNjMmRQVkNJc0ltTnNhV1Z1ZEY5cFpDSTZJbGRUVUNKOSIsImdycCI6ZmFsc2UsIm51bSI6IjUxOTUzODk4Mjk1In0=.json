@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B32597E5C1E58A16A96516116ACA1E7",
+    "remoteJid": "51953898295@s.whatsapp.net",
+    "msgContext": {
+      "text": "🫣🫣🫣🫣🫣"
+    },
+    "reaction": "",
+    "timestamp": 1725579432,
+    "senderName": "😉yra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5AD8DF3F491EA56B1AE0AAE69891DE7C",
+    "remoteJid": "51953898295@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuñis que vergüenza 🙈"
+    },
+    "reaction": "",
+    "timestamp": 1725579438,
+    "senderName": "😉yra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1C156AE917D84947C99E2DDA14FF25DA",
+    "remoteJid": "51953898295@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ale me dijo que te escriba"
+    },
+    "reaction": "",
+    "timestamp": 1725579446,
+    "senderName": "😉yra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7610FE4527CD3159A6EDED41B2674CB1",
+    "remoteJid": "51953898295@s.whatsapp.net",
+    "msgContext": {
+      "text": "De la sabanitas"
+    },
+    "reaction": "",
+    "timestamp": 1725579450,
+    "senderName": "😉yra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

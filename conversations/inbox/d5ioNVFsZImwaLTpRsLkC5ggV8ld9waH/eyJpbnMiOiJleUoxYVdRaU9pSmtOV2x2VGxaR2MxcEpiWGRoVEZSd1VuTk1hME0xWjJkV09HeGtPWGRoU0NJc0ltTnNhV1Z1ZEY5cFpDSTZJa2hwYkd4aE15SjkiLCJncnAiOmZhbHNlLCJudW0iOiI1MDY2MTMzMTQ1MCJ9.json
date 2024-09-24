@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D4092FCBA4B199B40C",
+    "remoteJid": "50661331450@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725575926,
+    "senderName": "Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EB09D63CC726C5CA78",
+    "remoteJid": "50661331450@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué hace una abeja en el gimnasio?\n\n¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725992942,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E446BCC1CE16ECCC07",
+    "remoteJid": "50661331450@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro, ¡hablemos de las comidas de las serpientes! Las serpientes tienen una dieta bastante diversa, y sus hábitos alimenticios dependen en gran medida de la especie y su hábitat.\n\nCarnívoras: La mayoría de las serpientes son carnívoras, lo que significa que comen carne. Su dieta puede incluir una variedad de presas, como roedores, aves, huevos, peces e incluso otras serpientes. Algunas serpientes grandes, como las boas y pitones, pueden capturar presas mucho mayores que ellas mismas.\n\nMétodo de caza: Las serpientes usan diferentes estrategias para cazar. Algunas, como las serpientes constrictoras (por ejemplo, boas y pitones), se envuelven alrededor de sus presas y las asfixian antes de tragarlas. Otras, como las serpientes venenosas (como las cobras y las víboras), usan su veneno para inmovilizar o matar a la presa antes de comerla.\n\nDigestión: Las serpientes tienen un sistema digestivo bastante eficiente. Pueden tragar presas enteras debido a sus mandíbulas extremadamente flexibles. Su sistema digestivo está adaptado para descomponer grandes cantidades de carne y absorber los nutrientes necesarios. La digestión puede tomar varios días, dependiendo del tamaño de la presa.\n\nFrecuencia de alimentación: La frecuencia con la que una serpiente come puede variar ampliamente. Algunas serpientes comen con regularidad, mientras que otras pueden pasar semanas o incluso meses sin alimentarse, especialmente si están en proceso de muda o si han comido una presa particularmente grande.\n\nDieta especializada: Algunas serpientes tienen dietas muy especializadas. Por ejemplo, las serpientes de la familia Lampropeltidae (como las serpientes rey) se alimentan principalmente de otras serpientes. Otras pueden tener dietas más variadas que incluyen insectos, lagartijas y anfibios.\n\nEn general, la dieta de una serpiente está adaptada a su tamaño, hábitat y tipo de presa disponible en su entorno. ¡Las serpientes son verdaderamente fascinantes en muchos aspectos, incluyendo sus hábitos alimenticios!"
+    },
+    "reaction": "",
+    "timestamp": 1725998021,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

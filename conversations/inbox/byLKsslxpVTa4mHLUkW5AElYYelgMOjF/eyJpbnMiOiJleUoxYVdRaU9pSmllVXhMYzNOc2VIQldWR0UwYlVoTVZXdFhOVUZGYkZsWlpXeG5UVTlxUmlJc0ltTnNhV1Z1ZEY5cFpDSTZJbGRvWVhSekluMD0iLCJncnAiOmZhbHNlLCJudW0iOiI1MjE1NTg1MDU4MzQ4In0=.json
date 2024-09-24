@@ -1,0 +1,169 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0660F227753AF12F25B",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "que paso jefazo"
+    },
+    "reaction": "",
+    "timestamp": 1725652039,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ACB05796E57C714F59",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "esque mi whats te dgo que no jala"
+    },
+    "reaction": "",
+    "timestamp": 1725652049,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D72F0FA9116349F054",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "y mi chip esta en el cel de  celenne pero no anda aqui"
+    },
+    "reaction": "",
+    "timestamp": 1725652061,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB007D7C83FA200DAE0FA",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "mandame audio"
+    },
+    "reaction": "",
+    "timestamp": 1725652065,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB086D3BB5D8DA7C99B5F",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "o ahorita que regrese celenne te marco"
+    },
+    "reaction": "",
+    "timestamp": 1725652079,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "091E0C65D8D21A2716BF3C7284A18FBB",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725652145,
+    "senderName": "INK Soporte Técnico",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0318F3360FF2B59A9B2",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725652211,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB009F3DC24D5287F0891",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "YKbXel.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725653967,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "80C5C4474FAECD4129867F558E3BC0F7",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "text": "De echo dice que el te ayuda a implementar"
+    },
+    "reaction": "",
+    "timestamp": 1725654046,
+    "senderName": "INK Soporte Técnico",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "FE6C6C0E235796E768383CAA88B91F5B",
+    "remoteJid": "5215585058348@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wakDJs.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725656169,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

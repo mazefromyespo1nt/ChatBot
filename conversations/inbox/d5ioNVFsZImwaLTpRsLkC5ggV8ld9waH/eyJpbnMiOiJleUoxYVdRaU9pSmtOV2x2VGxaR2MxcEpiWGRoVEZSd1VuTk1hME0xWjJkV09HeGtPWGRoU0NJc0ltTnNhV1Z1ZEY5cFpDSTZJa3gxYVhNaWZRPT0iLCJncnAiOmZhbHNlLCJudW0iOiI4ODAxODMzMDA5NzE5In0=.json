@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EE3FDA7DFE0ADFCD4DC13F878EADA8CB",
+    "remoteJid": "8801833009719@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amanda, te veré abajo en la empresa en cinco minutos. Tengo algo que decirte."
+    },
+    "reaction": "",
+    "timestamp": 1725648207,
+    "senderName": "Bewio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

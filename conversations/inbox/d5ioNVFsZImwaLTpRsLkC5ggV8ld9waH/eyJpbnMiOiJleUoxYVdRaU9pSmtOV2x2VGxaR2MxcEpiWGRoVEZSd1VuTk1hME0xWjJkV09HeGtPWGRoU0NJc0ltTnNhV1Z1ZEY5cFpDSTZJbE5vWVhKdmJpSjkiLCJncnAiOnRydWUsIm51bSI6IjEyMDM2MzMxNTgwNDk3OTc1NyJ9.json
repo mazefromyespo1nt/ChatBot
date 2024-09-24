@@ -1,0 +1,463 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "20765F42650494439D4CED364A84E03A",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "El cliente el enviar ubicación indica es en barrio pitahaya, San José y hoy no se lleva esa ruta, por lo cual queda sin efecto, ya que la dirección es Heredia, bosques de doña Rosa",
+      "fileName": "7O4zXT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725634370,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D3113304053EDF89200D4D12F9DAAED6",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cPdqiP.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725634379,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "0D61B7F203C9E7A2833A4DF1D674773C",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3vmI5w.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725634391,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "C3E662EAEA9189B09E5BAD514C2EF94B",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AmDhXz.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725634428,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4DBBD32110A0B588B683F92A2707E721",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Eso indica la cliente hubo un error en el nombre adicional"
+    },
+    "reaction": "",
+    "timestamp": 1725634447,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "144880348E9D69FC883D78DFE803B3DC",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tlAnnd.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725634638,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07830AAD4130E9925FD",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Se procede a verificar información"
+    },
+    "reaction": "",
+    "timestamp": 1725634892,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "8DA031A4C4ED2090DCC1A5698E5B864A",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "POhLRf.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725635277,
+    "senderName": "Fruno Logistica",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "547D0F845DF8AABE35CA3F16419D2CE1",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "8WKhxo.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725635295,
+    "senderName": "Fruno Logistica",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "2DF3B1260B393A247181758E08C3C945",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AVYUVP.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725635295,
+    "senderName": "Fruno Logistica",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "06C529E50330FD71C190AB84CF3F3B24",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "itraYe.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725635312,
+    "senderName": "Fruno Logistica",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B4735792ED973317E17BA26D95E538E",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Buenos días, el cliente solicitó se le entregará mañana sábado en la dirección de domicilio"
+    },
+    "reaction": "",
+    "timestamp": 1725635324,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661751005@s.whatsapp.net",
+      "id": "2DF3B1260B393A247181758E08C3C945"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DC6F9386C335958C7027D0E40409E023",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "No contestan ni llamadas ni WhatsApp"
+    },
+    "reaction": "",
+    "timestamp": 1725635325,
+    "senderName": "Fruno Logistica",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EEC80FA66081BE251BD354A4F9D9D404",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Ok entendido"
+    },
+    "reaction": "",
+    "timestamp": 1725635337,
+    "senderName": "Fruno Logistica",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661511298@s.whatsapp.net",
+      "id": "0B4735792ED973317E17BA26D95E538E"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CBDA5DB43041321740CD1495521009D6",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "En su trabajo tiene restringido el uso de teléfono."
+    },
+    "reaction": "",
+    "timestamp": 1725635346,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661751005@s.whatsapp.net",
+      "id": "DC6F9386C335958C7027D0E40409E023"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FC1DF6D27DAFF89F25DCB53ABF336904",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Muchas gracias!"
+    },
+    "reaction": "",
+    "timestamp": 1725635350,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661751005@s.whatsapp.net",
+      "id": "EEC80FA66081BE251BD354A4F9D9D404"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB068659173F19531A128",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Buen día !"
+    },
+    "reaction": "",
+    "timestamp": 1725637971,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D456BB56A600F750FC",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "esta guia se entrega de hoy 1ZWH4?"
+    },
+    "reaction": "",
+    "timestamp": 1725637988,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "311994BE7F5D01E33189B5FA2FCC8948",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BY00R8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725639797,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F26E33E423A4DCFB5467325F54D2953C",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Esta entrega no se activar verdad?"
+    },
+    "reaction": "",
+    "timestamp": 1725639806,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B8EAB6071D41E391E14D7EC1A3B7B092",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Ya que es un sim de reposición."
+    },
+    "reaction": "",
+    "timestamp": 1725639818,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "31EB7F627BABD2D507183AFC1D0F0002",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Solamente entregar"
+    },
+    "reaction": "👍",
+    "timestamp": 1725639836,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7EC7CEBBE5DE5AF22DAFFBA9F3F661BC",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725639842,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0D369CD4F2A5D3F0770",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "Buenas tardes esta guía esta para llegar hoy!",
+      "fileName": "yGsPyW.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725650633,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0E7BC117D373ED69904",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "Tener en cuenta que el cliente necesita ser contactado al menos con media hora antes de la llegada!",
+      "fileName": "VqQG6S.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725650683,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB053F3E40C3496426F26",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725650687,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

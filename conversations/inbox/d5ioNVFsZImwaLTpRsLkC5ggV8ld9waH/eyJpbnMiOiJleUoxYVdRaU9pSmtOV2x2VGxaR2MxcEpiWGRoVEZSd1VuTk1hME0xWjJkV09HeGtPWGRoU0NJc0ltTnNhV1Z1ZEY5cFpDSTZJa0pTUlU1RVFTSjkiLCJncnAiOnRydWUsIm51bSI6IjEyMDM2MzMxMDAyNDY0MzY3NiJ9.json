@@ -1,0 +1,462 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D018FC9F128AC7CDE058CADBC731E206",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "Siiuu",
+      "fileName": "O6nV0D.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577905,
+    "senderName": "Rafael",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BB56C5DE1B711A3BD312063859EFFF31",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Lo voy a combinar los ivs con mi heracross 😁"
+    },
+    "reaction": "",
+    "timestamp": 1725577957,
+    "senderName": "Rafael",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A328681E98A2588CE8A",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Yeiiiiiiii"
+    },
+    "reaction": "",
+    "timestamp": 1725577986,
+    "senderName": "Miguel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "595985109027@s.whatsapp.net",
+      "id": "D018FC9F128AC7CDE058CADBC731E206"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7E27FBA186244CC961809173B6693F49",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4g9O5O.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725578009,
+    "senderName": "Rafael",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "756FE3ECB75A76FF8CE5CF68B992A4CD",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Solo le falta 31 ivs en defensa para que sea competitivo,y a madrearles a todos 😎"
+    },
+    "reaction": "",
+    "timestamp": 1725578048,
+    "senderName": "Rafael",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "671E7FD1DA83C07A00B1863C0910A487",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sdTPqA.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "💀",
+    "timestamp": 1725578126,
+    "senderName": "🥺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "19D271EE616DFB23F9D88BAE9582490E",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Cuál es la diferencia cuando se trata qlos💀"
+    },
+    "reaction": "",
+    "timestamp": 1725578217,
+    "senderName": "Rafael",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4CBB5B39356FFA220A1BC73BE479C266",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Que riko"
+    },
+    "reaction": "",
+    "timestamp": 1725578374,
+    "senderName": "<><><><><>] X [<><><><><>",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5218124399543@s.whatsapp.net",
+      "id": "671E7FD1DA83C07A00B1863C0910A487"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4D4A712E946B29BAF3EDF9B69218C63C",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Pasa link"
+    },
+    "reaction": "",
+    "timestamp": 1725578375,
+    "senderName": "<><><><><>] X [<><><><><>",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4AD601D62AE11786C1224CD1F7AA1348",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "No mentira"
+    },
+    "reaction": "",
+    "timestamp": 1725578415,
+    "senderName": "<><><><><>] X [<><><><><>",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "35D22C15F9C4B837938B0A740209F782",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mSxql7.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725578472,
+    "senderName": "🥺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "595985109027@s.whatsapp.net",
+      "id": "19D271EE616DFB23F9D88BAE9582490E"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "E676714E12048FCC59C467E20D71C5A3",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Oqp3Kb.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725578489,
+    "senderName": "🥺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "44B11A6ABB27BB34FCE7198BC141B0D8",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725578520,
+    "senderName": "DameUnHolaY.TeMuestroMi🍆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "06B40C45763ADE6B510B266039378DE0",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725579115,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50765932740@s.whatsapp.net",
+      "id": "44B11A6ABB27BB34FCE7198BC141B0D8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "425E28AF91A0E9FDC04948BABB3E82C5",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Q tal?"
+    },
+    "reaction": "",
+    "timestamp": 1725579115,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1004005357CBAA14DFFC8145A06093D9",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Se ve que te gustan los pitos"
+    },
+    "reaction": "",
+    "timestamp": 1725579991,
+    "senderName": "Zequi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5218124399543@s.whatsapp.net",
+      "id": "671E7FD1DA83C07A00B1863C0910A487"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AC64DB2FD270B5D5E3B9FBDEB87D7CCF",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Osino que haces en un grupo gay"
+    },
+    "reaction": "",
+    "timestamp": 1725580006,
+    "senderName": "Zequi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "91F008105F174ED5C6BE0BB0545859DF",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DSVHgq.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725580049,
+    "senderName": "🥺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5493765011868@s.whatsapp.net",
+      "id": "AC64DB2FD270B5D5E3B9FBDEB87D7CCF"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A9B0E7430FDB2B1508E",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Porque 😢"
+    },
+    "reaction": "",
+    "timestamp": 1725580103,
+    "senderName": "Miguel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5218124399543@s.whatsapp.net",
+      "id": "671E7FD1DA83C07A00B1863C0910A487"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "1232B61A78758D6BBA7DAC88378F4608",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Yl1rK2.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725580129,
+    "senderName": "🥺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5219713499664@s.whatsapp.net",
+      "id": "3A9B0E7430FDB2B1508E"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A14640D7D9D286E5E41",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Yop"
+    },
+    "reaction": "",
+    "timestamp": 1725580173,
+    "senderName": "Miguel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5217721855967@s.whatsapp.net",
+      "id": "76B855EE83F57EC39DCF3D5942D52F9D"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2334826790C02C55623FFDCE003E7867",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "I'm going to be mom 😭"
+    },
+    "reaction": "",
+    "timestamp": 1725580178,
+    "senderName": "𝓝𝓪𝓶   🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A10D9EB638F90442160",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Aaaa así dijo mi maestro y dejó a su esposa"
+    },
+    "reaction": "",
+    "timestamp": 1725580201,
+    "senderName": "Miguel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5218124399543@s.whatsapp.net",
+      "id": "1232B61A78758D6BBA7DAC88378F4608"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4ACBCA4800E071E36421F9535234B201",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": ".Gemini cuánto cuesta una pizza promedio en Italia"
+    },
+    "reaction": "",
+    "timestamp": 1725581315,
+    "senderName": "<><><><><>] X [<><><><><>",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E65194CDE42A06598D46F3FB663DA784",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "Apagaron el bot"
+    },
+    "reaction": "",
+    "timestamp": 1725581336,
+    "senderName": "<><><><><>] X [<><><><><>",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0850E0C2BA789136D298BD5F07D5F068",
+    "remoteJid": "120363310024643676@g.us",
+    "msgContext": {
+      "text": "XDDDD"
+    },
+    "reaction": "",
+    "timestamp": 1725581989,
+    "senderName": "𝓝𝓪𝓶   🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "93121FA0CE491200CC02048F4C0D23D2",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "78xkKC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571200,
+    "senderName": "🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "866572FE7DF174FE33A7182C076EEB88",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mira"
+    },
+    "reaction": "",
+    "timestamp": 1725571201,
+    "senderName": "🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "4D73AE3A2587BDA42FAFB8746F5B0683",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "rB0ng4.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571202,
+    "senderName": "🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "692D51C3522A6CCCF9797C4FC3AF52D1",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "I34yCG.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725571933,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F8E85E858FD7815E20B38F546B5A87F9",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "text": "Del grupo donde estoy"
+    },
+    "reaction": "",
+    "timestamp": 1725571952,
+    "senderName": "🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "97F0B7C0C9A043B8AEC4A2A4F41D6BFF",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "rUOaBa.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725572144,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "39F78264F4D9DF304C94A4EB2BF2E795",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DVnvVK.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725575955,
+    "senderName": "🎀",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "88B52A263B9BE27ABAA9F27B89632E21",
+    "remoteJid": "5215524165987@s.whatsapp.net",
+    "msgContext": {
+      "text": "La camisa grande y el talla 38 pregunta que precio"
+    },
+    "reaction": "",
+    "timestamp": 1725576421,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -11,7 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
-    "@whiskeysockets/baileys": "^6.7.5",
+    "@open-wa/wa-automate": "^4.72.5",
+    "@whiskeysockets/baileys": "^6.7.8",
     "bcrypt": "5.0.1",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",
@@ -22,6 +23,7 @@
     "express-validator": "^6.14.0",
     "jsonwebtoken": "^9.0.0",
     "link-preview-js": "^3.0.5",
+    "lodash": "^4.17.21",
     "mime-types": "^2.1.35",
     "moment": "^2.29.4",
     "moment-timezone": "^0.5.45",

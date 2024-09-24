@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7C720F5B31AD06B41D",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días. Tiene alguna información de la instalación?"
+    },
+    "reaction": "",
+    "timestamp": 1725901043,
+    "senderName": "Jorge López",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CD4B711EF992743A17",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, buenos días! \nQue tal, como se encuentra don Jorge?\nPermitame consultar ya que estaba incapacitado y hasta el día de hoy me incorporé de nuevo, pensé que más bien ya estaba la instalación lista."
+    },
+    "reaction": "",
+    "timestamp": 1725901447,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA9AF6C790BBC963434",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "No aún no nos han contactado"
+    },
+    "reaction": "",
+    "timestamp": 1725901671,
+    "senderName": "Jorge López",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "707D4A69DF7A34BC2720AAD94D466057",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya te indico,que pena más bien don Jorge"
+    },
+    "reaction": "",
+    "timestamp": 1725901717,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8363EE355FA3B1F47B",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725901725,
+    "senderName": "Jorge López",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3D66CB170C2C7B2AD998B35E4666B2E0",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "Don Jorge ya consulté y me indican que hubo un problema al realizar el trámite por parte del área de digitación, ya que se le estaba realizando el cobro de las cajas adicionales a un precio mayor, ya te adjunto nuevamente el link del contrato para que pueda validar el precio con el ajuste del mismo monto que yo le comenté, donde las cajas adicionales no tienen un un costo de 2500 sino de 1500 como te indiqué mediante la llamada y en cuanto se firme nuevamente agendo para lo más pronto posible, si tengo campo para mañana mismo te indico de hecho don Jorge."
+    },
+    "reaction": "",
+    "timestamp": 1725902846,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAB11A7C1F222BF1751",
+    "remoteJid": "50660509843@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725902872,
+    "senderName": "Jorge López",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

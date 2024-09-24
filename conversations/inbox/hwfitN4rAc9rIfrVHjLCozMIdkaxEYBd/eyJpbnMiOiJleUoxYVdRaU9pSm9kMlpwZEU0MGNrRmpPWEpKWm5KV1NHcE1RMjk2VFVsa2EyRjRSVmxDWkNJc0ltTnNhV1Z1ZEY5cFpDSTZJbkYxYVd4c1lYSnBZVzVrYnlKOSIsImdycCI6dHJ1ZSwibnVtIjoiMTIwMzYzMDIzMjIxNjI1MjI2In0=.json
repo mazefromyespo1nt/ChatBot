@@ -1,0 +1,86 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FC5C55D8A16926FC713EC40351C6F974",
+    "remoteJid": "120363023221625226@g.us",
+    "msgContext": {
+      "text": "Buenas quien me hace el favor de enviarme el horario de las evaluaciones se me borro todo"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725914915,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E26B3F8A4F002B6BA9E0BBFAFA920541",
+    "remoteJid": "120363023221625226@g.us",
+    "msgContext": {
+      "text": "Bendiciones a que hora salen los niños hoy."
+    },
+    "reaction": "",
+    "timestamp": 1725976688,
+    "senderName": "Orlando Molina Arevalo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FA8934309F5093825EE329766FF8DA41",
+    "remoteJid": "120363023221625226@g.us",
+    "msgContext": {
+      "text": "9"
+    },
+    "reaction": "",
+    "timestamp": 1725976871,
+    "senderName": "Dios Es Amor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A3AB44A1080945D6AABE2A6C94366480",
+    "remoteJid": "120363023221625226@g.us",
+    "msgContext": {
+      "text": "Mañana iniciamos evaluaciónes acumulativas, los estudiantes deben traer \nLápiz negro \nSacapuntas\nBorrador\nLibro de Artística \nLápices de Colores\nNo olviden el horario de salida 9:00 A.M"
+    },
+    "reaction": "",
+    "timestamp": 1725976890,
+    "senderName": "Dios Es Amor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FF190A901F0ECF4EBCF4F32A7138D224",
+    "remoteJid": "120363023221625226@g.us",
+    "msgContext": {
+      "text": "Ya estáran saliendo"
+    },
+    "reaction": "",
+    "timestamp": 1725976903,
+    "senderName": "Dios Es Amor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

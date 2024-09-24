@@ -1,0 +1,211 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C170D0F01C214CA49E",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "hAAKQU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725656754,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB02065A3D2FE82A67192",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "kvraqh.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725657002,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAA6733A7EDAC335AB2",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "No se podría bocarte en dorado y el sello en la esquina te doy la medido de la etiqueta y sello y el código para que ya quede"
+    },
+    "reaction": "",
+    "timestamp": 1725657145,
+    "senderName": "Armando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD393176F856F6250D2",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "Madamas lleva CONT.NETO 150 g"
+    },
+    "reaction": "",
+    "timestamp": 1725657206,
+    "senderName": "Armando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE60E149C9DB9058F8D",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes poner \nEl color del producto podrá variar dependiendo la maduración del habanero"
+    },
+    "reaction": "",
+    "timestamp": 1725657262,
+    "senderName": "Armando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A403E7E3B76BFE6E226",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si se puede"
+    },
+    "reaction": "",
+    "timestamp": 1725657269,
+    "senderName": "Armando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "8A21A9B9F57FA33EE3841F5A39A3D06A",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KKRhlv.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725657964,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9A756A76B79FF55D9A",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que medida tiene  está"
+    },
+    "reaction": "",
+    "timestamp": 1725657998,
+    "senderName": "Armando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB805FB0F98ADE2EAA9",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "Alto 8.5 largo 8"
+    },
+    "reaction": "",
+    "timestamp": 1725658245,
+    "senderName": "Armando",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "72AD64719B7056E92D6202F2B2A27FD4",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mjEU2e.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725660217,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0987A766107BC025624",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "cuando me pase todo le sigo"
+    },
+    "reaction": "",
+    "timestamp": 1725661048,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB099C8173E47DCE5282F",
+    "remoteJid": "5212212033401@s.whatsapp.net",
+    "msgContext": {
+      "text": "incluida esta"
+    },
+    "reaction": "",
+    "timestamp": 1725661397,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5212212033401@s.whatsapp.net",
+      "id": "3AE3DFDEAABA7148EC4B"
+    }
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "84986E4FCA2DDC5B10098A51B679B1EC",
+    "remoteJid": "50688791056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola. No he hablado con  mi esposa. Apenas se presente la oportunidad le informo y lo que ella decida  le comunico.  Gracias muy gentil y le deseo muchas ventas en su gestión laboral"
+    },
+    "reaction": "",
+    "timestamp": 1725582126,
+    "senderName": "Roberto Esquivel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E3CDB9CBB29AE18EA27FECE777E02362",
+    "remoteJid": "50688791056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Usted es creyente?"
+    },
+    "reaction": "",
+    "timestamp": 1725582137,
+    "senderName": "Roberto Esquivel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08194676FE5E3C2C930EB64E38D40151",
+    "remoteJid": "50688791056@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es correcto . Evangélica"
+    },
+    "reaction": "",
+    "timestamp": 1725582165,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50688791056@s.whatsapp.net",
+      "id": "E3CDB9CBB29AE18EA27FECE777E02362"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "21B7DD69E64A90B4FA0F33D3B8FAFC1E",
+    "remoteJid": "50688791056@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo . Quedó atenta en lo que requieran 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725582182,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50688791056@s.whatsapp.net",
+      "id": "84986E4FCA2DDC5B10098A51B679B1EC"
+    }
+  }
+]

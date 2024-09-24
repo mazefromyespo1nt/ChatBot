@@ -1,0 +1,119 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "477CCC0F142C88600FCCEA0BC311CF81",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725909781,
+    "senderName": "Rolando Enrique Angulo Se",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F1642435D7099C4403",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muy buenas tardes!"
+    },
+    "reaction": "",
+    "timestamp": 1725912233,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0530808599DB05F2B80",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te interesa adquirir servicios Liberty? El día de hoy tenemos la campaña de no cobro de pago anticipado, por lo que puedes aquirir nuestros servicio y pagar la primera factura hasta el 20 de octubre."
+    },
+    "reaction": "",
+    "timestamp": 1725912249,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F2B5C17CACBDA796ED",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "oV1w4v.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725912266,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB9B5AC0B5BD620C10587B912D75C0A",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ese You tube ilimitado por cuántos meses es"
+    },
+    "reaction": "",
+    "timestamp": 1725912743,
+    "senderName": "Rolando Enrique Angulo Se",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09150D8CE2CA42066B3",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "text": "30 días"
+    },
+    "reaction": "",
+    "timestamp": 1725912776,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0541F3D96BA7D4ECE54",
+    "remoteJid": "50672069004@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que te pareció la información?"
+    },
+    "reaction": "",
+    "timestamp": 1725915171,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

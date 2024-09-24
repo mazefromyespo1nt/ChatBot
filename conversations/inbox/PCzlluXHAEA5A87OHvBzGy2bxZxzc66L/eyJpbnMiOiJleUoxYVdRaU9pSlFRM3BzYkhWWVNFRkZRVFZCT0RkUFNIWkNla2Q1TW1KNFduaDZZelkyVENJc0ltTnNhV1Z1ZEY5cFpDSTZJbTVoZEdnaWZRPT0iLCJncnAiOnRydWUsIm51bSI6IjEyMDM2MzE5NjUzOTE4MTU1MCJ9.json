@@ -1,0 +1,134 @@
+[
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB0266B2A401F29988437",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "caption": "pedido (2) LAZARO MORELIA SEPTIEMBRE 2024  (1).xlsx",
+      "fileName": "eRIih5.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725652272,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB0E0E2D89ECE302D7570",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "caption": "pedido (2) carrillo SEPTIEMBRE 2024 .xlsx",
+      "fileName": "tPXZl4.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725652272,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A1AF605F7CC0E6493E",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "text": "listo, por aqui estan los pedidos de morelia, por separado"
+    },
+    "reaction": "",
+    "timestamp": 1725652293,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB08BFCE0152CA694C863",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "text": "Muchas gracias, FEr. Confirmo de recibido"
+    },
+    "reaction": "",
+    "timestamp": 1725652369,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0800846D9449D61CD4C",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "text": "hola, me pudieran agregar unas cosas extra porfas"
+    },
+    "reaction": "",
+    "timestamp": 1725743074,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C51EC065F52920BE8F",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "text": "CARRILLO\n2 chorizo\n1 bolsa peperoni\n1 salchicha\n2 dedos de queso\n6 bolsas de queso\n3 bolsas orilla de queso\n1 caja catsup porción\n1 aderezo porción\n50 caja individual"
+    },
+    "reaction": "",
+    "timestamp": 1725743084,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4DE0FB3E0B494BCF6E29616A08375C8E",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "text": "Lazaro agregado\n\n3 chorizo\n5 jamón\n1 peperoni\n1 salami\n50 grandes\n50 chicas\n100 familiares\n3 orilla\n1 papa\n5 queso\n1 salsa pizza"
+    },
+    "reaction": "",
+    "timestamp": 1725747159,
+    "senderName": "🗺",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB012E0FB4697D2FCDB9B",
+    "remoteJid": "120363196539181550@g.us",
+    "msgContext": {
+      "text": "Hola, Fer. Buen día. Claro te lo agregamos"
+    },
+    "reaction": "",
+    "timestamp": 1725889565,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

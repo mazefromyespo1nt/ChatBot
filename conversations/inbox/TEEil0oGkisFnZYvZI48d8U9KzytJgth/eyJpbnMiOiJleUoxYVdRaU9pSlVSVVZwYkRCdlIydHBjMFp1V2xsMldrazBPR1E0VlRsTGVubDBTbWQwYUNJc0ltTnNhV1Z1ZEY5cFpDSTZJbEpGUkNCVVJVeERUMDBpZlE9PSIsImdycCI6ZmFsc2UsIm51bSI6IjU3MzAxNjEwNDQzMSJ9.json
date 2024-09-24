@@ -1,0 +1,55 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8706CC0419E7CE0133CAB1D507685ECB",
+    "remoteJid": "573016104431@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Buenas tardes, te envío foto del aviso instalado",
+      "fileName": "511SBc.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725551590,
+    "senderName": "JCPM🎯",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01AB13FD1B72F48776C",
+    "remoteJid": "573016104431@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, bienvenido al área de servicio al cliente y soporte de Red Telcom."
+    },
+    "reaction": "",
+    "timestamp": 1725553380,
+    "senderName": "RED TELCOM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EBF093C26903EA9AD3",
+    "remoteJid": "573016104431@s.whatsapp.net",
+    "msgContext": {
+      "text": "Transaccion Exitosa\nPasacupo enviado\nComercio: 00116080\nValor: $ 38.400,00\nBolsa: Ganancias\nTipo: CONTADO\nCod. Transaccion: 409940995"
+    },
+    "reaction": "👍🏼",
+    "timestamp": 1725553384,
+    "senderName": "RED TELCOM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "79BC0C82A2C3DCACF16ED42CB4791CFB",
+    "remoteJid": "5215610216131@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Puedo ver algunas páginas de sus clientes?"
+    },
+    "reaction": "",
+    "timestamp": 1725504303,
+    "senderName": "Emmanuel Jiménez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068884228FC7DDEDD1C",
+    "remoteJid": "5215610216131@s.whatsapp.net",
+    "msgContext": {
+      "text": "claro"
+    },
+    "reaction": "",
+    "timestamp": 1725504435,
+    "senderName": "Emmanuel Jiménez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B2C1F3D10D0D6B9D08",
+    "remoteJid": "5215610216131@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://sorteosrepublica.com/"
+    },
+    "reaction": "",
+    "timestamp": 1725504523,
+    "senderName": "Emmanuel Jiménez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C48692BF2BABFEF34B",
+    "remoteJid": "5215610216131@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://rifasel7.com/"
+    },
+    "reaction": "",
+    "timestamp": 1725504557,
+    "senderName": "Emmanuel Jiménez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BE8C0348D5BB243A01",
+    "remoteJid": "120363198914295245@g.us",
+    "msgContext": {
+      "text": "Lo puedo esperar a mañana, no hay problema"
+    },
+    "reaction": "",
+    "timestamp": 1725646458,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FED4372A7EAE39456088C7DBB01276AE",
+    "remoteJid": "120363198914295245@g.us",
+    "msgContext": {
+      "text": "Los pedidos siempre los he hecho los días 7 y 21 de cada mes. Pero si hay modificación al día 6 no hay problema"
+    },
+    "reaction": "",
+    "timestamp": 1725646511,
+    "senderName": "Jaime",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB082B8F09B31058CB66E",
+    "remoteJid": "120363198914295245@g.us",
+    "msgContext": {
+      "caption": "FORMATO-FORANEO-2023-PANINDICUARO-15.xlsx",
+      "fileName": "1t0gtd.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725751702,
+    "senderName": "Jaime",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09780DC80BA56D20778",
+    "remoteJid": "120363198914295245@g.us",
+    "msgContext": {
+      "text": "Hola, Jaime. Buen día. Confirmo de recibido, muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725889600,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

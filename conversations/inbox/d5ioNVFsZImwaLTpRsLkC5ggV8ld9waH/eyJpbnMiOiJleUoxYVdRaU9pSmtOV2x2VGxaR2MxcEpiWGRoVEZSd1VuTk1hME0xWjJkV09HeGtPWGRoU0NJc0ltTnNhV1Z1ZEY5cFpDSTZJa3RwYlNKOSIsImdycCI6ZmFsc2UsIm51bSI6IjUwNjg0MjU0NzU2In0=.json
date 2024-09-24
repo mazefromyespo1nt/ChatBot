@@ -1,0 +1,349 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB062854F45A290958513",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "OyuiRP.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725897677,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "31E92E4A5486DC5342F2A6F6812A99AC",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏽"
+    },
+    "reaction": "",
+    "timestamp": 1725897838,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB083BF5AFE1C30F5AB5D",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días, ando en ruta Liberia después de medio día"
+    },
+    "reaction": "",
+    "timestamp": 1725898007,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9086250A75CC8C74B85E8624F659C0EE",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏽"
+    },
+    "reaction": "👍",
+    "timestamp": 1725898028,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4A024AF539164D48813C4F6FAC66DFF4",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenas tardes\nYa me dieron el chip\nPero no me sale activada"
+    },
+    "reaction": "",
+    "timestamp": 1725916426,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "62EC1D8AAAD7A6072BF11010B7275565",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si debemos activarlo"
+    },
+    "reaction": "",
+    "timestamp": 1725916909,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5FB3A49DD4192966F8CD774241768095",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si gusta puede llamar al 1693"
+    },
+    "reaction": "",
+    "timestamp": 1725916953,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C4359821AD4996DC9FFC31BB811CA98B",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "O me das un momento  y en breve le ayudo desde acá"
+    },
+    "reaction": "",
+    "timestamp": 1725916973,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BDA89A54CF1CEE87ECDB7DD0E86EFC3F",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y no tengo el chip de esta línea"
+    },
+    "reaction": "",
+    "timestamp": 1725922166,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4BD284F699085621B6C71B4366D1B9C8",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Así que no creo que se pueda ya que el mensaje de texto no me va a llegar"
+    },
+    "reaction": "",
+    "timestamp": 1725922192,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB038E98E44713BCAADC9",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "h6LUxr.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924391,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0097E815D6DF9237240",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DwDuLF.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924471,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "949D4F040964773B8BB9ED551874A668",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo que ir a claro a pedir el chip"
+    },
+    "reaction": "",
+    "timestamp": 1725924570,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB07C829AF6A244063636",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HGyey5.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924799,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "781D49E30104C44F974469DDAFD5ECBD",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "No, se perdió ase mucho"
+    },
+    "reaction": "",
+    "timestamp": 1725924846,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5C41D332873D145C8A592048664B63A5",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "El problema aquí es que estoy incapacitado y se me dificulta ir a la tienda"
+    },
+    "reaction": "",
+    "timestamp": 1725924884,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "158CAF41FA645E4C1115AC3B11AC69A7",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero a ver si puedo ir la otra semana"
+    },
+    "reaction": "",
+    "timestamp": 1725924898,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0C32DFCC8166633A443",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9cPMvi.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725925091,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1420CDD0934FC0945162ED9678B05AB7",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "text": "👍🏽"
+    },
+    "reaction": "👍",
+    "timestamp": 1725925138,
+    "senderName": "julio corea",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB08B0A506D4F5CD75EBC",
+    "remoteJid": "50684254756@s.whatsapp.net",
+    "msgContext": {
+      "caption": "CONTRATO_EVELYN GARCÍA.pdf",
+      "fileName": "gI2l8Z.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725925543,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

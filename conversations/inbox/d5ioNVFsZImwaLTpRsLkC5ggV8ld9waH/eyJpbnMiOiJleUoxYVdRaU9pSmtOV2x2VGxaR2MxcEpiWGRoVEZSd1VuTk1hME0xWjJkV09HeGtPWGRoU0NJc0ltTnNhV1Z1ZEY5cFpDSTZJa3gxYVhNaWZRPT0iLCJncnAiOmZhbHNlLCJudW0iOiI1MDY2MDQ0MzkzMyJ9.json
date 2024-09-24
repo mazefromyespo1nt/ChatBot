@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04B8163C524B675F1E6",
+    "remoteJid": "50660443933@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725988438,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AB50F5916A8DABA4AA",
+    "remoteJid": "50660443933@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuál es el colmo de un electricista?\n\nNo encontrar su corriente de trabajo."
+    },
+    "reaction": "",
+    "timestamp": 1725988894,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

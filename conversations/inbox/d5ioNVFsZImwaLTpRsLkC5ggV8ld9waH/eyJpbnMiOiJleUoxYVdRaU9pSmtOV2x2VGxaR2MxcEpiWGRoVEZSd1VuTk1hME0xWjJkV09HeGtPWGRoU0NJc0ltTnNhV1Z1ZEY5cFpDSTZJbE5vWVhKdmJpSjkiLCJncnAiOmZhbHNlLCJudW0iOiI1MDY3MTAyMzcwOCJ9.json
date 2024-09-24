@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07D3879096DA97AD866",
+    "remoteJid": "50671023708@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 👋🏻 Mi nombre es Sharon de Liberty, Adquiere hoy tu plan sin contrato (por ₡10,900) y goce de beneficios LIBERTY sin competencia puedes conservar tu numero KOLBI o CLARO o bien (número nuevo LIBERTY)\n✅ Paga hasta el dia 20 de  OCTUBRE. \n🆕 Opción de teléfono después de 5 facturas. \n✅12 GB de Internet ¡acumulables!\n🆓 WhatsApp, Facebook, Instagram, Twitter y Waze ¡ilimitados!😲\n✅ Obtenga 300 min y SMS LIBERTY.\n🆒 150 minutos y SMS a C.R.🇨🇷, Tigo Nicaragua, U.S.A. y Canadá. \n                              \n✳️ Para mayor información, por favor responda \"Sí\"; si no desea más mensajes, responda BAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725981117,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0B46BCEB1855D25BB0B2DD5202737E5E",
+    "remoteJid": "50671023708@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Reclutamiento Walmart Costa Rica. Puedes enviar su currículum con los siguientes requisitos.\n🪪 Cédula o permiso laboral por ambos lados vigente.\n🎓 Último título académico.\n👨🏼‍✈️ Hoja de delincuencia vigente.\n🪪 Carnet de manipulación de alimentos vigente.\n✉️Cartas de recomendación laboral.\n📍Dirección exacta de su residencia.\nNota: Puede ser en formato pdf o fotografía preferiblemente a color por este medio o al correo , si no cuenta con algún requisito puede enviarlos de igual forma"
+    },
+    "reaction": "",
+    "timestamp": 1725981120,
+    "senderName": "Reclutamiento y Seleccion  Walmart",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

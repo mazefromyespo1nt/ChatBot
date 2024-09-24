@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "5D4D0C19082A7CF802",
+    "remoteJid": "573148501413@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jGiBGd.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725841811,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1BBC6784249C6AD5FA972BB2C8752385",
+    "remoteJid": "50672070341@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas, ya tengo un contrato con ustedes"
+    },
+    "reaction": "",
+    "timestamp": 1725898259,
+    "senderName": "72070341",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3843669DCF69C31CD5FBFB22BB79E4B9",
+    "remoteJid": "50672070341@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuales están? ofreciendo"
+    },
+    "reaction": "",
+    "timestamp": 1725910199,
+    "senderName": "72070341",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B796C1267D5D8F8207C19686E02242B1",
+    "remoteJid": "50672070341@s.whatsapp.net",
+    "msgContext": {
+      "text": "Actualmente tenemos planes postpago"
+    },
+    "reaction": "",
+    "timestamp": 1725913997,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "EB1A0FFBC75A36171EE3323D3CC3139C",
+    "remoteJid": "50672070341@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ePog1X.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725914629,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9E1E49601AB1995F49A60967A7E44DBE",
+    "remoteJid": "573001326627@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Podrías darme más información de..."
+    },
+    "reaction": "",
+    "timestamp": 1725847681,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "48A7E60926D6C02FAA1F93F1C2E25A4D",
+    "remoteJid": "573001326627@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Muy buenas a la orden* 🤗",
+      "fileName": "XdX1jV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725847984,
+    "senderName": "Samuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "ED976907DC0B81215A7982E7917C8039",
+    "remoteJid": "573001326627@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sOqTrs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725847984,
+    "senderName": "Samuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "E1C0325A9F035A02D01C5D48009641A8",
+    "remoteJid": "573001326627@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mTkTqG.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725847985,
+    "senderName": "Samuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8AAD78616091B97F30E13776E8AFDE5F",
+    "remoteJid": "573001326627@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HsHBtV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725847985,
+    "senderName": "Samuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BD6A5599F1D304DF994C4837DC3BC5A6",
+    "remoteJid": "573001326627@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Regaleme:*\n*Dirección:*\n*Barrio:* \n*Billete de cuánto:*\n*Número de telefono:* \n*Todo por escrito, Gracias.*\n*(Tiempo estipulado: 40-45 mnts)*"
+    },
+    "reaction": "",
+    "timestamp": 1725847991,
+    "senderName": "Samuel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

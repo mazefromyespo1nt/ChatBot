@@ -1,0 +1,155 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B7879C587DFFED596D0A14B1D2E1AAF",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola! Deseo conocer y agendar una demostración del software"
+    },
+    "reaction": "",
+    "timestamp": 1725621032,
+    "senderName": "Alberto Pinto Ccuno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0088C2F4DA37DAD7A79",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725621033,
+    "senderName": "Alberto Pinto Ccuno",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0153C94E6E007F5450F",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725621053,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0B8E7D4F4748E7F2057",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725621055,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BB5EC0530AACA000A8",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Sr. Alberto Pinto Ccuno* Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725628046,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07492C7971B39D02DE2",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le traemos una promoción que su municipalidad no puede dejar pasar 🚀. Presentamos nuestro *SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y CAJA* 📊, ¡todo a un solo costo de *S/.3999.00*! obtienes una *licencia perpetua del sistema*, ¡así que nunca tendrás que *preocuparte por renovaciones*! 🆓✨ Además, disfrutara de *soporte técnico* *24/7* durante *12 meses* 🕒, para que siempre estés acompañado ante cualquier consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725628050,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03E228E9A4DFB17101F",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Sr. Alberto Pinto* Quisiéramos mostrarle nuestro sistema en una Reunión virtual sin compromiso alguno, estaría bien hoy a las 3 de la tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725629760,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E85607862DAA5D5950",
+    "remoteJid": "51974399469@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta *Sr. Alberto Pinto Ccuno*  🙌🏼👀"
+    },
+    "reaction": "",
+    "timestamp": 1725630184,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

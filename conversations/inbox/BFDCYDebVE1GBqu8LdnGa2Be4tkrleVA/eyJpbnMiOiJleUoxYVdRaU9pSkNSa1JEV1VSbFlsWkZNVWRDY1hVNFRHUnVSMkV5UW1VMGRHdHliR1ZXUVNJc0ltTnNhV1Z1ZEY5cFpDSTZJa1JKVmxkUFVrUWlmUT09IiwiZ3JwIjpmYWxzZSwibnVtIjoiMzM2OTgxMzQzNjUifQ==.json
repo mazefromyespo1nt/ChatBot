@@ -1,0 +1,104 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "91D6B30C8414740EA14C046834843441",
+    "remoteJid": "33698134365@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Luisito"
+    },
+    "reaction": "",
+    "timestamp": 1725825722,
+    "senderName": "Adriana Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DA0A1C1347DA2C6BC29A8BE38458742C",
+    "remoteJid": "33698134365@s.whatsapp.net",
+    "msgContext": {
+      "text": "Siii super ! \n\nTu me dices cuando y hora \n\nMuchas Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725825755,
+    "senderName": "Adriana Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3ABCAC997BC3DFE69CF6",
+    "remoteJid": "33698134365@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "f9kHIK.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725826069,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A2DA57C760A4219900E",
+    "remoteJid": "33698134365@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "37sYUJ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725826102,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5EEA963D704F612E768FEBFEDB93DE85",
+    "remoteJid": "33698134365@s.whatsapp.net",
+    "msgContext": {
+      "text": "Luisito, que buenas noticias esas que me das\n\nEstoy animada con eso\n\nCuando me capacitas y empezamos ?"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725878836,
+    "senderName": "Adriana Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A3393414D11A9F6D3AD",
+    "remoteJid": "33698134365@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ACDq9y.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "👍",
+    "timestamp": 1725879286,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

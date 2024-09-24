@@ -1,0 +1,363 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBF9B4508CDDB7BB88",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725559323,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0348AEEAD847C642C2A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Angel"
+    },
+    "reaction": "",
+    "timestamp": 1725559500,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1612749C3E3EF306F4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725559511,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02F7698DBF001E36783",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "jajajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725559600,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "307C16ECCFFF8A6297",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya bien?"
+    },
+    "reaction": "",
+    "timestamp": 1725559609,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A7001B08A979A772FD",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "el api es para conectame con otros sistemas"
+    },
+    "reaction": "",
+    "timestamp": 1725559615,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0640681D788A1712DBC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "puedo conectarlo con make?"
+    },
+    "reaction": "",
+    "timestamp": 1725559625,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C1A2962B35A6F8BD86",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725559784,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51981467062@s.whatsapp.net",
+      "id": "3EB0A7001B08A979A772FD"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1C6CACFC95F193F769",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "",
+    "timestamp": 1725559787,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51981467062@s.whatsapp.net",
+      "id": "3EB0640681D788A1712DBC"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0321E03EBFCF8ED7C22",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y puedo conectarlo mediante webhooks con make y openai?"
+    },
+    "reaction": "",
+    "timestamp": 1725559793,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08AE31FE4F9523A6037",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "porque no se p[odria conectar con Make?"
+    },
+    "reaction": "",
+    "timestamp": 1725559816,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01AA47E55CC9C8E65DD",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y etiquetas tambien tiene?"
+    },
+    "reaction": "",
+    "timestamp": 1725559949,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04B7D0BC5E940D06355",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "no lo veo"
+    },
+    "reaction": "",
+    "timestamp": 1725559957,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6BBC7BCF388D33951CBE12631A3C775B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si vienen como notas"
+    },
+    "reaction": "",
+    "timestamp": 1725560226,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51981467062@s.whatsapp.net",
+      "id": "3EB01AA47E55CC9C8E65DD"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "96CD54287239EDB1DD39F66D225C0F2F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "En el char"
+    },
+    "reaction": "",
+    "timestamp": 1725560236,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "22A21166F7877F46A1379ADFE2DD755C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Chat"
+    },
+    "reaction": "",
+    "timestamp": 1725560238,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "268AEE3E5F76FC9FEB38FC0E2775E992",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "A la derecha arriba las flechitas moradas"
+    },
+    "reaction": "",
+    "timestamp": 1725560257,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04D6569CF8C6C872654",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "veo notas si pero etiquetas no lo veo"
+    },
+    "reaction": "",
+    "timestamp": 1725560260,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E37216DCC8B82D7BA5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y como pongo cierto estado a cada cliente ?"
+    },
+    "reaction": "",
+    "timestamp": 1725560287,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "39683373CB7EDD23D5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "a lado de esas flechitas está el estatus"
+    },
+    "reaction": "",
+    "timestamp": 1725560297,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02B6D05BBBA0BAC5B50",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "tiene pra segmentar el embudo?"
+    },
+    "reaction": "",
+    "timestamp": 1725560300,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB031AC45FA2B6C0C6868",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "me refiero tiene que tener para poder segmentar al embudo"
+    },
+    "reaction": "",
+    "timestamp": 1725560355,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

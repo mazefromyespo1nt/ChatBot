@@ -1,0 +1,194 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F80B9597B0ECB746D0",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725898461,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04E1CFD8BDD3C89C8C5",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "kgg"
+    },
+    "reaction": "",
+    "timestamp": 1725898480,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BE073165EF05DF1BC8",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725898660,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB022D07AF84FADDA54C3",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "hoals"
+    },
+    "reaction": "",
+    "timestamp": 1725898892,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A98B7A48B02CA8CFCE",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725899844,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03132471C4070F92A49",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725899890,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AD0CEFDAF05D8D2952",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725900156,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06B6412EC8CD3FBFC91",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725900506,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03E3D3E42F6A01BBA3C",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725901014,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A648404900D5418EF3",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "HOLA"
+    },
+    "reaction": "",
+    "timestamp": 1725901076,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09E3156DDBF002350C4",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903388,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08C68B77998916ED165",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725903497,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

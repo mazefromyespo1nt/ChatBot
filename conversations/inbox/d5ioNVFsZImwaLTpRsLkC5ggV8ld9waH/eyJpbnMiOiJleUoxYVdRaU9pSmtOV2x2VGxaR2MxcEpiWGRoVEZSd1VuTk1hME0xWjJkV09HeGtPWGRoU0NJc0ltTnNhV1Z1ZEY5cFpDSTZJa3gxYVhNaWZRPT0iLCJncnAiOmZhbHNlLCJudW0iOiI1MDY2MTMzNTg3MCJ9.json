@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07ED6F3490C8A0C5C16",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725902844,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04C7DA7BDD824CBF306",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725903162,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0090570633AEF295677",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725903735,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB078AB168D581D5F7F58",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "No te lo puedo creeeeeeer"
+    },
+    "reaction": "",
+    "timestamp": 1725988513,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05535B596B875E0D349",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Cuento de los Tres Hermanos\n\nHabía una vez tres hermanos que eran muy hábiles en la magia. Mientras viajaban juntos, encontraron un río muy peligroso para cruzar. Sin embargo, utilizaron sus habilidades mágicas para conjurar un puente y cruzar el río con seguridad.\n\nAl otro lado del río, se encontraron con la Muerte, quien no estaba contenta de haber sido engañada por los hermanos. La Muerte los felicitó por su astucia y dijo que los recompensaría por su ingenio.\n\nEl hermano mayor pidió una varita poderosa, más fuerte que cualquier otra en existencia. La Muerte le proporcionó una varita extremadamente poderosa hecha de madera de saúco. El segundo hermano pidió el poder de traer a los muertos de vuelta a la vida, y la Muerte le dio una piedra que podía resucitar a los difuntos. El hermano menor, sin embargo, pidió algo que le permitiera alejarse de la Muerte. La Muerte, a regañadientes, le dio una capa de invisibilidad.\n\nEl hermano mayor, con su nueva varita, se volvió arrogante y fue finalmente asesinado por otro mago que codiciaba la varita. El segundo hermano, al usar la piedra para traer de vuelta a su amor perdido, se dio cuenta de que ella no estaba realmente viva y quedó consumido por la desesperación, acabando por suicidarse para reunirse con ella. El hermano menor vivió una vida larga y pacífica, siempre utilizando su capa para evadir la Muerte. Cuando estuvo listo para morir, se quitó la capa y recibió a la Muerte como una amiga anciana.\n\nAsí, el cuento ilustra los peligros de buscar poder y el valor de aceptar nuestra mortalidad."
+    },
+    "reaction": "",
+    "timestamp": 1725991252,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

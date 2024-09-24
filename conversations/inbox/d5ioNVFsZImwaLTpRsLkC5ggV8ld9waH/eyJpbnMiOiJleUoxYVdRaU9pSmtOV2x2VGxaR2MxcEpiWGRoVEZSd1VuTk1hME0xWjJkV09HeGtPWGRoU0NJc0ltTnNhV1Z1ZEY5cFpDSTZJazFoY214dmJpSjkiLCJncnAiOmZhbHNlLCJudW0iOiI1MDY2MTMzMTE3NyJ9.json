@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00D980B95055994D778",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725911701,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB026FA9F8EE8903BA8E8",
+    "remoteJid": "50661329844@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725582928,
+    "senderName": "Lizzy Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

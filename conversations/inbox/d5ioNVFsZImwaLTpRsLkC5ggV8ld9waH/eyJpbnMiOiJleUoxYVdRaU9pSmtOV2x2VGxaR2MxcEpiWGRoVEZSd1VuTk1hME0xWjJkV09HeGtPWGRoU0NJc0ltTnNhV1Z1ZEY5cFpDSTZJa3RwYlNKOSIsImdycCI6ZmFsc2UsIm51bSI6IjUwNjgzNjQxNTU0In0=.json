@@ -1,0 +1,70 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02E9F58F9217A7E4845",
+    "remoteJid": "50683641554@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Rosa Chaves, como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual. Le invitamos a comparar sus servicios y valorar un cambio para bien 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725899789,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A67AB106BE709B1D16",
+    "remoteJid": "50683641554@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* . Actualice sus servicios *Puede adquirir este  paquete a súper precio* (antes costaba 37.500 .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "bXoM1j.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899858,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0E0B57D5745DC4E3013",
+    "remoteJid": "50683641554@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Planes liberty con el *envio gratis🚚,  sin deposito y sin contrato, con la mejor cobertura de red fuera y dentro del país✈️* 👉(centro america y norteamerica sin costo) 👈. \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈 y *conservamos su número si es  KOLBI o CLARO*",
+      "fileName": "AIlTTu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899899,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F638C17D6DBC5EA0D7",
+    "remoteJid": "50683641554@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Rosa quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera. Ese es nuestro compromiso"
+    },
+    "reaction": "",
+    "timestamp": 1725979203,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

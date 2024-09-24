@@ -1,0 +1,281 @@
+[
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "23A82B5448E6A2719E47E939CC4B7E23",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "nio3rM.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725863388,
+    "senderName": "Fleur268821",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "F68D2E34B7178E5ABF6515B0995859D7",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fONEJw.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725864287,
+    "senderName": "Rodrigo Urbano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "F4A1E415A520643632333F4E95CEF0C0",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "MJEXDw.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725864322,
+    "senderName": "Rodrigo Urbano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A46607A87282E380C93",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Saludos 👋 todos chicos ☺️☺️☺️☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725864334,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABAF65D32CA58C9DE1E",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Andamos perdidos todos"
+    },
+    "reaction": "",
+    "timestamp": 1725864341,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A74F06A5208BE1E5788",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Que pasa ??"
+    },
+    "reaction": "",
+    "timestamp": 1725864346,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A9093191B9CA2580624",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Tenemos q hacer un parche pues"
+    },
+    "reaction": "",
+    "timestamp": 1725864358,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "71FAA1869890741F4A3B35A2639B58FB",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Todos callados"
+    },
+    "reaction": "",
+    "timestamp": 1725864366,
+    "senderName": "Rodrigo Urbano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "719980F6E6A0D02DE7287DFE99C41263",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Hágale armenlo"
+    },
+    "reaction": "",
+    "timestamp": 1725864379,
+    "senderName": "Rodrigo Urbano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A2573BC8E1A4227481D",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Uy siii"
+    },
+    "reaction": "",
+    "timestamp": 1725864401,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "33620495095@s.whatsapp.net",
+      "id": "71FAA1869890741F4A3B35A2639B58FB"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A6C46E3C6D0878E4BDB",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Jajajajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725864404,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A87585F9BA939EEE666",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Siiiiiiiii"
+    },
+    "reaction": "",
+    "timestamp": 1725864410,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "33620495095@s.whatsapp.net",
+      "id": "719980F6E6A0D02DE7287DFE99C41263"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A51BF24E6E80C3C848C",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Si, ya se acabaron las vacaciones y no hay razón para no continuarlas 😝"
+    },
+    "reaction": "",
+    "timestamp": 1725864690,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A9093191B9CA2580624"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D75A4B05F49B1CD2FCFDAAC57C673F74",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Te6x2z.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725867693,
+    "senderName": "claudiaestelalopezarce",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C0FAFC1BA17FA65ABE89D6B227632C74",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Buenos días para todos y abrazos....tener una familia, hogar, pareja como le queramos llamar a la relación de dos personas lo importante es el respeto y de allí lo sgte. la pareja son 2. ni3 4 etc."
+    },
+    "reaction": "❤️",
+    "timestamp": 1725867693,
+    "senderName": "claudiaestelalopezarce",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5FC3E3A3F84BB395840D7CF89D659DD6",
+    "remoteJid": "120363304113745904@g.us",
+    "msgContext": {
+      "text": "Y si no hablamos de religión claro Dios antes de todo. 🙏"
+    },
+    "reaction": "",
+    "timestamp": 1725867868,
+    "senderName": "claudiaestelalopezarce",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

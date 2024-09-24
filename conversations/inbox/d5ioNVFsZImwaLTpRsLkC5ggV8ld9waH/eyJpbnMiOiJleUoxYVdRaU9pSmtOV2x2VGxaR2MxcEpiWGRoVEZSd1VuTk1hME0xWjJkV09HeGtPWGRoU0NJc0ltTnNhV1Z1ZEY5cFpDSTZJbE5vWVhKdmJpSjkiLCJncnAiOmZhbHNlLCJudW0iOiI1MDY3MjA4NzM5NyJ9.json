@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A709B7CFAF8413E1E7262B9262554A4A",
+    "remoteJid": "50672087397@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con gusto contamos con diferentes paquetes que van desde los 45Mbps hasta los 300Mbps y la televisión cuenta con 250 canales con nuestro nuevo sistema Next tv además de muchos beneficios más. Solamente para verificar necesitamos su número de cédula y su dirección con provincia, cantón, distrito y puntos de referencia esto para validar la cobertura del servicio."
+    },
+    "reaction": "",
+    "timestamp": 1725645026,
+    "senderName": "Sharon Trejos",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,628 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD703295B5D3EC6E813",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola,necesito que me ayudes con registrando."
+    },
+    "reaction": "",
+    "timestamp": 1725897878,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F53A05CCCA733E1869F",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con www.reservatupista.com. Por favor, haznos saber cómo podemos ayudarte."
+    },
+    "reaction": "",
+    "timestamp": 1725897885,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8836F4B9BAFD5A358D",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me registré el otro día y nunca me llegó el mensaje para pagar"
+    },
+    "reaction": "",
+    "timestamp": 1725897899,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD58ACE06377799E352",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "abajo debes de solitirarlo cuota diaria o mensual"
+    },
+    "reaction": "",
+    "timestamp": 1725898194,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4D10EBA8C9A603D716",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725898211,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0297053F090D867824",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puse mi correo y no pasó nada"
+    },
+    "reaction": "",
+    "timestamp": 1725898235,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A06AF4B90FAB1DB6B65",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "le tienes que dar a enviar"
+    },
+    "reaction": "",
+    "timestamp": 1725898284,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD27F8C53AC50BFAFFD",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes mirar si eh pagado?"
+    },
+    "reaction": "",
+    "timestamp": 1725898920,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A59CCD1ED08F9C244F5",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creyó que me ha cobrado ya"
+    },
+    "reaction": "",
+    "timestamp": 1725898928,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA57D501D563F0B2BE0",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "llego la\nsolicitud pero tendras que darle a link y pagar"
+    },
+    "reaction": "",
+    "timestamp": 1725898972,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A94B9B288AF32C1A4F0",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "G0KugK.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899054,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6928787CD89353F67B",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esto es lo que me sale"
+    },
+    "reaction": "",
+    "timestamp": 1725899059,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1D0E32F33AD03A82AA",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuando doy para pagar"
+    },
+    "reaction": "",
+    "timestamp": 1725899067,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1AEA988E60528A8994",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "eso es de tu tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725899090,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9BBCD360950B0AC567",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "vuelve a solicitarlo"
+    },
+    "reaction": "",
+    "timestamp": 1725899099,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0977458AD17AF2C77E",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vale"
+    },
+    "reaction": "",
+    "timestamp": 1725899140,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7FB66F937C9BD95AD3",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Lo hago otra vez"
+    },
+    "reaction": "",
+    "timestamp": 1725899144,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAC3D256A27CE197B18",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya lo he hecho"
+    },
+    "reaction": "",
+    "timestamp": 1725899181,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A75E5C30E0EBAC4A1EE",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "el\npago?"
+    },
+    "reaction": "",
+    "timestamp": 1725899236,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A75BB5F6453B916881E",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "La solicitud nueva"
+    },
+    "reaction": "",
+    "timestamp": 1725899261,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AADC92FC417BEEC95EA",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "cuando pagues en un plazo de 3 horas te llevagara el pin de acceso,en la\nweb viene todo."
+    },
+    "reaction": "",
+    "timestamp": 1725899274,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB6452A1A4644586A82",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya, pero no me llega correo nueva para hacer el pago"
+    },
+    "reaction": "",
+    "timestamp": 1725899346,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5A732ADA128FD07C1B",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola vuelve a solicitar abajondel\ntodo cuota mensual"
+    },
+    "reaction": "",
+    "timestamp": 1725900481,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEC42882B0EE1AC1FC6",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "pero es algun problema de tu tarjeta nos lo marca el sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725900534,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A347C247F680F651506",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola,a las 20:00 dejamos de trabajar"
+    },
+    "reaction": "",
+    "timestamp": 1725904044,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFC697F23A08AB5345B",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Lo voy a intentar todo de nuevo mañana por la mañana si está bien"
+    },
+    "reaction": "",
+    "timestamp": 1725904081,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A53BA11B0205EE16ADF",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "si te da error por\nla\ntarjeta eae\nmismo link ya no valr\nlo tienes que volver a solicitar,todo el\nmundo lo hace bien y sin problemas"
+    },
+    "reaction": "",
+    "timestamp": 1725904153,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A76C88DF60BF082E68F",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "eres extrajero?"
+    },
+    "reaction": "",
+    "timestamp": 1725904168,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7F13AECE91BA47515A",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si y no Jajajja"
+    },
+    "reaction": "",
+    "timestamp": 1725904182,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A547A854835A1FF03C3",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vivo en herreruela"
+    },
+    "reaction": "",
+    "timestamp": 1725904188,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3BBEC85FF1806AF67A",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero tengo número americano"
+    },
+    "reaction": "",
+    "timestamp": 1725904194,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7C421B8DA083FB57A9",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "bueno me refiero a la\ntarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725904194,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5E07BECCB598980A02",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "A si"
+    },
+    "reaction": "",
+    "timestamp": 1725904201,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A80315B9BD15650E6C5",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "que es american o algo"
+    },
+    "reaction": "",
+    "timestamp": 1725904205,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8E3A6537E6DED047A4",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725904206,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAC3A3143CFDD1BB4E0",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si es americano"
+    },
+    "reaction": "",
+    "timestamp": 1725905144,
+    "senderName": "Juan Merritt-Trigueros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F6F43E48EBE061C2FD3",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por tu mensaje. En este momento no estamos disponibles, pero te responderemos tan pronto regresemos."
+    },
+    "reaction": "",
+    "timestamp": 1725905148,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB071151A00A69A087D",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "pues\ncon otra tarjeta espanola te dara fallo por eso"
+    },
+    "reaction": "",
+    "timestamp": 1725963697,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4FEB84D821758E8C1D",
+    "remoteJid": "17575802403@s.whatsapp.net",
+    "msgContext": {
+      "text": "❌ticket cerrado❌"
+    },
+    "reaction": "",
+    "timestamp": 1725963709,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

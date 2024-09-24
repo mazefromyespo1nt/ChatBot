@@ -1,0 +1,66 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AF2EE7EDB790959ED4E",
+    "remoteJid": "120363311539923314@g.us",
+    "msgContext": {
+      "text": "Mande mensajes para agg"
+    },
+    "reaction": "",
+    "timestamp": 1725576958,
+    "senderName": "Raul.🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AF4295DF79C7FC0BE0A5C66771F0A6BB",
+    "remoteJid": "120363311539923314@g.us",
+    "msgContext": {
+      "text": "Holas"
+    },
+    "reaction": "",
+    "timestamp": 1725576977,
+    "senderName": "Aly☆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A8EF16C751C08B3B459",
+    "remoteJid": "120363311539923314@g.us",
+    "msgContext": {
+      "text": "Agregenme"
+    },
+    "reaction": "",
+    "timestamp": 1725576987,
+    "senderName": "Raul.🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "438D7FC4B9C378C2F298CB3AFE00F439",
+    "remoteJid": "120363311539923314@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725578540,
+    "senderName": "DameUnHolaY.TeMuestroMi🍆",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6B3D1567152FFC81C5",
+    "remoteJid": "120363310349561422@g.us",
+    "msgContext": {
+      "text": "✔ solicitud de quitar información en campos adicionales: Inviable, debido que son parámetros generales de sistema para todos los aplicativos tipo taller, es decir que esto no se sesga por requerimiento o empresa. Por ese motivo lamentamos no poder ayudarle en esta ocasión."
+    },
+    "reaction": "",
+    "timestamp": 1725557731,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F856E14A7251B99852",
+    "remoteJid": "120363310349561422@g.us",
+    "msgContext": {
+      "text": "✅ Nombre del asegurado: los datos si salen en la factura para ello debe llenarse el campo  ( de encontrar un error por favor indíqueme que número de fcatura para revisarlo)"
+    },
+    "reaction": "",
+    "timestamp": 1725557899,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

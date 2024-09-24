@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "46CE43A25F8CF5A6DB",
+    "remoteJid": "50672069809@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que pena, no se como obtuvieron mi número pero me gustaría que lo borraran de su base de datos, cuando este interesada yo les escribire muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725900316,
+    "senderName": "Daniela Rdz🩷",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0500A3C64F69D5B8728",
+    "remoteJid": "50672069809@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen dia , las disculpas del caso , se realzara la anotacion a nivle del sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725900972,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

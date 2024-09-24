@@ -1,0 +1,82 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0AC049B3A6D96642CC2",
+    "remoteJid": "120363198965888179@g.us",
+    "msgContext": {
+      "text": "Hola, holaaa \n\nMe pasas de favor tu *Pedido de REFRESCO* para esta semana.\n\nGracias ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725657953,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB02D48CE76DD2D6C4D28",
+    "remoteJid": "120363198965888179@g.us",
+    "msgContext": {
+      "text": "Esta semana no pedire nada nelly muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725658214,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0FAF513C8A87A05F521",
+    "remoteJid": "120363198965888179@g.us",
+    "msgContext": {
+      "text": "Gracias Faby"
+    },
+    "reaction": "",
+    "timestamp": 1725658356,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A929CE550ABA4A936A9",
+    "remoteJid": "120363198965888179@g.us",
+    "msgContext": {
+      "text": "Holaaa Faby 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885766,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A0386971E97B0567F5C",
+    "remoteJid": "120363198965888179@g.us",
+    "msgContext": {
+      "text": "Buenos días Nelly \nPara esta quincena nada muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725889511,
+    "senderName": "Fabyy Martinez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

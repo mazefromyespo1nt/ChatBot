@@ -1,0 +1,130 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CDC06CB9A2CDC14DF88C1027CC38C2C5",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, Soy"
+    },
+    "reaction": "",
+    "timestamp": 1725925943,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C79D8C0226D804C48FA088B4E453253C",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Holaaa! 👋🏼 Bienvenid@ a rivallostream.com  Somos proveedores de plataformas de Streaming, aquí encontraras todos los entretenimientos y a los mejores precios. 🎬🍿🥳\n\nMi nombre es Ariana, la asesora encargada de atenderte 👩🏼‍💻😊 ¿cuál es tu nombre? ✨\n\n\n*Telegram para Recargas a la Tienda Virtual:* ⬇️ https://t.me/rivallostreaming \n\n\n*No olvides agregarnos a tus contactos*  ❤️\n\n*Canal de Publicidad y promociones* 📢\nhttps://whatsapp.com/channel/0029Va0LjrHLdQeUvaxKS30K"
+    },
+    "reaction": "",
+    "timestamp": 1725925954,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB048D440FED35900BBA5",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! mi nombre es Valentina💞✨\nsoy tu asesora personalizada.\n¡Que alegría saludarte!"
+    },
+    "reaction": "",
+    "timestamp": 1725978457,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085FAED3AD45C2D9B91",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias cariño"
+    },
+    "reaction": "",
+    "timestamp": 1725978460,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F1AC9F38605FA5FFD5",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Las Recargas a la plataforma solo se harán por nuestra linea de TELEGRAM Rivallo Recargas*\n\nhttps://t.me/rivallostreaming\n@rivallostreaming\n\npor favor escribir a este TELEGRAM con *Nombre, apellido y correo con el que se registro en la plataforma* ✅\n\nEnviar comprobante de la recarga legible para nosotros validar en nuestro banco, recuerde no poner referencias tales como \"pago para una cuenta de Netflix, Disney etc omitir ese paso¨🧑🏼‍💻📢 \n\nAdministracion Rivallostream.com"
+    },
+    "reaction": "",
+    "timestamp": 1725978464,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01E4B20FD52419789EC",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nuestro horario de atención al servicio al cliente y soporte de las cuentas es el siguiente: \nDe lunes a viernes de 8:00am a 12:30pm - 2:00pm a 06:00pm \nsábados y domingos de 08:00 am a 12:30pm - 02:00 pm a 05:00 pm \nDías festivos de 08:00 am a 12:30 pm - 02:00 a 04:00 pm \nHORA COLOMBIA  💜"
+    },
+    "reaction": "",
+    "timestamp": 1725978466,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB079B633DFBED29A3FB0",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "Telegram para soportes y garantias ⬇️⚙️\nhttps://t.me/rivallostream\nRealizar los reportes por el chat de telegram mvd\nDebido a que por el chat de whatsApp los encargados de entregar las cuentas no les sale el historial\ny en el chat de telegram es mas rapida la asesoria"
+    },
+    "reaction": "",
+    "timestamp": 1725978480,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03841D59AEF094F5A7F",
+    "remoteJid": "573113279169@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nuestro horario de atención al servicio al cliente y soporte de las cuentas es el siguiente: \nDe lunes a viernes de 8:00am a 12:30pm - 2:00pm a 06:00pm \nsábados y domingos de 08:00 am a 12:30pm - 02:00 pm a 05:00 pm \nDías festivos de 08:00 am a 12:30 pm - 02:00 a 04:00 pm \nHORA COLOMBIA  💜"
+    },
+    "reaction": "",
+    "timestamp": 1725978484,
+    "senderName": "Rivallo Proveedor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

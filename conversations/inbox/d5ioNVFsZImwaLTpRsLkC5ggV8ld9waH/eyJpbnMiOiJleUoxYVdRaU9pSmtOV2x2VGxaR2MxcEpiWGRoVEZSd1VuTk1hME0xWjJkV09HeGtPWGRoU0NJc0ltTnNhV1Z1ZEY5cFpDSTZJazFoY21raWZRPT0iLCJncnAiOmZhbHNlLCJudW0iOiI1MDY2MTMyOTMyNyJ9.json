@@ -1,0 +1,3074 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0612965CF4549D90FA7",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725664247,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AA04C28EFBDAA891E4",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725667276,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FF494C9E2A8FA3CC32",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725667290,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E7C975493DC21813CD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725667821,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A5E6E05BF814AA0BE6",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725669148,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB046540F1B0739EA703B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725669784,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D669F7E2F68E677721",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725671000,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "80F89F33D29349A85E27DCE963E109F8",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto, Asesora autorizada de Liberty Costa Rica. Será un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725671001,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C7B6A7387233236DAB",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725672121,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0179FB1BFE958AD1B6B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725672263,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01830094309B994DC2B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725673560,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB039253B5177271AD788",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725673652,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB006786E922FCA657D8A",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725673731,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C0F84FBFEA924E3DF6",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725674110,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0585D46316FF4BA372E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725675411,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08C3531F311817C4184",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725678325,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E25F723265A95AAB2B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725680028,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C36DB8E8096F51D643",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725680850,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E6AA400A656F35D34C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725681721,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D09708231585F029DD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725683983,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C25B5D36ED9C8E1E05",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725685922,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09707DEAB35D4E96469",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725685993,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00B8350F52E625D57D2",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725687446,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09206334225EA9FAFBA",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725689103,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B41A9F62AE1F9FDE2E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725689286,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB065295DDE9F26BAA929",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725689352,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02AA91CA3C02DF3697C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725690786,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB063592F921DCA0A229F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725691271,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB030E331A3016C1000C0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725691485,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B0E81379F154851D84",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725693060,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FB32AFF103129EB855",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725694960,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BE8FD1F681E1A6E5CE",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725695024,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0477BB8C93FEED44E67",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725696394,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00FAE722BCDEDD5CB62",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725699999,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB043F2133546B953E231",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725700484,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C3B4617A08A8C5C1DD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725700530,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0908C342B9FE56CCD87",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725704664,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D839C51264316E2123",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725706766,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB081E5AE9DF4EB57A911",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725707686,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0539F3547B5A21722C0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725707792,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00467F5F72F6B43E7E2",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725707794,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB075094CDC7DDC7C6F03",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725708358,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0276AC8859829BEBF2F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725709670,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05CEA6219E0E3DDB8D9",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725709683,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB081935FC691571C358E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725711529,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04596DF6DAAEF1822B5",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725712875,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB095087F5C52C5825D70",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725713054,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04583A154B60F42D385",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725713735,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A50B1764B06C13B977",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725714057,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB005047EB3E51F86D586",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725715000,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09EB5E9315CFD7084DC",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725715964,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "83198A33B594801F3A5D614258F84C63",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725715968,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB080C3F9876FAA064B44",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725716127,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A1A1E2C9C1B0498DA5",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725717489,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ADFEECF9AF795EEB47",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725718141,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01D17FD6605A097F9F3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725721057,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F90A339B94AC8B037",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725721859,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C40740764462632DB3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725723974,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB9FC462F9673EAFA1",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725723989,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB001637F5625E1CED85A",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725724559,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00A142A0F3FD544CC93",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725724954,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D037C60EA389E1C512",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725725437,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00271D9E9FF505E722D",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725726550,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02A6032B849AD3836F3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725727153,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03BBF198DCED724C908",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725730407,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B0AADABBC58111A86D",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725731021,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB063CBE49994FB8B567F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725732285,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0373A2D50FAA9C64F32",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725733098,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DEF659B7632CF0547C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725734152,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0085553EDCC9AA23AAD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725734700,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09D6141983978AA9F8C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725737908,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0375D80B9D367D74666",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725742003,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FD28FA75EFF7ECDB00",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725742013,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04FEB3BF78D0DC25FB7",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725742566,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05CC871AF316F133C30",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725743035,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB053C7B58105F3B19E7F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725743918,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AA6996B836C781F090",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725748123,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DE3E0CC947A7F79034",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725748576,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FC1F3572F774D5D926",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725748961,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00B4CCF98A8E1DD1F46",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725749231,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB052534735D7C4329B3A",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725749315,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07EF8D05A69B22F8C4C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725750164,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0128853FD6FBBDA84D0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725753198,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00FF0317C395F1CF199",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725753403,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0139622A05643C92C28",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725754350,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB072D11CE241AC4B7BBD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725757065,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02224B018ECFA77AAD4",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725757485,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03A2D336AE783A9A055",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725759139,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EED9AD99E90E4E54A7",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725759284,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D9663CEF5A4E84EC07",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725759429,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0009778B6786D847EDB",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725760816,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AC21B6A7E4842FEB6E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725761817,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D9B3762B80EA50A684",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725763084,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EE95AFA6D6C56D00D7",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725763264,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DC2815F0C89D2DE66C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725763801,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AC1C59D90AC7CA4B46",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725765680,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03358D82CC992A14715",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725766267,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BDDD3E983D5E96E58B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725766561,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0366A08455CB1FFB1E0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725767274,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0558F2F09A7A853795B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725768804,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AEB779C2139ADA7896",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725769609,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A4DBF904F526C627D8",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725770683,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07890F2BB0F5E7C5BA3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725805963,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04C5FD0A0611CB4B97E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725810068,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06D077629AF025760C3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725811203,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB004AB7E06ECC71A06C8",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725811212,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0142298F83682860776",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725812144,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB089D3CDEDD86BCE478C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725814072,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BBE1910EFFE4652E81",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725814448,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02758FBBA1D9DFA21A1",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725815263,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB012CFF3654D87F7F732",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725815874,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04CCDC24474BE4466E0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725816159,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BEAFA3E7356AABAA12",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725816608,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0203186EACF16B4A3CD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725816756,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08B2F3B8933AED8E917",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725817102,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A297324C90903D5BC3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725817191,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0993256AD3833D5F914",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725817367,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02910BA709329A362A9",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725820604,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B22A290479AB5C29DA",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725820666,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB045BE3D8391540F246A",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725821423,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0182B489A9A170EC2CE",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725821631,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01F2F045D011CFDB9E0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725821660,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A5FC5D9F8C9AEC0A89",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725822490,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09530F3DC54972E82A6",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725823316,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02E7AD05D3C755B48BB",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725826264,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ECBE339DCF79AA9149",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725831035,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0500D9D6128B9568607",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725831327,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C065195BDCB3FF6D53",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725831664,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BFB318EEC5617D217B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725832151,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB003A6A77577E0D38070",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725832695,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B0D9786B5988D97FC9",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725833077,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B28BB945DB61C198FB",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725833609,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02EA11825FA96A84ADD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725836901,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA6A2E244463386FDA",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725838578,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB007870AAF76E0DE7B59",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725839493,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00CECEAEEE6825237EB",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725840033,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03CC708835FA6377046",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725841091,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07FA64E90F0C8CD7634",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725841674,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00BBFDA5A9DCF83CE10",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725844669,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB022BCAB37BA9FEBD058",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725848235,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FE94EF40EFEA60CC55",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725860254,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F613184C708BDD1341",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725860629,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ADAE5B06951EEA2324",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725862871,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02BD4E01639A53A5C2B",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725865632,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F8E20EA921792CEFF9",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725869211,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04AF7B7D7AAE7804F52",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725869560,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D8F0E730263C180C5F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725870900,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D980ECD77206E5DE8A",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725871450,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02289B4DBBF13E3668D",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725872099,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB018691E103BF05F2FDC",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725872802,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09785A758B6EE816316",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725873826,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02232F33D47FF6B5C6D",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725877018,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB074099BDCC5EB6A3E0E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725880390,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F3E3EC58171882DCC9",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725880893,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C3CF7808FB88765EE4",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725882177,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB042EE020C3DF73E02E0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725883514,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA0EA3847298D7CAB5",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725886237,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06F2064428043514E5F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725887657,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AAC54CFF713F74BE81",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725888096,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F5880F54C07187F268",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725888100,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB001CBC5116DE4BBD0B3",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725891087,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05C46A8E936B92CBE8F",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725892409,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09826E2B313521206DD",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725892999,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E5978111F9235B2CA8",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725893240,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EF684629071EB2D4C2",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725894472,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04A04706A220FE8BE0E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725894798,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB066531A8F9B43E93621",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725895453,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07E6D73D5FF427B5B8E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725897130,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E46E57F4708BD1F6F5",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725897323,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB081702C9300ED7D8526",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725898478,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08C69D1A14799112404",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725899076,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB081EB1641C4AE725943",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725902290,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C4F2703D7D8036A72E",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725908300,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BFED11822974CF3AF1",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725910271,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06AC6D30781B4F2D492",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725910808,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0147F8A1A04A08A43F6",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725913258,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03D61B82C9532414069",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725918902,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E953F6CB543EDDF990",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725922939,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0184C7C475A648C128C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725924925,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09813457EB5ED077632",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas.\n\n¿Qué le dice una iguana a su hermana gemela? ¡Somos iguanitas!\n\n¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.\n\n¿Qué le dice una vela a otra vela? — ¿Te apago o te enciendo?\n\n¿Cómo se llama un boomerang que no vuelve? Un palo.\n\n¿Cuál es el colmo de un electricista? No encontrar su corriente de trabajo.\n\n¿Qué hace una abeja en el gimnasio? ¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725926468,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01093E8BB487DACB0AB",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725927118,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0115A4E85B956585CC6",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725927226,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D078343C2A984C60C0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725928004,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AF9673EEC70C66EF84",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725929312,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E899C87D53A8F14A10",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725932663,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0418A3D9D79DE98CAFA",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725934214,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0077AA41FC8E0732731",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725934732,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B9F16F3D4E76F14B34",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725936614,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04C3C1DB1D7D1D8C3D9",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725937513,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB002D0D9CE487FF52DD0",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725937595,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB029176818604F54DA5C",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725937779,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F0426680733CB56F28",
+    "remoteJid": "50661329327@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725938473,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

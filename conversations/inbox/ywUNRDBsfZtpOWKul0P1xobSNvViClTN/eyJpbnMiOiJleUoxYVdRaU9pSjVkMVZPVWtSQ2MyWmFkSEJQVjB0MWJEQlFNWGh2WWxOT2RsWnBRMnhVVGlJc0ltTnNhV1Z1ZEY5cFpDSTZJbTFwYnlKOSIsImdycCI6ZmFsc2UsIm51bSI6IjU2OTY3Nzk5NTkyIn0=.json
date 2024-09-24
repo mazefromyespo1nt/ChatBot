@@ -1,0 +1,93 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6BD30BB5DC393099D5C9BA4BF3F0972",
+    "remoteJid": "56967799592@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725734509,
+    "senderName": "BotMast 🟢🔵",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "24B43336689FB118C8C7771DBD7DF8E0",
+    "remoteJid": "56967799592@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jis"
+    },
+    "reaction": "",
+    "timestamp": 1725734540,
+    "senderName": "Oso.elputo.kabron",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "39F361BFFA11F4CD97ECFA592FA467E3",
+    "remoteJid": "56967799592@s.whatsapp.net",
+    "msgContext": {
+      "text": "441"
+    },
+    "reaction": "",
+    "timestamp": 1725734808,
+    "senderName": "Oso.elputo.kabron",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "3EB0700D482B5D4618DE9F",
+    "remoteJid": "56967799592@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ipICmz17ro8HWvcRYgXwnL9mb7Po1jGE.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725735051,
+    "senderName": "Oso.elputo.kabron",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB003F1C1CF387E9AFA9D",
+    "remoteJid": "56967799592@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "rty",
+        "values": [
+          "rty",
+          "rtyy",
+          "777"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725735060,
+    "senderName": "Oso.elputo.kabron",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

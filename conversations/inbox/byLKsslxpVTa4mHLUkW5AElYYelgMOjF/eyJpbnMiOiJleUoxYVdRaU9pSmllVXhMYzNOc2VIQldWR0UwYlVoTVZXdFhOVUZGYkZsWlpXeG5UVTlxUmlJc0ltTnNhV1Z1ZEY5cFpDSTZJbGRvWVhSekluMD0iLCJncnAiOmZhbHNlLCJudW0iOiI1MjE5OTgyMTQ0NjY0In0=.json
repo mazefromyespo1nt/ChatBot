@@ -1,0 +1,119 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A214AE931EFBF1A2D20",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola aun nada ??"
+    },
+    "reaction": "",
+    "timestamp": 1725656018,
+    "senderName": "Otoniel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A92DF99203EE670D299",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes?"
+    },
+    "reaction": "",
+    "timestamp": 1725656027,
+    "senderName": "Otoniel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB066B49A31064F97CBC2",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola perdon no se ha propagado"
+    },
+    "reaction": "",
+    "timestamp": 1725661066,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F1DE7E3B04DB1DA0F8",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cxzO1n.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725661089,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06371C17F3CDB07D41F",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "text": "mire a veces es rapido y pensamos que asi seria pero esta tardando"
+    },
+    "reaction": "",
+    "timestamp": 1725661102,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB092AA7957823FD5B6F8",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "text": "regulermente se tarda 48 horas en algunos casos hasta 72 horas"
+    },
+    "reaction": "",
+    "timestamp": 1725661130,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03D745B34BFC736A5BE",
+    "remoteJid": "5219982144664@s.whatsapp.net",
+    "msgContext": {
+      "text": "es muy comun que en 12 horas quede peroesta vez no fue asi, y no depende de nosotros sino de los servidores de todo el mundo que van propagandolo"
+    },
+    "reaction": "",
+    "timestamp": 1725661154,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

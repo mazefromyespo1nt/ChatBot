@@ -1,0 +1,70 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E05FF3F38E063CB6B43334A9B35766A2",
+    "remoteJid": "50672071878@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725667973,
+    "senderName": "Guadalupe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03EE61B407CE2067F67",
+    "remoteJid": "50672071878@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "92PN8A.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725723741,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0596EEECF7CDCEEE6BC",
+    "remoteJid": "50672071878@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "oW4e44.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725723741,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B738829555EB3EB4CE",
+    "remoteJid": "50672071878@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muy buenos días. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes\nY también contamos con oferta en los servicios de hogar como cable e internet. Que también se cancela la primera mensualidad hasta el próximo mes☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725723779,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D6AE5D733C211FE8D0",
+    "remoteJid": "50671046381@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!"
+    },
+    "reaction": "",
+    "timestamp": 1725643217,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

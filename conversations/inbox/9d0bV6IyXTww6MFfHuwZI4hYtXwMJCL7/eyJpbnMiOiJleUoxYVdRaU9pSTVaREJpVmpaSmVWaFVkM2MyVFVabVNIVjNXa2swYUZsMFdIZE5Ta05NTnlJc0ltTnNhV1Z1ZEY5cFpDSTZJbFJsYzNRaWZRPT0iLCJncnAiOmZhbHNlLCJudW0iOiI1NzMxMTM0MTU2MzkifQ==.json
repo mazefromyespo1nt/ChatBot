@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "19B34EDC6D9822C8EE11EE2762A9B509",
+    "remoteJid": "573113415639@s.whatsapp.net",
+    "msgContext": {
+      "text": "Luna del mar apartamentos"
+    },
+    "reaction": "",
+    "timestamp": 1725556737,
+    "senderName": "Soluciones Uraweb",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AC4125574791C39024D5A06DB801462A",
+    "remoteJid": "573113415639@s.whatsapp.net",
+    "msgContext": {
+      "text": "Robledo pajarito."
+    },
+    "reaction": "",
+    "timestamp": 1725556742,
+    "senderName": "Soluciones Uraweb",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

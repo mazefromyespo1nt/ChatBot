@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A756C560AB25AB87BA6",
+    "remoteJid": "51912322409@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cría"
+    },
+    "reaction": "",
+    "timestamp": 1725991521,
+    "senderName": "JOP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06EA99E5DE171430591",
+    "remoteJid": "50661332512@s.whatsapp.net",
+    "msgContext": {
+      "text": "En 1949 Costa Rica abolió el ejército"
+    },
+    "reaction": "",
+    "timestamp": 1725999642,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09534C221F6729BAE17",
+    "remoteJid": "50661332512@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Y el subcampeón?\n\nKasitoko."
+    },
+    "reaction": "",
+    "timestamp": 1725999902,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB025959B3C26C8DF05B3",
+    "remoteJid": "50661332512@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿En qué año llegó Cristóbal Colón a América?"
+    },
+    "reaction": "",
+    "timestamp": 1726002065,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02CA4AA530DEED68335",
+    "remoteJid": "50661332512@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué le dice un jardinero a otro?\n\n¡Disfrutemos mientras podamos!"
+    },
+    "reaction": "",
+    "timestamp": 1726002219,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

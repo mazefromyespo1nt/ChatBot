@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F199CDD9F259F949657FCEC64B2BB43C",
+    "remoteJid": "120363024135759841@g.us",
+    "msgContext": {
+      "text": "El Panel esta caído?"
+    },
+    "reaction": "",
+    "timestamp": 1725889706,
+    "senderName": "Os 🤘🏻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

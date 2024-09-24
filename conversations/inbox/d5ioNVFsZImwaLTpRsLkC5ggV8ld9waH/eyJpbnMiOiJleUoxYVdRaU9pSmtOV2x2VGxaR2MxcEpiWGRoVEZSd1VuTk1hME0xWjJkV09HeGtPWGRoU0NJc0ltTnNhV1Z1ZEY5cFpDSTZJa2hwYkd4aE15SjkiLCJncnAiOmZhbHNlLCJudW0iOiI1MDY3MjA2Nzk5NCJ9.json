@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B75AD5C99CACAB4708",
+    "remoteJid": "50672067994@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!\n\nReciba un cordial saludo departe de  Nargallo, distribuidor autorizado de Liberty Costa Rica.\nEstamos intentando contactarle con el propósito de obtener su permiso para enviarle una oferta de nuestros planes postpago o servicios de televisión e internet para el hogar que se adapte a ti.\n\nPagando hasta el 20 de Octubre.\nEnvío e instalación GRATIS!\nSolo con su documento de identidad.\nInternet y redes sociales ilimitadas entre muchos beneficios más!\n\nDigita 1️⃣ si deseas más información, o bien digita 2️⃣ para darte de baja y no recibir más mensajes como este.\nSaludos"
+    },
+    "reaction": "",
+    "timestamp": 1726000025,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB021B727FCF836BD60C4",
+    "remoteJid": "50672067994@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpe, Buen día.!"
+    },
+    "reaction": "",
+    "timestamp": 1726000332,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "40485FD4B34E545D7427C216FF4C613C",
+    "remoteJid": "51957818840-1571278742@g.us",
+    "msgContext": {
+      "text": "Caballeros buenos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725622762,
+    "senderName": "SIAMsoft RCENTENO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C13B0A5B57AC8B73B496802CC2E7AB77",
+    "remoteJid": "51957818840-1571278742@g.us",
+    "msgContext": {
+      "text": "Está noche se ha migrado megantoni, kumpirushiato, rojas y chalhuahuacho"
+    },
+    "reaction": "",
+    "timestamp": 1725622809,
+    "senderName": "SIAMsoft RCENTENO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "11BE7849F072445F9976FD5157B6C58F",
+    "remoteJid": "51957818840-1571278742@g.us",
+    "msgContext": {
+      "text": "@51996909037 siempre al tanto con estos 4 clientes"
+    },
+    "reaction": "",
+    "timestamp": 1725622828,
+    "senderName": "SIAMsoft RCENTENO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A493E5B2BAAE8D41461",
+    "remoteJid": "51957818840-1571278742@g.us",
+    "msgContext": {
+      "text": "Ing buenos dias, compañeros buenos!!"
+    },
+    "reaction": "",
+    "timestamp": 1725628683,
+    "senderName": "Rony Samir 😎✌🏻",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

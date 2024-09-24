@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F4B3F375B257DD9D9B4",
+    "remoteJid": "50672069914@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!👋🏼 \nGracias por comunicarte con Noviembre 15 😊\n\n⏰ Horario de atención: \n•De lunes a viernes de 10am a 7pm.\n•Sábados de 10am a 4pm. \n\n• Cuéntanos en qué estás interesado y pronto estaremos respondiendo su solicitud.\nEs un gusto atenderle!"
+    },
+    "reaction": "",
+    "timestamp": 1725901408,
+    "senderName": "Noviembre 15",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

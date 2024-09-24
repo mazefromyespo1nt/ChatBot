@@ -1,0 +1,114 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D0EB658D491CFC3ECD",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "Hola, holaaa \n\nMe pasas de favor tu *Pedido de REFRESCO* para la próxima semana.\n\nGracias ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725657986,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A0FC9695902AFF8DE31",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "De 2 ltr. \n1  caja de cada sabor"
+    },
+    "reaction": "",
+    "timestamp": 1725659285,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A3D90E52CC1E4E98A50",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "De 600\n1 Pepsi\n1 7 up"
+    },
+    "reaction": "",
+    "timestamp": 1725659303,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BBE167A82B5211587D",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "de *Jarritos 2lt* tambien ???"
+    },
+    "reaction": "",
+    "timestamp": 1725659329,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AD74D3BB54EF676ADB2",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "Real. Si.  Barrera no"
+    },
+    "reaction": "",
+    "timestamp": 1725659346,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A35D1BE045C9C1A27F0",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "Holaaa Ericka 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885845,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AA009A4A2E82EFBE997",
+    "remoteJid": "120363194945229961@g.us",
+    "msgContext": {
+      "text": "Contenedor"
+    },
+    "reaction": "",
+    "timestamp": 1725889076,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

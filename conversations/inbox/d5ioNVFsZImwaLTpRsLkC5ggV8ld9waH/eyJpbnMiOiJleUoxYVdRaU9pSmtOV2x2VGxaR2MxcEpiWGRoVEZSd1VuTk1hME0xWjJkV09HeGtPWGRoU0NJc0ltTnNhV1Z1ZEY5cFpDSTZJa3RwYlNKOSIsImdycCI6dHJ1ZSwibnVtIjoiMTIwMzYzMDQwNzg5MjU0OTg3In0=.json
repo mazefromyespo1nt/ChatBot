@@ -1,0 +1,385 @@
+[
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "5E21792C86FBD0B34F17",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3Uhtgu.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725828328,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABEC629B297E9CBE80D",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Quedan cordialmente invitados ❤️❤️❤️❤️"
+    },
+    "reaction": "",
+    "timestamp": 1725828375,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AC7BA8893593B9F9EC2",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Confirmen x fa 😅"
+    },
+    "reaction": "",
+    "timestamp": 1725828926,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7B6DAC2A7D05FCB4A03F52766990FA8B",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Copiado....\nAsí  pues  Si"
+    },
+    "reaction": "",
+    "timestamp": 1725828962,
+    "senderName": "Ramón H Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663452932@s.whatsapp.net",
+      "id": "5E21792C86FBD0B34F17"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C12ECEC581FD7D03EBBEDDEABA170910",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "En dónde queda eso?"
+    },
+    "reaction": "😂",
+    "timestamp": 1725829019,
+    "senderName": "Yendry",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663452932@s.whatsapp.net",
+      "id": "5E21792C86FBD0B34F17"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB670887918D5E105F0",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Mami envíe eso a la red infantil"
+    },
+    "reaction": "",
+    "timestamp": 1725829140,
+    "senderName": "Stephanie Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663452932@s.whatsapp.net",
+      "id": "5E21792C86FBD0B34F17"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AF8CFF81154BCFD5A94",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Por el aeropuerto"
+    },
+    "reaction": "",
+    "timestamp": 1725829144,
+    "senderName": "Jimmyr Centeno (Hanzzel)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "51BA18946F0D98031B374C98A78F8EB9",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Yo conozco uno pero es grande es ese"
+    },
+    "reaction": "",
+    "timestamp": 1725829268,
+    "senderName": "Yendry",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7A35E6F4E68A6D6CC5BD5B3597B8012F",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725829270,
+    "senderName": "Yendry",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B856E447B763CCA9EE6D69EAD06C6E12",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Si ya la mande y a algunos de la familia y de la red ya me confirmaron como 6 q van"
+    },
+    "reaction": "",
+    "timestamp": 1725829289,
+    "senderName": "Flor Cerdas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661418214@s.whatsapp.net",
+      "id": "3ABA705B592511173ECB"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A7B39F1AF98BB260D39",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Mm no se jaja"
+    },
+    "reaction": "",
+    "timestamp": 1725829293,
+    "senderName": "Jimmyr Centeno (Hanzzel)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50672143974@s.whatsapp.net",
+      "id": "51BA18946F0D98031B374C98A78F8EB9"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A672D14C40B0324E155",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "No conozco"
+    },
+    "reaction": "",
+    "timestamp": 1725829295,
+    "senderName": "Jimmyr Centeno (Hanzzel)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AD6EBFD45762A9B61A6",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725829296,
+    "senderName": "Stephanie Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50672143974@s.whatsapp.net",
+      "id": "51BA18946F0D98031B374C98A78F8EB9"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AF55083276A35E11C02",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1725829299,
+    "senderName": "Jimmyr Centeno (Hanzzel)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663166353@s.whatsapp.net",
+      "id": "3A672D14C40B0324E155"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A505E7D700FD006AB02",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Es enorme"
+    },
+    "reaction": "",
+    "timestamp": 1725829300,
+    "senderName": "Stephanie Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FBA870B967398783C3BCE204AB256AC9",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Oki"
+    },
+    "reaction": "",
+    "timestamp": 1725829310,
+    "senderName": "Yendry",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A05BC73218FFE4E957C",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "Allí toca la banda de la municipalidad"
+    },
+    "reaction": "",
+    "timestamp": 1725829316,
+    "senderName": "Stephanie Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B722B1D26F27A633EE12756F61526DEB",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "No yo no le he dicho nada a la banda de  la municipalidad...!"
+    },
+    "reaction": "",
+    "timestamp": 1725829468,
+    "senderName": "Ramón H Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661418214@s.whatsapp.net",
+      "id": "3A05BC73218FFE4E957C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B0A3A29271CC08F50CE22213F6706B8",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/BY8YY5feBthJRkVy/?mibextid=xfxF2i"
+    },
+    "reaction": "",
+    "timestamp": 1725843781,
+    "senderName": "Flor Cerdas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "89D2A6FD760199B0C9D3B859A8927680",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3hc4CB.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725897074,
+    "senderName": "Flor Cerdas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09A85E6569B894C7016",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "🤩😃"
+    },
+    "reaction": "",
+    "timestamp": 1725898042,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6A38FD9944535DDBF376C20009DBCAAD",
+    "remoteJid": "120363040789254987@g.us",
+    "msgContext": {
+      "text": "https://m.facebook.com/story.php?story_fbid=pfbid0Bvqm9DgSVLoB3Jnd5ggQ1ZCtdBbwtY295tD2WTz4EiztuQoaCL6C16gwj4okvppRl&id=100000788849099&post_id=100000788849099_pfbid0Bvqm9DgSVLoB3Jnd5ggQ1ZCtdBbwtY295tD2WTz4EiztuQoaCL6C16gwj4okvppRl&sfnsn=wa&mibextid=VhDh1V"
+    },
+    "reaction": "",
+    "timestamp": 1725931005,
+    "senderName": "Ramón H Fallas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

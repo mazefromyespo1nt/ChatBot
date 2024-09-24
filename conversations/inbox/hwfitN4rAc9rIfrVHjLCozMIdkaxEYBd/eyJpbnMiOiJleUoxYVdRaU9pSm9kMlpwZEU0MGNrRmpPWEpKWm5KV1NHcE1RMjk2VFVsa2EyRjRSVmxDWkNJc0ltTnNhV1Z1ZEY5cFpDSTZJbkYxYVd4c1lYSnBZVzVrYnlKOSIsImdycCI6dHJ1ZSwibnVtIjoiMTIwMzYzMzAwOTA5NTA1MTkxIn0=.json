@@ -1,0 +1,777 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F2A8321868AF0F8D702390BEEE832710",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Hey quien sabe si hay que ir hoy"
+    },
+    "reaction": "",
+    "timestamp": 1725832931,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5F8C560703EC4951899B83B0C7A2E984",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725832934,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "969F73360761F15348C5D8A9B21861D0",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Manda 20k pa confirmarte"
+    },
+    "reaction": "",
+    "timestamp": 1725832950,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "C796566A4F2CF62694234E0D3E720627",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uWZknz.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725833111,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "B36DB1E41771A0DE9B0B00379CF3FFA7",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "Wili moral pa ese quinceañero los Dj de moda",
+      "fileName": "ITZo24.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "😂",
+    "timestamp": 1725834271,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C562589675C8B60EF71AD293B6885495",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Jajaja palo pa ellos"
+    },
+    "reaction": "😂",
+    "timestamp": 1725834366,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573015720695@s.whatsapp.net",
+      "id": "B36DB1E41771A0DE9B0B00379CF3FFA7"
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "AFB376E61D49BB76182E0D90039573F3",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wDDrlc.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725834728,
+    "senderName": "Arnaldo Mola ⚽",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9AA2DE2BC3E76C08FA2038F529A7E26C",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Ta duro"
+    },
+    "reaction": "",
+    "timestamp": 1725834777,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573244663411@s.whatsapp.net",
+      "id": "AFB376E61D49BB76182E0D90039573F3"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BCBB6AA01240B7D1C8118B76F13D31B8",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Hey que hay por hay rabo"
+    },
+    "reaction": "",
+    "timestamp": 1725838564,
+    "senderName": "Jose Donado 👽The Big Boss",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0AD4EB501B3CE7C4556353C7ACFE8EF3",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Dónde anda la gente firme de empaque?"
+    },
+    "reaction": "",
+    "timestamp": 1725844541,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "73A656800E9D104AB7C4FB8C13A070AD",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Ki55Nz.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725844648,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "375946B1CE6970CD5C497F76F8EA0128",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/p/xeqZmFZyF3b9kp1k/?mibextid=xfxF2i"
+    },
+    "reaction": "",
+    "timestamp": 1725847681,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F8AE2A43A6FCA46CF15D6253D3D0BD48",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Un vale mía"
+    },
+    "reaction": "",
+    "timestamp": 1725847688,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573015720695@s.whatsapp.net",
+      "id": "375946B1CE6970CD5C497F76F8EA0128"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E5B3B0382FC18FE339FFAD5CC1FB9795",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "😂😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1725849243,
+    "senderName": "RBG#6",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1FD538CBF98B6F1BA283AFDF65584C7E",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Ya cayo"
+    },
+    "reaction": "",
+    "timestamp": 1725896798,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9A22781D19C3355A5915B6973285DDA2",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "81Ie2k.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725896934,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "325FBFD2DE46DCE5B1EF95BCA9C3937E",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Jajajajajajjaa"
+    },
+    "reaction": "",
+    "timestamp": 1725897071,
+    "senderName": "Jose Donado 👽The Big Boss",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "670C9B662BCCA2622337C8C6C47131A2",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "A Rodolfo le llegó en 500"
+    },
+    "reaction": "",
+    "timestamp": 1725897080,
+    "senderName": "Jose Donado 👽The Big Boss",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "85EA72778263E5C8F08E032378858DA3",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Que mas quierws si tu nada fuesties media quincena"
+    },
+    "reaction": "",
+    "timestamp": 1725897135,
+    "senderName": "Arnaldo Mola ⚽",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573003537030@s.whatsapp.net",
+      "id": "D15E54AB461F5991B663A6D0C27B23FD"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A4919BCBD3BECF5A85F1EAF6B32D7610",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Jajajaja lleva 2 poker y 3 triplete"
+    },
+    "reaction": "😂",
+    "timestamp": 1725897260,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E836D87B1F36349CDA0B9BA9B7794824",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "🤣🤣🤣🤣🤣🤣🤣"
+    },
+    "reaction": "",
+    "timestamp": 1725897286,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573046027682@s.whatsapp.net",
+      "id": "A4919BCBD3BECF5A85F1EAF6B32D7610"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "5740D3C80EDA4FF5E6EDFFBF2C783A83",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ZeRNKH.m4a",
+      "mimetype": "audio/mp4"
+    },
+    "reaction": "😂",
+    "timestamp": 1725897663,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C45FB72F6758BBDD005738B00559FE16",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "JAJAJAJAJAJAJAJAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725897705,
+    "senderName": "geor [ Dante Malabé ]",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4DC3DA297E756B88DCFC7ECC82F19973",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Jaja está bueno la salsita @573023226818 .."
+    },
+    "reaction": "",
+    "timestamp": 1725897719,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C27F62E3F248120E8F",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "A los de Efi servicios ¿Ya le cayo la bonificación?"
+    },
+    "reaction": "",
+    "timestamp": 1725899314,
+    "senderName": "geor [ Dante Malabé ]",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "88BF216C8724E4E28C",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Fuv3B8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899799,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3B15CE34FD7C25B561BB10BCE9D7E6E3",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Bolsa"
+    },
+    "reaction": "",
+    "timestamp": 1725900299,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "88BF216C8724E4E28C"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "1F7B178284808B4ABFC7FBC360993AD8",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3Q6EXj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906437,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "F6CD04959375AC9617B5C30D9C33B4FD",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6cLTht.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906437,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7991374D071637F23DFB97310D6C2A85",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fB3zQ2.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906437,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "12474CDBA3AB74677D501FC95A66CE70",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "N4Cq2p.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906437,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "60BE5E2692FACD0009C4D6C8176E99D1",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "F4m5Ma.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906438,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9FA4A2614C12FABE592987D3B40C9FFF",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "W95ddZ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906438,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "A5F245D6FF1FC3FAB7CDD2026E9425D6",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9Ike8m.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906438,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "373AED592F45F3D199745B01DD6E5290",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Ok68pE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906438,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "122635C5C72B485EBF01E6BDFB32937B",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HNnSDm.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906438,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "156B2F3439C7594BFDAF193EBB61D876",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Edt4VI.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906439,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "27A2ACEC0373D40ACDB7C260B92EC48B",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Ojo al pegar los stiker"
+    },
+    "reaction": "",
+    "timestamp": 1725906445,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "167B1BBF1A2A8D3CA0A5178B18DF14BC",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KEsIBF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725981199,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "467578EE6A77D032375453D0B7E14AC7",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "text": "Delen duro"
+    },
+    "reaction": "",
+    "timestamp": 1725981228,
+    "senderName": "gonzalesortegawillim85",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "167B1BBF1A2A8D3CA0A5178B18DF14BC"
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "6ECECE29EBEC7167DE4ACF0CB29FF25F",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Sw51q5.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725981318,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "92823A7219D97A2E143AFC1745816E22",
+    "remoteJid": "120363300909505191@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5wqH2q.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725984924,
+    "senderName": "Sofía🐭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

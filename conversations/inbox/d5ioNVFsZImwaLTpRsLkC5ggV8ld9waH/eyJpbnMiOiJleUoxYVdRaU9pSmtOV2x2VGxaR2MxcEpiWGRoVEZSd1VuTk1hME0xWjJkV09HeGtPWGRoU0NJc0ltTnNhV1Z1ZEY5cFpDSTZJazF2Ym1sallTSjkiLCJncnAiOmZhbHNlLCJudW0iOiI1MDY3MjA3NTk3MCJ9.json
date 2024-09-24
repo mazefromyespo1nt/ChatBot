@@ -1,0 +1,88 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB02C64A6194D1BABC22E",
+    "remoteJid": "50672075970@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenos días. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "c2pn0C.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725985732,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0B746831F1C1C15696C",
+    "remoteJid": "50672075970@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Y también contamos con oferta en los servicios de hogar como cable e internet. Que también se cancela la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "Q0Hg1p.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725985756,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB04B444C8E5526A522C9",
+    "remoteJid": "50672075970@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para adquirir nuestro servicio requerimos\n- *Foto por ambos lados de su documento de identidad* que esté vigente o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Foto tipo selfy de su documento de identidad que esté vigente* o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Correo electrónico*\n- *Dirección exacta* lugar de residencia con *provincia, cantón, distrito* .\n- *2 nombres y números de referencia* por si no lográramos poner nos en contacto al momento de hacer la entrega",
+      "fileName": "qej4Lo.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725986165,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D5E2B6A4C628A7A2CB",
+    "remoteJid": "50672075970@s.whatsapp.net",
+    "msgContext": {
+      "text": "El primer paso serian estos para poder generar lo que seria el servicio postpago. Después se le entrega el SIM y realizamos la portabilidad"
+    },
+    "reaction": "",
+    "timestamp": 1725986236,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CA048B62A8BCFD660A",
+    "remoteJid": "50672075970@s.whatsapp.net",
+    "msgContext": {
+      "text": "En realidad es algo sumamente sencillo porque es por whatsapp y nosotros le vamos a realizar la entrega a donde usted indique"
+    },
+    "reaction": "",
+    "timestamp": 1725986412,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

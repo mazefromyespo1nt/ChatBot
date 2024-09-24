@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA745AB679583D54D2E",
+    "remoteJid": "50664146894@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenos días!\nUn gusto saludarle, mi nombre es Marlon Flores asesor de servicio de Liberty CR!\nEs un placer atenderle."
+    },
+    "reaction": "",
+    "timestamp": 1725915684,
+    "senderName": "Marlon F Asesor Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

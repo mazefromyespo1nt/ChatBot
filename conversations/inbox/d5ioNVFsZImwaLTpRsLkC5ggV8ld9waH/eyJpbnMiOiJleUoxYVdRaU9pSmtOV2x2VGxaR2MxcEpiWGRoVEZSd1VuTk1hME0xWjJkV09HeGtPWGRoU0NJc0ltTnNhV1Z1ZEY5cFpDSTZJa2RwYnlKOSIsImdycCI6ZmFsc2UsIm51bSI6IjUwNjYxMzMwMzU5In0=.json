@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB072475AC010BB099F02",
+    "remoteJid": "50661330359@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725582965,
+    "senderName": "telemercadeonargallo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00990D6E2D86D273566",
+    "remoteJid": "50661330359@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725583383,
+    "senderName": "telemercadeonargallo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "30401F384863995BEEFCFAB7AB7795DA",
+    "remoteJid": "120363247984910976@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "puIMqv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725557788,
+    "senderName": "ENCANTO ROSA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "483FC56EA47131390BAAD473EC8D3014",
+    "remoteJid": "120363247984910976@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "w2TXAY.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725557789,
+    "senderName": "ENCANTO ROSA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "C6C4D13F34DFD3F848499D734FFDF291",
+    "remoteJid": "120363247984910976@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Nh27Iu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725557790,
+    "senderName": "ENCANTO ROSA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "B5BADF688127AC7CB1D81A1E04E57D3C",
+    "remoteJid": "120363247984910976@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lag55L.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725557793,
+    "senderName": "ENCANTO ROSA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E75687430707AEC77B1D1BC1086CB8E4",
+    "remoteJid": "120363247984910976@g.us",
+    "msgContext": {
+      "text": "🌸 *NEW JEANS CELLO*✨ #99350\n💖Talla  1 3 5 7 9 11 13\n🎀Único tono🌈 \n🛍 *135.000* mil pesos por mayor"
+    },
+    "reaction": "",
+    "timestamp": 1725557820,
+    "senderName": "ENCANTO ROSA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

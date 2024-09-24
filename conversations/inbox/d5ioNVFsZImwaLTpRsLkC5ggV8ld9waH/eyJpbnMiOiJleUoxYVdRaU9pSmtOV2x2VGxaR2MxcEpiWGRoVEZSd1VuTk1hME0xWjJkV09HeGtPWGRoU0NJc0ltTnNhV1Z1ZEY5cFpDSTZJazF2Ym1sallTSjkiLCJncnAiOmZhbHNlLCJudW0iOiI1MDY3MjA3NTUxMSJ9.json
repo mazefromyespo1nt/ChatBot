@@ -1,0 +1,37 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01B447C4B57D69258EC",
+    "remoteJid": "50672075511@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día. Le saluda Mónica Urbina de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactar le con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos servicios de: \n🟠Planes postpago\n🟠Servicios de hogar (Cable e Internet)\n\nLo que mejor se adapten a ti.\n◾ No es necesario un depósito.\n◾ Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero). \n◾ Se omite mancha/deuda de otros operadores o casas comerciales. \n◾ Paga hasta el próximo mes.\n◾ Después de 5 facturas pagas le damos opción de adquirir un celular en el caso de adquirir un plan📲 \n\nSi deseas más información coloca SI"
+    },
+    "reaction": "",
+    "timestamp": 1725894775,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB056DAA2D0D31189DC37",
+    "remoteJid": "50672075511@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenos días. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "Hwm5QF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725896203,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

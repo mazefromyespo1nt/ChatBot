@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6758FBD7B59728E7DD",
+    "remoteJid": "573102891315@s.whatsapp.net",
+    "msgContext": {
+      "text": "va"
+    },
+    "reaction": "",
+    "timestamp": 1725491708,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

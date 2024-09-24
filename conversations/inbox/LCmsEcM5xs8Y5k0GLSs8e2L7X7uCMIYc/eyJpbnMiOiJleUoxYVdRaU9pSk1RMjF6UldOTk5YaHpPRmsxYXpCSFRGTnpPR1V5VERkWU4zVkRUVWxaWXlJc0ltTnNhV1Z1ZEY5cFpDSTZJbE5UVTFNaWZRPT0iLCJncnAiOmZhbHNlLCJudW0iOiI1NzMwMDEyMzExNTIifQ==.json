@@ -1,0 +1,52 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "94749F3514C12C928C4620AECD711DB5",
+    "remoteJid": "573001231152@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Quiero saber mas acerca de la creación de un logo"
+    },
+    "reaction": "",
+    "timestamp": 1725826190,
+    "senderName": "opts",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "51AD3EF8366476001F5FD01EB941A3B4",
+    "remoteJid": "573001231152@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perdona son 4000 pero en que dolares pesos mexicanos, colombianos etc"
+    },
+    "reaction": "",
+    "timestamp": 1725828470,
+    "senderName": "opts",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3AB60DFAC9547CCC00B1",
+    "remoteJid": "573001231152@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TWZgp6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725852046,
+    "senderName": "Carem Creativa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

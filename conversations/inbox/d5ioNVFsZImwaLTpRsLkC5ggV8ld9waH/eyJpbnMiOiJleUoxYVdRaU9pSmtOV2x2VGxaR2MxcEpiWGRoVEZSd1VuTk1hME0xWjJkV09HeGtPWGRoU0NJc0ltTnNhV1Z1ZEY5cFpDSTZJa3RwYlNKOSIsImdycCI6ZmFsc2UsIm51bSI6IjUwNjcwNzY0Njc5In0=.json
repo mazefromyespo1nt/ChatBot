@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D79183A0AFB31ED01C",
+    "remoteJid": "50670764679@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Alvaro Ampie, como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio con la campaña. Aplica para móvil o servicios de Internet y cable 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725902259,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB06C2AC2A1E965D7F8C1",
+    "remoteJid": "50670764679@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* . Actualice sus servicios *Puede adquirir este  paquete a súper precio* (antes costaba 37.500 .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "fgWPRW.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725902286,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

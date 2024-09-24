@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7A888C0E5CE0DF721156EA2CFE0B6148",
+    "remoteJid": "50672072805@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuales serían los planes con teléfono q tienen"
+    },
+    "reaction": "",
+    "timestamp": 1725649027,
+    "senderName": "Diño💈💈🪬",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0BD524F5AC0077320E3",
+    "remoteJid": "50672072805@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los planes que tenemos para ti.",
+      "fileName": "sRtpTv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649172,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

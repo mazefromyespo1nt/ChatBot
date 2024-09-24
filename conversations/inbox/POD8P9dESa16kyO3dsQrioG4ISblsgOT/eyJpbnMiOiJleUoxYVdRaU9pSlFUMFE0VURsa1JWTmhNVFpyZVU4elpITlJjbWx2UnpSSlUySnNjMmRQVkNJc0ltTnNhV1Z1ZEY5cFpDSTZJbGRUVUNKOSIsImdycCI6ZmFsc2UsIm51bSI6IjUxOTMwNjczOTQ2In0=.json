@@ -1,0 +1,196 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A2812B1ECEA6D15AAC",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "oeoeo q fue"
+    },
+    "reaction": "",
+    "timestamp": 1725500970,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB010CB29D3860CE192D1",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "borraste?"
+    },
+    "reaction": "",
+    "timestamp": 1725500971,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03FFEE74D48524E1A0A",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "se"
+    },
+    "reaction": "",
+    "timestamp": 1725500994,
+    "senderName": "Sergei Herrera Dávila",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D822CD81A67DF51B25",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "TODO?="
+    },
+    "reaction": "",
+    "timestamp": 1725501002,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08DCA6D2BD646C5A947",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya te mande las cuentas que no entran"
+    },
+    "reaction": "",
+    "timestamp": 1725501005,
+    "senderName": "Sergei Herrera Dávila",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB038D0077D29F313E1D1",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "al de chamba"
+    },
+    "reaction": "",
+    "timestamp": 1725501013,
+    "senderName": "Sergei Herrera Dávila",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F651178CDF7AB74964",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "oko k"
+    },
+    "reaction": "",
+    "timestamp": 1725501017,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AE2AB7876820AD3197",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "4 cuentas"
+    },
+    "reaction": "",
+    "timestamp": 1725501019,
+    "senderName": "Sergei Herrera Dávila",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03F44857A8947253BEE",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "la ultima de prime ta bloqueada"
+    },
+    "reaction": "",
+    "timestamp": 1725501036,
+    "senderName": "Sergei Herrera Dávila",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB010D6AA967FA32DDC17",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "YA XVR"
+    },
+    "reaction": "",
+    "timestamp": 1725501054,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB085591BA2CFA2A75281",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "caption": "05-09.xlsx",
+      "fileName": "h1kMsI.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725571003,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06EB31EDC9063385DCF",
+    "remoteJid": "51930673946@s.whatsapp.net",
+    "msgContext": {
+      "text": "borra"
+    },
+    "reaction": "",
+    "timestamp": 1725571004,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

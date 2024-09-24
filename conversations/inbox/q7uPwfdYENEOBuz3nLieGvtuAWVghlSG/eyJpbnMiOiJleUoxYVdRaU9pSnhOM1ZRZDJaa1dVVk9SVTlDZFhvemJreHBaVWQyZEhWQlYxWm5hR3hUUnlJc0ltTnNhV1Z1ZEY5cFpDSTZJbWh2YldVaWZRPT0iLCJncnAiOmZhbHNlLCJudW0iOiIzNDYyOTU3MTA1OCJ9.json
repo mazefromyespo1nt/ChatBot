@@ -1,0 +1,106 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00E6B589FC7B58A3C0A",
+    "remoteJid": "34629571058@s.whatsapp.net",
+    "msgContext": {
+      "text": "e"
+    },
+    "reaction": "",
+    "timestamp": 1725493169,
+    "senderName": "Carlos Valle",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1F9F040A2136F8ACE1",
+    "remoteJid": "34629571058@s.whatsapp.net",
+    "msgContext": {
+      "text": "bon diaa"
+    },
+    "reaction": "",
+    "timestamp": 1725514486,
+    "senderName": "Carlos Valle",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A164C255BFFB9EFE34E",
+    "remoteJid": "34629571058@s.whatsapp.net",
+    "msgContext": {
+      "text": "voy a buscar en git a ver si encuentro editor de pdf y de word"
+    },
+    "reaction": "",
+    "timestamp": 1725514786,
+    "senderName": "Carlos Valle",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D8F0A351EA3F0AE9BB33807AE9A37A2C",
+    "remoteJid": "34629571058@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ieee🫂💪"
+    },
+    "reaction": "",
+    "timestamp": 1725516441,
+    "senderName": "Carles",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34667283537@s.whatsapp.net",
+      "id": "3A1F9F040A2136F8ACE1"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04D66647F8821A062B9",
+    "remoteJid": "34629571058@s.whatsapp.net",
+    "msgContext": {
+      "text": "iee broo"
+    },
+    "reaction": "",
+    "timestamp": 1725516460,
+    "senderName": "Carlos Valle",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB04F5F2E7569D5AB62FC",
+    "remoteJid": "34629571058@s.whatsapp.net",
+    "msgContext": {
+      "caption": "60$",
+      "fileName": "DgNJEn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725517212,
+    "senderName": "Carlos Valle",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "D92084A61BF3277C506D208D3D960943",
+    "remoteJid": "51999924453-1517093479@g.us",
+    "msgContext": {
+      "caption": "CORSO POR EL 199 ANIVERSARIO DE LA G.U.E. SIMON BOLIVAR",
+      "fileName": "pmb7zR.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "👌",
+    "timestamp": 1725573536,
+    "senderName": "Isaac",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7277CC45D554D437C13F677C7508F0D8",
+    "remoteJid": "51999924453-1517093479@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "gQCZOD.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725573720,
+    "senderName": "Isaac",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C799B824B664367261ABEFAD3023CADB",
+    "remoteJid": "51999924453-1517093479@g.us",
+    "msgContext": {
+      "text": "YA TOY LISTO PAL SABADO REENCUENTRO DE MI PROMO 78"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725573721,
+    "senderName": "Isaac",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

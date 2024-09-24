@@ -1,0 +1,166 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFC3EC1001D42E51129",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "Test"
+    },
+    "reaction": "",
+    "timestamp": 1725813176,
+    "senderName": "Jsus Pacheco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07C76D76973A4E26917C32C56E6CB40CB3D59",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "no funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725813178,
+    "senderName": "Aki'Ta",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A051E27ED5C86D5D39D",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "Test"
+    },
+    "reaction": "",
+    "timestamp": 1725813206,
+    "senderName": "Jsus Pacheco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BDDADE125C91FB8D785A9FD74DC34DF651B9",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "no funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725813208,
+    "senderName": "Aki'Ta",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A677C320B759BC2A7F",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "caption": "wep",
+      "fileName": "8S2dg1Ai1NDQdhERmodaBDockWHLn97l.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725813208,
+    "senderName": "Jsus Pacheco",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADD00FEA9C9D79AA710",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725813219,
+    "senderName": "Jsus Pacheco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB092C8621D657FCC7003129F490C83F905D82F",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "no funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725813220,
+    "senderName": "Aki'Ta",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9970B7922510F797FC",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "Test"
+    },
+    "reaction": "",
+    "timestamp": 1725813242,
+    "senderName": "Jsus Pacheco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C244C0341EA5B0C1F473E50A16DB6E69E272",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "text": "no funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725813244,
+    "senderName": "Aki'Ta",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB07769CAD225D992AF17",
+    "remoteJid": "17876317992@s.whatsapp.net",
+    "msgContext": {
+      "caption": "wep",
+      "fileName": "8S2dg1Ai1NDQdhERmodaBDockWHLn97l.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725813245,
+    "senderName": "Jsus Pacheco",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B7A76BC3100EFB93C6",
+    "remoteJid": "120363223060533854@g.us",
+    "msgContext": {
+      "text": "EN LAS FACTURAS"
+    },
+    "reaction": "",
+    "timestamp": 1725557299,
+    "senderName": "Maribel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

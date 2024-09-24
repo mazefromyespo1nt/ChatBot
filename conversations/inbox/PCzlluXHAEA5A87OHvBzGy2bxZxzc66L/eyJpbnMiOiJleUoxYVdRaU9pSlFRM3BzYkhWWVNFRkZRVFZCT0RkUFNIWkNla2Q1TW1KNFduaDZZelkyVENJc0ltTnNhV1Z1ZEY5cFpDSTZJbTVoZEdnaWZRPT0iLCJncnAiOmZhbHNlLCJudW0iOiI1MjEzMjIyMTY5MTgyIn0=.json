@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C19C90C2799AB4DE14",
+    "remoteJid": "5213222169182@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725643485,
+    "senderName": "FN",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C8ECB1F9DF12C12C10",
+    "remoteJid": "5213222169182@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola hola"
+    },
+    "reaction": "",
+    "timestamp": 1725643507,
+    "senderName": "FN",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00FC0BC7507DACAA5DC",
+    "remoteJid": "5213222169182@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725643510,
+    "senderName": "FN",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

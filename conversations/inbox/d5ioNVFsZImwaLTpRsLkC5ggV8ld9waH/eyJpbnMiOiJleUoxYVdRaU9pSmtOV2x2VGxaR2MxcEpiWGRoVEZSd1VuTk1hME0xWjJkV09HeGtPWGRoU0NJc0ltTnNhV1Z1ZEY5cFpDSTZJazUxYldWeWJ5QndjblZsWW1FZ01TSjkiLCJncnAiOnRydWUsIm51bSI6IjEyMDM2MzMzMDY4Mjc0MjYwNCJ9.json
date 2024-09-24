@@ -1,0 +1,76 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "6CDCBA16A074098EE49993E2ADD1CB33",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "Se llamó al persona indicada y me dice que para hoy no que mejor para el sabado",
+      "fileName": "4i229k.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571687,
+    "senderName": "fruno San Carlos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0763FA4F07BF23D1E37",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "ORQSW  me compartes la evidencia para dejar la anotación en sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725571808,
+    "senderName": "Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661731176@s.whatsapp.net",
+      "id": "6CDCBA16A074098EE49993E2ADD1CB33"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "8DA0D0986975AAFB0925FF1169B9B5B2",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Fumuyx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571957,
+    "senderName": "fruno San Carlos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E1E0FF9667A2D17190",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Gracias se deja la anotación en sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725571986,
+    "senderName": "Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661731176@s.whatsapp.net",
+      "id": "8DA0D0986975AAFB0925FF1169B9B5B2"
+    }
+  }
+]

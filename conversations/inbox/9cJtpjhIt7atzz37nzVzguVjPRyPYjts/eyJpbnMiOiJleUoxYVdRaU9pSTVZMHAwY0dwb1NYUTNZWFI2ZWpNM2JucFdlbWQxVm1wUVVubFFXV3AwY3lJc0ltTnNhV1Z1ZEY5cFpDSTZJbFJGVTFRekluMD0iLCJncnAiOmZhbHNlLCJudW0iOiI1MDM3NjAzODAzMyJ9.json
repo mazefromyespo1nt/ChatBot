@@ -1,0 +1,76 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D8E2F678E429BC5463A2DCEBAD7461A2",
+    "remoteJid": "50376038033@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725719209,
+    "senderName": "Siul",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5F9106A3ACF15F6707F594A6321CE4B7",
+    "remoteJid": "50376038033@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya le cayó"
+    },
+    "reaction": "",
+    "timestamp": 1725719211,
+    "senderName": "Siul",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "6D86A08886F586EF71758572A52777B8",
+    "remoteJid": "50376038033@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mxw4Zy.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725908603,
+    "senderName": "Siul",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "350C10BCB4DEEC0CA8039E9CE5EEC4D3",
+    "remoteJid": "50376038033@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2sYGdu.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725908657,
+    "senderName": "Siul",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

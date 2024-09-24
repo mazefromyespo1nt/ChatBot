@@ -1,0 +1,585 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04222F4E1C914E1B906",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "hshshshsshshshsh"
+    },
+    "reaction": "",
+    "timestamp": 1725980230,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB0097BA5F961BCC8782B",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "CONTRATO_EVELYN GARCÍA.pdf",
+      "fileName": "MAmoVH.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725980526,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0361570E22B8B549841",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tFPAiU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725980546,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CB04991707B9D06FAD",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "dfeg47"
+    },
+    "reaction": "",
+    "timestamp": 1725980782,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D683338637B68066F3",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "sd4g"
+    },
+    "reaction": "",
+    "timestamp": 1725980782,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BDFA5658447B35D59F",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "4g4"
+    },
+    "reaction": "",
+    "timestamp": 1725980792,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06395086C186CD0D096",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "djhcoisdf"
+    },
+    "reaction": "",
+    "timestamp": 1725980840,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB02767163D02F1FA2097",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "lkjfcdkjfk"
+    },
+    "reaction": "",
+    "timestamp": 1725980840,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01C0405EAD1705D6D46",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "jdfjdlk"
+    },
+    "reaction": "",
+    "timestamp": 1725980841,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F2C94E531BCD37D6D8",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "+jdsljf+jk"
+    },
+    "reaction": "",
+    "timestamp": 1725980842,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00DF72670132A00CBF5",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980842,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DF1E3AF075829EA1E0",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980842,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A4A5AF7DAF93121632",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980843,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB009E0104477D090BCD9",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725980843,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB093EE34B6684ADB94B5",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980843,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C938613FB42A628F04",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980844,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E8B056054A45F28E44",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980844,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B6A8E5F776976BA0E5",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f"
+    },
+    "reaction": "",
+    "timestamp": 1725980844,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DD355488F7F8C097A5",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "kiffghfgpag"
+    },
+    "reaction": "",
+    "timestamp": 1725980936,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05C2370A905ED435BA8",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "adf.ajgoag"
+    },
+    "reaction": "",
+    "timestamp": 1725980937,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07BDCC27F7C4665A24A",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "afjgajga"
+    },
+    "reaction": "",
+    "timestamp": 1725980938,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00796F8EAABB244B346",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "iglag"
+    },
+    "reaction": "",
+    "timestamp": 1725980939,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06866EA02EC623612DE",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980948,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F25725F55266B56945",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980949,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB014D9205F067C00ECC1",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980949,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A27FBA763E39FA969D",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980950,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F37950FBB07762B060",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980950,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0FA210843F2F3362E22",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980950,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09E8E9199044E6C13F4",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980951,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB026F6497EE3AF52CDA3",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980951,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0442023DBA88734E334",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hola,\n\nEspero que estés bien. Me gustaría solicitar tu permiso para enviarte información sobre los servicios que ofrecemos en Liberty Costa Rica. Creo que podrían ser de tu interés y estaríamos encantados de ayudarte con lo que necesites.\n\nSi estás interesado, digitá 1️⃣ y te enviaré todos los detalles.\nPor el contrario si no deseas la información digitá 2️⃣.\n\n¡Gracias y que tengas un excelente día!"
+    },
+    "reaction": "",
+    "timestamp": 1725980951,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C27652B05595C615C6",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "cuando"
+    },
+    "reaction": "",
+    "timestamp": 1725980980,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB044B3BBFECCB7CCDC09",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725980981,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E62AB70AF8572552E6",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "3"
+    },
+    "reaction": "",
+    "timestamp": 1725980982,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB055658858359896FDDA",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "4"
+    },
+    "reaction": "",
+    "timestamp": 1725981018,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0628FB2C6CB9EEE0C3C",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725981018,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

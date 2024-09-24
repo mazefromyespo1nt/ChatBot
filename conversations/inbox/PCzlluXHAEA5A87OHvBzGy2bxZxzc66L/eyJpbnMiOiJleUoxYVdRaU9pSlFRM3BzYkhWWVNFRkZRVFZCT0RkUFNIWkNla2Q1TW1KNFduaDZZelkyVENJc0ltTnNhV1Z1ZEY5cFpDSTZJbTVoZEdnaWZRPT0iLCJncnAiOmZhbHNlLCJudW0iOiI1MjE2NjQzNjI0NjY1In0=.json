@@ -1,0 +1,75 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B37EA9E466163D9D44",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725643571,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08A5D6D8F2BDCAE458F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "buena tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725643585,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "376D542F445520CF75",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725643592,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0DD9E0084FF2F08BE5D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "le gusta?",
+        "values": [
+          "si",
+          "no",
+          "tal vez"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725643613,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

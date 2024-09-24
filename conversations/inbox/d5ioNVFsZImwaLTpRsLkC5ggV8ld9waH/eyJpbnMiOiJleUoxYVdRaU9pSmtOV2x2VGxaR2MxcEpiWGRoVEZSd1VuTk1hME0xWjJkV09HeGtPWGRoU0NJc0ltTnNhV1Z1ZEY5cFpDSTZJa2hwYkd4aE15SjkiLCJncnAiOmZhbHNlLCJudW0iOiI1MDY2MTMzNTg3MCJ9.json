@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D459413D885EFDF348",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuántos huesos tiene el cuerpo humano?"
+    },
+    "reaction": "",
+    "timestamp": 1725992618,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "474B2FA870C15F42C660AA713E0C7FA0",
+    "remoteJid": "50672068760@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725908484,
+    "senderName": "Darryl Baldi",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F7551C016ED24CACA5",
+    "remoteJid": "50672068760@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* actualice sus servicios en simples pasos. *Puede adquirir este  paquete a súper precio* (antes costaba 37.500) .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈 *SETIEMBRE GRATIS*",
+      "fileName": "tcdQl5.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725912193,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06472F9DA1F13748E3E",
+    "remoteJid": "50672068760@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera. Ese es nuestro compromiso"
+    },
+    "reaction": "",
+    "timestamp": 1725979047,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

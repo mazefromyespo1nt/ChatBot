@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1F6BEC866DCFA9F0002C4078BE2624BC",
+    "remoteJid": "5215574735925@s.whatsapp.net",
+    "msgContext": {
+      "text": "Saca las vacantes master"
+    },
+    "reaction": "",
+    "timestamp": 1725646829,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD4EE00277CC06DC07A",
+    "remoteJid": "5215574735925@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Jerry"
+    },
+    "reaction": "",
+    "timestamp": 1725646852,
+    "senderName": "Daniel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABCB68B3C0D089C98D1",
+    "remoteJid": "5215574735925@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya párale hoy es viernes"
+    },
+    "reaction": "",
+    "timestamp": 1725646856,
+    "senderName": "Daniel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "59ADAF11B98472B79009648D62FBC1EF",
+    "remoteJid": "5215574735925@s.whatsapp.net",
+    "msgContext": {
+      "text": "O no master"
+    },
+    "reaction": "",
+    "timestamp": 1725902766,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6876DD5876E5E60B149280742001BA51",
+    "remoteJid": "5215574735925@s.whatsapp.net",
+    "msgContext": {
+      "text": "🤣🤣🤣🤣🤣"
+    },
+    "reaction": "",
+    "timestamp": 1725903958,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

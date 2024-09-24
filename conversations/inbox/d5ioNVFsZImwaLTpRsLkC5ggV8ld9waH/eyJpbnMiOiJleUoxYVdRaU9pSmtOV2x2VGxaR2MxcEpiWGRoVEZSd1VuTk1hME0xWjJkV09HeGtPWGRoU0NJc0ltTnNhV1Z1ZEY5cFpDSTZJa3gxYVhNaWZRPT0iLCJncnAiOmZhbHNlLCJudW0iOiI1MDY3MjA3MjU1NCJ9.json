@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A507963DDA8900B29A4",
+    "remoteJid": "50672072554@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725647131,
+    "senderName": "Lic.Manfred Rivera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0D1D713F1FAB2A3F40",
+    "remoteJid": "50672072554@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725647133,
+    "senderName": "Lic.Manfred Rivera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3B02E2A75C15BD96CD",
+    "remoteJid": "50672072554@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725647135,
+    "senderName": "Lic.Manfred Rivera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5EC8C3973C57B55256",
+    "remoteJid": "50672072554@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725647137,
+    "senderName": "Lic.Manfred Rivera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2B03D426BE97EAAFB2",
+    "remoteJid": "50672072554@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725647139,
+    "senderName": "Lic.Manfred Rivera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C7FA193465E062FCA3",
+    "remoteJid": "50672072554@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725647713,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

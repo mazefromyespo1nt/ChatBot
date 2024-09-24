@@ -1,0 +1,120 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3CCBB261082FCF6748DDA74A6ECBE564",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me estaba llamando?"
+    },
+    "reaction": "",
+    "timestamp": 1725661697,
+    "senderName": "Juan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0360B348D286E4AE293",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XUa3kT.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725662206,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "24F311C40D1C056DF3F145514A9B789D",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "text": "Después de medio dia"
+    },
+    "reaction": "",
+    "timestamp": 1725662701,
+    "senderName": "Juan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8D73F159ECF0F6AA1420ADCF4107A4E0",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725662706,
+    "senderName": "Juan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0777ABC669A7874F9CB",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lWOV2K.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725662737,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "812033547CA72AAC4EAD3525F4BE06D8",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fMrtpu.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725890290,
+    "senderName": "Juan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB041B628E4DAAA5AC5FE",
+    "remoteJid": "50661058115@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias mi estimado"
+    },
+    "reaction": "",
+    "timestamp": 1725892495,
+    "senderName": "Daril Torres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

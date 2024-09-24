@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "574B14844AA1AD76B2C2FB1CFDD9DAAB",
+    "remoteJid": "51959626715@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725949229,
+    "senderName": "Henry",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B01E3A579963132BB9",
+    "remoteJid": "51959626715@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola desde sistema CRM"
+    },
+    "reaction": "",
+    "timestamp": 1725949250,
+    "senderName": "Henry",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

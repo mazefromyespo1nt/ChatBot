@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E9CA80DFD3B9CC75E4",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725908976,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB093A031296B216FD749",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725913523,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB072919FC4414F71094D",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "Costa Rica, oficialmente República de Costa Rica, es un Estado soberano organizado como una república presidencialista unitaria compuesta por 7 provincias. Ubicado en Centroamérica, posee un territorio con un área total de 51 179 km². Limita con Nicaragua al norte, el mar Caribe al este, Panamá al sureste y el océano Pacífico al oeste. En cuanto a los bordes marítimos, colinda con Nicaragua, Colombia, Panamá y Ecuador.7​8​ Cuenta con 5 226 362 habitantes.9​ Su capital, centro político y económico es San José, y su idioma oficial es el español.10​ Su punto más austral es la Isla del Coco."
+    },
+    "reaction": "",
+    "timestamp": 1725913734,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08B6836314E4AF9230C",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725913870,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB021CACAE00C2CB96EE4",
+    "remoteJid": "50688729557@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Luis Hernández, como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual con la campaña de referidos 😁👇"
+    },
+    "reaction": "",
+    "timestamp": 1725723945,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0BF4E5BA6B33D05D68E",
+    "remoteJid": "50688729557@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* antes costaba 37.500 colones *Puede adquirirlo a un súper precio* .Le incluye  :\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "YAfosy.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725723971,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0946F1BDA9B916AB38C",
+    "remoteJid": "50688729557@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Los mejores  Planes liberty con el *envio gratis🚚,  sin deposito , con buena cobertura de red fuera y dentro del país✈️* (centro america y norteamerica sin costo) . \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈 y conservamos su número si es  KOLBI o CLARO lo conservas si ya es Liberty te damos uno nuevo mejorado😄",
+      "fileName": "yC9xCv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725724101,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

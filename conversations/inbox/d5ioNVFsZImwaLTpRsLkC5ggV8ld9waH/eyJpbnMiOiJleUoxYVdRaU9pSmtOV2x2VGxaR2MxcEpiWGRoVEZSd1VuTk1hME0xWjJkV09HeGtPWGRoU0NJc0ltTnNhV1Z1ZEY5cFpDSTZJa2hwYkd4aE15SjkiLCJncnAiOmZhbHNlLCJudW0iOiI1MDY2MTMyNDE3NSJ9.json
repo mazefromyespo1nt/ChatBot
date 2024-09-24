@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E347C7DB6FB4A4A810",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué animal camina con las patas en la cabeza?"
+    },
+    "reaction": "",
+    "timestamp": 1725991658,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB049AA1DB4AD5CDDDF7F",
+    "remoteJid": "50661324175@s.whatsapp.net",
+    "msgContext": {
+      "text": "puede ser"
+    },
+    "reaction": "",
+    "timestamp": 1725998725,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

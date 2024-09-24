@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE79A618463A9656CE9",
+    "remoteJid": "50672068838@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permiso denegado"
+    },
+    "reaction": "",
+    "timestamp": 1725906803,
+    "senderName": "renedraG",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

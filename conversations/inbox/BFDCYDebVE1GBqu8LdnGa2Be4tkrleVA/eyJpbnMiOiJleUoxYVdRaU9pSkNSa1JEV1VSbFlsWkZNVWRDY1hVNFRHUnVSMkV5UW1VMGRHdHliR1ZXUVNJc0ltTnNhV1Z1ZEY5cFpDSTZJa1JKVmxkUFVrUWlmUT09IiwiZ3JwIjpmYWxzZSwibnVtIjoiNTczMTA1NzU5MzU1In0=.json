@@ -1,0 +1,302 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8C3A97066C0241755E",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola caballero"
+    },
+    "reaction": "",
+    "timestamp": 1725863076,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A66277589E5C6D9A32D",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que tal ?"
+    },
+    "reaction": "",
+    "timestamp": 1725863080,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABB1B044E675C7B5F0E",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "El viejo Luís cómo vas cambiaste de número?"
+    },
+    "reaction": "",
+    "timestamp": 1725863492,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5C0623BFF46101C830",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pues si y no jejeje , este es el\nMío personal ya de aquí de Bélgica 🇧🇪"
+    },
+    "reaction": "",
+    "timestamp": 1725863532,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573105759355@s.whatsapp.net",
+      "id": "3ABB1B044E675C7B5F0E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABE5F017AA455AC526E",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y tu como vas ?"
+    },
+    "reaction": "",
+    "timestamp": 1725863537,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACA9970613CB184B5AD",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bien parce gracias a Dios y vos"
+    },
+    "reaction": "",
+    "timestamp": 1725863561,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABB1B044E675C7B5F0E",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "El viejo Luís cómo vas cambiaste de número?"
+    },
+    "reaction": "",
+    "timestamp": 1725863849,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A48168E455415F46652",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cckTZq.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725863938,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A13ED5B61B1C08A5697",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "😅"
+    },
+    "reaction": "",
+    "timestamp": 1725863945,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABB1B044E675C7B5F0E",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "El viejo Luís cómo vas cambiaste de número?"
+    },
+    "reaction": "",
+    "timestamp": 1725863973,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABB1B044E675C7B5F0E",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "El viejo Luís cómo vas cambiaste de número?"
+    },
+    "reaction": "",
+    "timestamp": 1725864177,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A134890DAAA1A4837B6",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajajajajajaja papi usted siempre se le olvida jajajajaja si cómo te conté vivo en Suecia 🇸🇪, la empresa con la que trabajo en 🇺🇸 tiene clientes en Europa y hace dos años les dije que aceptaba la propuesta de vivir acá \n\nTrabajo si, todos bien Lucho, contento por acá, voy a estar por Bélgica 🇧🇪 con mi esposa que viaja a Colombia 🇨🇴 el otro mes, si algo te escribo para que nos veamos 😄😄"
+    },
+    "reaction": "",
+    "timestamp": 1725864435,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A28ECD83ABFD07407BE",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papeles si claro ellos los gestionaron porque se lo contrario lo podría trabajar acá"
+    },
+    "reaction": "",
+    "timestamp": 1725864470,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2A12E0FEEABAFAF4F3",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Entonces si por ese lado bien"
+    },
+    "reaction": "",
+    "timestamp": 1725864493,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC11B431A488313E07F",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Llegué a mi casa"
+    },
+    "reaction": "",
+    "timestamp": 1725864497,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573105759355@s.whatsapp.net",
+      "id": "3A134890DAAA1A4837B6"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF4A6A6A5346A1816F0",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se quedan ahí"
+    },
+    "reaction": "",
+    "timestamp": 1725864504,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5D43487300E844ACEE",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "No no mi que pena"
+    },
+    "reaction": "",
+    "timestamp": 1725864505,
+    "senderName": "Jorge Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A117385566A1602E39A",
+    "remoteJid": "573105759355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Deja la bobada"
+    },
+    "reaction": "",
+    "timestamp": 1725864513,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573105759355@s.whatsapp.net",
+      "id": "3A5D43487300E844ACEE"
+    }
+  }
+]  }
+]

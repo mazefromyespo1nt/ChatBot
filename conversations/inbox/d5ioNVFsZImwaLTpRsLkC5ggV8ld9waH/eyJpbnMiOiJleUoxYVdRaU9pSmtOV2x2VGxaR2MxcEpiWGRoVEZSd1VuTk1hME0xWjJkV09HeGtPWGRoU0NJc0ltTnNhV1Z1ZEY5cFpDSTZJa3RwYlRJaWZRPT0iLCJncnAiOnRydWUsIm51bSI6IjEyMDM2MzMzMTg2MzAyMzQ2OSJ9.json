@@ -1,0 +1,106 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07BF1656F78D255A628",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "https://bit.ly/CR-C13-2024 \n\nHola compañeros ❤️❤️ Mi hermana mayor está vendiendo catalogo es muy económico se llama ARABELA . Yo entregaria productos aquí"
+    },
+    "reaction": "",
+    "timestamp": 1725577263,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB07801EDD86C8134C07D",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ZX2ZN7.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577293,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB03DD1EEACDA057AB219",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "GtNHEj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577293,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0978458F2122169BA59",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3X5wa8.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577294,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB05C129706D8F9EF0FB8",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CmZdns.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577345,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F019A54396D3F25EC2",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "El 7 es el día final para hacer los pedidos \nLlega el"
+    },
+    "reaction": "",
+    "timestamp": 1725579432,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

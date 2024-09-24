@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8946DBAB59D83B7CB2",
+    "remoteJid": "573023226818@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://linknight.online/"
+    },
+    "reaction": "",
+    "timestamp": 1725841425,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "336ACAD98FCE60DC8B",
+    "remoteJid": "573023226818@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "RopSCa.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725841807,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

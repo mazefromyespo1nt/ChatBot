@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A29E5E68883943ECDF",
+    "remoteJid": "50683468421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, Don Tony. Le saluda Mónica Urbina de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactar le con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos servicios de: \n🟠Planes postpago\n🟠Servicios de hogar ( *Cable e Internet* )\nLo que mejor se adapten a ti.\n\n◾ No es necesario un depósito.\n◾ Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero). \n◾ Se omite mancha/deuda de otros operadores o casas comerciales. \n◾ Paga hasta el próximo mes."
+    },
+    "reaction": "",
+    "timestamp": 1726002606,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

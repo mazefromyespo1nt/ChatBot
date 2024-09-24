@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D818C797943EFD08AE",
+    "remoteJid": "51996909051@s.whatsapp.net",
+    "msgContext": {
+      "text": "973310441"
+    },
+    "reaction": "",
+    "timestamp": 1725629210,
+    "senderName": "Siam_Marketing",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CDB546A04DBA322D48",
+    "remoteJid": "51996909051@s.whatsapp.net",
+    "msgContext": {
+      "text": "+51965123904"
+    },
+    "reaction": "",
+    "timestamp": 1725629882,
+    "senderName": "Siam_Marketing",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02C15CBAFC97DA8088F",
+    "remoteJid": "51996909051@s.whatsapp.net",
+    "msgContext": {
+      "text": "931871059"
+    },
+    "reaction": "",
+    "timestamp": 1725630424,
+    "senderName": "Siam_Marketing",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08DBB72FF61D64359E1",
+    "remoteJid": "51996909051@s.whatsapp.net",
+    "msgContext": {
+      "text": "900990453"
+    },
+    "reaction": "",
+    "timestamp": 1725630600,
+    "senderName": "Siam_Marketing",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

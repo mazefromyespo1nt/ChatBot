@@ -1,0 +1,65 @@
+[
+  {
+    "source": "1726771502277",
+    "sourceHandle": "1 Clavo",
+    "target": "1726771007067",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267715022771 Clavo-1726771007067undefined_target"
+  },
+  {
+    "source": "1726771502277",
+    "sourceHandle": "1 Garden Fusion",
+    "target": "1726771056161",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267715022771 Garden Fusion-1726771056161undefined_target"
+  },
+  {
+    "source": "1726771502277",
+    "sourceHandle": "2 Garden Fusion",
+    "target": "1726771182330",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267715022772 Garden Fusion-1726771182330undefined_target"
+  },
+  {
+    "source": "1726771502277",
+    "sourceHandle": "3 Garden fusion",
+    "target": "1726771573843",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267715022773 Garden fusion-1726771573843undefined_target"
+  },
+  {
+    "source": "1726771502277",
+    "sourceHandle": "1 Clavo",
+    "target": "1726772083742",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267715022771 Clavo-1726772083742undefined_target"
+  },
+  {
+    "source": "1726772338150",
+    "sourceHandle": "3 Garden Fusion",
+    "target": "1726772408197",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267723381503 Garden Fusion-1726772408197undefined_target"
+  },
+  {
+    "source": "1726772338150",
+    "sourceHandle": "1 Clavo",
+    "target": "1726772083742",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267723381501 Clavo-1726772083742undefined_target"
+  },
+  {
+    "source": "1726772338150",
+    "sourceHandle": "1 Garden Fusion",
+    "target": "1726771056161",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267723381501 Garden Fusion-1726771056161undefined_target"
+  },
+  {
+    "source": "1726772338150",
+    "sourceHandle": "2 Garden Fusion",
+    "target": "1726771182330",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17267723381502 Garden Fusion-1726771182330undefined_target"
+  }
+]

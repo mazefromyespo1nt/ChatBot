@@ -1,0 +1,280 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A55CCB30D2733594131",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bb"
+    },
+    "reaction": "",
+    "timestamp": 1725840001,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF6BF144DA3B78F7B8F",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725840078,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF0E58F5B463FECD67F",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ni un saludo hoy 🥺"
+    },
+    "reaction": "",
+    "timestamp": 1725840146,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A646C5FF846C2EE50B6",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me elimino de sus contactos ?"
+    },
+    "reaction": "",
+    "timestamp": 1725840171,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A62744BA43226BC933D",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "😔😔"
+    },
+    "reaction": "",
+    "timestamp": 1725840771,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A87298CA3396E759C08",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te quiero para miii"
+    },
+    "reaction": "",
+    "timestamp": 1725841221,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7377BAA0FF15EF835D",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bb"
+    },
+    "reaction": "",
+    "timestamp": 1725854457,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3D18A498D02D7AA4AE",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 🥹"
+    },
+    "reaction": "",
+    "timestamp": 1725887161,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A37FB726543D1597CE0",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725901219,
+    "senderName": "Yv✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD08650E5C820F411A2",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Paso algo ?"
+    },
+    "reaction": "",
+    "timestamp": 1725902238,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A331A4459E6EECE3CE8",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Así como ?"
+    },
+    "reaction": "",
+    "timestamp": 1725902681,
+    "senderName": "Yv✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEA5F6E2DFD9390D0E9",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me elimino de tus contactos"
+    },
+    "reaction": "",
+    "timestamp": 1725903102,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A43253A10E6D60CE1A3",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "No para nada"
+    },
+    "reaction": "",
+    "timestamp": 1725903468,
+    "senderName": "Yv✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3AD08650E5C820F411A2"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEB103A920CBF569270",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amor yo soy relajadita"
+    },
+    "reaction": "",
+    "timestamp": 1725911439,
+    "senderName": "Yv✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2951E3557BED1E039B",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tú andas en tus cosas"
+    },
+    "reaction": "",
+    "timestamp": 1725911447,
+    "senderName": "Yv✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A965D485EB432317EB8",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tus negocios yo también ando en mis cosas"
+    },
+    "reaction": "",
+    "timestamp": 1725911454,
+    "senderName": "Yv✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7E2F8970BADD25EF3F",
+    "remoteJid": "573026020767@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mmmm Yaa"
+    },
+    "reaction": "",
+    "timestamp": 1725912499,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573026020767@s.whatsapp.net",
+      "id": "3A965D485EB432317EB8"
+    }
+  }
+]

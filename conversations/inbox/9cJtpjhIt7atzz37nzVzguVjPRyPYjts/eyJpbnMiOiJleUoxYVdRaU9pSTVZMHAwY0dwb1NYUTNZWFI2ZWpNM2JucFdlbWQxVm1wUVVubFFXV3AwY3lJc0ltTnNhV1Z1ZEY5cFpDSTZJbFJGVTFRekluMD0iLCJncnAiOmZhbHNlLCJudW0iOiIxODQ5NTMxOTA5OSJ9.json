@@ -1,0 +1,494 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5B5C4BAAE27F2D541E",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725663909,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D55209F67FFFF2AF62",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Saludos bendiciones"
+    },
+    "reaction": "",
+    "timestamp": 1725663935,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3833CC0FB3F704F4E7",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725663944,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A46772429E350B6812",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "y5KEWZWJZ9vtnkh69gHPAhXdn6kzSAIw.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725663964,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E35249F01B346BF079",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": ".3"
+    },
+    "reaction": "",
+    "timestamp": 1725663979,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7C8B38642E343D05AF",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "🙌🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725663984,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0235A8E88B502CBDBC5",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "🇮🇱"
+    },
+    "reaction": "",
+    "timestamp": 1725664002,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0151E3DAF780E7CCCE9",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "Que servicio le interesa más? ",
+        "values": [
+          "Redes",
+          "Web",
+          "Hosting",
+          "Panel A"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725664055,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1D3EF0EADFE2F150F8",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "jesucristo"
+    },
+    "reaction": "",
+    "timestamp": 1725716560,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BCFC5B7FCA973E618B",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jesucristo"
+    },
+    "reaction": "",
+    "timestamp": 1725716577,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5A3FDD4C13A1CAFF48",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jesucristo"
+    },
+    "reaction": "",
+    "timestamp": 1725716607,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F6847330D263686637",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "amen"
+    },
+    "reaction": "",
+    "timestamp": 1725716645,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2202DB62C15CC9CE37",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "ho"
+    },
+    "reaction": "",
+    "timestamp": 1725716844,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2311F563F73EDBD631",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "hi"
+    },
+    "reaction": "",
+    "timestamp": 1725731754,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "157D53D2494A132CF5",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jesucristo"
+    },
+    "reaction": "",
+    "timestamp": 1725731759,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1AAFA5F29F4E77EEAE",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725731843,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C1D1757BACB90A7F67",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Super Jesucristo Vive y Reina."
+    },
+    "reaction": "",
+    "timestamp": 1725731862,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05681E9B1336C6685D9",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola "
+    },
+    "reaction": "",
+    "timestamp": 1725731895,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04E00CE31D56FCE8556",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "@hola"
+    },
+    "reaction": "",
+    "timestamp": 1725731899,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBEE92A16F8338CEDF",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "hi"
+    },
+    "reaction": "",
+    "timestamp": 1725732102,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BB09F325D075FFC157",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Abita Anita"
+    },
+    "reaction": "",
+    "timestamp": 1725732103,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9D988195517E34AA24",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725732107,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB053CDF579966EE5E873",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Abita Anita"
+    },
+    "reaction": "",
+    "timestamp": 1725732108,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "34D661C0B1F6C10B29",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "x"
+    },
+    "reaction": "",
+    "timestamp": 1725733239,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "71DAB457B6A8155E34",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725733245,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C11979CC9A6C0AA8E0",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Abita Anita"
+    },
+    "reaction": "",
+    "timestamp": 1725733246,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9D6CF38C38342D9099",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "como estas?"
+    },
+    "reaction": "",
+    "timestamp": 1725733251,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2021681122747FA1FA",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "x"
+    },
+    "reaction": "",
+    "timestamp": 1725733290,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03E52F0632D50384A1C",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "estoy bien gracias, en que te puedo ayudar?"
+    },
+    "reaction": "",
+    "timestamp": 1725733291,
+    "senderName": "EvangelizandoRD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EFA60F108EBC84D45E",
+    "remoteJid": "18495319099@s.whatsapp.net",
+    "msgContext": {
+      "text": "como estas?"
+    },
+    "reaction": "",
+    "timestamp": 1725733297,
+    "senderName": "EvangelizandoRD",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A63CDDD97C08EC839DF",
+    "remoteJid": "34695553943@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola,hemos anulado la reserva que tienes para mañana,el uso de los bonos de la la liga de padel de belvis de monroy es hasta hoy."
+    },
+    "reaction": "",
+    "timestamp": 1725883428,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5CB68600E4A269906D",
+    "remoteJid": "34695553943@s.whatsapp.net",
+    "msgContext": {
+      "text": "❌ticket cerrado❌"
+    },
+    "reaction": "",
+    "timestamp": 1725883544,
+    "senderName": "www.reservatupista.com",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

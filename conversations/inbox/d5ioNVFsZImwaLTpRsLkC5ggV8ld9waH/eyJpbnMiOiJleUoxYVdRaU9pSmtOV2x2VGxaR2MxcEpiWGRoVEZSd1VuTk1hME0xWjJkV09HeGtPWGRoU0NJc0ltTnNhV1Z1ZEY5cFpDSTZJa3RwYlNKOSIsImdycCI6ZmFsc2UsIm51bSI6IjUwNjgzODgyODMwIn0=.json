@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D50D82F1952C0473B1",
+    "remoteJid": "50683882830@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Astrid es un gusto saludarle de nuevo 😁Como le mencionaba nuestra mayor intención es mejorar su experiencia de servicio actual."
+    },
+    "reaction": "",
+    "timestamp": 1725663741,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A575BA3DBED4E1456E",
+    "remoteJid": "50683882830@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* antes costaba 37.500 colones *Puede adquirirlo a un súper precio* .Le incluye  :\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "3mHar9.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725663808,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,1376 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6503C1B95F1305B45A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola bro, soy angel"
+    },
+    "reaction": "",
+    "timestamp": 1725571458,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4D7672FF455D9A03210590145C080E3C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725571479,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "567869752A2BD0F671F09EAE1A4E55AE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora si"
+    },
+    "reaction": "",
+    "timestamp": 1725571481,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7FA48EB2005C52FBE6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "me estás contestando desde el sistema?"
+    },
+    "reaction": "",
+    "timestamp": 1725571491,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "043CAACED48268FE2116D8A0C3D91654",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "No me muestra los chat archivados"
+    },
+    "reaction": "",
+    "timestamp": 1725571499,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DEAA30DC6F449E2A1A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725571511,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F57051FE105C2DEF68",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725571561,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A5F1978731DBC3BE5C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "hay una demora de respuesta, es normal"
+    },
+    "reaction": "",
+    "timestamp": 1725571573,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C45F42736AFADDCF61",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "esque tengo 66 usuarios demo probando"
+    },
+    "reaction": "",
+    "timestamp": 1725571613,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2E4C5BD5EC8823357F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "al mismo tiempo todos"
+    },
+    "reaction": "",
+    "timestamp": 1725571618,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BF4BA3407B26A2515F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y el servidor está medio chafa jaja"
+    },
+    "reaction": "",
+    "timestamp": 1725571623,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1073393694AC45D0AD",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "por eso puede haber demora"
+    },
+    "reaction": "",
+    "timestamp": 1725571629,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A55B067673F4995800EF11478A44C281",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Comprendo"
+    },
+    "reaction": "",
+    "timestamp": 1725571633,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6285FEBC190873B55087AB3D198F7D35",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Usas vos?"
+    },
+    "reaction": "",
+    "timestamp": 1725571637,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C6F0FCF5AEAAD55829",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "para montar este demo si lo puse dentro de un vps"
+    },
+    "reaction": "",
+    "timestamp": 1725571657,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "00DCB1C3188175EB54",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "con cloudlinux"
+    },
+    "reaction": "",
+    "timestamp": 1725571661,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EEA9657FE1CC9E647F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puede ser cualquier servidor VPS con AlmaLinux 8/9, Ubuntu 22 o de preferencia CloudLinux 8.\nO también puede ser un servidor compartido que te permita desplegar la app desde el cPanel a través de \"Setup nodejs app\"\nSe requiere que se instale nodejs 16 y mysql 8.0 o superior."
+    },
+    "reaction": "",
+    "timestamp": 1725571670,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "E10A834F221ACB27BF75D3D816D0D4CC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TWknHn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571712,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "49F4D09E2E7C9E8E7F0D7D942D22A075",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ZhamCV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571717,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "52CCA81FFBBDADA4C03F425546C6D261",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "En el sistema no acruliza a Eddy choque"
+    },
+    "reaction": "",
+    "timestamp": 1725571733,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "58981DCD1B8BEB8E10",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725571738,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "684FB68F300488A74D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6A7106.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725571753,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AD03CE1CE4CBAF3979",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahí lo estoy viendo"
+    },
+    "reaction": "",
+    "timestamp": 1725571760,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "13A5971C58F4A745370103F0278EEDD3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora si"
+    },
+    "reaction": "",
+    "timestamp": 1725571780,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "75BB5BB320B6BFFAF639718E6D1734FA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me falto actualizar la página"
+    },
+    "reaction": "",
+    "timestamp": 1725571788,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8917D9AF0A53DD12A8",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "no es necesario actualizar"
+    },
+    "reaction": "",
+    "timestamp": 1725571795,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9996B8CD21E2806FC5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "se actualiza sola"
+    },
+    "reaction": "",
+    "timestamp": 1725571798,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "58B373DF6255E915272C6D5663463FA2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "A6ktlr.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725571803,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE5D33DF288A7CC76B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "pero está lento el server"
+    },
+    "reaction": "",
+    "timestamp": 1725571804,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "E8C92C79A3B942EEE3BE4A8A38B2D6B4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "L0cNVN.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725571812,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "AF006CDA67017364105FB5EB8F85813E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sMSGmW.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725571820,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6A0FEEFA0DF38A5C7",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "es una instancia por cada número"
+    },
+    "reaction": "",
+    "timestamp": 1725571865,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DE243CC8DB43EFBB88",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "todos los números que quieras, ilimitados"
+    },
+    "reaction": "",
+    "timestamp": 1725571870,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "58B373DF6255E915272C6D5663463FA2"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "4501267AE2CF9EB1728F1D2A7A39BE1E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4vdDxb.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725571905,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D88AF79BD10F58F250",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "este funciona para evitar que el baneo de los números por spam"
+    },
+    "reaction": "",
+    "timestamp": 1725571918,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "E8C92C79A3B942EEE3BE4A8A38B2D6B4"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FA2683E669A71CC221",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ilimitados contactos también"
+    },
+    "reaction": "",
+    "timestamp": 1725571928,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "1F8B2BF9BC780A403DDB79E7C9758486"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "47234788656F6179DA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "para crear chatbots, le muestro ejemplo"
+    },
+    "reaction": "",
+    "timestamp": 1725571937,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "AF006CDA67017364105FB5EB8F85813E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B4A0CC5728A71F69FA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://vimeo.com/1006723911"
+    },
+    "reaction": "",
+    "timestamp": 1725571960,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5655CE596030466E9A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y así se envía una campaña"
+    },
+    "reaction": "",
+    "timestamp": 1725571985,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "6759DD7B31FA6D5C71",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6mjseQ.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725571987,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "19D563F42ED6DF0C08",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SZulzC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725572004,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "58C6B4CB9DE71558A78059F36F4E8B63",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "No tiene la opción de kambam"
+    },
+    "reaction": "",
+    "timestamp": 1725572021,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9D18E144E35E4E8CFF",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y si, tiene que registrar los números en la agenda para enviarles campaña"
+    },
+    "reaction": "",
+    "timestamp": 1725572024,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E24663CB2335A76C90",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "no entendí esto"
+    },
+    "reaction": "",
+    "timestamp": 1725572039,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "58C6B4CB9DE71558A78059F36F4E8B63"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "525431A374CFF816EB658DF85F9163AF",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Kanban"
+    },
+    "reaction": "",
+    "timestamp": 1725572288,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EF6C5857FFD23A4202",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "",
+    "timestamp": 1725572295,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "AD29CA01F6DD71413720FE4B3CDD7DE5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "necaap.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725572311,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "990FD9E5FB7F754FDE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "No, no tiene, pero por cada conversación en la parte de arriba a la derecha cambias el estatus"
+    },
+    "reaction": "",
+    "timestamp": 1725572338,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "2465819C5F8947075C40CC555DFCAA4B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bStn83.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725572348,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBB3E91EBAC155E51F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y se pinta de color diferente depende el estatus ahí debajo del nombre del contacto"
+    },
+    "reaction": "",
+    "timestamp": 1725572350,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "57E4184B77D98AA45F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si, se programa en el módulo de campañas"
+    },
+    "reaction": "",
+    "timestamp": 1725572384,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "2465819C5F8947075C40CC555DFCAA4B"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "EDBA0CFC6BBA83D4EE9DB18AE21E70E2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sHioKC.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725572413,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "B497234DF9A6D042159D053D3093D808",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2rlYMU.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725572492,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6001046EFE229DE506",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "No, no tiene esa opción d delegar"
+    },
+    "reaction": "",
+    "timestamp": 1725572688,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "277B026F0EFF89951D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y lo de captación de datos en la agenda hay variables"
+    },
+    "reaction": "",
+    "timestamp": 1725572921,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "589B4B85DF3A1B21917E67D64366A30F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sBBHGn.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725573051,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "D84B6EC7E6C3605322C9BA7987263333",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4ogKyw.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725573366,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "E8947CB41D61BDC14BE27E84F457B2EB",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fqbS5h.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725573390,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "082887847365F8EE23",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "aquí le muestro lo del envío masivo de mensajes"
+    },
+    "reaction": "",
+    "timestamp": 1725573462,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "6759DD7B31FA6D5C71"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F94CEFAA8C5EFCFB613A568352B20CC3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Comprendido"
+    },
+    "reaction": "",
+    "timestamp": 1725573556,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D21107AA488B54E7A02314A37EC7291A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725573567,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "589B4B85DF3A1B21917E67D64366A30F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CEA42E28F98A4A3E76",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahí al final donde se le pone nombre a la campaña y todo eso hay un botón que dice programar, ahí se programa horario y todo"
+    },
+    "reaction": "",
+    "timestamp": 1725573579,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "837447F0447A7F993E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "mensajes con botones no, sólo la api oficial lo permite"
+    },
+    "reaction": "",
+    "timestamp": 1725573594,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "59161867349@s.whatsapp.net",
+      "id": "589B4B85DF3A1B21917E67D64366A30F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6DF70922588E7140F5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si, ambos"
+    },
+    "reaction": "",
+    "timestamp": 1725573713,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "58AE80000CCCD706B7B4549400ECCD22",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "FzJbdz.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725573776,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "D111981ED2AEAA9F02773DE3AAD9F717",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dY6dTw.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "👍",
+    "timestamp": 1725574033,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "36DCADA3BB00E8540AD21A510005FDD2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jX4B1j.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725574204,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "F86920C28AE120C5AEFE5856B23CF015",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "a51Ebc.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725574211,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "535ACEC56E4A5B7AE0646B6BEB41769D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Bey78C.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725574215,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "547BCCEED3CB2976D94F114FF7935369",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esque no miró el video que le mandé"
+    },
+    "reaction": "",
+    "timestamp": 1725574231,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D647CDA918ABF2BE2D8109C2A0BD0D9A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok volveré a revisar gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725574257,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B01FF714CE078F0FAC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "mire"
+    },
+    "reaction": "",
+    "timestamp": 1725574262,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EB9CE3D8BFD2190199",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "en constructor de flujo"
+    },
+    "reaction": "",
+    "timestamp": 1725574266,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C4215BE02CC21C6941",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "agrega por ejemplo texto"
+    },
+    "reaction": "",
+    "timestamp": 1725574272,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A2496709840CE19735",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "pone lo que quiera enviar en la campaña"
+    },
+    "reaction": "",
+    "timestamp": 1725574280,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B81D5211CF4C18AB0B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y le da clic al cuadrito de guardar como tipo disquette"
+    },
+    "reaction": "",
+    "timestamp": 1725574406,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1DBD66BEEAE0CFD8C2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y ahí le pide poner nombre a la plantilla"
+    },
+    "reaction": "",
+    "timestamp": 1725574412,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "82E0ABC6CD4A0DE600",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y esa es la que se usa"
+    },
+    "reaction": "",
+    "timestamp": 1725574418,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "162103720647FCCCC53163BAB0EB9755",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725574422,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6915D880DA6BD7F21C80E41DAB380B2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Lo revisaré con calma más tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725574437,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "923AF1802B1147089836078F9B3E8574",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por tu tiempo"
+    },
+    "reaction": "",
+    "timestamp": 1725574441,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

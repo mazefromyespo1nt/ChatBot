@@ -1,0 +1,106 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00CF9F6FAC849134FEC",
+    "remoteJid": "50688266345@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día!!\nMi nombre es  Hillary Arauz , Asesora autorizada de Liberty!\nQueremos darte los mejores beneficios y una excelente experiencia de servicio, tal y como lo conversamos por llamada le envió nuestros planes post pago y servicios para el hogar cable e internet quedo atenta a cualquier duda o consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725900333,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F7EA18E84D825605F2",
+    "remoteJid": "50688266345@s.whatsapp.net",
+    "msgContext": {
+      "caption": "AHORRE HASTA UN 35% Y AGILICE \n Incluye: \n* Conserva su mismo número\n* Aumenta los datos de su plan móvil a 22GB HASTA 30GB con cobertura dentro y fuera del país ✈️ \n* Se incluye 1 regalía 🎁 de una número nuevo post pago de 4GB (recomendado para menores de edad) \n* TV Digital  250 canales (70HD)+ HBO MAX streaming + Telefonía fija de casa + internet de 150 MB +  Paramount durante 3 meses 🎁😁\n* Desde 150 MB hasta 500 MB de internet veloz 🛜",
+      "fileName": "1HfFqB.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900365,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0B287F0D517A32F89BC",
+    "remoteJid": "50688266345@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos serían los planes disponibles actualmente, como puedes ver cuentan con muchos beneficios! \nAdicional a eso si realizamos el proceso de contratación entre hoy y mañana, te estaríamos dando la opción de cancelar la primer factura hasta el 19 de Octubre, así como el envío de la tarjeta SIM completamente gratis.",
+      "fileName": "jai2wW.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900377,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB07D94309485B88EFE95",
+    "remoteJid": "50688266345@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "v1iF0k.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900388,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB05E1865FCEA9FBA3F45",
+    "remoteJid": "50688266345@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tXdS3o.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900407,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07BE249C8DD536B6D57",
+    "remoteJid": "50688266345@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para realizar la validación necesitaríamos :\n    • Foto por ambos lados de su documento de identidad que esté vigente o, legible, en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n    • Foto tipo selfy de su documento de identidad que esté vigente o, legible, en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n    •  Correo electrónico\n    •  Dirección exacta con provincia, cantón, distrito."
+    },
+    "reaction": "",
+    "timestamp": 1725900995,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

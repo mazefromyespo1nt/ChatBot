@@ -1,0 +1,21 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A07D0066DFDCC0F4E521049B30BC96AF",
+    "remoteJid": "56962395527-1363787174@g.us",
+    "msgContext": {
+      "text": "Y curiosamente la imagen tiene un fallo\nLa palabra día aparece con punto y tilde 🤣🤣🤣🤣"
+    },
+    "reaction": "🤭",
+    "timestamp": 1725893348,
+    "senderName": "Marco",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "56965674532@s.whatsapp.net",
+      "id": "3ADCB0245CCD0264C654"
+    }
+  }
+]

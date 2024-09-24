@@ -1,0 +1,522 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "5AAC48F96AFF0C9EA6851E421D2C7DF8",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "Cliente no contesta se envía msj y no contesta se llama y corta la llamada",
+      "fileName": "NVIJyj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725647076,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "540098458296299AA1BE52FFFD246B85",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "JRVTup.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725647096,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "320F9C4F4551B9153E5C4CAEFA3FE604",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "1o5NQV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725647119,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B5D51D4EB28C88C9A5",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "1-17593800779 Cliente no entregará equipo hasta que Liberty le solucione una nota de crédito. Colocar comentarios y adjuntar evidencias"
+    },
+    "reaction": "",
+    "timestamp": 1725647437,
+    "senderName": "Ventas Fruno S.A",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662546735@s.whatsapp.net",
+      "id": "5AAC48F96AFF0C9EA6851E421D2C7DF8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CC486B7A6F4D2AACFCABCCA4E8542B55",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "👍",
+    "timestamp": 1725647615,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "028B3DC8763313157C4E94E52643995D",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "28O8yO.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649042,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B70A3DC8A333602FABE78B505B3FBE5C",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "m1a7p3.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649047,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "loc",
+    "msgId": "AA01254E67F01328B51F70C9A795EBEE",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "lat": 9.1721679,
+      "long": -83.3370852,
+      "name": "",
+      "address": ""
+    },
+    "reaction": "",
+    "timestamp": 1725649063,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "1CAC82CEF1F6B312D4ABD1CBA689BD97",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7Usiil.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649070,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EF45C2B2E5AA184DC761E5AD74D44741",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Cellca Buenos Aires\nCerrado"
+    },
+    "reaction": "",
+    "timestamp": 1725649086,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "16BE5EBBE1223455AB1D21F7C3B16590",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Se realiza anotación"
+    },
+    "reaction": "",
+    "timestamp": 1725649098,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9F7CDE8CD2B372D5DCAED95FDF68B917",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "Este cliente solicita que le envíen el enlace para realizar el pago en línea",
+      "fileName": "MnqnLq.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649203,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B989F3BD44B20C8217F2F7E922F9D79D",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Compañero puedes recolectar la unidad"
+    },
+    "reaction": "",
+    "timestamp": 1725649383,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "9F7CDE8CD2B372D5DCAED95FDF68B917"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EAF95F9F1DCD619E4DA7BFBC3D4484B4",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725649407,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "172213653403F1E70B96BD28D957DE53",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "En unos minutos le vamos a enviar el link al cliente para que realice el pago"
+    },
+    "reaction": "",
+    "timestamp": 1725649410,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D50CA6646ACB14F7708A16F017FA8F06",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "Cliente no contesta llamadas ni mensajes",
+      "fileName": "G9Y4HW.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649447,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E9DEFDC760421C16324156C51CAE9965",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bWVcB6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649466,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "F7946238CF31A9EAAA059B6E55132E2C",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DC0Rrq.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649489,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C55E21D7D86D2F31B35551B18BFAAA1",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Ya te va a contestar el mensaje"
+    },
+    "reaction": "👍",
+    "timestamp": 1725649829,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662546735@s.whatsapp.net",
+      "id": "D50CA6646ACB14F7708A16F017FA8F06"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "8B12C67081748E6479D181041B3BC318",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "Número de teléfono apagado",
+      "fileName": "ICGlvC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725650369,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B0D4EFCDF8F49842EAEFCA84FFBC6CF5",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "GPXJ8Y.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725650401,
+    "senderName": "Douglas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FF8EA376526778F6F65A736BBAE219F3",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Número correcto 71111471"
+    },
+    "reaction": "",
+    "timestamp": 1725650640,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662546735@s.whatsapp.net",
+      "id": "8B12C67081748E6479D181041B3BC318"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "21BC821DF62FC7B4E78AAFC426193BAB",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "El 71078753 no pertenece al cliente y se llama a otro y sale la contestadora",
+      "fileName": "BIRjX9.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725652105,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "4052693AB610F9DFF15C9388EB605F65",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0qIJiT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725652126,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "72CE675E60095B719A4B732AD9099AEA",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "Este barrio es muy peligroso, esa dirección es muy conflictiva, yo no voy a ingresar",
+      "fileName": "PHmUa3.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725652212,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "56E9F6DDAB673D889CE743AA76FA1305",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Se realiza anotación"
+    },
+    "reaction": "",
+    "timestamp": 1725652253,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "21BC821DF62FC7B4E78AAFC426193BAB"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4C7CB7333C8BEBF9E38A85BB9D3BBD2F",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Verlo con @ileana"
+    },
+    "reaction": "",
+    "timestamp": 1725652300,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "72CE675E60095B719A4B732AD9099AEA"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "17C189586D8432D389EDBFF09C63889F",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "caption": "Este número es equivocado no pertenece al cliente",
+      "fileName": "h2NZwe.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725652306,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A3E28CF3044BC56FC507E9F07AD7D559",
+    "remoteJid": "50685858261-1596557810@g.us",
+    "msgContext": {
+      "text": "Se realiza anotación"
+    },
+    "reaction": "",
+    "timestamp": 1725652580,
+    "senderName": "Ventas FRUN0 S.A.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "17C189586D8432D389EDBFF09C63889F"
+    }
+  }
+]

@@ -1,0 +1,251 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0FD5352BAFA595630D2",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Ft42Gc.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725578905,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3DB00ACEF0F18E0D18",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gerson.chaconmontoya@libertycr.com"
+    },
+    "reaction": "",
+    "timestamp": 1725578969,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB05A0BB688EAAD0281FC",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4kC820.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725579245,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4378171DCD0DF9634E",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "okay"
+    },
+    "reaction": "",
+    "timestamp": 1725579792,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "472FE96C8FFE314DDA",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "de acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725579794,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB01701FA450986FFA60C",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "q5bS5t.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725579886,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E387BBBFBEE37E9A58",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "okay me espero que ella me envie el correo"
+    },
+    "reaction": "",
+    "timestamp": 1725579942,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0C0AB85B002B6EAB2A9",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "W3g8mA.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725580076,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "50AAE1384517F0391F",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725580313,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB033D682B83E19E3A3F1",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "muchas gracias🙏🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725580360,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "88392052FDCA1A2AE7",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "con gusto, ya quedo, me cuenta que tal"
+    },
+    "reaction": "",
+    "timestamp": 1725581071,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "90FFA82D96040EE6B6",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uTqYdC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725581101,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6DABB4FFF32C52F207",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "confirma el correo porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725581108,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9C779E1E2CA58A2E",
+    "remoteJid": "50662570985@s.whatsapp.net",
+    "msgContext": {
+      "text": "que medio error"
+    },
+    "reaction": "",
+    "timestamp": 1725581116,
+    "senderName": "Gerson Chacón.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

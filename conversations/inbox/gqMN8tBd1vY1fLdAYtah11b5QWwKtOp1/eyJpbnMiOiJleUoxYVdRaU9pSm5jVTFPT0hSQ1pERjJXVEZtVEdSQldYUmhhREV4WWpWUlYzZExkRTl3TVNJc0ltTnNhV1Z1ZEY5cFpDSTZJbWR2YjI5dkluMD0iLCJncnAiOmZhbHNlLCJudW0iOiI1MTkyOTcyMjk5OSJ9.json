@@ -1,0 +1,155 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD2A59C61EF1112224F",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que tipos de Software para municipalidades ofrecen?"
+    },
+    "reaction": "",
+    "timestamp": 1725600881,
+    "senderName": "Sevixe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0A3A93E1295B7D6BA11",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725600886,
+    "senderName": "Sevixe",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CC80630A832CC8BFA6",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725629051,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEC40574708E59A84B7",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día quisiera mayor información"
+    },
+    "reaction": "",
+    "timestamp": 1725629091,
+    "senderName": "Sevixe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DDA819D2B8A88C32AB",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "En esta ocasión, estamos emocionados de mostrarte nuestra demostración de software 🖥️, una herramienta innovadora que simplifica la gestión de procesos municipales de forma eficiente y efectiva. Está preparado para cumplir las metas del plan de incentivo 💪, Impuesto Predial, Alcabalas, Arbitrios, Fiscalización Tributaria y muchos otros servicios más. ¡Integrado a Fiscalización Tributaria, Ejecución Coactiva, Catastro, comercialización y mucho más! 🏛️📊 ¿Estás listo para conocer más acerca de nuestra solución? ¡Te esperamos con ansias! 😉👍"
+    },
+    "reaction": "",
+    "timestamp": 1725629187,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0758BD64D4EE2CBD244",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le traemos una promoción que su municipalidad no puede dejar pasar 🚀. Presentamos nuestro *SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y CAJA* 📊, ¡todo a un solo costo de *S/.3999.00*! obtienes una *licencia perpetua del sistema*, ¡así que nunca tendrás que *preocuparte por renovaciones*! 🆓✨ Además, disfrutara de *soporte técnico* *24/7* durante *12 meses* 🕒, para que siempre estés acompañado ante cualquier consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725629377,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DAE349583E3C0D2A27",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "justos tenemos promoción para las pequeñas municipalidades con poco presupuesto par que puedan digitalizar"
+    },
+    "reaction": "",
+    "timestamp": 1725629432,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0899A23EFB573869D6C",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "coméntanos de que municipalidad nos escribe"
+    },
+    "reaction": "",
+    "timestamp": 1725629451,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB054FDEF2BB59A4CDCBF",
+    "remoteJid": "51929722999@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta 🙌🏼👀✉️"
+    },
+    "reaction": "",
+    "timestamp": 1725629826,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

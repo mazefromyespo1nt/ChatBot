@@ -1,0 +1,69 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "35594E50A116752B9CFB292BCAE84B51",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://docs.google.com/forms/d/e/1FAIpQLSfKqXvl9zXSxjs7OCT1QzpTyGbdYrwSjrD5XxoMv8aHLY9zNQ/viewform"
+    },
+    "reaction": "",
+    "timestamp": 1725733057,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CA75B3DEB4550BBE74",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://docs.google.com/forms/d/e/1FAIpQLSfKqXvl9zXSxjs7OCT1QzpTyGbdYrwSjrD5XxoMv8aHLY9zNQ/viewform"
+    },
+    "reaction": "",
+    "timestamp": 1725733092,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4EE36F49505D04B7C9DF6C8169AA39C2",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cansado de su señal WIFFI?\n¡HBO MAX gratis!\n+ 240 canales + 150MB\nRenueva con Liberty\nTotal ¢29.000 precio fijo \nFIBRA o Híbrido escribe 6132-8498"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725733188,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73864764C031D0DBA50E5CC0650FB5CF",
+    "remoteJid": "50662801661@s.whatsapp.net",
+    "msgContext": {
+      "text": "😍"
+    },
+    "reaction": "",
+    "timestamp": 1725976789,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50662801661@s.whatsapp.net",
+      "id": "9A8A7DA93DB3B263D0AB10FD6501F314"
+    }
+  }
+]

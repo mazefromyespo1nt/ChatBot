@@ -1,0 +1,84 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07AEAC61EA0470F866E",
+    "remoteJid": "50661323744@s.whatsapp.net",
+    "msgContext": {
+      "text": "71062785"
+    },
+    "reaction": "",
+    "timestamp": 1725723905,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5D0DF58AFC7034214F280B3D7F74DB04",
+    "remoteJid": "50661323744@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Maribel Oporto.\nAsesora Autorizada de Liberty.\nSerá un placer atenderte!\nPara solicitar servicios de internet, cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725724872,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C09DC39F5E92B3CC11DAD71F0E22ACA8",
+    "remoteJid": "50661323744@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725724876,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "26A4463ABC1DD4C1792D9F4333BF881D",
+    "remoteJid": "50661323744@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "esn8Re.odt",
+      "mimetype": "application/vnd.oasis.opendocument.text"
+    },
+    "reaction": "",
+    "timestamp": 1725732803,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4DB17C682FC5A45A8027BE40EDEC926E",
+    "remoteJid": "50661323744@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Maribel Oporto.\nAsesora Autorizada de Liberty.\nSerá un placer atenderte!\nPara solicitar servicios de internet, cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725732806,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

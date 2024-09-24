@@ -1,0 +1,108 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FED1BFC31D31291EF2163B5DFF47CBED",
+    "remoteJid": "50684951647@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725637742,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E026729D47A4020A2F",
+    "remoteJid": "50684951647@s.whatsapp.net",
+    "msgContext": {
+      "text": "aja"
+    },
+    "reaction": "",
+    "timestamp": 1725637788,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05ACF485529A729276D",
+    "remoteJid": "50684951647@s.whatsapp.net",
+    "msgContext": {
+      "text": "puede ser"
+    },
+    "reaction": "",
+    "timestamp": 1725637899,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0F58B781B772E0E9C65",
+    "remoteJid": "50684951647@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "Contrata el servicio",
+        "values": [
+          "",
+          "SI"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725637925,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "53E4C4CD45E4304F916ABA99C61534E1",
+    "remoteJid": "50684951647@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725637995,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C77C5C9F57E7EBD9D3",
+    "remoteJid": "50684951647@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "zqhCDnhFuJUVtKm9YESLTdOWa2fHaiWX.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725638022,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

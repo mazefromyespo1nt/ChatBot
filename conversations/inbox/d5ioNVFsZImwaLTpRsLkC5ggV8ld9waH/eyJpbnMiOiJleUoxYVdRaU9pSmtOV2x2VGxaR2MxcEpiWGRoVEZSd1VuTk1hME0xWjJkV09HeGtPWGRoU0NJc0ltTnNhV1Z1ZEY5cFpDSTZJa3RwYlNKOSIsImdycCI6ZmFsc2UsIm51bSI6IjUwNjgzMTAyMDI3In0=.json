@@ -1,0 +1,70 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F34553C1CA2D401890",
+    "remoteJid": "50683102027@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Carlos Leiva , como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio con los *beneficios de  campaña* 😃👇"
+    },
+    "reaction": "",
+    "timestamp": 1725734933,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A45919E2800383B0C7",
+    "remoteJid": "50683102027@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* antes costaba 37.500 colones *Puede adquirirlo a un súper precio* .Le incluye  :\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈",
+      "fileName": "pcKIqP.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725734971,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0B728F285E310EEFE7D",
+    "remoteJid": "50683102027@s.whatsapp.net",
+    "msgContext": {
+      "caption": "[12:31, 7/9/2024] Kimberly Liberty CR: Planes liberty con el *envio gratis🚚,  sin deposito y sin contrato, con la mejor cobertura de red fuera y dentro del país✈️* (centro america y norteamerica sin costo) . \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈 y conservamos su número si es  KOLBI o CLARO lo conservas si ya es Liberty te damos uno nuevo mejorado😄\n[12:32, 7/9/2024] Kimberly Liberty CR: Cualquier duda con gusto 😁",
+      "fileName": "KhIxT6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725735009,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01208DC40DA12B5FFEF",
+    "remoteJid": "50683102027@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier duda con gusto 😁"
+    },
+    "reaction": "",
+    "timestamp": 1725735025,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

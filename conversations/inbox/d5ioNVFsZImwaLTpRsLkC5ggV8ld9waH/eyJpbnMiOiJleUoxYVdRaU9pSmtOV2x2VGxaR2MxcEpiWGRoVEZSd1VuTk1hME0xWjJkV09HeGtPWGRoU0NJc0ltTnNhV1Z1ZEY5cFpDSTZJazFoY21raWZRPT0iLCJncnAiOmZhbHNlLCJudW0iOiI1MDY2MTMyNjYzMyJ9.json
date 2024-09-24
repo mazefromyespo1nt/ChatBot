@@ -1,0 +1,68 @@
+[
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "5DBA358B8F2BB7555A77C2539EBC1100",
+    "remoteJid": "50661326633@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aE2JQT.odt",
+      "mimetype": "application/vnd.oasis.opendocument.text"
+    },
+    "reaction": "",
+    "timestamp": 1725732803,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1D7CF53BBD668BEA4F7D36060324DB4F",
+    "remoteJid": "50661326633@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty. Será un placer atenderle!\nPara solicitar servicios de internet, cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725732805,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3FCC7C838CDB5F184D80E9BE0BA96B51",
+    "remoteJid": "50661326633@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para poder realizar la validación es necesario que nos envíe:\n\n- Foto por ambos lados de su documento de identidad que esté vigente o, legible, en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- Correo electrónico\n- Dirección exacta con provincia, cantón, distrito.\n- 2 Referencias de algún amigo o familiar en caso de no poder contactarle."
+    },
+    "reaction": "",
+    "timestamp": 1725936132,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B12A924B08B0AB1F028E6009083D7561",
+    "remoteJid": "50661326633@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725936133,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

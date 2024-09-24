@@ -1,0 +1,800 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "1EB35D185A023B524BB6B7C98E4864B5",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "RDX9VJ.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725498904,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "591B79A6C470217AFE09B2E381DF7421",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tD6G3s.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725498913,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A031C762FBBAC03E50F",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mmm. Interesante.\n\n\nToca que lo pase un poquito más rápido. Porque casi lo alcanzo a ver"
+    },
+    "reaction": "",
+    "timestamp": 1725502150,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573212200402@s.whatsapp.net",
+      "id": "1EB35D185A023B524BB6B7C98E4864B5"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF1C8F0CAF502528B9E",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero suena interesante eso"
+    },
+    "reaction": "",
+    "timestamp": 1725502156,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01D11AB6F365DD85E82",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le hacemos o q?"
+    },
+    "reaction": "",
+    "timestamp": 1725505019,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09D8143AD0977E7748E",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dijo q lo tenia con whatsaoo js"
+    },
+    "reaction": "",
+    "timestamp": 1725505028,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06A756364B5266FDF9B",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "api con node"
+    },
+    "reaction": "",
+    "timestamp": 1725505038,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB098EF96651919B080EF",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "El front no me dijo"
+    },
+    "reaction": "",
+    "timestamp": 1725505042,
+    "senderName": "Michaellin",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00BD187B8255558B3FE",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y q tenia docker"
+    },
+    "reaction": "",
+    "timestamp": 1725505046,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB688E9B945B7397122",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y en cuánto lo ofrece?"
+    },
+    "reaction": "",
+    "timestamp": 1725506066,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01010C49A4EA25B0E2C",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "60 usd"
+    },
+    "reaction": "",
+    "timestamp": 1725506420,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00A9F7B159052E49943",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vamos miti miti"
+    },
+    "reaction": "",
+    "timestamp": 1725506426,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABE4AB13E36C1EB1B61",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero vende el código para uno montarlo?"
+    },
+    "reaction": "",
+    "timestamp": 1725506469,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FAD658BCFE29E4F868",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725506502,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A16940AE97DF72CBEF2",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hagámosle a ver"
+    },
+    "reaction": "",
+    "timestamp": 1725506532,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C4FCD1F52FCFE2DB77",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mañana le concreto a ver"
+    },
+    "reaction": "",
+    "timestamp": 1725506544,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06837DE6D220356494B",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y q ojala no nos roben"
+    },
+    "reaction": "",
+    "timestamp": 1725506550,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACD9A767A4ACA584781",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725506553,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A965C0FC571184D226C",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eso"
+    },
+    "reaction": "",
+    "timestamp": 1725506562,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB039BBB110606170F175",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que version es la whatsapp js"
+    },
+    "reaction": "",
+    "timestamp": 1725506570,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3E2BB8AFE722D11BCD",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cómo así?"
+    },
+    "reaction": "",
+    "timestamp": 1725506594,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E2031DC2D53A200E6C",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "La version de la lib"
+    },
+    "reaction": "",
+    "timestamp": 1725506623,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AE3E556AFAF9E961DE",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es q me dijo q estaba usanod la 1.25"
+    },
+    "reaction": "",
+    "timestamp": 1725506631,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2E79C546AAE75DA1E2",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si. Esa tengo en lo que probé la semana pasada que funcionó"
+    },
+    "reaction": "",
+    "timestamp": 1725506714,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03AFFE496C25DB3913E",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "pXZurN.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725506804,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7EB7BA82B53858F515",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bien"
+    },
+    "reaction": "",
+    "timestamp": 1725506915,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB096A4CACDE70DFE14EF",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sera q nos roba?"
+    },
+    "reaction": "",
+    "timestamp": 1725506925,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB093F065B31B013A314B",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q el man es de mexico"
+    },
+    "reaction": "",
+    "timestamp": 1725506931,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08BD5A1A832DDC0DAF9",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eyyy bro te consigne"
+    },
+    "reaction": "",
+    "timestamp": 1725506949,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B02439E06F81000E34",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hahahhahahha"
+    },
+    "reaction": "",
+    "timestamp": 1725506951,
+    "senderName": "Michaellin",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACC758F9630C5559C5E",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hey bro. Responde"
+    },
+    "reaction": "",
+    "timestamp": 1725507026,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3A718171C81532791F65",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "E7Ovnz.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725507038,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0261D2477D386412CD9",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "HJahahhahahhahahha"
+    },
+    "reaction": "",
+    "timestamp": 1725507048,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB034107B602396FECE97",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Al menos no duele tanto a cuando me bloquearon y despues me desbloquearon"
+    },
+    "reaction": "",
+    "timestamp": 1725507064,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC049300880261C3563",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725507071,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00F2E5B4D13128BE870",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Solo se pierden 300 lucas"
+    },
+    "reaction": "",
+    "timestamp": 1725507072,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03D9D08E7DD78D66352",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hahahhahahhaha"
+    },
+    "reaction": "",
+    "timestamp": 1725507074,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABCFD73138A45CBC772",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esto ya no es nada"
+    },
+    "reaction": "",
+    "timestamp": 1725507079,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A227748749C7BF2547",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "A lo q todo ella se llevo no]"
+    },
+    "reaction": "",
+    "timestamp": 1725507100,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C003C1A92DF21D4AE8",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hahahhahahhahah"
+    },
+    "reaction": "",
+    "timestamp": 1725507103,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA09085390C4E9E305C",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me cuenta a ver qué le dice"
+    },
+    "reaction": "",
+    "timestamp": 1725507133,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B026F069111248BAE3",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo creo q le digo que para hacer el pago en la mañana"
+    },
+    "reaction": "",
+    "timestamp": 1725507162,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB037FB9EE40F0EA99F8D",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para iniciar el dia motivado"
+    },
+    "reaction": "",
+    "timestamp": 1725507167,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03115D83FB52BBDFC83",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hahahhahahhaha"
+    },
+    "reaction": "",
+    "timestamp": 1725507169,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFA846AFBE1E29ACED2",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725507544,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CDFBA5467BC4979A19",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esta raro el man"
+    },
+    "reaction": "",
+    "timestamp": 1725507618,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0202C9E1626D9B797B0",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q 60"
+    },
+    "reaction": "",
+    "timestamp": 1725507623,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D02D7F9BC68CA5FC30",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Despues q lo dejaba en 50"
+    },
+    "reaction": "",
+    "timestamp": 1725507627,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB050C2EE265C11905238",
+    "remoteJid": "573185907335@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le digo q mañana y me dice q mañana ya en 60 otra vez"
+    },
+    "reaction": "",
+    "timestamp": 1725507641,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

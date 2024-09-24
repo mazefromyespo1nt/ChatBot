@@ -1,0 +1,122 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F95710390F12C085613036C4CB7AFBC",
+    "remoteJid": "59178716848@s.whatsapp.net",
+    "msgContext": {
+      "text": "No estaba case"
+    },
+    "reaction": "",
+    "timestamp": 1725581204,
+    "senderName": "Ely",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0490A5811C87CB3A057",
+    "remoteJid": "59178716848@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725581205,
+    "senderName": "Ely",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "78EF5C76568568641E5FDFC7F1F26BA9",
+    "remoteJid": "59178716848@s.whatsapp.net",
+    "msgContext": {
+      "text": "Abia viajado"
+    },
+    "reaction": "",
+    "timestamp": 1725581213,
+    "senderName": "Ely",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB06C2B798FE6A7E9DAC6",
+    "remoteJid": "59178716848@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725581214,
+    "senderName": "Ely",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AF3EBA81894175F5CA862F0FFEF19BA6",
+    "remoteJid": "59178716848@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mañana amig"
+    },
+    "reaction": "",
+    "timestamp": 1725581236,
+    "senderName": "Ely",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB04135F19F9349BC7205",
+    "remoteJid": "59178716848@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725581237,
+    "senderName": "Ely",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

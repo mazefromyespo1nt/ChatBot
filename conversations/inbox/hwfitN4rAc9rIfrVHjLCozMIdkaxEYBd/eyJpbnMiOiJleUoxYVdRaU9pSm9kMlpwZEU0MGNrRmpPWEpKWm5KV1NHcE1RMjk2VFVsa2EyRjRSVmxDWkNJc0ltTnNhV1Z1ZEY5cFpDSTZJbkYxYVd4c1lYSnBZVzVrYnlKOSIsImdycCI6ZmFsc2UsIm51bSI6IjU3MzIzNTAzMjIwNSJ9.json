@@ -1,0 +1,247 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73CAEE0D11358F34F30A2DA822F66AF1",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hi"
+    },
+    "reaction": "",
+    "timestamp": 1725831654,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CDF386E558397FABDA2C5C7C13A87FD5",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/p/ymnwo1UdjrphqvSK/?mibextid=xfxF2i"
+    },
+    "reaction": "",
+    "timestamp": 1725831721,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "70197D4393E1796A51276E1858BE1DFC",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/r/DQkfkvLSt9HYaQUr/?mibextid=xfxF2i"
+    },
+    "reaction": "",
+    "timestamp": 1725831742,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C239BE787F4B55B8CC8E73D84C812B7C",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hi"
+    },
+    "reaction": "",
+    "timestamp": 1725832001,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C9D1AF5237B2053FF61FA57E218ABD83",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725832016,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "27984D032C7238796283BAA68495A2F1",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725832028,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3398E6E0255BA80246F310EC80A1DC56",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amor"
+    },
+    "reaction": "",
+    "timestamp": 1725832195,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D1CEC6461CF67D730926F228360AD77A",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725832614,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DF6C3EE4AAA3F514A40E095C172B95E9",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725832625,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE286CEB480941AAFBEC96CF3CB34CC3",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725832632,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "438163DFE7AFD4061D067C80BA269DA4",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725832637,
+    "senderName": "Surmay",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A3D44E2A553F0BDDE676D14FCABBDFA3",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://youtu.be/WkecOTBmzwI?si=Fe1JBMHbtEn9EPp9"
+    },
+    "reaction": "",
+    "timestamp": 1725837900,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "88043C748BC78B6422",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bJbLzW.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725843852,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "18EEE472693FD21F268AFB60907FE69F",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "🍑"
+    },
+    "reaction": "",
+    "timestamp": 1725845887,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25284A18E3D0ACE5022C8EF29BB47934",
+    "remoteJid": "573235032205@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/8QQP1KmojCmmvUmr/?mibextid=xfxF2i"
+    },
+    "reaction": "",
+    "timestamp": 1725926383,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

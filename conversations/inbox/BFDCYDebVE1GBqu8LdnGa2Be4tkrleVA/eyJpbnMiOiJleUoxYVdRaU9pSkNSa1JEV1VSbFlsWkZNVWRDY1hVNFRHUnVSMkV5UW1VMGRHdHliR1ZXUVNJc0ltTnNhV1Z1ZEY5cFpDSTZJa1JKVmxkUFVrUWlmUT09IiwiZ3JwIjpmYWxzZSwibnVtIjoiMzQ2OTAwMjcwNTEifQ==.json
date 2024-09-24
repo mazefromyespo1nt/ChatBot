@@ -1,0 +1,171 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B66B4B96E31295A0D17CDBE664AF7519",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "La menta es muy buena🥰"
+    },
+    "reaction": "",
+    "timestamp": 1725872662,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3AB7F8AD6E7130A57541"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ACAFB89089CF3DEB88136A9705366FB3",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pregunta cuál es la otra cosa que le hecha para no ir a embarrarla 😅"
+    },
+    "reaction": "",
+    "timestamp": 1725872814,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08BA88CF557B9725EE597CB919C0D931",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "Porque donde sea algún té la cagas 🥴"
+    },
+    "reaction": "",
+    "timestamp": 1725872843,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BB6A69DF0B1D7D9566D615FD7AE5EE94",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://youtube.com/shorts/ZswRJwYZNuk?si=9m6l39EE62CRyNyo"
+    },
+    "reaction": "",
+    "timestamp": 1725882422,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3AE93726C958250CE62A",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4MbfJy.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725883140,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0915A9663690BB7D60",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te llamo ahora"
+    },
+    "reaction": "",
+    "timestamp": 1725883148,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E8ED524833DFA3DC9A7EC098D7989D26",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "😅 vale después hablamos"
+    },
+    "reaction": "",
+    "timestamp": 1725883154,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A2FCE25CA0A856EDA8F",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lGNH5w.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725888688,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FEC0A187276F849C54B3CF83A3E4D912",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "text": "Valeee🤩"
+    },
+    "reaction": "",
+    "timestamp": 1725888713,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "60CD0CDF81BC20EB877858BFC41D869F",
+    "remoteJid": "34690027051@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "51TsVZ.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725905516,
+    "senderName": "@yamilopezarce ✨️❤️🦋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

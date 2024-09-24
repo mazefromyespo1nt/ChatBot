@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4FD294CE7387BB8FD10D02E7E5C8E5C0",
+    "remoteJid": "50672068473@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725919222,
+    "senderName": "El Hijo De Mi Mamá",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2E21CE6FAEEFA4DA5B3BF5A382FB52DD",
+    "remoteJid": "50672068473@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725919287,
+    "senderName": "El Hijo De Mi Mamá",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

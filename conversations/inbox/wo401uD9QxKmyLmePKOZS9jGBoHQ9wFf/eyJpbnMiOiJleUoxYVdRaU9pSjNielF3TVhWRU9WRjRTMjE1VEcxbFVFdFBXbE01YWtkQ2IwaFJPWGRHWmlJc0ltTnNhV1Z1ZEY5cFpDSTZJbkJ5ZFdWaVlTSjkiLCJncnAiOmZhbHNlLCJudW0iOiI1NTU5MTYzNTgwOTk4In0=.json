@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5A5ECB588E39C",
+    "remoteJid": "5559163580998@s.whatsapp.net",
+    "msgContext": {
+      "text": "Olá GOMEZ, este é uma mensagem sobre o cadastro da DOUGLAS!\n\nSegue os dados da sua empresa:\n\nNome: DOUGLAS\nEmail: dgomezabala76@gmail.com\nSenha: Blooming123\nData Vencimento Trial: 10/09/2024"
+    },
+    "reaction": "",
+    "timestamp": 1725739612,
+    "senderName": "HDMS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

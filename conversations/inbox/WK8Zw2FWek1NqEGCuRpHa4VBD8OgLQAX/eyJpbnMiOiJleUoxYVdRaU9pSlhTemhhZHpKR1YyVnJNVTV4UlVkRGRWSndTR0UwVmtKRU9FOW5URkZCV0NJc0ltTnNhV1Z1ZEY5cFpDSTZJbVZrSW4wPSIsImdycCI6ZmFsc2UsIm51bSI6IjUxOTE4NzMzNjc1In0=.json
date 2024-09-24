@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7563FE0778ACC233C1D22FA5574BF6AC",
+    "remoteJid": "51918733675@s.whatsapp.net",
+    "msgContext": {
+      "text": "Test"
+    },
+    "reaction": "",
+    "timestamp": 1725734996,
+    "senderName": "Techflux",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00BEB52104C1C18B919",
+    "remoteJid": "51918733675@s.whatsapp.net",
+    "msgContext": {
+      "text": "rrrr"
+    },
+    "reaction": "",
+    "timestamp": 1725735013,
+    "senderName": "Techflux",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

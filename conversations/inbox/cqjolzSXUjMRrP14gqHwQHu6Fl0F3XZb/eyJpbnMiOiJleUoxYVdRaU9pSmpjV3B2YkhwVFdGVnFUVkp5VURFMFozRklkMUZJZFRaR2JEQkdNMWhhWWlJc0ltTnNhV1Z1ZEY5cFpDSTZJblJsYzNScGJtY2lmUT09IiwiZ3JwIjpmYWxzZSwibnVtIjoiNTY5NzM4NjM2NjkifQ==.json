@@ -1,0 +1,126 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "A1FF5C6F5F473BDC689B4635E02455F0",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5B5ImJ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725892140,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7B4FE371D6B18209FE",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero ahí decía que también soportan la API"
+    },
+    "reaction": "",
+    "timestamp": 1725895944,
+    "senderName": "Cristobal",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "22B2A4AB2680BA0FDD",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "text": "sip"
+    },
+    "reaction": "",
+    "timestamp": 1725895996,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8AFEBD90CF9EDDD2D8",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "caption": "permite hacer esto",
+      "fileName": "wVJVwx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725896009,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EF137F957644FAFFDF",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "text": "esa es la api"
+    },
+    "reaction": "",
+    "timestamp": 1725896011,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CE30B10D2ED683C51F",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona bien, este mensaje te lo envio de la plataforma"
+    },
+    "reaction": "",
+    "timestamp": 1725896194,
+    "senderName": "Cristobal",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "E47DAF280BBC71AEAF",
+    "remoteJid": "56973863669@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "WWBh6G.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725896231,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

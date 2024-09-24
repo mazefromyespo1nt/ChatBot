@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "1019A65C4A3D45060C1328D74E309286",
+    "remoteJid": "50671046336@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uzxqam.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725579978,
+    "senderName": "⚽jeka⚽",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F90ED46D07DA97ACD2",
+    "remoteJid": "50671046336@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725580269,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

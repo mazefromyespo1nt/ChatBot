@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03CF310A211054E8147",
+    "remoteJid": "50661323326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725662267,
+    "senderName": "Marco Correa Asesor Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08DCD4721EC550AD956",
+    "remoteJid": "50661323326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725662761,
+    "senderName": "Marco Correa Asesor Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB088979C89655FCCF26F",
+    "remoteJid": "50661323326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725663310,
+    "senderName": "Marco Correa Asesor Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

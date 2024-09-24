@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "495E99705D7833CA27EEA13262538572",
+    "remoteJid": "50671046212@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725570143,
+    "senderName": "Any",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A995540AD293CEDD88",
+    "remoteJid": "50671046212@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes! \n\nLe saluda Luis Calderón de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactarle con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos planes postpago que se adapten a ti.\n\nEn Liberty Costa Rica tenemos opciones increíbles que podrían interesarte. Desde planes flexibles hasta cobertura confiable, ¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso.\n\nDigita 1️⃣ si deseas más información y contar con su autorización, o bien digita 2️⃣ para darte de baja y no recibir más mensajes como este.\n\nUn cordial saludo."
+    },
+    "reaction": "",
+    "timestamp": 1725570592,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

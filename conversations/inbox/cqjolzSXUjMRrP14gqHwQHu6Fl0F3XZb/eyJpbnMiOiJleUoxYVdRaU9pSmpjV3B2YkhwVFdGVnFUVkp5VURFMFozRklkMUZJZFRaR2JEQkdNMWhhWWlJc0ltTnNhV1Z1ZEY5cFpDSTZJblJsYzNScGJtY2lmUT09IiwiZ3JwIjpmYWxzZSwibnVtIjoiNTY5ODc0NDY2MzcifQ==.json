@@ -1,0 +1,288 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0098DC9CFB1F6EE0E63",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "hay que ver mas adelante la propuesta de diseno para presentarla a Cristobal y avanzar en el ticket"
+    },
+    "reaction": "",
+    "timestamp": 1725892135,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "321548A37B6B9C5CCA5408134DF7F1E6",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "La propuesta del chat?"
+    },
+    "reaction": "",
+    "timestamp": 1725892885,
+    "senderName": "David Rangel",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0312E92F9A34BC5E9C3",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "a que chat te refieres?"
+    },
+    "reaction": "",
+    "timestamp": 1725893099,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FDB13A3C76D2F652DE595F80B0E34F1C",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725893107,
+    "senderName": "David Rangel",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "F439F1FBB4A630B64F62F6238B3A05CC",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "b78HlC.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725893120,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A5F4A087F80461C5FD0",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "amM6gZ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725893167,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A72BCDFA9BE98924BE3",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XeR15Z.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725893185,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9D5C82E6918EE98CB2D908D34890228C",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aah ya si, si quieres nos juntamos después de almuerzo y lo vemos"
+    },
+    "reaction": "",
+    "timestamp": 1725893225,
+    "senderName": "David Rangel",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "56987446637@s.whatsapp.net",
+      "id": "3A5F4A087F80461C5FD0"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ABE2141CA7D178AC62E216400232AB7F",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vale perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725893233,
+    "senderName": "David Rangel",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "56987446637@s.whatsapp.net",
+      "id": "3A72BCDFA9BE98924BE3"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03ED90D4741BC4F70C9",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "yapoo no hay drama"
+    },
+    "reaction": "",
+    "timestamp": 1725893240,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0745C8120F7C02817E3",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "yo saldre a almorzar a las 3"
+    },
+    "reaction": "",
+    "timestamp": 1725893256,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FD02CE239E4F4716AA42994C007840B5",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vale perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725893363,
+    "senderName": "David Rangel",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA927E6424E744D386",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "que has estado haciendo? harto mantenimiento?"
+    },
+    "reaction": "",
+    "timestamp": 1725893402,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB088A49B795C6E7FAC6B",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya quedo ok el plan nuevo de zenvia?"
+    },
+    "reaction": "",
+    "timestamp": 1725893423,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A66EBFB1E6D81E54E3B",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dfXLZm.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725895389,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB024CB784905EDD46468",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://bot-whatsapp.netlify.app/"
+    },
+    "reaction": "",
+    "timestamp": 1725896218,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B3718B26D6F4032E35",
+    "remoteJid": "56987446637@s.whatsapp.net",
+    "msgContext": {
+      "text": "habias visto este?"
+    },
+    "reaction": "",
+    "timestamp": 1725896225,
+    "senderName": "Sebastián Maulén",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

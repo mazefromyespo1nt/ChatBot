@@ -1,0 +1,34 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB055658858359896FDDA",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "4"
+    },
+    "reaction": "",
+    "timestamp": 1725981018,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0628FB2C6CB9EEE0C3C",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725981018,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

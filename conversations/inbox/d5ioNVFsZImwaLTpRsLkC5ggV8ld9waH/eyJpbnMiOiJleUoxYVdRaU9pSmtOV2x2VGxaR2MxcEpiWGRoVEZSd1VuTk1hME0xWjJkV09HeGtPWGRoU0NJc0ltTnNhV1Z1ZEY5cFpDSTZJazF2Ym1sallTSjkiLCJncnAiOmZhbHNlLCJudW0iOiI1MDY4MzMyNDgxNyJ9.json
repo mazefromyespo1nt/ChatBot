@@ -1,0 +1,81 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03AA64701C7447D25AD",
+    "remoteJid": "50683324817@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para adquirir nuestro servicio requerimos\n- *Foto por ambos lados de su documento de identidad* que esté vigente o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Foto tipo selfy de su documento de identidad que esté vigente* o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Correo electrónico*\n- *Dirección exacta* lugar de residencia con *provincia, cantón, distrito* .\n- *2 nombres y números de referencia* por si no lográramos poner nos en contacto al momento de hacer la entrega",
+      "fileName": "LoeUkG.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725920728,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB08C1D06A6747FEFDF63",
+    "remoteJid": "50683324817@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "W7lnZE.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725980003,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB054FB907C645C38B3BC",
+    "remoteJid": "50683324817@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "EcGGgd.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725980543,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "72EC51778B0F317010AF3B72E0CD703F",
+    "remoteJid": "50683324817@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725980863,
+    "senderName": "Rafa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

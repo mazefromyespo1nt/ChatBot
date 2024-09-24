@@ -1,0 +1,70 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C17AAD2EFF73F7B62A9515766EB5C310",
+    "remoteJid": "50672070125@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725905438,
+    "senderName": "Nan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0FF50D5A38C055F8B95",
+    "remoteJid": "50672070125@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenos días. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "AvGFUf.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725905472,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0FB6DC772CB7BC3AEDE",
+    "remoteJid": "50672070125@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Y también contamos con oferta en los servicios de hogar como cable e internet. Que también se cancela la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "40oiex.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725905487,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09A7987421852445AE8",
+    "remoteJid": "50672070125@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que servicios te interesa mas?\n1️⃣ Planes postpago\n2️⃣ Servicios de hogar (CABLE e INTERNET)"
+    },
+    "reaction": "",
+    "timestamp": 1725913313,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

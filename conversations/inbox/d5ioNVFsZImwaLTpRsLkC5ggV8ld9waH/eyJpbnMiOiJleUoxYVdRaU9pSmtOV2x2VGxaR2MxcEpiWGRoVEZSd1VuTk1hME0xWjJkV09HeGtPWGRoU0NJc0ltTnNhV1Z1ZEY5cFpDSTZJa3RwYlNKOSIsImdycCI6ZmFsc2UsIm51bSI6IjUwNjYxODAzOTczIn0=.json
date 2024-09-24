@@ -1,0 +1,121 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06AF675D64944D13A11",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Dianita me ayudas revisar cuantos meses le falta a un cliente para cancelar el celular"
+    },
+    "reaction": "",
+    "timestamp": 1725908353,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0613822C066C7B29F14",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dianita y me pasas el contrato de evelyn no lo tengo"
+    },
+    "reaction": "",
+    "timestamp": 1725925370,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB0369EB900BCECD89AA6",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "caption": "CONTRATO_EVELYN GARCÍA.pdf",
+      "fileName": "Ciy8sz.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725925406,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E357C718B39AA22A53",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Kim"
+    },
+    "reaction": "",
+    "timestamp": 1725925425,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661328498@s.whatsapp.net",
+      "id": "3EB06AF675D64944D13A11"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02A2368E7D7AED01640",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "tienes la cédula"
+    },
+    "reaction": "",
+    "timestamp": 1725925433,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EF0B7C3F756F5B07D7",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "207020319"
+    },
+    "reaction": "",
+    "timestamp": 1725925523,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0249F908B0F5158C7A8",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KmaMwj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725925712,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

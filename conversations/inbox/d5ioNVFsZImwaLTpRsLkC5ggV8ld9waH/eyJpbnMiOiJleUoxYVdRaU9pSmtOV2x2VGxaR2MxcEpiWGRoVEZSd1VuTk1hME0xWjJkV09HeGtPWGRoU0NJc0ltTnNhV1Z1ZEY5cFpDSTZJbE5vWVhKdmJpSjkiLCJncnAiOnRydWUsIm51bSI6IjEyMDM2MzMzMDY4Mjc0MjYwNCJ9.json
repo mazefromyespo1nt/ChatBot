@@ -1,0 +1,749 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "2DFF4236E23417C19C12F7419AE50CAD",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "Este cliente indica que hasta el próximo miércoles puede recibir, que el había informado",
+      "fileName": "lZomwI.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725642884,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "92E46E125DDE9F6E8505AC314EABC37F",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Me indican si lo regreso a oficina"
+    },
+    "reaction": "",
+    "timestamp": 1725642898,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "2DFF4236E23417C19C12F7419AE50CAD"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01FB605F2150C1E1A85",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Compañero me compartes las evidencias"
+    },
+    "reaction": "",
+    "timestamp": 1725643214,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "2DFF4236E23417C19C12F7419AE50CAD"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB041AD44B037366D21CD",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Dejate la unidad ahi y esta la entregas el miercoles"
+    },
+    "reaction": "",
+    "timestamp": 1725643241,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "92E46E125DDE9F6E8505AC314EABC37F"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "70C4EC0EFE24D7D3A0BC10FE5B9C59EC",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5K3jH6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍",
+    "timestamp": 1725643272,
+    "senderName": "Kenneth Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "4953E71ABED6CBE45B585B47A7B00575",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mQp6bM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725643272,
+    "senderName": "Kenneth Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "ED7A32CFB5486E7F242BA2B8A20E17FC",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ApLsiO.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725643296,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "40495270CBF06E10DD5C68D21614130A",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "clienta indica que no puede pagar ahorita esta en el trabajo y le pagan hasta mas tarde",
+      "fileName": "711Idd.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725643725,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9349551BA0FDFC0DD9319C1220CD00DB",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3tKkG9.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725643732,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB014527BCFE2918BE35B",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Entendido, reagendamos la visita compañero"
+    },
+    "reaction": "",
+    "timestamp": 1725643767,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB038E91B9A07AD536FAC",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "que otro dia esta en ruta?"
+    },
+    "reaction": "",
+    "timestamp": 1725643778,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3DC03F03FAC2891C893CFBC6667346F2",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "tendtias que preguntarle a ile es que no es mi ruta y no estoy seguro que otro dia vienen aqui"
+    },
+    "reaction": "👍",
+    "timestamp": 1725643812,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661144450@s.whatsapp.net",
+      "id": "3EB038E91B9A07AD536FAC"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "54E781B21CD87A0E44ACDB14380B6ABA",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "cliente no contesta",
+      "fileName": "w9NumR.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725644060,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "F1BE11B2318DDBC1FEDB5076DED8BB34",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "26lkvO.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725644065,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CA87B104EFFC6D40A6",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "se dejan comentarios en sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725644161,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661673135@s.whatsapp.net",
+      "id": "40495270CBF06E10DD5C68D21614130A"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D45C4768705584195D553090ED0C1AAF",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "cliente indica que no se encuentra en la casa",
+      "fileName": "oWxkNK.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725644358,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661673135@s.whatsapp.net",
+      "id": "54E781B21CD87A0E44ACDB14380B6ABA"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A3B44C6AB415D54F9D",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Listo procedemos a dejar comentarios"
+    },
+    "reaction": "",
+    "timestamp": 1725644465,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661673135@s.whatsapp.net",
+      "id": "D45C4768705584195D553090ED0C1AAF"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "06CB51D479DDA23BFAF2DF1D03DF7494",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "e7k5ng.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725644473,
+    "senderName": "Steph🥰",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9D25BFB01587007C91E35F5A858939C3",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "😅"
+    },
+    "reaction": "",
+    "timestamp": 1725644474,
+    "senderName": "Steph🥰",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "16D14452433A471393A1B0E1F579B476",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Este paquete hay que devolverlo guía FYO49"
+    },
+    "reaction": "",
+    "timestamp": 1725644526,
+    "senderName": "Steph🥰",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "CFFDB9A019BAC937D95499FF0814F7BB",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0ChzKE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍",
+    "timestamp": 1725646318,
+    "senderName": "Kenneth Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D1396857270434179DC324B67E717AE7",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "Se coordino punto de encuentro para la entrega pero cliente no contesta",
+      "fileName": "seDLaZ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725648387,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05BE13F3BDB45DC2350",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "ya te ayudo"
+    },
+    "reaction": "",
+    "timestamp": 1725648478,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661231837@s.whatsapp.net",
+      "id": "D1396857270434179DC324B67E717AE7"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03463A9A52D927B0E32",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "No responde lllamadas si no responde a tus mensajes en 5 min continuas la ruta"
+    },
+    "reaction": "",
+    "timestamp": 1725648742,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B20528EA68F87FA7460F73EC99F12952",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "cliente paga por sinpe",
+      "fileName": "D9Styr.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725649004,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7048ECE8165C5087B84AD871D01B1C33",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Ha enviado 31,050.00 Colones a CONTACT_CENTER_LATAM por SINPE Movil, marlene********. Comprobante 2024090615283005190132795."
+    },
+    "reaction": "",
+    "timestamp": 1725649012,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "94E658918857B32AD4C18A14F2D2AA20",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "me confirman porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725649071,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5DBAE9A9BEAF31A4DE671B659ED27C7A",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "?? es que ya estoy aqui y ocupo seguir la ruta"
+    },
+    "reaction": "",
+    "timestamp": 1725649198,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E2C22515804A0FB8EC461E9606D89D12",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "@50664120735  @50661144450  nos ayuda"
+    },
+    "reaction": "",
+    "timestamp": 1725649303,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661673135@s.whatsapp.net",
+      "id": "7048ECE8165C5087B84AD871D01B1C33"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8C61C23C9EF7222D60E7905062252E7D",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "????"
+    },
+    "reaction": "",
+    "timestamp": 1725649430,
+    "senderName": "javier rojas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FAAA2BC6396DF5D27381F5C5E61EAF6D",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Un momento compañero ya me están confirmando"
+    },
+    "reaction": "",
+    "timestamp": 1725649455,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F2986F73BD2CA0A96550601AC223A7F8",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Listo compañero esta confirmado"
+    },
+    "reaction": "",
+    "timestamp": 1725649505,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7F5F1D1F134E59A2EED9951D8834239C",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "Sigue sin contestar",
+      "fileName": "wFTL16.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍🏼",
+    "timestamp": 1725649552,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661144450@s.whatsapp.net",
+      "id": "3EB03463A9A52D927B0E32"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AD1C244D45BBF21030908AADE40C5541",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Dale continua la ruta"
+    },
+    "reaction": "🆗",
+    "timestamp": 1725649575,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "36BE9A5E552A73E4AE77E43FC0D4C6A3",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lVxqiY.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725650903,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B2FA7431731CDF6B6EA2CAEE659EDC63",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "Me confirman sinpe",
+      "fileName": "bDf6s0.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725650916,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "851ABA53E53664B219C2ED6BE07B182E",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Estoy a la espera compañero, en breve re informo"
+    },
+    "reaction": "",
+    "timestamp": 1725651038,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "A0C8F9484E6157ED1EEA5C6F9A0C4AF4",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "Cliente paga en efectivo",
+      "fileName": "p6zdBY.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍🏼",
+    "timestamp": 1725651492,
+    "senderName": "Kenneth Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3894FC4A2903EF1A194790CD888FA9D0",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "f9gDvE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725651493,
+    "senderName": "Kenneth Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2C35EBDA23072FA7890C2F0DD10694B9",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Aun continuo a la espera compañero"
+    },
+    "reaction": "",
+    "timestamp": 1725651559,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "B2FA7431731CDF6B6EA2CAEE659EDC63"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "95204C3D7E351A3F5164BC2F2319EC03",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Listo compañero ya confirmaron"
+    },
+    "reaction": "",
+    "timestamp": 1725651791,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663653339@s.whatsapp.net",
+      "id": "36BE9A5E552A73E4AE77E43FC0D4C6A3"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "65B7549FE68C0EA011E3AF79DAB51FD3",
+    "remoteJid": "120363330682742604@g.us",
+    "msgContext": {
+      "text": "Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725651802,
+    "senderName": "Logística Fruno Guanacast",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

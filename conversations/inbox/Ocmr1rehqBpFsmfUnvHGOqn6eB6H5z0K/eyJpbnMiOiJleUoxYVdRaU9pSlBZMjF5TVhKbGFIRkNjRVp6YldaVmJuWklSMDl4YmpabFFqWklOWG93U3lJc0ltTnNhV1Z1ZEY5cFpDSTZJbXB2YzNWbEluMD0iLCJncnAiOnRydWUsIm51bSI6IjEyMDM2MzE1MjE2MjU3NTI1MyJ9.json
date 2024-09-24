@@ -1,0 +1,50 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ACDC7F666EAB9C59AE8",
+    "remoteJid": "120363152162575253@g.us",
+    "msgContext": {
+      "text": "Buenas tardes. Necesito realizar una consulta acerca del sistema por favor me indican un número para contactarme. Quedo atento gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725557916,
+    "senderName": "Ab Anthony Bombón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A76EB568FBDED65124",
+    "remoteJid": "120363152162575253@g.us",
+    "msgContext": {
+      "text": "Buenos días le saluda Raquel jefa de soporte de GETSOFT ERP, en este momento le llamo"
+    },
+    "reaction": "",
+    "timestamp": 1725558096,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0A1BA0CF01683A3E2B",
+    "remoteJid": "120363152162575253@g.us",
+    "msgContext": {
+      "text": "para solventar sus dudas"
+    },
+    "reaction": "",
+    "timestamp": 1725558100,
+    "senderName": "Raquel Payehuanca -Jefa de Soporte GETSOFT ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

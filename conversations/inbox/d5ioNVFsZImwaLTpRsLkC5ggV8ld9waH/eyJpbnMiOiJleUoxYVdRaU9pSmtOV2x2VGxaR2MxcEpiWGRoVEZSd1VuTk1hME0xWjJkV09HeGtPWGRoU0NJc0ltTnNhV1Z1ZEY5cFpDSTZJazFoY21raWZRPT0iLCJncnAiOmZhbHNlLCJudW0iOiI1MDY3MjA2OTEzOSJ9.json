@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "42E7B1B8EFD08A109A8893E7407F1293",
+    "remoteJid": "50672069139@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para nosotros es un gusto atenderte, ¿Cómo podemos ayudarle?"
+    },
+    "reaction": "",
+    "timestamp": 1725915709,
+    "senderName": "Ingrid Hernández Villalobos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E4F3D661566180CCAF01D2A7EF158617",
+    "remoteJid": "50672069139@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por tu mensaje. En este momento no podemos responder, pero lo haremos lo antes posible."
+    },
+    "reaction": "",
+    "timestamp": 1725915710,
+    "senderName": "Ingrid Hernández Villalobos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

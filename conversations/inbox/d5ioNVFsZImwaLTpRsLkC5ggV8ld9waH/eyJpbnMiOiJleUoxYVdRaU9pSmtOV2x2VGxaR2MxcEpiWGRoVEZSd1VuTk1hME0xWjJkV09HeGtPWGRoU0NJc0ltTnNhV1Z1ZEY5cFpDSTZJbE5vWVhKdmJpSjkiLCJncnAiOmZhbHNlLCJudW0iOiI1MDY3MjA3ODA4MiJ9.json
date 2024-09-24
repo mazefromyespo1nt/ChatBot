@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E9AB1DBD08C8FB2901EBCD87C99CFF20",
+    "remoteJid": "50672078082@s.whatsapp.net",
+    "msgContext": {
+      "text": "si puedes me llamas"
+    },
+    "reaction": "",
+    "timestamp": 1725906105,
+    "senderName": "Rodolfo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

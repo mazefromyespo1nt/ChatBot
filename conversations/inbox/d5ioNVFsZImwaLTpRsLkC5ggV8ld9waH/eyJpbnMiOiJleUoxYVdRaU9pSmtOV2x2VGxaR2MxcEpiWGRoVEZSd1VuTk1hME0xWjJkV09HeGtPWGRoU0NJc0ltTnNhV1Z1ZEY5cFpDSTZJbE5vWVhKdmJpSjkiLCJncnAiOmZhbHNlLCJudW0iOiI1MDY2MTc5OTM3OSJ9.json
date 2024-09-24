@@ -1,0 +1,130 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0437FBC59CA08401297",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725910072,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B8AED5124A83FF71C0",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725910184,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D22A525B0A44F702B2",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725911399,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09AE6855C0746421E4E",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725915011,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068B897F1B622DEB697",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725915776,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01367CC22FD2E237D2E",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725916453,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DA0DC959FBA49042A7",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725917257,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB094584DEE65D0932A08",
+    "remoteJid": "50661799379@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725917923,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

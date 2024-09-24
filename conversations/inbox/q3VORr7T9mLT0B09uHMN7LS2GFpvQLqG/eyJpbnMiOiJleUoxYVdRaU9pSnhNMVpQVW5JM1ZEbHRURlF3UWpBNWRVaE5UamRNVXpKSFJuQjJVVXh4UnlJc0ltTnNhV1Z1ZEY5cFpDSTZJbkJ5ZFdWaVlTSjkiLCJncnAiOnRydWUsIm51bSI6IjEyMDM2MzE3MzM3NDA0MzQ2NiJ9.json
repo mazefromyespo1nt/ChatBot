@@ -1,0 +1,21 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0F2B09D8A0D0B7564FCD7DF20576101D",
+    "remoteJid": "120363173374043466@g.us",
+    "msgContext": {
+      "text": "Si es a grouse te puedes ir en camión"
+    },
+    "reaction": "",
+    "timestamp": 1725770627,
+    "senderName": "Arturo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215543410184@s.whatsapp.net",
+      "id": "3A3DDE613D88626926CD"
+    }
+  }
+]

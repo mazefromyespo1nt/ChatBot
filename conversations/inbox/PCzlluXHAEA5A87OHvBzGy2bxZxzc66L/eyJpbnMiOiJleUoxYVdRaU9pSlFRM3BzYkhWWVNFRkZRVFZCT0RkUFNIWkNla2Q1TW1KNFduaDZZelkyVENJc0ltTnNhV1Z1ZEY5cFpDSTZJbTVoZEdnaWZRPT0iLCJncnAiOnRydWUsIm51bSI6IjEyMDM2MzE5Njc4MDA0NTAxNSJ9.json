@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB08612C1AE63F683AC7D",
+    "remoteJid": "120363196780045015@g.us",
+    "msgContext": {
+      "text": "Confirmo de recibido, muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725649770,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

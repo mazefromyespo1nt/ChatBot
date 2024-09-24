@@ -1,0 +1,86 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F8FDCCC9379E50B4B2AE4C15C5788F92",
+    "remoteJid": "50672075231@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si claro"
+    },
+    "reaction": "",
+    "timestamp": 1725748488,
+    "senderName": "Danna Rojas 😊",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB07A56648A260C35EAE1",
+    "remoteJid": "50672075231@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenos días. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "RH0n3G.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725893507,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB02035E0EAFD8B7E6E9E",
+    "remoteJid": "50672075231@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Y también contamos con oferta en los servicios de hogar como cable e internet. Que también se cancela la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "RPrscV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725893517,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0811FD7345ED7A802E5",
+    "remoteJid": "50672075231@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que servicios te interesa mas?\n1️⃣ Planes postpago\n2️⃣ Servicios de hogar (CABLE e INTERNET)"
+    },
+    "reaction": "",
+    "timestamp": 1725913510,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "92FBBDEB085AABF24D12268C26C6AF18",
+    "remoteJid": "50672075231@s.whatsapp.net",
+    "msgContext": {
+      "text": "😃😃😃😃😃"
+    },
+    "reaction": "",
+    "timestamp": 1725923956,
+    "senderName": "Danna Rojas 😊",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB059719C94C143DEBA1E",
+    "remoteJid": "50661335778@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió?\n\nPorque tenía demasiados problemas."
+    },
+    "reaction": "",
+    "timestamp": 1726001376,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03759E132AF73A84A5F",
+    "remoteJid": "50661335778@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuántos huesos tiene el cuerpo humano?"
+    },
+    "reaction": "",
+    "timestamp": 1726003104,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

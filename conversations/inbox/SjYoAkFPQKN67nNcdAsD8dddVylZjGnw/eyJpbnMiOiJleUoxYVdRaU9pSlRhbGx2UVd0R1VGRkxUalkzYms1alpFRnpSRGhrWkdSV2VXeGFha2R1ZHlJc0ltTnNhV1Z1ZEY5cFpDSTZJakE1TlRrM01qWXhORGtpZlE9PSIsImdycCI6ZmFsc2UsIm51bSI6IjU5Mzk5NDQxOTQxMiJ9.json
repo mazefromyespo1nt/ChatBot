@@ -1,0 +1,58 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01DBD9A3B890CEBDDD1202EEDD4B5FCC",
+    "remoteJid": "593994419412@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725982407,
+    "senderName": "Brayan",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F1CA1A9FA70F34B55D",
+    "remoteJid": "593994419412@s.whatsapp.net",
+    "msgContext": {
+      "text": "{{OTHER_MSG}}"
+    },
+    "reaction": "",
+    "timestamp": 1725983527,
+    "senderName": "Brayan",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB00837E5D8C40E35175E",
+    "remoteJid": "593994419412@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "pruebas",
+        "values": [
+          "hola",
+          "aaa"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725983573,
+    "senderName": "Brayan",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FD430DE92899026291BD7EF2A8F32B3C",
+    "remoteJid": "919822491553@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello sir"
+    },
+    "reaction": "",
+    "timestamp": 1725850950,
+    "senderName": "$ Õmkar $ 😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

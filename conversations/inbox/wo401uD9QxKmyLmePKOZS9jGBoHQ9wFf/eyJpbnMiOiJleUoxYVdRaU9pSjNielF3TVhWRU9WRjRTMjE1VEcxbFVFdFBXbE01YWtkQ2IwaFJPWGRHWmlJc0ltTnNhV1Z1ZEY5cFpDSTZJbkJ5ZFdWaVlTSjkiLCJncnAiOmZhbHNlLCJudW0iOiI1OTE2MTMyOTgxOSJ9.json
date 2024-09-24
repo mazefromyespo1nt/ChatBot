@@ -1,0 +1,210 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EE6B0C7E6A70C4E31E613AC6143F812D",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725556171,
+    "senderName": "HDMS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB038443A240C4AC5A792",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725556202,
+    "senderName": "Fernando Morón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00FD20EB32CF8E8EB5B",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "hla"
+    },
+    "reaction": "",
+    "timestamp": 1725556231,
+    "senderName": "Fernando Morón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0028FAD44E853ACEEE6",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "haciendo prueba del sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725556238,
+    "senderName": "Fernando Morón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DBF58265EE651A7949",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cobrar y Pagar por Internet"
+    },
+    "reaction": "",
+    "timestamp": 1725572984,
+    "senderName": "Fernando Morón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A7F150B17E2A55F7C5",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cobrar y Pagar por Internet"
+    },
+    "reaction": "",
+    "timestamp": 1725573147,
+    "senderName": "Fernando Morón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5FA9C1FD09BFB",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "*FERNANDO MORON:*\nHOLA"
+    },
+    "reaction": "",
+    "timestamp": 1725627742,
+    "senderName": "HDMS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D7B6F7EA3A95D74B90B234F5201D6424",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "STOP"
+    },
+    "reaction": "",
+    "timestamp": 1725627840,
+    "senderName": "Fernando Morón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "87AEAC51E05DCE8CC7B58B995B4AFA64",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola soy yo Fernando"
+    },
+    "reaction": "",
+    "timestamp": 1725651069,
+    "senderName": "Fernando Morón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE53D0322E2AB09",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "‎ "
+    },
+    "reaction": "",
+    "timestamp": 1725651106,
+    "senderName": "HDMS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5111BC417479A",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por elegir MAPSE, enseguida le enviamos la información."
+    },
+    "reaction": "",
+    "timestamp": 1725651176,
+    "senderName": "HDMS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5D5F263EE734F",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Recupérate y Avanza con MAPSE SRL! 🌟💵💵💵\n\n¿Sientes que es hora de darle un giro a tu situación de compras y pagos por internet? 💰 ¡Esta es tu oportunidad para aprender a Cobrar y Pagar por Internet y salir adelante! 🚀\n\n🔹 MÓDULO 1: DÓLARES DIGITALES  \n- Descubre los stablecoins más usados en Bolivia 🏦  \n- Aprende a crear tu cuenta y realizar transacciones seguras 🔐  \n- Verifica tus cuentas de manera sencilla ✅\n\n🔹 MÓDULO 2: TARJETAS DE CRÉDITO PARA PAGOS ONLINE\n- Aprende a abrir cuentas y solicitar tarjetas 💳  \n- Gestiona tu dinero de forma inteligente con opciones seguras 🏦  \n- Explora las tarjetas de crédito virtuales más útiles 🌐\n\n🔹 MÓDULO 3: COBRAR POR INTERNET  \n- Crea enlaces de pago y recibe dinero desde cualquier parte del mundo 🌍  \n- Usa plataformas para emprender digitalmente y ganar en dólares 💵  \n- Descubre cómo retirar tu dinero a bolivianos de forma eficiente 🇧🇴\n\n📅 🕒 HORARIO DE CAPACITACIÓN ONLINE 🕒\n📅 Sábado 31 de Agosto 2024 de 15:00 a 19:00\n\n👨‍🏫 EXPOSITOR ESTELAR 👨‍🏫\n\nFernando Morón, un referente en Marketing Digital:\n➡️ Ex Gerente de E-commerce y Marketing en grupos corporativos de Bolivia.\n➡️ Más de 5 mil campañas exitosas en Facebook y 10 mil campañas asesoradas.\n➡️ Consultor de Empresas de Bolivia, Ecuador, México, España, Inglaterra, entre otros.\n➡️ Capacitaciones presenciales y virtuales desde 2017. 🌍🔝\n\n💼 INVERSIÓN Y BENEFICIOS 💼\n\nRegístrate por sólo 40 USD ó Bs 280💵💵💵\n\nIncluye para todos los inscritos:🎁🎁🎁\n* Acceso a grabaciones. 📹📚\n* Acceso al grupo de WhatsApp durante 3 meses para preguntas, asesorías y clases grupales adicionales. 📲📞\n\n🎟️ ¡GARANTIZA TU LUGAR YA! 🎟️\nResponde con \"Quiero inscribirme\" y te proporcionaremos el número de cuenta o código QR\n\n¡No pierdas esta oportunidad!\n Empieza hoy a cambiar tu vida con la capacitación de MAPSE SRL. Inscríbete ahora y asegura tu lugar.\n\n💪 ¡Tú puedes salir adelante! 💪"
+    },
+    "reaction": "",
+    "timestamp": 1725651183,
+    "senderName": "HDMS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE569668FF80936",
+    "remoteJid": "59161329819@s.whatsapp.net",
+    "msgContext": {
+      "text": "‎ llamar"
+    },
+    "reaction": "",
+    "timestamp": 1725828220,
+    "senderName": "HDMS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

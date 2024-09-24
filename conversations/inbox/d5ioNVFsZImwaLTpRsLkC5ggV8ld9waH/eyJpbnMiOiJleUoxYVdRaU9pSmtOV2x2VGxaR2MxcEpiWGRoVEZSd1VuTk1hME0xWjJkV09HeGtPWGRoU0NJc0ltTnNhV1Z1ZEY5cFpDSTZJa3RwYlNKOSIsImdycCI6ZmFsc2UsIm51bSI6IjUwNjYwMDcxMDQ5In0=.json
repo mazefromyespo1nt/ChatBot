@@ -1,0 +1,547 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B9C97AB0FAD864DD305AC7CCD66A2289",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725721218,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB2926DEEC77457099",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días le saluda Kimberly Fallas de Fruno distribuidor autorizado de Liberty 😁"
+    },
+    "reaction": "",
+    "timestamp": 1725722251,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F220ADE99B4DD0B0FA",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Los mejores  Planes liberty con el *envio gratis🚚,  sin deposito , con buena cobertura de red fuera y dentro del país✈️* (centro america y norteamerica sin costo) . \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈 y conservamos su número si es  KOLBI o CLARO lo conservas si ya es Liberty te damos uno nuevo mejorado😄",
+      "fileName": "dE9J90.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725722361,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D01CC3453841397D9A026A08BFB01F00",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Soy liberty pero el plan esta a nombre de mi esposa quisiera saber si puedo sacar 1 a mi nombre"
+    },
+    "reaction": "",
+    "timestamp": 1725724217,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068A48B105D0ADB24BE",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro"
+    },
+    "reaction": "",
+    "timestamp": 1725724268,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08B9B208DD02BEE279D",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si gusta puede enviarme una foto de su cédula para verificar 😁 sería por el momento solo del frente"
+    },
+    "reaction": "",
+    "timestamp": 1725724297,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "872081D4C813DC3D64C0F13A0E6EAE72",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "w0p0RT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725725057,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0720687C81026551016",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sxVFxa.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725725112,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "887BACF2F16377044956BF91B77B5D06",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725725180,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0AD9B5E89DECC436088",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para poder realizar la validación es necesario que nos envíe:\n- Foto por ambos lados de su documento de identidad que esté vigente, legible y en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio,Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- Correo electrónico\n- Dirección exacta con provincia, cantón, distrito donde se le entregará\n- 2 Referencias numericas con nombre y apellido\n- Una foto tipo selfie como el ejemplo",
+      "fileName": "tSAd0Y.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725725376,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0245125B3AA108F2890",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "21Ddt5.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725725389,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "523BA4638DE6546F7179C11AEF90E37D",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XpdGtp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍",
+    "timestamp": 1725725477,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "EC068E6CEDA4305583032AAE0C546652",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "yLAX0U.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "👍",
+    "timestamp": 1725725495,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5D4E009F875FA725500D5DA2E9E47375",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Chisagerardo@gmail.com"
+    },
+    "reaction": "👍",
+    "timestamp": 1725725533,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0941D50FEC00185A8FA",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos faltaría😃 : \n- Dirección exacta con provincia, cantón, distrito donde se le entregará\n- 2 Referencias numericas con nombre y apellido\n- Una foto tipo selfie como el ejemplo"
+    },
+    "reaction": "",
+    "timestamp": 1725725873,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09FA33F5352F0BC3C33",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por el tiempo en espera, se realiza verificación de cédula 114400155 se procede 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725726541,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0B32AA05298B0B56551",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aAHvoq.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725726650,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0116BFAF8EB8DA079B2",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para confirmar podrías indicarme cuál plan deseas adquirir."
+    },
+    "reaction": "",
+    "timestamp": 1725727138,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1BC68ECB080E098E97442214B4B6C5D8",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero si c aprobo"
+    },
+    "reaction": "",
+    "timestamp": 1725728182,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06B6DEAED40C0ADB795",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sí claro"
+    },
+    "reaction": "",
+    "timestamp": 1725728204,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50661328498@s.whatsapp.net",
+      "id": "3EB09FA33F5352F0BC3C33"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0185260080A71C2D9AF",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "rpwB3b.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725728377,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E59F2610400D16E470A1BC243DE44727",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y cuando empezaria a pagar"
+    },
+    "reaction": "",
+    "timestamp": 1725728459,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9C9749FC9DCFCB7E13AE7D65544D2F96",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y podria mantener este numero o no se puede"
+    },
+    "reaction": "",
+    "timestamp": 1725728473,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E05FCDA88FA8EEC051",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Su primer pago será el 20-10-2024."
+    },
+    "reaction": "",
+    "timestamp": 1725728484,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50660071049@s.whatsapp.net",
+      "id": "E59F2610400D16E470A1BC243DE44727"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08805C11A71F8E80F40",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "En este caso si tendríamos que renovarlo. Conservamos los números de Claro o Kolbi en caso de que tengas alguna línea de esos operadores que desees mantener"
+    },
+    "reaction": "",
+    "timestamp": 1725728614,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50660071049@s.whatsapp.net",
+      "id": "9C9749FC9DCFCB7E13AE7D65544D2F96"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9EB93CBA6366427A9F0C06996C7E31EC",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Deme un momento sq voy a manejar"
+    },
+    "reaction": "",
+    "timestamp": 1725728644,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "06A281004B312F1006EBEFCA4E41BA1D",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahorita m comunico cn ust"
+    },
+    "reaction": "",
+    "timestamp": 1725728661,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05EBEF7098217279DBE",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si gusta lo puedo llamar"
+    },
+    "reaction": "",
+    "timestamp": 1725728669,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07EEF3F125E832815C8",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y me colocas en altavoz. \n\nSino descuide yo espero 👍"
+    },
+    "reaction": "",
+    "timestamp": 1725728690,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "2A32AA8A8FF32EED1C18E6F32497E170",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wgVFIX.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725733432,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB08DCC1D4A999B9260F9",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AfSH77.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725733581,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB05C459C69C70EA7F84F",
+    "remoteJid": "50660071049@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mgyMtP.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725733585,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

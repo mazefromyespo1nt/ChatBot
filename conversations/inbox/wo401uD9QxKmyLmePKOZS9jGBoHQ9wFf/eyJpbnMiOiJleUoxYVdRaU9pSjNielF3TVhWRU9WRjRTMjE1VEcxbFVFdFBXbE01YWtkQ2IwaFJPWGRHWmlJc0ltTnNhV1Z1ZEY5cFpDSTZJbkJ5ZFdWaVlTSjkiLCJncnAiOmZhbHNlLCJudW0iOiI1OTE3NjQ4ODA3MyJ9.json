@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5221B05FA028E",
+    "remoteJid": "59176488073@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725654335,
+    "senderName": "HDMS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "60CA0DA35CD2345ED0F48583281DBE04",
+    "remoteJid": "59176488073@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725654988,
+    "senderName": "HDMS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5314D55B3287F",
+    "remoteJid": "59176488073@s.whatsapp.net",
+    "msgContext": {
+      "text": "‎ "
+    },
+    "reaction": "",
+    "timestamp": 1725655082,
+    "senderName": "HDMS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D8D38EFA1D6EA948",
+    "remoteJid": "59176488073@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Bienvenido/a! ¡Gracias por elegir MAPSE! en un momento le enviamos la información que requiere."
+    },
+    "reaction": "",
+    "timestamp": 1725655483,
+    "senderName": "59176488073",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE56645587671E5",
+    "remoteJid": "59176488073@s.whatsapp.net",
+    "msgContext": {
+      "text": "‌ hola"
+    },
+    "reaction": "",
+    "timestamp": 1725969620,
+    "senderName": "HDMS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

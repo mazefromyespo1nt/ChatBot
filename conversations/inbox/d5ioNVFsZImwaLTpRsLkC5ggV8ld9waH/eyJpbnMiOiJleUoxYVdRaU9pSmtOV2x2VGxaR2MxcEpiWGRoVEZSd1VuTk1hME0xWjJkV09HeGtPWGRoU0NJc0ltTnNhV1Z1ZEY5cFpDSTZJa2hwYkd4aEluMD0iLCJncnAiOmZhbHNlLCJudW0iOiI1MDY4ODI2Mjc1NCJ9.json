@@ -1,0 +1,56 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB02DAB0BCC4FCAA4D5EB",
+    "remoteJid": "50688262754@s.whatsapp.net",
+    "msgContext": {
+      "caption": "AHORRE HASTA UN 35% Y AGILICE \n Incluye: \n* Conserva su mismo número\n* Aumenta los datos de su plan móvil a 22GB HASTA 30GB con cobertura dentro y fuera del país ✈️ \n* Se incluye 1 regalía 🎁 de una número nuevo post pago de 4GB (recomendado para menores de edad) \n* TV Digital  250 canales (70HD)+ HBO MAX streaming + Telefonía fija de casa + internet de 150 MB +  Paramount durante 3 meses 🎁😁\n* Desde 150 MB hasta 500 MB de internet veloz 🛜",
+      "fileName": "QTZHpF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725898827,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB034FE729312327865F3",
+    "remoteJid": "50688262754@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos serían los planes disponibles actualmente, como puedes ver cuentan con muchos beneficios! \nAdicional a eso si realizamos el proceso de contratación entre hoy y mañana, te estaríamos dando la opción de cancelar la primer factura hasta el 19 de Octubre, así como el envío de la tarjeta SIM completamente gratis.",
+      "fileName": "3VKZ0o.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725898827,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB09C1A14E6C089E7F749",
+    "remoteJid": "50688262754@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "qCWjJA.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725898827,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

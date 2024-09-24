@@ -1,0 +1,123 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "51E4F71A8C1A42EA91DAC59B660EF55E",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola! Deseo conocer y agendar una demostración del software"
+    },
+    "reaction": "",
+    "timestamp": 1725620787,
+    "senderName": "《○°Richard°○》",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0637CB63D1CCA50A1A2",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725620793,
+    "senderName": "《○°Richard°○》",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D83A250487A4092742",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "text": "buenos dias, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725628181,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04AE464CA6CE5C496D3",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "text": "va disculpar por la demora en la atención, diganos cual es la consulta"
+    },
+    "reaction": "",
+    "timestamp": 1725628201,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05D02AD884F613267BB",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "text": "En esta ocasión, estamos emocionados de mostrarte nuestra demostración de software 🖥️, una herramienta innovadora que simplifica la gestión de procesos municipales de forma eficiente y efectiva. Está preparado para cumplir las metas del plan de incentivo 💪, Impuesto Predial, Alcabalas, Arbitrios, Fiscalización Tributaria y muchos otros servicios más. ¡Integrado a Fiscalización Tributaria, Ejecución Coactiva, Catastro, comercialización y mucho más! 🏛️📊 ¿Estás listo para conocer más acerca de nuestra solución? ¡Te esperamos con ansias! 😉👍"
+    },
+    "reaction": "",
+    "timestamp": 1725629639,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0025BB66EF8F9C28600",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le traemos una promoción que su municipalidad no puede dejar pasar 🚀. Presentamos nuestro *SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y CAJA* 📊, ¡todo a un solo costo de *S/.3999.00*! obtienes una *licencia perpetua del sistema*, ¡así que nunca tendrás que *preocuparte por renovaciones*! 🆓✨ Además, disfrutara de *soporte técnico* *24/7* durante *12 meses* 🕒, para que siempre estés acompañado ante cualquier consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725629641,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D917014AAC4A7F5394",
+    "remoteJid": "51959375956@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta 🙌🏼👀✉️"
+    },
+    "reaction": "",
+    "timestamp": 1725629658,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

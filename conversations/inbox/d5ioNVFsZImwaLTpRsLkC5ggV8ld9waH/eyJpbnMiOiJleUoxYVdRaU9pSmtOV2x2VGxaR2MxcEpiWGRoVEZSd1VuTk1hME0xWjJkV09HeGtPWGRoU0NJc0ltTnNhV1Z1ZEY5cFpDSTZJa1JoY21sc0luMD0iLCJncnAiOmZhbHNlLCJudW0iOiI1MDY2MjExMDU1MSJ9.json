@@ -1,0 +1,320 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4AECB5C493C37795942C2AC5ECBD9644",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725575998,
+    "senderName": "Daril Torres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "4F52840661CA60D01389A4E6BF0D98A2",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "R45gMY.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577550,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB01A1EF0E05B52F38E8A",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jhUdvM.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725577821,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "6399CAB56C03EBD20F0526A12F260438",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "LJyt3I.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725577852,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "9F86AF92994A55F5BD50BF071D8D80AA",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "FhyDC5.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725577894,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB08AAFCF536893942F9A",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SuYwqC.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725577913,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "AB302CB101B8BEED7FF7AD4CCB967173",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Así seria",
+      "fileName": "ssCOrV.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577953,
+    "senderName": "Daril Torres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "0D1819F76EDFFB3AC2AF808A31530AE8",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "G9KGHa.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725577955,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "C876A491BC5D5C0DB7B0FF8E6F28C7AF",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jYcc6q.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725578328,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3836ECBDCF501E73A9B7642525C75C36",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "1bxwmN.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725578388,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0C4D8FD921F590DB50DB4C2131B1FCAA",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725579115,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "19F313D94DF4CC99CFFDB056399100D2",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "FqEot6.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725718565,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9E8533F0A62B59958A500D6BA4873E82",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me avisa porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725725848,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "2A484009A2852E0F756ADD596AAB0029",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6e59i0.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725905503,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB03B8D42577698E6022B",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5FVbBm.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725905534,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "C070784B7F3D407703217DC085EC651A",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bzRKBY.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725905571,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB099E518097E1ABB52BC",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "f0CKep.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725905736,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "4A531B19D17DFF017F796960084912E0",
+    "remoteJid": "50662110551@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wvayUm.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725905767,
+    "senderName": "Jackeline",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

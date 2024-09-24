@@ -1,0 +1,314 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E9595B9B7F67AECDBB",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola tio"
+    },
+    "reaction": "",
+    "timestamp": 1725979312,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085A2DEA31FE2D20411",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "como ta?"
+    },
+    "reaction": "",
+    "timestamp": 1725979315,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05BE277BAACAFEB1B31",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tio una pregunta, usted no sabe si alla donde usted trabaja estan buscando practicantes de insutrial???"
+    },
+    "reaction": "",
+    "timestamp": 1725979347,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F7EA4C2CC920592B95",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "o que empresa asi este buscando practicantes de industrial??}"
+    },
+    "reaction": "",
+    "timestamp": 1725979375,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1E29134B9BDD459437DF1BDA73602E7A",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola mari"
+    },
+    "reaction": "",
+    "timestamp": 1725979897,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "89CF58CE25E3B5882AAD299349F92058",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahí meten prácticante. A cada rato dejame validar  el correo"
+    },
+    "reaction": "",
+    "timestamp": 1725979975,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2BE454CA9ED7F0304D8727A0B163F0FF",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "A vale"
+    },
+    "reaction": "",
+    "timestamp": 1725980004,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "89CF58CE25E3B5882AAD299349F92058"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "00C0CFE07831EE774FD4E7748208226A",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me pasas el correo"
+    },
+    "reaction": "",
+    "timestamp": 1725980226,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "35B096729FBD43EE7E229081164A3CCE",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno cielo"
+    },
+    "reaction": "",
+    "timestamp": 1725980562,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5B6704F8652D2EE2DCB6D4E5AEA8251A",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno tío"
+    },
+    "reaction": "",
+    "timestamp": 1725980570,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "B33076F5E7FDAA33F12E4664F4822188"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A7055F6EC9DEE519ED27A363443702E7",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://empleos.tecnoglass.net/"
+    },
+    "reaction": "",
+    "timestamp": 1725980588,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FDB787CC8413CA94C44FC73B8DCB7833",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hay que mandé la hoja de vida"
+    },
+    "reaction": "",
+    "timestamp": 1725980596,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9C24466C17597351C972374B99468C3F",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1725980604,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E7B8ACB1367994432A824A81E05B4E63",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y al correo ya lo consigo"
+    },
+    "reaction": "",
+    "timestamp": 1725980608,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A9B056DC85A45AEBC1C49F364B84DEDF",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "",
+    "timestamp": 1725980624,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8F2A48511E230F11FAE0F537E1A299E6",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XNhN7w.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725981139,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E88C3937C6782415769BACE89EBACF9E",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "El.correp"
+    },
+    "reaction": "",
+    "timestamp": 1725981142,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "408EA6CF8A99A7894880AC6CC3779179",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno tío"
+    },
+    "reaction": "",
+    "timestamp": 1725981168,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "78DC4E5B24C2EDC9FFDEF21BB3C087FB",
+    "remoteJid": "573052570066@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725981169,
+    "senderName": "Mari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

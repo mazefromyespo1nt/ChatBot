@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03D11D53FD1A655FBA2",
+    "remoteJid": "50672070474@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le saluda Maribel Oporto de Nargallo, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactarle con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos planes postpago que se adapten a ti.\n\n◾ No es necesario un depósito.\n\n◾ Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero). \n\n◾ Se omite mancha/deuda de otros operadores o casas comerciales. \n\n◾ Paga hasta el próximo mes.\n\n◾ Después de 5 facturas pagas al día le damos opción de adquirir un celular📲 \n\ndeseas más información ??"
+    },
+    "reaction": "",
+    "timestamp": 1725895702,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E586CF407EA134475DA329316E49D3E4",
+    "remoteJid": "50672072132@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con D Perlas City Mall. ¿Cómo podemos ayudarte?"
+    },
+    "reaction": "",
+    "timestamp": 1725667513,
+    "senderName": "D Perlas City Mall",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DA9596FF276C435E422EFC78B1C67352",
+    "remoteJid": "50672072132@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con D’Perlas  City Mall ☺️ Cómo podemos ayudarte ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725667513,
+    "senderName": "D Perlas City Mall",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

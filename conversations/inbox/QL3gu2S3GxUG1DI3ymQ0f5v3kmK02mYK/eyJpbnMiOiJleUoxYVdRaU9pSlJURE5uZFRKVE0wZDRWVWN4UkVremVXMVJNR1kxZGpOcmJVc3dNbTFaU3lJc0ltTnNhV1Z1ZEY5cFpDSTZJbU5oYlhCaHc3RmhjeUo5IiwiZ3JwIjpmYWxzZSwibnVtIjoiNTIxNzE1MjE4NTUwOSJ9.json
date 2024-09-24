@@ -1,0 +1,358 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3C305B04245FE9C5B052804A694906B3",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725558344,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0634B4FB0A814C4AA01",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "microsoft",
+      "fileName": "aGg23zqmGfDgmfcJZ2IUivG9p5Ox2VU0.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725558347,
+    "senderName": "ceducaty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B590796D64998B16B874F24C73A833A",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "text": "Info"
+    },
+    "reaction": "",
+    "timestamp": 1725558372,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4F383247AAF7B90F1A0B2D700A2526FA",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me interesa"
+    },
+    "reaction": "",
+    "timestamp": 1725559973,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EAF426AD5944C71E57",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "text": "excelente el costo es de $1500 mxn"
+    },
+    "reaction": "",
+    "timestamp": 1725560024,
+    "senderName": "ceducaty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "5D927A36E1E5F95A94F1F979D4F2EB22",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "vPhDM6.docx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+    },
+    "reaction": "",
+    "timestamp": 1725632671,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "A15A1A0FA393FD90C3",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uGLQag.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725633147,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B007D01A02F00938809C7DD713929F6",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "text": "Excel"
+    },
+    "reaction": "",
+    "timestamp": 1725723541,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "DDB5E227AA7213C4B072607310E8DB8A",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jfpjyg.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725723613,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "D49E6792DDAE191E4356E89FC7F5A466",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "j5EOfg.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725900707,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "6F99E8C75385117F38EF8E9D04FD54F5",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KJtL39.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903947,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "AD88508E576F67676E2FCF36DE63C99F",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lE2IwT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903948,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "EB8FA5B70C827F2EC30E187A2F48B208",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "m1tiyT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903948,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "C45C6F0AA366A0722861499F935FBFF4",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4LMM0m.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903948,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "93F9966865AA0277EDAEA4901E1654BF",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sjBrhZ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903948,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "56C1BCD509752CA91960BCB7FD0F1F95",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Y5UOqL.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903948,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "5BFC565C15406F59929C92345B24FCE2",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fiFvb7.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903949,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "80FA2F20A17A764A9C43717C8348B772",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "OHj5a8.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725905307,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "FF39A9241EBD93E9EBDCD63C2A172305",
+    "remoteJid": "5217152185509@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sH62wZ.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725905307,
+    "senderName": "ceducaty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

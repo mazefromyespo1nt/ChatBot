@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5F089CFC241DBE8D150C031351D37846",
+    "remoteJid": "50686088790@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725577726,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2CD2E5B09A6155B0CF1976E3A312B919",
+    "remoteJid": "50686088790@s.whatsapp.net",
+    "msgContext": {
+      "text": "ESPERO"
+    },
+    "reaction": "",
+    "timestamp": 1725577764,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9A558CDDAAABB36DBE945BBC333D6996",
+    "remoteJid": "50686088790@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hasta que la línea de Kolbi le dejé de funcionar, ahí ingresa el de Liberty"
+    },
+    "reaction": "",
+    "timestamp": 1725579032,
+    "senderName": "telemercadeonargallo",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1310FCC1C0832C764823DF5D5D4FDFCB",
+    "remoteJid": "50686088790@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mañana me indica si aún no le funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725579050,
+    "senderName": "telemercadeonargallo",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5CAEB5EFEFF5922771235232E089ECF1",
+    "remoteJid": "50686088790@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok esta bien"
+    },
+    "reaction": "",
+    "timestamp": 1725580194,
+    "senderName": "Javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

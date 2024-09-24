@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADCA84C276461501CE0",
+    "remoteJid": "59175031955@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725998255,
+    "senderName": "Adrian Trigo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0836A0A4AA72A4B1D9E",
+    "remoteJid": "59175031955@s.whatsapp.net",
+    "msgContext": {
+      "text": "con todo gusto"
+    },
+    "reaction": "",
+    "timestamp": 1725998454,
+    "senderName": "Adrian Trigo",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F218DE21B05388C83A",
+    "remoteJid": "59175031955@s.whatsapp.net",
+    "msgContext": {
+      "text": "saludos"
+    },
+    "reaction": "",
+    "timestamp": 1725998507,
+    "senderName": "Adrian Trigo",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08728047F20661F9385",
+    "remoteJid": "59175031955@s.whatsapp.net",
+    "msgContext": {
+      "text": "en que te puedo ayudar"
+    },
+    "reaction": "",
+    "timestamp": 1725998515,
+    "senderName": "Adrian Trigo",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

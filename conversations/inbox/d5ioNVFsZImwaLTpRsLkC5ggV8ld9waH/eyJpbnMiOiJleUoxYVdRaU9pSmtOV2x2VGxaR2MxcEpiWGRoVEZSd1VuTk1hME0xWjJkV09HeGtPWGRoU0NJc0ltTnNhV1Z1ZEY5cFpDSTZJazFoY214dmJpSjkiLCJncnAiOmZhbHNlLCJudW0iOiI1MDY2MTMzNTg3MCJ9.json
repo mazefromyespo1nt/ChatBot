@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00EEA205AD96EAC1924",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725898283,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB026AD184289427CB50E",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725898636,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB003C2B339D940408D0B",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725899017,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0870030F55BA4E42A9A",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725899411,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01B9589D353B9A937F4",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725900711,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F1A05AA034084F146",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725902254,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB056F210C2FC5ACFF4B2",
+    "remoteJid": "50661335870@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725903905,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

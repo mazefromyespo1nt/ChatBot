@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0527A0C1E01DDBD2BFC",
+    "remoteJid": "50661335778@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cómo se llama el campeón de buceo japonés?\n\nTokofondo."
+    },
+    "reaction": "",
+    "timestamp": 1725990669,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB053A6BBBB740C42DFE4",
+    "remoteJid": "50661335778@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuántos huesos tiene el cuerpo humano?"
+    },
+    "reaction": "",
+    "timestamp": 1726000039,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

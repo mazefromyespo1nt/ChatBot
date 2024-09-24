@@ -1,0 +1,68 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9CEED2CCA9F256AC440E64AC817B11AF",
+    "remoteJid": "50672068792@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725906515,
+    "senderName": "Alonso",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01BBB1A1B0A999B7FC9",
+    "remoteJid": "50672068792@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias , con quien tengo el gusto"
+    },
+    "reaction": "",
+    "timestamp": 1725906566,
+    "senderName": "Daril Torres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "538687D2A662E9DBDBD037CAD300E737",
+    "remoteJid": "50672068792@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, mira ase años tuve movistar y quede mal, estan omitiemdo manchas o no para que ni usted y ni yo perdamos el tiempo??"
+    },
+    "reaction": "",
+    "timestamp": 1725906963,
+    "senderName": "Alonso",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0E01703DB0CE0979383",
+    "remoteJid": "50672068792@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Zu0yJg.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725980723,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

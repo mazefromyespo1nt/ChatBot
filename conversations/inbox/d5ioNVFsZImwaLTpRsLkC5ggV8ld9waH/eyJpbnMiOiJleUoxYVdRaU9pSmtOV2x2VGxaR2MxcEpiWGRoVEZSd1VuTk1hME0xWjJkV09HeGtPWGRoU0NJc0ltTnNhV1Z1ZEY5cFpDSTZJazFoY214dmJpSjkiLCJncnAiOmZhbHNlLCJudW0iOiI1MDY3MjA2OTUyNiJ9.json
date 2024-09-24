@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DDF0A18F3DA661122B5FE028F55280F6",
+    "remoteJid": "50672069526@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725913274,
+    "senderName": "Wen 🐶🌸🪷🏵🌺🌼🌷🪻🌹",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FD6FACE378D20990F8",
+    "remoteJid": "50672069526@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola muy buenas tardes! \nUn gusto saludarle, mi nombre es Marlon Flores asesor de servicio de Liberty CR!\nCon todo gusto estoy para servirles!"
+    },
+    "reaction": "",
+    "timestamp": 1725913497,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BD1BB0FB21CAF2544C",
+    "remoteJid": "50672069526@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te gustaría adquirir nuestros servicio móvil postpago o servicios residenciales?"
+    },
+    "reaction": "",
+    "timestamp": 1725913529,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "383EB6F1A6C70A151ADEC24C23BFA39A",
+    "remoteJid": "50672069526@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya tengo los dos"
+    },
+    "reaction": "",
+    "timestamp": 1725913555,
+    "senderName": "Wen 🐶🌸🪷🏵🌺🌼🌷🪻🌹",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB014370EF0FF1CEA7C99",
+    "remoteJid": "50672069526@s.whatsapp.net",
+    "msgContext": {
+      "text": "Comprendo, requieres algún servicio adicional?"
+    },
+    "reaction": "",
+    "timestamp": 1725913928,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E6C7B606453D6A9D5E61C501EE306990",
+    "remoteJid": "50672069526@s.whatsapp.net",
+    "msgContext": {
+      "text": "No. Creí que usted me iba a ofrecer un mejor servicio, que por eso se comunicaba conmigo"
+    },
+    "reaction": "",
+    "timestamp": 1725914052,
+    "senderName": "Wen 🐶🌸🪷🏵🌺🌼🌷🪻🌹",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

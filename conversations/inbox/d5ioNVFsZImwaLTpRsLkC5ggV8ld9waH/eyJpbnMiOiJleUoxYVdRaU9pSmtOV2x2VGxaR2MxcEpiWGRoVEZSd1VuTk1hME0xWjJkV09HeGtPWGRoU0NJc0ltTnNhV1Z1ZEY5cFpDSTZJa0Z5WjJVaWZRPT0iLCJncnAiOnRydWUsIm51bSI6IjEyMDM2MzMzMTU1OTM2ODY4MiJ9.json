@@ -1,0 +1,120 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E02D068AF2C2E20E83646A37303520F6",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "El wesoo"
+    },
+    "reaction": "",
+    "timestamp": 1725576025,
+    "senderName": "🤍Fueguitos🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584145509263@s.whatsapp.net",
+      "id": "3A69C572012C7B724FE0"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E87B8E550A1274E733D886A122AC1C05",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725576123,
+    "senderName": "cruzreynaldo0710",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AF042923204B9591C2963265185897B3",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "Que lo qur"
+    },
+    "reaction": "",
+    "timestamp": 1725576127,
+    "senderName": "🤍Fueguitos🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6F51D37E2F83A29254625875033C7BCC",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "Ya ta"
+    },
+    "reaction": "",
+    "timestamp": 1725576145,
+    "senderName": "🤍Fueguitos🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FDE0FD8E7C5862455138FD0EFF511A37",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "No Ai mujeres"
+    },
+    "reaction": "",
+    "timestamp": 1725576479,
+    "senderName": "cruzreynaldo0710",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "209F0E4C7E7516A3038E6F18056F4C6F",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "Si hay"
+    },
+    "reaction": "",
+    "timestamp": 1725576488,
+    "senderName": "🤍Fueguitos🤍",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584145509263@s.whatsapp.net",
+      "id": "3A69C572012C7B724FE0"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5A3B4EA422703BA216B6D5936E5CF8C6",
+    "remoteJid": "120363331559368682@g.us",
+    "msgContext": {
+      "text": "Uju"
+    },
+    "reaction": "",
+    "timestamp": 1725576495,
+    "senderName": "Burgatty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

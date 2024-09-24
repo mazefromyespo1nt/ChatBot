@@ -1,0 +1,96 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "551E6D1354676220AAF0145EEB469B66",
+    "remoteJid": "120363183653896281@g.us",
+    "msgContext": {
+      "caption": "*TEMPORADAS 1 Y 2*",
+      "fileName": "grkBfk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725582191,
+    "senderName": "✿*:･ﾟ𝘼𝙗𝙞𝙜𝙖𝙞𝙡ッ No Pv Putos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "551E6D1354676220AAF0145EEB469B66",
+    "remoteJid": "120363183653896281@g.us",
+    "msgContext": {
+      "caption": "*TEMPORADAS 1 Y 2*",
+      "fileName": "2tvRqu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725582204,
+    "senderName": "✿*:･ﾟ𝘼𝙗𝙞𝙜𝙖𝙞𝙡ッ No Pv Putos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "551E6D1354676220AAF0145EEB469B66",
+    "remoteJid": "120363183653896281@g.us",
+    "msgContext": {
+      "caption": "*TEMPORADAS 1 Y 2*",
+      "fileName": "Wtq1ar.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725582188,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc",
+    "msgId": "2A41B1BE4F5B13B87FBBBAAE29F871DD",
+    "remoteJid": "120363183653896281@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "h78IGY.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725582208,
+    "senderName": "✿*:･ﾟ𝘼𝙗𝙞𝙜𝙖𝙞𝙡ッ No Pv Putos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc",
+    "msgId": "199F7CEBE792F8EB21BD5B0E9EAF8C13",
+    "remoteJid": "120363183653896281@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "PKi5YZ.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725582208,
+    "senderName": "✿*:･ﾟ𝘼𝙗𝙞𝙜𝙖𝙞𝙡ッ No Pv Putos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

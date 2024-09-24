@@ -1,0 +1,861 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0CC3A66E77BD6F1C9D",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725843254,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACFDA6AA86DD4ACF62F",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cómo estás"
+    },
+    "reaction": "",
+    "timestamp": 1725843260,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A5A17C51772833A13D",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que ondas"
+    },
+    "reaction": "",
+    "timestamp": 1725843264,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05772251C767B8744EE",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "fijate que si cae automatico"
+    },
+    "reaction": "",
+    "timestamp": 1725843272,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A40CDC9F9D841298549",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dice que hay varios usuarios"
+    },
+    "reaction": "",
+    "timestamp": 1725843279,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB604AA78296F778345",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q puedan tomar la conver"
+    },
+    "reaction": "",
+    "timestamp": 1725843287,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0847D459BDCD5E67581",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "te gusta el servicio qr",
+        "values": [
+          "Si",
+          "no"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725843297,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09AC760BB932933B165",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "te cayo una encuesta"
+    },
+    "reaction": "",
+    "timestamp": 1725843320,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEA2F76186A79E8FBEC",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725843344,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07B28E21DEC17405C95",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "quiero ver"
+    },
+    "reaction": "",
+    "timestamp": 1725843358,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F4B15725007875A525",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "mandame captura"
+    },
+    "reaction": "",
+    "timestamp": 1725843361,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A34827CF13C122EED03",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cxrgp6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725843368,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A57E4172F7987086755",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Así"
+    },
+    "reaction": "",
+    "timestamp": 1725843374,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A22A6BEA2E9458BA980",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "O se mira mal"
+    },
+    "reaction": "",
+    "timestamp": 1725843376,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A93D658BE4DD53BDC60",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se mira Vergon"
+    },
+    "reaction": "",
+    "timestamp": 1725843380,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0405920F7774655DBBB",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "caption": "mira asi sale",
+      "fileName": "4qX8iTqumz0dgpWiAh68d2cJv4zrdUdN.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725843393,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB038606B9C803CC30EB1",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "ah y sin ser api"
+    },
+    "reaction": "",
+    "timestamp": 1725843413,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04124A24817615ED48A",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "osea de algo sirve esa encuesta como de boton"
+    },
+    "reaction": "",
+    "timestamp": 1725843421,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A19CE145816FC1DA485",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ajá"
+    },
+    "reaction": "",
+    "timestamp": 1725843484,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4E5D97AE15C9D96829",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Incluso veo q dice API"
+    },
+    "reaction": "",
+    "timestamp": 1725843503,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02AE142FB8FB05C4AA2",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "fijate"
+    },
+    "reaction": "",
+    "timestamp": 1725843509,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F749E10058E36FE4D1",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "que tiene constructor de bot"
+    },
+    "reaction": "",
+    "timestamp": 1725843521,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF0CE7CB2BEF5701A6C",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y como está como lo ves"
+    },
+    "reaction": "",
+    "timestamp": 1725843564,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A806736E1C5F5F8C4D1",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725843779,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB3DBD4ED0AD0D5A8FF",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Veo q dice flujo igual"
+    },
+    "reaction": "",
+    "timestamp": 1725843806,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F3CADE731F4F18D1B0",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "que ondas"
+    },
+    "reaction": "",
+    "timestamp": 1725843821,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0431629FD2EA036E75F",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "que ondas"
+    },
+    "reaction": "",
+    "timestamp": 1725843832,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A54F3548ABF66123016",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que ondas"
+    },
+    "reaction": "",
+    "timestamp": 1725843838,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BA2D8CC375350570F0",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "fijate que dis que hay bot"
+    },
+    "reaction": "",
+    "timestamp": 1725843842,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05C407C8F8526DD1B94",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "pero asaber"
+    },
+    "reaction": "",
+    "timestamp": 1725843858,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF8A3537511D295EB9C",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "No has probado hacerlo?"
+    },
+    "reaction": "",
+    "timestamp": 1725843861,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB026B8FAF9D88ECA3234",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": " solo un pooc trabado pero no se si es el servidor"
+    },
+    "reaction": "",
+    "timestamp": 1725843868,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BFE571629D5FA894EE",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "elige opcion"
+    },
+    "reaction": "",
+    "timestamp": 1725843872,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A15FC7D62AD5B348F2",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "que te salio ahorita que te mande"
+    },
+    "reaction": "",
+    "timestamp": 1725843883,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE58EA6AA038D686FF0",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si, eso si xq hay varios probando dice el man"
+    },
+    "reaction": "",
+    "timestamp": 1725843884,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02BCF5444991CD56F58",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "enseña, te sale boton"
+    },
+    "reaction": "",
+    "timestamp": 1725843893,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A10C6EE18637690F8CB",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "De q"
+    },
+    "reaction": "",
+    "timestamp": 1725843907,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB5A397AEF2927ACA86",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725843909,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A50D615910A2D65287A",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nada"
+    },
+    "reaction": "",
+    "timestamp": 1725843914,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50370314949@s.whatsapp.net",
+      "id": "3EB0BFE571629D5FA894EE"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A08DEAB598581A1F527",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Perhwh.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725843922,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0285BA9396DC6DD4E15",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "cuando te puse elige opcion"
+    },
+    "reaction": "",
+    "timestamp": 1725843923,
+    "senderName": "Misa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB052703B7385A292CA9E",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahhh ok"
+    },
+    "reaction": "",
+    "timestamp": 1725843944,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5AD786A762527",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 🙏 Se ha recibido un pago a través de N1CO con el identificador de Orden: OrdenPrueba de \"Usuario Prueba\" por el monto de 💰 1.00  del número: 77987912 📱 👌 "
+    },
+    "reaction": "",
+    "timestamp": 1725847239,
+    "senderName": "Clobi Technologies",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02B034821996F612716",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que ondas, solo probando como sigue la conexion"
+    },
+    "reaction": "",
+    "timestamp": 1725891241,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADB4D7E6AE4AEA7FEB3",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1725891263,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5CA076E715B2A9FAD7",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Probalo ahí"
+    },
+    "reaction": "",
+    "timestamp": 1725891266,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0A6F3C7B54B583648EF",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "Nos encantaría que evaluaras nuestro servicio",
+        "values": [
+          "🌟",
+          "🌟🌟",
+          "🌟🌟🌟",
+          "🌟🌟🌟🌟"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725891463,
+    "senderName": "Misa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9CDF5A8E76ECDA71AA",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "No se mira mal está"
+    },
+    "reaction": "",
+    "timestamp": 1725892409,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1153694EEDF2FA9A35",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "Va"
+    },
+    "reaction": "",
+    "timestamp": 1725892411,
+    "senderName": "Misa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5C75A6CFD6DD8",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 🙏 Se ha recibido un pago a través de N1CO con el identificador de Orden: OrdenPrueba de \"Usuario Prueba\" por el monto de 💰 1.00  del número: 77987912 📱 👌 "
+    },
+    "reaction": "",
+    "timestamp": 1725897601,
+    "senderName": "Clobi Technologies",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE5C1972B1A6953",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 🙏 Se ha recibido un pago a través de N1CO con el identificador de Orden: OrdenPrueba de \"Usuario Prueba\" por el monto de 💰 1.00  del número: 77987912 📱 👌 "
+    },
+    "reaction": "",
+    "timestamp": 1725915602,
+    "senderName": "Clobi Technologies",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAE52B21B03B4D03",
+    "remoteJid": "50361248292@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 🙏 Se ha recibido un pago a través de N1CO con el identificador de Orden: OrdenPrueba de \"Usuario Prueba\" por el monto de 💰 1.00  del número: 77987912 📱 👌 "
+    },
+    "reaction": "",
+    "timestamp": 1725933601,
+    "senderName": "Clobi Technologies",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1726771056161",
+    "data": {
+      "data": "data",
+      "source": false,
+      "state": {
+        "caption": "¡Elegiste únicamente una cajetilla Garden Fusion!",
+        "file": "",
+        "options": [
+          "1 Garden Fusion"
+        ],
+        "option1": "",
+        "url": "http://localhost:8022//media/Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+        "filename": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+        "mime": "image/jpeg",
+        "text": "",
+        "dialog": false
+      }
+    },
+    "position": {
+      "x": 24.674995512563328,
+      "y": -257.79485632611517
+    },
+    "type": "CustomNode",
+    "nodeType": "image",
+    "keyword": [
+      "¡Elegiste únicamente una cajetilla Garden Fusion!"
+    ],
+    "msgContent": {
+      "image": {
+        "url": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg"
+      },
+      "caption": "¡Elegiste únicamente una cajetilla Garden Fusion!",
+      "mimetype": "image/jpeg"
+    },
+    "width": 300,
+    "height": 498,
+    "selected": false,
+    "positionAbsolute": {
+      "x": 24.674995512563328,
+      "y": -257.79485632611517
+    },
+    "dragging": false
+  },
+  {
+    "id": "1726771182330",
+    "data": {
+      "data": "data",
+      "source": false,
+      "state": {
+        "caption": "¡Elegiste dos cajetillas Garden Fusion, te llevas gratis una cajetilla de clavo totalmente gratis!",
+        "file": "",
+        "options": [
+          "2 Garden Fusion"
+        ],
+        "option1": "",
+        "url": "http://localhost:8022//media/Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+        "filename": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+        "mime": "image/jpeg",
+        "text": "",
+        "dialog": false
+      }
+    },
+    "position": {
+      "x": -192.86764057808,
+      "y": 301.41346952186586
+    },
+    "type": "CustomNode",
+    "nodeType": "image",
+    "keyword": [
+      "¡Elegiste dos cajetillas Garden Fusion, te llevas gratis una cajetilla de clavo totalmente gratis!"
+    ],
+    "msgContent": {
+      "image": {
+        "url": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg"
+      },
+      "caption": "¡Elegiste dos cajetillas Garden Fusion, te llevas gratis una cajetilla de clavo totalmente gratis!",
+      "mimetype": "image/jpeg"
+    },
+    "width": 300,
+    "height": 498,
+    "selected": false,
+    "positionAbsolute": {
+      "x": -192.86764057808,
+      "y": 301.41346952186586
+    },
+    "dragging": false
+  },
+  {
+    "id": "1726772083742",
+    "data": {
+      "data": "data",
+      "source": false,
+      "state": {
+        "caption": "¡Elegiste únicamente una cajetilla de clavo!\n\nEvita el exceso",
+        "file": "",
+        "options": [
+          "1 Clavo"
+        ],
+        "option1": "",
+        "url": "http://localhost:8022//media/Q9W0ptIXg2IQnMozBoRHPUgHsjEx5dGE.jpg",
+        "filename": "Q9W0ptIXg2IQnMozBoRHPUgHsjEx5dGE.jpg",
+        "mime": "image/jpeg",
+        "text": "",
+        "dialog": false
+      }
+    },
+    "position": {
+      "x": -244.52168768123306,
+      "y": -184.81666276989432
+    },
+    "type": "CustomNode",
+    "nodeType": "image",
+    "keyword": [
+      "¡Elegiste únicamente una cajetilla de clavo!\n\nEvita el exceso"
+    ],
+    "msgContent": {
+      "image": {
+        "url": "Q9W0ptIXg2IQnMozBoRHPUgHsjEx5dGE.jpg"
+      },
+      "caption": "¡Elegiste únicamente una cajetilla de clavo!\n\nEvita el exceso",
+      "mimetype": "image/jpeg"
+    },
+    "width": 300,
+    "height": 528,
+    "selected": false,
+    "positionAbsolute": {
+      "x": -244.52168768123306,
+      "y": -184.81666276989432
+    },
+    "dragging": false
+  },
+  {
+    "id": "1726772338150",
+    "data": {
+      "data": "data",
+      "source": false,
+      "state": {
+        "options": [
+          "1 Clavo",
+          "1 Garden Fusion",
+          "2 Garden Fusion",
+          "3 Garden Fusion"
+        ],
+        "text": "Hola querido cliente, somos la empresa Marlboro, ¡Éste mes patrio temblamos con un ofertón que se te caen las nalgas!, en la compra de dos cajetillas Garden Fusion, ¡Llévate una cajetilla de clavo totalmente gratis!\n\nSólo tienes que escribir la cantidad de cajetillas y sabor que deseas comprar.\n\nejemplo: \n1 Garden Fusion\n\n¡Gracias! Evita el exceso\n",
+        "option1": ""
+      }
+    },
+    "position": {
+      "x": -1028.7065420374724,
+      "y": -133.97276973004244
+    },
+    "type": "CustomNode",
+    "nodeType": "text",
+    "keyword": [
+      "1 Clavo",
+      "1 Garden Fusion",
+      "2 Garden Fusion",
+      "3 Garden Fusion"
+    ],
+    "msgContent": {
+      "text": "Hola querido cliente, somos la empresa Marlboro, ¡Éste mes patrio temblamos con un ofertón que se te caen las nalgas!, en la compra de dos cajetillas Garden Fusion, ¡Llévate una cajetilla de clavo totalmente gratis!\n\nSólo tienes que escribir la cantidad de cajetillas y sabor que deseas comprar.\n\nejemplo: \n1 Garden Fusion\n\n¡Gracias! Evita el exceso\n"
+    },
+    "width": 250,
+    "height": 338,
+    "selected": false,
+    "positionAbsolute": {
+      "x": -1028.7065420374724,
+      "y": -133.97276973004244
+    },
+    "dragging": false
+  },
+  {
+    "id": "1726772408197",
+    "data": {
+      "data": "data",
+      "source": false,
+      "state": {
+        "caption": "¡Elegiste únicamente tres cajetillas de Garden Fusion!\n\nLamentablemente no te llevas la promo :(",
+        "file": "",
+        "options": [
+          "3 Garden Fusion"
+        ],
+        "option1": "",
+        "url": "http://localhost:8022//media/ZquenHXlzZg1S1mdrlXYF5okZcRxM0wG.jpg",
+        "filename": "ZquenHXlzZg1S1mdrlXYF5okZcRxM0wG.jpg",
+        "mime": "image/jpeg",
+        "text": "",
+        "dialog": false
+      }
+    },
+    "position": {
+      "x": -766.7065420374724,
+      "y": 294.02723026995756
+    },
+    "type": "CustomNode",
+    "nodeType": "image",
+    "keyword": [
+      "¡Elegiste únicamente tres cajetillas de Garden Fusion!\n\nLamentablemente no te llevas la promo :("
+    ],
+    "msgContent": {
+      "image": {
+        "url": "ZquenHXlzZg1S1mdrlXYF5okZcRxM0wG.jpg"
+      },
+      "caption": "¡Elegiste únicamente tres cajetillas de Garden Fusion!\n\nLamentablemente no te llevas la promo :(",
+      "mimetype": "image/jpeg"
+    },
+    "width": 300,
+    "height": 498,
+    "selected": false,
+    "positionAbsolute": {
+      "x": -766.7065420374724,
+      "y": 294.02723026995756
+    },
+    "dragging": false
+  }
+]

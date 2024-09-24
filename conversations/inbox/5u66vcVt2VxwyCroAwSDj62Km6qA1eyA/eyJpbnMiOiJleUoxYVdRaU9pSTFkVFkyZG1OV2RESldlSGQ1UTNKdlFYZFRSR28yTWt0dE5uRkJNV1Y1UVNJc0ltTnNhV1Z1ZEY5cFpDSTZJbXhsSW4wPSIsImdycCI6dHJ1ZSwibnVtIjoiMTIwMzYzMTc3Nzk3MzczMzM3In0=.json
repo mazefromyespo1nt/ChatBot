@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6032CAB2412B2D9477B3883D6D02A5BD",
+    "remoteJid": "120363177797373337@g.us",
+    "msgContext": {
+      "text": "https://www.facebook.com/share/r/NZUNvy467ocLnzab/?mibextid=oFDknk\n\nLa @5213314597441"
+    },
+    "reaction": "",
+    "timestamp": 1725901784,
+    "senderName": "David Lerma",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

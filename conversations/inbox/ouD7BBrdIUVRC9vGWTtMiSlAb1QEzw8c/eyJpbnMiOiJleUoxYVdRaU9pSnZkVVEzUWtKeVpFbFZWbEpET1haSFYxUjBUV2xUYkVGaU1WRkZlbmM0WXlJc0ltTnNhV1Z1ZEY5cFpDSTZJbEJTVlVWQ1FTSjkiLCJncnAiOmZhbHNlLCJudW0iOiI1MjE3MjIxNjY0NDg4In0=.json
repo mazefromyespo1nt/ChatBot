@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B8E2B5309416F377775F2D7A745C936D",
+    "remoteJid": "5217221664488@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725570890,
+    "senderName": "javier",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1143A6A09B8B0361A750D14075D7E035",
+    "remoteJid": "5217221664488@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por nada, saludos"
+    },
+    "reaction": "",
+    "timestamp": 1725570907,
+    "senderName": "TuLottera",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

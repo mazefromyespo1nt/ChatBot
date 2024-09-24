@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A8F1258F4FD4EA5EE3",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "No te lo puedo creeeeeeer"
+    },
+    "reaction": "",
+    "timestamp": 1725993020,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08F6E9380433FD62862",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "",
+    "timestamp": 1725994203,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C10E5436D82086BD79",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuántos huesos tiene el cuerpo humano?"
+    },
+    "reaction": "",
+    "timestamp": 1725999373,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A8BFF38E48E8CFA666",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "puede ser"
+    },
+    "reaction": "",
+    "timestamp": 1725999773,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

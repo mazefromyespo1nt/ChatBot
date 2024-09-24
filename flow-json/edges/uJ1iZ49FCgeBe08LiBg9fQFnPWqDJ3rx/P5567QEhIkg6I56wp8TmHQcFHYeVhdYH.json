@@ -1,0 +1,72 @@
+[
+  {
+    "source": "1725660591663",
+    "sourceHandle": "hola",
+    "target": "1725660622905",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725660591663hola-1725660622905undefined_target"
+  },
+  {
+    "source": "1725660591663",
+    "sourceHandle": "buenas",
+    "target": "1725660713600",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725660591663buenas-1725660713600undefined_target"
+  },
+  {
+    "source": "1725660713600",
+    "sourceHandle": "documento",
+    "target": "1725660861229",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725660713600documento-1725660861229undefined_target"
+  },
+  {
+    "source": "1725660622905",
+    "sourceHandle": "tardes",
+    "target": "1725660861229",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725660622905tardes-1725660861229undefined_target"
+  },
+  {
+    "source": "1725662351748",
+    "sourceHandle": "buenas tardes",
+    "target": "1725662171927",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725662351748buenas tardes-1725662171927undefined_target"
+  },
+  {
+    "source": "1725662351748",
+    "sourceHandle": "buenos días",
+    "target": "1725662171927",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725662351748buenos días-1725662171927undefined_target"
+  },
+  {
+    "source": "1725662351748",
+    "sourceHandle": "buenas noches",
+    "target": "1725662171927",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725662351748buenas noches-1725662171927undefined_target"
+  },
+  {
+    "source": "1725662351748",
+    "sourceHandle": "buenas tardes",
+    "target": "1725662400263",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725662351748buenas tardes-1725662400263undefined_target"
+  },
+  {
+    "source": "1725662351748",
+    "sourceHandle": "buenos días",
+    "target": "1725662400263",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725662351748buenos días-1725662400263undefined_target"
+  },
+  {
+    "source": "1725662351748",
+    "sourceHandle": "buenas noches",
+    "target": "1725662400263",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725662351748buenas noches-1725662400263undefined_target"
+  }
+]

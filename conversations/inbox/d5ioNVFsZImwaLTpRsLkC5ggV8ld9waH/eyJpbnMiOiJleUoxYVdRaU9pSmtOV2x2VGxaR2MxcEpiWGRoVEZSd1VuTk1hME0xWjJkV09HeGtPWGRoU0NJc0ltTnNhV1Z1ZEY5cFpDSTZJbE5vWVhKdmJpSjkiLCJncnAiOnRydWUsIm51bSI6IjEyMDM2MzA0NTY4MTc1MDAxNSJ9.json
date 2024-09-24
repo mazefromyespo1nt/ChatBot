@@ -1,0 +1,98 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "82799D60A22CE9308E5A9224F13DE31B",
+    "remoteJid": "120363045681750015@g.us",
+    "msgContext": {
+      "text": "Compañeros"
+    },
+    "reaction": "",
+    "timestamp": 1725636498,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "769FCCD331E3E068FC61EC364D5CF670",
+    "remoteJid": "120363045681750015@g.us",
+    "msgContext": {
+      "text": "Nos indica recuerdos humanos que el lunes pueden venir vestidos como niños 🤣"
+    },
+    "reaction": "😂",
+    "timestamp": 1725636518,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FF8F4E053B8F7BAE5178144939EA1FB8",
+    "remoteJid": "120363045681750015@g.us",
+    "msgContext": {
+      "text": "Los de rural nos envían fotos si no hay premio"
+    },
+    "reaction": "",
+    "timestamp": 1725636542,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "821BC1C668317C3D019DFA87BDEBA44D",
+    "remoteJid": "120363045681750015@g.us",
+    "msgContext": {
+      "text": "Hacer la ruta vestido como chiquito?"
+    },
+    "reaction": "",
+    "timestamp": 1725637966,
+    "senderName": "Fruno Zona Sur",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BEE4D69CB763E2DB05C8E2C7F377EEE0",
+    "remoteJid": "120363045681750015@g.us",
+    "msgContext": {
+      "text": "Con alguna camisa de algún personaje"
+    },
+    "reaction": "",
+    "timestamp": 1725638442,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3FC4DE56AB4EA63A7DECB2E889F5F337",
+    "remoteJid": "120363045681750015@g.us",
+    "msgContext": {
+      "text": "Animado"
+    },
+    "reaction": "",
+    "timestamp": 1725638448,
+    "senderName": "Ileana (Fruno Logística)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

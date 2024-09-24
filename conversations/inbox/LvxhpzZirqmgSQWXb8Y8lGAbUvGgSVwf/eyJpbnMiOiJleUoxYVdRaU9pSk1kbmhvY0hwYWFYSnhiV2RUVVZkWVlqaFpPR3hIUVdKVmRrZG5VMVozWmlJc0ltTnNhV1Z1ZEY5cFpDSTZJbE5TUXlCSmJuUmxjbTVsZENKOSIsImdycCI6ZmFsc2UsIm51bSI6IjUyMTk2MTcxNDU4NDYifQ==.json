@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABE02AD0C256F2B3CFE",
+    "remoteJid": "5219617145846@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ing ocupo un trabajo"
+    },
+    "reaction": "",
+    "timestamp": 1725560811,
+    "senderName": "Gilbert",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFA4B9B8077E8A0207A",
+    "remoteJid": "5219617145846@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está disponible"
+    },
+    "reaction": "",
+    "timestamp": 1725560813,
+    "senderName": "Gilbert",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A12C97F9737A2AB0AF0",
+    "remoteJid": "5219617145846@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ing cuanto me cobraria por la confi"
+    },
+    "reaction": "",
+    "timestamp": 1725561379,
+    "senderName": "Gilbert",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

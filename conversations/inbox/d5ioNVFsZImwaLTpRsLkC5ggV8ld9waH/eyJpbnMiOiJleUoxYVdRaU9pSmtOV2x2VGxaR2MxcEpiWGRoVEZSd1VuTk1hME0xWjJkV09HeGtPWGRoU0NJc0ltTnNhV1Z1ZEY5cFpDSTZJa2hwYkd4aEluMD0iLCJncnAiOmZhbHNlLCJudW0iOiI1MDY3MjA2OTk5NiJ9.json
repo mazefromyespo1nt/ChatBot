@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7FC697FFDC0C3BFB88",
+    "remoteJid": "50672069996@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por el momento no gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725902922,
+    "senderName": "Keylor Tolosa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A119BF11774258A04BA",
+    "remoteJid": "50672069996@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esto es un número corporativo"
+    },
+    "reaction": "",
+    "timestamp": 1725902931,
+    "senderName": "Keylor Tolosa",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

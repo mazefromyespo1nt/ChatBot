@@ -1,0 +1,280 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04F9249E1213BB124B3",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "@5217444321258 nomas vienes a poner el desorden deberás"
+    },
+    "reaction": "",
+    "timestamp": 1725551141,
+    "senderName": "Amsi 🫧",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E1EF93588BB3B89E9F",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "yo no queria traer nada 😩"
+    },
+    "reaction": "",
+    "timestamp": 1725551162,
+    "senderName": "Amsi 🫧",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C04E1B13B9E4179A72",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "vergazos vergazos"
+    },
+    "reaction": "",
+    "timestamp": 1725551172,
+    "senderName": "Jesús Castrejón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABB79B057ABB1289E94",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "Erga que les tocó banda xd ?"
+    },
+    "reaction": "",
+    "timestamp": 1725551850,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7192979690B9468D00",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "@5217444321258 cuántas personas serán en la kermés? Para saber cuántos kg de frijol hacer"
+    },
+    "reaction": "",
+    "timestamp": 1725551887,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0648CD7FF174B283C7D",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "salsas xd"
+    },
+    "reaction": "",
+    "timestamp": 1725551922,
+    "senderName": "Jesús Castrejón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5217442392565@s.whatsapp.net",
+      "id": "3ABB79B057ABB1289E94"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A1FBCBA8B17C8C3E618",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "Jaja Erga"
+    },
+    "reaction": "",
+    "timestamp": 1725551931,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A567F78B61DCE579F9C",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "Lo eso te tocó el año pasado ?"
+    },
+    "reaction": "",
+    "timestamp": 1725551937,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CB7D64252C8C3D17FA",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "las voy hacer picosas para que se las pasen cagando"
+    },
+    "reaction": "",
+    "timestamp": 1725551941,
+    "senderName": "Jesús Castrejón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DF580C0ADB49A9E77C",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "creo que sí jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725551953,
+    "senderName": "Jesús Castrejón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5217442392565@s.whatsapp.net",
+      "id": "3A567F78B61DCE579F9C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A0251DF5FE154347328",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "Ha no les tocó, guacamole"
+    },
+    "reaction": "",
+    "timestamp": 1725551962,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0CD948D117CEC9A70A",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "porque traen muy poquito"
+    },
+    "reaction": "",
+    "timestamp": 1725551970,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F8CB143CF146F4B5CE",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "le tocó a otro tambien el guacamole"
+    },
+    "reaction": "",
+    "timestamp": 1725551986,
+    "senderName": "Jesús Castrejón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB099CD958E079347C1E5",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "eran 2 y se acabaron alv"
+    },
+    "reaction": "",
+    "timestamp": 1725551990,
+    "senderName": "Jesús Castrejón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A28767EF1E54FF17D75",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "Alv jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725552002,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "90229DB88FBE88E901",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "el alda te quiere sacar los frijoles @5217442754780"
+    },
+    "reaction": "",
+    "timestamp": 1725552016,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A2CD7FD872E1C878D20",
+    "remoteJid": "120363303387692060@g.us",
+    "msgContext": {
+      "text": "Erga como capama a puro bombear mierda"
+    },
+    "reaction": "",
+    "timestamp": 1725552031,
+    "senderName": "Aldhair Gomez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

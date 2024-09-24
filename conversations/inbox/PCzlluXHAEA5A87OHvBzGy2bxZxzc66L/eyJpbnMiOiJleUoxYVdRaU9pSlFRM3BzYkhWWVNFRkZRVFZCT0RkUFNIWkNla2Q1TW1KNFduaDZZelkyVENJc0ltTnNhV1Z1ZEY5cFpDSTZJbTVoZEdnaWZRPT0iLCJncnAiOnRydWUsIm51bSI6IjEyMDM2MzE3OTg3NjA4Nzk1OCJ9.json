@@ -1,0 +1,132 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7671553563F20E33A684AB6942E9C713",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Hola buenas tardes le podrían darle 2 cubiertas a Fernando para que el día de hoy me las traiga a la pizzería de lomas\nAntemano muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725653722,
+    "senderName": "Pedro Torres Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E4A6CD3C546621D805",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Hola, Pedirto- Buen día"
+    },
+    "reaction": "",
+    "timestamp": 1725654219,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06A699941F1628DA69A",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Si, que te las enviamos"
+    },
+    "reaction": "",
+    "timestamp": 1725654227,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3F680D8B732D83CBD2C935FEED9BAB6C",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725654265,
+    "senderName": "Pedro Torres Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0990099BE88D906C68F",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Hola, holaaa \n\nMe pasas de favor tu *Pedido de REFRESCO* para esta semana.\n\nGracias ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725657947,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "D1631AF330AA466B57B52274EE41C00A",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "caption": "Envío pedido de insumos de lomas",
+      "fileName": "BWZuHQ.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725854245,
+    "senderName": "Mayra",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A25995D46C25715FE7A",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Holaaa Pedrito 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885750,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E7B48DC9DCF4B633955D7CD3C6D2818E",
+    "remoteJid": "120363179876087958@g.us",
+    "msgContext": {
+      "text": "Hola buenos días Nely \nSi nesesito un desechable para papá\nMuchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725897894,
+    "senderName": "Pedro Torres Ramirez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

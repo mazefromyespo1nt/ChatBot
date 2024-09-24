@@ -1,0 +1,31 @@
+[
+  {
+    "source": "1725937962048",
+    "sourceHandle": "Hola",
+    "target": "1725937991153",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725937962048Hola-1725937991153undefined_target"
+  },
+  {
+    "source": "1725937991153",
+    "sourceHandle": "Hola",
+    "target": "1725938814042",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725937991153Hola-1725938814042undefined_target",
+    "selected": false
+  },
+  {
+    "source": "1725938814042",
+    "sourceHandle": "Nike",
+    "target": "1725938842666",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725938814042Nike-1725938842666undefined_target"
+  },
+  {
+    "source": "1725938814042",
+    "sourceHandle": "Zapatos",
+    "target": "1725938842666",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725938814042Zapatos-1725938842666undefined_target"
+  }
+]

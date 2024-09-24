@@ -1,0 +1,52 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A1786302D250743712",
+    "remoteJid": "50672067674@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes y en cuanto a servicio móvil ya cuenta con un plan postpago?"
+    },
+    "reaction": "",
+    "timestamp": 1725998745,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C218585C69DDEBDB18",
+    "remoteJid": "50672067674@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Con gusto estos son los planes que tenemos para usted.",
+      "fileName": "NoLtnI.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725998851,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05EDDA2B0C5567621E1",
+    "remoteJid": "50672067674@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eso más que todo es si desea sacar el plan con la portabilidad que es con el mismo número que tiene ahora."
+    },
+    "reaction": "",
+    "timestamp": 1725999046,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

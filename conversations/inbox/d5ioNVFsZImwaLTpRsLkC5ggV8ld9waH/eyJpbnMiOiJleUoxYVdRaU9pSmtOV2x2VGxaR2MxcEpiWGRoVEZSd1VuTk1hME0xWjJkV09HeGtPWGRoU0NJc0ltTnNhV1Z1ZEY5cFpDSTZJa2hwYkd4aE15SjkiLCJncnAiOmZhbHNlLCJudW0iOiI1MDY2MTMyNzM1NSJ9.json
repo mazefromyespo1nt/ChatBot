@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CD5A041DC23B320AFD",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "Prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725994244,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00F6F38E55DAA575567",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Cuento de los Tres Hermanos\n\nHabía una vez tres hermanos que eran muy hábiles en la magia. Mientras viajaban juntos, encontraron un río muy peligroso para cruzar. Sin embargo, utilizaron sus habilidades mágicas para conjurar un puente y cruzar el río con seguridad.\n\nAl otro lado del río, se encontraron con la Muerte, quien no estaba contenta de haber sido engañada por los hermanos. La Muerte los felicitó por su astucia y dijo que los recompensaría por su ingenio.\n\nEl hermano mayor pidió una varita poderosa, más fuerte que cualquier otra en existencia. La Muerte le proporcionó una varita extremadamente poderosa hecha de madera de saúco. El segundo hermano pidió el poder de traer a los muertos de vuelta a la vida, y la Muerte le dio una piedra que podía resucitar a los difuntos. El hermano menor, sin embargo, pidió algo que le permitiera alejarse de la Muerte. La Muerte, a regañadientes, le dio una capa de invisibilidad.\n\nEl hermano mayor, con su nueva varita, se volvió arrogante y fue finalmente asesinado por otro mago que codiciaba la varita. El segundo hermano, al usar la piedra para traer de vuelta a su amor perdido, se dio cuenta de que ella no estaba realmente viva y quedó consumido por la desesperación, acabando por suicidarse para reunirse con ella. El hermano menor vivió una vida larga y pacífica, siempre utilizando su capa para evadir la Muerte. Cuando estuvo listo para morir, se quitó la capa y recibió a la Muerte como una amiga anciana.\n\nAsí, el cuento ilustra los peligros de buscar poder y el valor de aceptar nuestra mortalidad."
+    },
+    "reaction": "",
+    "timestamp": 1725995680,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB072EB7389C58532B255",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué animal camina con las patas en la cabeza?"
+    },
+    "reaction": "",
+    "timestamp": 1725996315,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08027AD26BA113D5B65",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió?\n\nPorque tenía demasiados problemas."
+    },
+    "reaction": "",
+    "timestamp": 1726000196,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06071E2AECDF363A624",
+    "remoteJid": "50661327355@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Cuento de los Tres Hermanos\n\nHabía una vez tres hermanos que eran muy hábiles en la magia. Mientras viajaban juntos, encontraron un río muy peligroso para cruzar. Sin embargo, utilizaron sus habilidades mágicas para conjurar un puente y cruzar el río con seguridad.\n\nAl otro lado del río, se encontraron con la Muerte, quien no estaba contenta de haber sido engañada por los hermanos. La Muerte los felicitó por su astucia y dijo que los recompensaría por su ingenio.\n\nEl hermano mayor pidió una varita poderosa, más fuerte que cualquier otra en existencia. La Muerte le proporcionó una varita extremadamente poderosa hecha de madera de saúco. El segundo hermano pidió el poder de traer a los muertos de vuelta a la vida, y la Muerte le dio una piedra que podía resucitar a los difuntos. El hermano menor, sin embargo, pidió algo que le permitiera alejarse de la Muerte. La Muerte, a regañadientes, le dio una capa de invisibilidad.\n\nEl hermano mayor, con su nueva varita, se volvió arrogante y fue finalmente asesinado por otro mago que codiciaba la varita. El segundo hermano, al usar la piedra para traer de vuelta a su amor perdido, se dio cuenta de que ella no estaba realmente viva y quedó consumido por la desesperación, acabando por suicidarse para reunirse con ella. El hermano menor vivió una vida larga y pacífica, siempre utilizando su capa para evadir la Muerte. Cuando estuvo listo para morir, se quitó la capa y recibió a la Muerte como una amiga anciana.\n\nAsí, el cuento ilustra los peligros de buscar poder y el valor de aceptar nuestra mortalidad."
+    },
+    "reaction": "",
+    "timestamp": 1726001157,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25255283C0D503CAC94219658CCA809C",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le puedo llamar"
+    },
+    "reaction": "",
+    "timestamp": 1725496300,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DAEC0C502F52C81450669083DCACC084",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "De aquí un par de horas por favor estoy en un examen"
+    },
+    "reaction": "",
+    "timestamp": 1725497793,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01D4F16BDFA7D39DCE0",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok vsale"
+    },
+    "reaction": "",
+    "timestamp": 1725497856,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A331A2B9C594221D61A20CC94AA48AA4",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Carlos"
+    },
+    "reaction": "",
+    "timestamp": 1725505947,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A27FE24416BEC4D5B910566A427C371",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me desocupe"
+    },
+    "reaction": "",
+    "timestamp": 1725505950,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F858D995958516966A8D6DA7F3E0ED7B",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora sí"
+    },
+    "reaction": "",
+    "timestamp": 1725505953,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "380098973C46689960714F55B4175F19",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Podemos probar"
+    },
+    "reaction": "",
+    "timestamp": 1725505963,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8410DCF515D79F85FCE04B5BC4ECA7EF",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725505984,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F584D7C6A080AD1581FCA5DEECFDE612",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le puedo llamar"
+    },
+    "reaction": "",
+    "timestamp": 1725505988,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A0A0DB45917452BEDE212167F0D005F3",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sí"
+    },
+    "reaction": "",
+    "timestamp": 1725506004,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F7FA286A858BEC1959626B0703ACFE89",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Deje prendo mi máquina"
+    },
+    "reaction": "",
+    "timestamp": 1725506074,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "133963FC97BDC2B2C99360D7EEF13472",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo entré"
+    },
+    "reaction": "",
+    "timestamp": 1725506878,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01CBE87136B18A3BED2",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenas tardes ING"
+    },
+    "reaction": "",
+    "timestamp": 1725584548,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0311A4AEC598A320329",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como mando el link de pago a un cliente antes de qu elo mande el sistema de mercadopago"
+    },
+    "reaction": "",
+    "timestamp": 1725584572,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5D5F4666FAE255822EA7A67873FCA8D7",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tienes que generar el pago"
+    },
+    "reaction": "",
+    "timestamp": 1725584671,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A2892A56778E14D929D1A53EDC406A17",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y enviar el correo"
+    },
+    "reaction": "",
+    "timestamp": 1725584677,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E6C995989F4861C2AF",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "pero el sistema ya lo genero"
+    },
+    "reaction": "",
+    "timestamp": 1725584688,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F7C4279919724350EF",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahora como lo envio e slo que no tengo ide"
+    },
+    "reaction": "",
+    "timestamp": 1725584698,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C95B149731A8FDB014028F7995F46F73",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes volver a enviar el correo"
+    },
+    "reaction": "",
+    "timestamp": 1725584722,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB09BF1358A441C8DF629",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "UjpiIk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725584742,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09147E33F4FE5432AA5",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "hoy es 5 por que no se lo mando el whattapp"
+    },
+    "reaction": "",
+    "timestamp": 1725584781,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B64DDE44761AABFD50",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "como genero el link de pago desde el whatapp para que el sistema lo capture en automatico"
+    },
+    "reaction": "",
+    "timestamp": 1725584978,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B61AF087ECC8A2987CE1596DE464904",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Solo se genera una vez y se guarda en la base de datos"
+    },
+    "reaction": "",
+    "timestamp": 1725585091,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09A6C06DBB26026794D",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "yo lo tube que realizar manual"
+    },
+    "reaction": "",
+    "timestamp": 1725585140,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0502900DF8318E577BB",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "no era el caso tube que entrar y enviar por correo despues copiar el link y por ultimo desde whattapp."
+    },
+    "reaction": "",
+    "timestamp": 1725585227,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EF53D2DA9B1E494E15EB326455E3832C",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuando creas manual no envia por Whatsapp creo no recuerdo si está activo esa opción"
+    },
+    "reaction": "",
+    "timestamp": 1725585276,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB016964C5D454C7D835A",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "el detalle es que ya pago por mercadopago lo hice manual pero sigue pendiente el el sistema"
+    },
+    "reaction": "",
+    "timestamp": 1725585319,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01299165DA209BCFCCE",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "hay no se hacer"
+    },
+    "reaction": "",
+    "timestamp": 1725585350,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FC0078F832D08D813F7A2588BF287015",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Activale el servicio y ponle pagado"
+    },
+    "reaction": "",
+    "timestamp": 1725585395,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB052EE8087E309A3D52F",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy podemos revisar mas noche ING."
+    },
+    "reaction": "",
+    "timestamp": 1725585489,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0085FD2FCD68FF77D2D",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo dudas."
+    },
+    "reaction": "",
+    "timestamp": 1725585519,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1CD65ED87322C37C6FAF27C939F16628",
+    "remoteJid": "51980061113@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si claro te aviso cuando esté en mi pc"
+    },
+    "reaction": "",
+    "timestamp": 1725585546,
+    "senderName": "Michael guevara",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

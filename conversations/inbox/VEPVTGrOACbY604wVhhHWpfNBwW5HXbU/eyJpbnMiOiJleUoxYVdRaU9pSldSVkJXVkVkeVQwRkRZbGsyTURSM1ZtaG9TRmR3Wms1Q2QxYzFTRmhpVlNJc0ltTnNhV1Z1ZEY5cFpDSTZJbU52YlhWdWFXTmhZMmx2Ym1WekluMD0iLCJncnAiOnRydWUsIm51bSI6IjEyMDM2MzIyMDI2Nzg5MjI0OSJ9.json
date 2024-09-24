@@ -1,0 +1,55 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C36A67D0A2D7AA41BD",
+    "remoteJid": "120363220267892249@g.us",
+    "msgContext": {
+      "text": "https://www.farmaleaderstalento.com/blog/10-mujeres-que-cambiaron-la-industria-farmaceutica"
+    },
+    "reaction": "",
+    "timestamp": 1725981323,
+    "senderName": "Community Manager Gráfico",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0402427B335FBD0B0E5",
+    "remoteJid": "120363220267892249@g.us",
+    "msgContext": {
+      "text": "https://www.farmaleaderstalento.com/blog/mujeres-en-la-industria-farmaceutica"
+    },
+    "reaction": "",
+    "timestamp": 1725981379,
+    "senderName": "Community Manager Gráfico",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0C6C777CF74B7AC5643",
+    "remoteJid": "120363220267892249@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "VnXzzx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725981824,
+    "senderName": "Gráfico Digital",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

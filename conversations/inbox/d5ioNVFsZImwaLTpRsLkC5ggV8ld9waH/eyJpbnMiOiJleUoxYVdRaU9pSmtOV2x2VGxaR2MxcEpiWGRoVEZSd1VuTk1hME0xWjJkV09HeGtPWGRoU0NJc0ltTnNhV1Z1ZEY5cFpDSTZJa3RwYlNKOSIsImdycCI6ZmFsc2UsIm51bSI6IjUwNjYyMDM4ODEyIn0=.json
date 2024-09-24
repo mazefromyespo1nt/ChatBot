@@ -1,0 +1,149 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "FA86103623776EFF3D958DA94001B3B4",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Hola recibí este mensaje para preguntar el precio es fijo sin sorpresas, me refiero no es por algunos meses?, gracias",
+      "fileName": "Qmqz57.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730778,
+    "senderName": "Orlando Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A38C12397F16CF6850",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "VGavUJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725730830,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0A55BA5B284E4DA94E1",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wqkCKV.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725730876,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0446CE47DB64B12EF80",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6TjUmK.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725730960,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0EB60E95C842D8F6014",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "c4fKXO.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725730971,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB031837AC11D8BD52A0E",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "text": "Orlando es completamente FIJO el precio en el audio te recalco la promoción . Y si contrata está semana tendrá todo el mes de *SETIEMBRE EN CORTESÍA🎁* y pagarías hasta el  20-10-2024 😁\n\nLa instalación es sin costo , otra cortesia😁🎁"
+    },
+    "reaction": "",
+    "timestamp": 1725731075,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50662038812@s.whatsapp.net",
+      "id": "FA86103623776EFF3D958DA94001B3B4"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "55587E0B8CABFCD65A4A2E533364AA4D",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Orlando quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera. Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725891048,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BF544157F96193F9A2",
+    "remoteJid": "50662038812@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier duda con gusto. Tenemos otras opciones 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725926139,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50662038812@s.whatsapp.net",
+      "id": "FA86103623776EFF3D958DA94001B3B4"
+    }
+  }
+]

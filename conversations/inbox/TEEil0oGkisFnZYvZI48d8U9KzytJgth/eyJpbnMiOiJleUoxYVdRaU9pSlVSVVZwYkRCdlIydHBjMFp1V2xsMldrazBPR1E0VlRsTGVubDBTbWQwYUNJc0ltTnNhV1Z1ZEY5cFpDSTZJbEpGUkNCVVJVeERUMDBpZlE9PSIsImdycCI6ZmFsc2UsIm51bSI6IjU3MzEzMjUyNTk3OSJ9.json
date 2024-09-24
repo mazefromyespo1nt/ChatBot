@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A907DDE560B56B5303F",
+    "remoteJid": "573132525979@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725547140,
+    "senderName": "R E S I L I E N C I A",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5CBF9BD1C9E273EEC5",
+    "remoteJid": "573132525979@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estoy interesado que papeles necesita para iniciar"
+    },
+    "reaction": "",
+    "timestamp": 1725547208,
+    "senderName": "R E S I L I E N C I A",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3500FB04506957F869F46364341ED6D4",
+    "remoteJid": "573132525979@s.whatsapp.net",
+    "msgContext": {
+      "text": "*DESCARGAR INFO:* https://bit.ly/inforedtelcom\n\nEs un gusto saludarte, 👋🏼 a continuación encontraras la información de como trabajar con nosotros para aumentar tus ingresos ofreciendo mas productos y servicios en tu negocio, una vez conozcas esta información podrás pedir por este medio la vinculación a la plataforma indicándonos tus datos personales, quedamos atentos si deseas mas información.\n\nPara vincularte con 🌐 Red Telcom registrate en el siguiente link 👇🏽👇🏽\nhttps://ventas.redtelcom.co?referido=MDAxMTE4NTI="
+    },
+    "reaction": "",
+    "timestamp": 1725551879,
+    "senderName": "RED TELCOM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CB41D52236DC3E5528",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725653680,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A2C739367179D2B5A36F18010E5C3BE7",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725653822,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "45C5363AA16E8E8B41FD5BD7F447FB5D",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725653876,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02312ED4B6415875E18",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725653891,
+    "senderName": "Celenne Araceli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E660847BA93C865951",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725656572,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E508C5E7948D8B02C13ABB48E633251F",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725657764,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB024BEB7410E82E9D11B",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "caption": "este es por si pusiste si",
+      "fileName": "zLdslRGQxp6mks7pTvFxgLZw4bj9Pzkb.webp",
+      "mimetype": "image/webp"
+    },
+    "reaction": "",
+    "timestamp": 1725657766,
+    "senderName": "Celenne Araceli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "645343B85581CD1C9D09E8C1D6B81B8E",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "No"
+    },
+    "reaction": "",
+    "timestamp": 1725657773,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0BAD0E4CC9243088EB8",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Este por si pusiste no",
+      "fileName": "c98XJXNne4GjWYhjnHJiHPROAYgsPq4C.webp",
+      "mimetype": "image/webp"
+    },
+    "reaction": "",
+    "timestamp": 1725657775,
+    "senderName": "Celenne Araceli",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C12D642AC797EFFA5052F9AEDE2D6B31",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo creo que si"
+    },
+    "reaction": "",
+    "timestamp": 1725657786,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7AB44BF5B5BAEA77658E3C2859C50C06",
+    "remoteJid": "5218132812905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creo que no"
+    },
+    "reaction": "",
+    "timestamp": 1725657940,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

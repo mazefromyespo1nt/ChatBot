@@ -1,0 +1,23 @@
+[
+  {
+    "source": "1725571654676",
+    "sourceHandle": "{{OTHER_MSG}}",
+    "target": "1725571746587",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725571654676{{OTHER_MSG}}-1725571746587undefined_target"
+  },
+  {
+    "source": "1725571746587",
+    "sourceHandle": "porno",
+    "target": "1725571817066",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725571746587porno-1725571817066undefined_target"
+  },
+  {
+    "source": "1725571746587",
+    "sourceHandle": "videos",
+    "target": "1725571855410",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725571746587videos-1725571855410undefined_target"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB025F8C1E3656ECB5F81",
+    "remoteJid": "50672078984@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 👋🏻 Mi nombre es Sharon de Liberty, Adquiere hoy tu plan sin contrato (por ₡10,900) y goce de beneficios LIBERTY sin competencia puedes conservar tu numero KOLBI o CLARO o bien (número nuevo LIBERTY)\n✅ Paga hasta el dia 20 de  OCTUBRE. \n🆕 Opción de teléfono después de 5 facturas. \n✅12 GB de Internet ¡acumulables!\n🆓 WhatsApp, Facebook, Instagram, Twitter y Waze ¡ilimitados!😲\n✅ Obtenga 300 min y SMS LIBERTY.\n🆒 150 minutos y SMS a C.R.🇨🇷, Tigo Nicaragua, U.S.A. y Canadá. \n                              \n✳️ Para mayor información, por favor responda \"Sí\"; si no desea más mensajes, responda BAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725919550,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F7AEA1CF7C24F062077",
+    "remoteJid": "50672078984@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Suplidora Reyes. \n\nNuestro horario de atención es de Lunes a Viernes de 7am a 4pm, y Sábados de 8am a 2pm. Estaremos respondiendo tú consulta lo más pronto posible."
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725919552,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,269 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00EC6F7AA3C5EE6DFA4",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día. Le saluda Mónica Urbina de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactar le con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos servicios de: \n🟠Planes postpago\n🟠Servicios de hogar (Cable e Internet)\n\nLo que mejor se adapten a ti.\n◾ No es necesario un depósito.\n◾ Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero). \n◾ Se omite mancha/deuda de otros operadores o casas comerciales. \n◾ Paga hasta el próximo mes.\n◾ Después de 5 facturas pagas le damos opción de adquirir un celular en el caso de adquirir un plan📲 \n\nSi deseas más información coloca SI"
+    },
+    "reaction": "",
+    "timestamp": 1725920875,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B034A4C9C9451FEDD65FBB437214058E",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas lo que encesito es un plan para el teléfono como me podría ayudar"
+    },
+    "reaction": "",
+    "timestamp": 1725921145,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB041EB56BD13FE38BD4C",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fDAXEk.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725921783,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C94339473274DB9004",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este sería el numero de la central 21054762 y mi codigo de vendedor sería 45436"
+    },
+    "reaction": "",
+    "timestamp": 1725921923,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "18542A7FEE74CB9C29087E33DDED5977",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "IRqMjB.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725921996,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661329327@s.whatsapp.net",
+      "id": "3EB041EB56BD13FE38BD4C"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB01EBC530C604149620A",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mY92Gl.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725922191,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "16CCAF20ACA00EBA57791171E7763A46",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "A usted"
+    },
+    "reaction": "",
+    "timestamp": 1725923926,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03CE92A0BF2887CE7CA",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si pudiera colaborar me con lo que sería numero de cédula para poder iniciar con una validación rápida"
+    },
+    "reaction": "",
+    "timestamp": 1725924741,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7404773D26318085B2445B3FCD68310D",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "1-726-0684"
+    },
+    "reaction": "",
+    "timestamp": 1725924826,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3D8FDFA30AF5D487DE41424B9DFBCDEA",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Fresy Jiménez Rivera"
+    },
+    "reaction": "",
+    "timestamp": 1725924834,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB093C0B2F3328CC26F4F",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias. Quedo atenta a los demás datos☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725924873,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D749CFF749B785E3FAC31A8D7602A97E",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo cuando llegue a casa gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725924979,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E538606ADA0B6B859D684A525576EBD9",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es que me han pasado varios chascos señorita Mónica entonces me da miedo"
+    },
+    "reaction": "",
+    "timestamp": 1725924980,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "473C2B0CBAEF5C35AB815B4411542AF2",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero de igual manera muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725924996,
+    "senderName": "Karen Araya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB09846B0C496070F1C8F",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ow9f0Y.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725925026,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB032C402E7E15DE2E400",
+    "remoteJid": "50672075806@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días, Doña Fresy espero se encuentre bien.\nYa realice la primera validación y todo salio perfecto. Ahora para poder continuar necesitaría los datos adicionales que le solicite para poder intentar lo mas posible hacer le la entrega esta semana."
+    },
+    "reaction": "",
+    "timestamp": 1725979645,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

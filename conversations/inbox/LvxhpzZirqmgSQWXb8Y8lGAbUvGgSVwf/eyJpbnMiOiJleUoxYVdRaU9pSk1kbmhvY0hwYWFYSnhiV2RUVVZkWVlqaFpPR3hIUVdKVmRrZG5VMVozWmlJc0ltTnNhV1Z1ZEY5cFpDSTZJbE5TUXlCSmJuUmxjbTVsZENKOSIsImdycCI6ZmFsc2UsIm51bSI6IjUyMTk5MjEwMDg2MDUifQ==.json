@@ -1,0 +1,1389 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A69816F1ED901927CB3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "scSlIA.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725546386,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EC14F85E52CC30EE5A32DB02B4ED7353",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno dias"
+    },
+    "reaction": "",
+    "timestamp": 1725548148,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "179DEB818CA0323F958031CCFBBEBAF9",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si claro"
+    },
+    "reaction": "",
+    "timestamp": 1725548156,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73950BDD22C6257A9324D25A423D5B53",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "A qué hora"
+    },
+    "reaction": "",
+    "timestamp": 1725548161,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0350618A7F0CA541E7",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como las 10"
+    },
+    "reaction": "",
+    "timestamp": 1725548170,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DC7E128024684330F1F8F81E879E3671",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gusta nos conectamos."
+    },
+    "reaction": "",
+    "timestamp": 1725548173,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB51C2BDA344B93F23F",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuánto me cobraría ?"
+    },
+    "reaction": "",
+    "timestamp": 1725548174,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A0F62FBF57460F52AAF9449D06424FD5",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Será lo mismo la liberamos para que trabaje con otros equipos y la configuración como ya me a estado dando trabajo le cobraría 1500"
+    },
+    "reaction": "",
+    "timestamp": 1725548315,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A793B8E8E0F0CBA3F55",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si está bien gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725549004,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A156F0748F42FF29ADD",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725552087,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB04B9F476BA30AC55B",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya ando preparando"
+    },
+    "reaction": "",
+    "timestamp": 1725552090,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A634DFB79ABCF53B9A3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Los equipos"
+    },
+    "reaction": "",
+    "timestamp": 1725552093,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "604B85C0A12B2D4410171994237260CF",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725552095,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "881E4C7DAB27EB62B566F90C543A2D44",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me avisa"
+    },
+    "reaction": "",
+    "timestamp": 1725552106,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A32B14C8D56B78F7C0B",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sí claro"
+    },
+    "reaction": "",
+    "timestamp": 1725552113,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "35033657387BF34879501B4017E16ED8",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "G89bd0.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725552120,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AC72B3FB9F9C14F5802",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uLzQoD.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725552156,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A8F848F68696B2805A2",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "z0y2dz.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725552314,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1384F62A79BB7DCA67C197924A70672B",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725552476,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A24E13DD557DA3898EA",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jpXWIS.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725552733,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A2E1B674CF9B159E0CDB43E095609A7E",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok dem 5 minutos minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725553005,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "84D6B13D347663A45E717434760A9A86",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya estoy terminando"
+    },
+    "reaction": "",
+    "timestamp": 1725553009,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADC5DA003F8B38830B7",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah ok está bien"
+    },
+    "reaction": "",
+    "timestamp": 1725553024,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A55F1561A24D727A382",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Primero me conecto al mk o a la olt ?"
+    },
+    "reaction": "",
+    "timestamp": 1725553126,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3FF55C89AB9E5FF2732087BBA579178F",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lyfV7Q.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725553137,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0AA1D96ADB8D70B028",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725553346,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2B5D564AEF5A3734D0EF728AAD9DAC76",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725553363,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4A2DC16A9EEF5B4502AC3F8ECB23B9C1",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Deme acceso"
+    },
+    "reaction": "",
+    "timestamp": 1725553367,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2FB810BF18D13F92513CD272CAF0A50F",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725553370,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4424EBA34812CB50B3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si dele porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725553388,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AC614E65DF4A7F699AE3D69F7DB5C45A",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está como lento"
+    },
+    "reaction": "",
+    "timestamp": 1725553411,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "306B10398EA3DB88D34166C77138CFE3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Su password mikrotik cual es ING"
+    },
+    "reaction": "",
+    "timestamp": 1725553481,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "711703C67192E79B5E23DA7BC039FE68",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que planes manejara"
+    },
+    "reaction": "",
+    "timestamp": 1725553488,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB0D7D0602140A6F6CE",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es esa"
+    },
+    "reaction": "",
+    "timestamp": 1725553520,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F6B3B1BE11061089004A88B5D990BB9D",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok que planes tendrá"
+    },
+    "reaction": "",
+    "timestamp": 1725553528,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A005BE2B701CC38CBED",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sigue lento ?"
+    },
+    "reaction": "",
+    "timestamp": 1725553529,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFA369B91C199FCC20D",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "De 10 y 20"
+    },
+    "reaction": "",
+    "timestamp": 1725553540,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C0C1946367A9F321509214F076CEEBDC",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725553544,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E4BF74C7C98017DA88980C49FC7B8430",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que vlan tendrá"
+    },
+    "reaction": "",
+    "timestamp": 1725553559,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1349009903A8077E9A",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "La 100"
+    },
+    "reaction": "",
+    "timestamp": 1725553567,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "28D5BDB969FFFF01AF51E7615A191806",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y conecte al mikrotik en en puerto 1 internet"
+    },
+    "reaction": "",
+    "timestamp": 1725553578,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A85D724E99249F41998",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está conectado"
+    },
+    "reaction": "",
+    "timestamp": 1725553603,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2082328FD8E38A0E109F80F8AB743CD2",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725553746,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2B76327B899B730343D0491086CE2BE0",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "La OLT conecte g1 en el puerto 2 y g2 en el puerto 3"
+    },
+    "reaction": "",
+    "timestamp": 1725553791,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8A6681CF9DCF38CCA6",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725553819,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3DAB9A2D877D0E8871",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya quedó"
+    },
+    "reaction": "",
+    "timestamp": 1725553893,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "47B01291B8C1E5F6D3E8A5DDBF7B3E83",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725553899,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "5952CC90B4A3B56183BC9A0325D2316F",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "MApZ9m.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725554545,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A2E8E76D808564D037A",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dUj8XV.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725554591,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "75308875125A8A115F9C8C7363EABB7C",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Q4WUNU.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725554617,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1D12BC86D3415AE21D",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Haber si puede checar de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725554946,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "D891AA3BB1FC6985D84813CAC39564C7",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "c31WkT.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725555269,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "33B7935B136B1CB97FFBF1892D3A2BF0",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "rg0PMu.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725557564,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA373EFCFA79EE35AD6",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si ya se puedo"
+    },
+    "reaction": "",
+    "timestamp": 1725557572,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215585058348@s.whatsapp.net",
+      "id": "397F1987F50F90FAA9CD1406B782414E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A83E3BF91FBCEDED5FB",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puso"
+    },
+    "reaction": "",
+    "timestamp": 1725557574,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3DF1B0C75876D00F2C",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero no"
+    },
+    "reaction": "",
+    "timestamp": 1725557576,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "7A4E6E595EEF7C27369CC6CE25362EAC",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ZkE95C.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725558129,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "353B85EC0F092AD2BEF9EC25E740FBDB",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725558252,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "205DCBF599D194CCDC061C026FF1984E",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725558290,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "8D0D92FFAB758BFE5DCA7C21349AFE32",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Csxpnb.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725558301,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "E4982A42121DAE1F45FB9D5757658699",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AEMuQ4.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725558487,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A53037A7A25AC621D1F",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si ya quedo"
+    },
+    "reaction": "",
+    "timestamp": 1725558506,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215585058348@s.whatsapp.net",
+      "id": "8D0D92FFAB758BFE5DCA7C21349AFE32"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9B15E82A24D93910D3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725558514,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215585058348@s.whatsapp.net",
+      "id": "E4982A42121DAE1F45FB9D5757658699"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A1AC603F90DD87290B7",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "OkAOm6.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725559065,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AF5E0E78C0FA777E10DA10514D896BD2",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725559082,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9F41FA2FE0106F6BC183B9F113304AB3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que le dé aceptar ING"
+    },
+    "reaction": "",
+    "timestamp": 1725559976,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5F3114B1CB68DA3E3690E002DA5E0B44",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725559979,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3C21D53F406B08057E2C9F004F82D9D5",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "89auNh.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725560246,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD25C7F6158B1FF0842",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725560264,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8C46ABB4447F10F5864FBE4D8C164734",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si lo realizó"
+    },
+    "reaction": "",
+    "timestamp": 1725560615,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A06F0A085C199110E613B987BC483E46",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725560798,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "5DB1464FBBB9909719FC6844A294A89C",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DxyGx4.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725561338,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6B6DE701BC6332C032",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si ya"
+    },
+    "reaction": "",
+    "timestamp": 1725561546,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4E436F9661C52BAA75",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Lo hicieron"
+    },
+    "reaction": "",
+    "timestamp": 1725561549,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A7E55DE144ED9B1C18",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya quedo Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725564985,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0110C6A1AD862BF1E98",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "ING"
+    },
+    "reaction": "",
+    "timestamp": 1725564987,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0381A67F7A658FC6B9D",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Culaquier cosa me comenta."
+    },
+    "reaction": "",
+    "timestamp": 1725565001,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0F65A48622468165D3",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah ok"
+    },
+    "reaction": "",
+    "timestamp": 1725565011,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1415F6040426B70564",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "En un ratito\nLo\nCheco porfa"
+    },
+    "reaction": "",
+    "timestamp": 1725565017,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB001B06DE46E1F6182A8",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725565023,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B0BB28EB64AAC2744F",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se me corto se termino mi bateria."
+    },
+    "reaction": "",
+    "timestamp": 1725565034,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE66C1B9CE0196C4CB0",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah ok"
+    },
+    "reaction": "",
+    "timestamp": 1725565277,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAAF89ED2D5CEBAF874",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si solo era para agradecerle"
+    },
+    "reaction": "",
+    "timestamp": 1725565286,
+    "senderName": "😎",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E3B97D3BDA74C3779CF8E3BAA4F6B545",
+    "remoteJid": "5219921008605@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725576494,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

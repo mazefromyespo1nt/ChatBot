@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4FCCF7E314BE8137A6B6F800F21C50BD",
+    "remoteJid": "50672068467@s.whatsapp.net",
+    "msgContext": {
+      "text": "Grs pero estoy bien con este"
+    },
+    "reaction": "",
+    "timestamp": 1725920072,
+    "senderName": "Pam",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0031E0DA01B154E55B4",
+    "remoteJid": "50672068467@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725920087,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B0E4AF3B228ECA970ECFE158CD5B02B4",
+    "remoteJid": "50672068467@s.whatsapp.net",
+    "msgContext": {
+      "text": "Grs, no se preocupe"
+    },
+    "reaction": "",
+    "timestamp": 1725920633,
+    "senderName": "Pam",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6554FD5A99928F048D8DF50988304D4F",
+    "remoteJid": "50672068467@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero este plan es tan viejo que no tengo ni límites de datos"
+    },
+    "reaction": "",
+    "timestamp": 1725920660,
+    "senderName": "Pam",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

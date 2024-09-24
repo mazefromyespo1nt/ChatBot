@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0044459FF5B9745BB62",
+    "remoteJid": "573148086971@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tatiana estas tratando de acceder ?"
+    },
+    "reaction": "",
+    "timestamp": 1725984830,
+    "senderName": "Alejandro Gutierrez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB017EF913A08D4D9FC0A",
+    "remoteJid": "573148086971@s.whatsapp.net",
+    "msgContext": {
+      "text": "si, es el numero 65"
+    },
+    "reaction": "",
+    "timestamp": 1725984921,
+    "senderName": "Tatiana Coordinadora de Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08C9F3D3F9BD59A0E69",
+    "remoteJid": "573148086971@s.whatsapp.net",
+    "msgContext": {
+      "text": "ayudame y ya intento quitar el acceso"
+    },
+    "reaction": "",
+    "timestamp": 1725984940,
+    "senderName": "Tatiana Coordinadora de Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EEB082B169357A063A",
+    "remoteJid": "573148086971@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1725984957,
+    "senderName": "Alejandro Gutierrez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB004F5DE3C9EF54D2A8A",
+    "remoteJid": "573148086971@s.whatsapp.net",
+    "msgContext": {
+      "text": "o el 84"
+    },
+    "reaction": "",
+    "timestamp": 1725984959,
+    "senderName": "Tatiana Coordinadora de Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03A55D5599B7E1F4C6C",
+    "remoteJid": "573148086971@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725984973,
+    "senderName": "Alejandro Gutierrez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

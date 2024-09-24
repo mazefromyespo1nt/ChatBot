@@ -1,0 +1,215 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F24B0B068D94962F9A012E09B8775CC8",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "Todo bien, me alegra"
+    },
+    "reaction": "",
+    "timestamp": 1725891944,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4C99E69A896F2D68CBFF15FAD7629854",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nico, una consulta. Habrá alguna VM disponible para subir una aplicación web?"
+    },
+    "reaction": "",
+    "timestamp": 1725891985,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "57DEE1D1DDBEBA51F8F862C1588EC090",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0NmwrR.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725892033,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB016D988E5B138A610BE",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "que bueno"
+    },
+    "reaction": "",
+    "timestamp": 1725892124,
+    "senderName": "Nicolás",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "56965123111@s.whatsapp.net",
+      "id": "F24B0B068D94962F9A012E09B8775CC8"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09BBBAE4FC59AD28682",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "entiendo, hay que hacer una entonces"
+    },
+    "reaction": "",
+    "timestamp": 1725892152,
+    "senderName": "Nicolás",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0494743D04BDA363C86",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "puedes crearla tú o mandame las especificaciones y la creo como quieras"
+    },
+    "reaction": "",
+    "timestamp": 1725892209,
+    "senderName": "Nicolás",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A1F1FD206DB588A76556B2AD30D3E05B",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah vale"
+    },
+    "reaction": "",
+    "timestamp": 1725892228,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2D769E3528A9BB32D389A52F7521DB35",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "La verdad no he creado una VM en proxmox"
+    },
+    "reaction": "",
+    "timestamp": 1725892235,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FA52EDDA3B0AE2ACF1",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "es sencillo, si has creado en vmware o virtualbox te resultará facil"
+    },
+    "reaction": "",
+    "timestamp": 1725892263,
+    "senderName": "Nicolás",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BD2AFDC55BB96C30F5A92721F662AF6F",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah ya buena, eso si los cacho"
+    },
+    "reaction": "",
+    "timestamp": 1725892275,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D218B6A84C236CF504",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "si tienes alguna duda me dices"
+    },
+    "reaction": "",
+    "timestamp": 1725892282,
+    "senderName": "Nicolás",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CFAD836ED429C9B1A69A753D51AFB8C3",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy a ver"
+    },
+    "reaction": "",
+    "timestamp": 1725892282,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1EFB1B3DEDE4DC9F54FD7990DA02A7A1",
+    "remoteJid": "56965154436@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vale gracias Nico"
+    },
+    "reaction": "👍",
+    "timestamp": 1725892287,
+    "senderName": "David Rangel",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

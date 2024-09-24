@@ -1,0 +1,456 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "29F690CCE6B6F0FF1242496BD8D67633",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725571353,
+    "senderName": "\\/",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A04BFB916C4F384A0CB35FDB9548EC46",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725571934,
+    "senderName": "\\/",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0EC80A933945EB3C4E9",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725571936,
+    "senderName": "\\/",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB017600B2771D9CC10D4",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725571940,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0EDD822A629ECADB685",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725571942,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B012E9F7379D1068B0",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725571946,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB07DE2B0AC004538C18D",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725571979,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00A793805EE9B258EF6",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725571979,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0470C7F3DAF473DA42F",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725571980,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0798940D1DB18360E7D",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725571983,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB04A0843D1C68914FB84",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725571984,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0671491D9B7506EF482",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725571985,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0BBE7B5A456FD429E30",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725571993,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0B56A4A7561238EA9E052D5B838BA584",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ropa"
+    },
+    "reaction": "",
+    "timestamp": 1725572013,
+    "senderName": "\\/",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0144664C715D319B9CF",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725572014,
+    "senderName": "\\/",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F32F6A4D9B1EF9602B",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725572019,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB01C3AC234496B148818",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725572022,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08FB6C706707DF6C10E",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725572044,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5CA8C94F4DE3F247A1BADB5B294FDDF7",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ropa"
+    },
+    "reaction": "",
+    "timestamp": 1725580291,
+    "senderName": "\\/",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0EFF919642351879596",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725580292,
+    "senderName": "\\/",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06CE132169A646BC8F3",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725580302,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0BA6FB937BC8C43E8B9",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "ropas",
+        "values": [
+          "ropas"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725580303,
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E3E48BA3E4B2558F09391A808C2CCCAD",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725571231,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB03029D069B3316C19E0",
+    "remoteJid": "59169639856@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "case  elige  que  te gustaria  saber",
+        "values": [
+          "porno",
+          "videos"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725580316,
+    "senderName": "",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

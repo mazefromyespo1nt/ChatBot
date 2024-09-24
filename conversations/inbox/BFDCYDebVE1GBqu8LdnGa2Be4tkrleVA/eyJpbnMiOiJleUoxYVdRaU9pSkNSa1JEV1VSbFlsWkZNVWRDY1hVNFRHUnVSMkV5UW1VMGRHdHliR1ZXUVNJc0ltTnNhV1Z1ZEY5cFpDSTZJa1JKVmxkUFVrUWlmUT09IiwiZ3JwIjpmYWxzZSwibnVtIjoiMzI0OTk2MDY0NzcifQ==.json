@@ -1,0 +1,462 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5DC66D5260BC3F9C1A",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Beo"
+    },
+    "reaction": "",
+    "timestamp": 1725839317,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE204414D68CCAF64D4",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papi la verdad siento que nunca tendre esa plataforma ya de tanto tiempo que venimos"
+    },
+    "reaction": "",
+    "timestamp": 1725840264,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4A3182C064F1AD36C6",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con el sujeto"
+    },
+    "reaction": "",
+    "timestamp": 1725840267,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD7E64EF7ECC4348CD2",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por qué lo dices ?"
+    },
+    "reaction": "",
+    "timestamp": 1725840479,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32499606477@s.whatsapp.net",
+      "id": "3AE204414D68CCAF64D4"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1E19721E297A40C5A0",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por que papi siempre estamos en la misma"
+    },
+    "reaction": "",
+    "timestamp": 1725840554,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0EE103D61E8D83C220",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y no avanzamos en nada entiendes"
+    },
+    "reaction": "",
+    "timestamp": 1725840563,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A566C53D4845A18FEFF",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pues sabes q es tu banco"
+    },
+    "reaction": "",
+    "timestamp": 1725840574,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32499606477@s.whatsapp.net",
+      "id": "3A0EE103D61E8D83C220"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8E3060FB091E38AE76",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo tengo todo listo"
+    },
+    "reaction": "",
+    "timestamp": 1725840589,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0AB2E6C249C2F104C9",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero tú no quieres el sistema de pago Stripe"
+    },
+    "reaction": "",
+    "timestamp": 1725840609,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF983E261C2CD5744D6",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Entonces pues te toca depender del banco tuyo"
+    },
+    "reaction": "",
+    "timestamp": 1725840635,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A42B44A537CEF5CCFD5",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aquí las cosas son muy demoradas en España más fácil"
+    },
+    "reaction": "",
+    "timestamp": 1725840670,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A557D47A5F801F42B15",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papi cobran %"
+    },
+    "reaction": "",
+    "timestamp": 1725840878,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A39A36F4B5E3F12D51D",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nunca trabaje con ellos"
+    },
+    "reaction": "",
+    "timestamp": 1725840882,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A945D3084EE480BD4BA",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "No conozco nada sobre ellos entiendes"
+    },
+    "reaction": "",
+    "timestamp": 1725840891,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9E6532DAA38824FCB7",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si eso tambien"
+    },
+    "reaction": "",
+    "timestamp": 1725840898,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A42B44A537CEF5CCFD5"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2945550953F3AE4760",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que no ahuda"
+    },
+    "reaction": "",
+    "timestamp": 1725840901,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEB7C1E27A2C2F9E7C5",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le tengo una buena noticia"
+    },
+    "reaction": "",
+    "timestamp": 1725840975,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB94DE22E96BF9E7E13",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mañana le cuento"
+    },
+    "reaction": "",
+    "timestamp": 1725840980,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE647192AF6BC593376",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo sé q le va a gustar"
+    },
+    "reaction": "",
+    "timestamp": 1725840994,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEF567059EB50D12DAA",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Chao"
+    },
+    "reaction": "",
+    "timestamp": 1725840997,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A476C5B40A466C4E1E7",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muy a dormir"
+    },
+    "reaction": "",
+    "timestamp": 1725841006,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8CD84A58D09E72FD01",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tengo q trabajar"
+    },
+    "reaction": "",
+    "timestamp": 1725841016,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF687869FBB31A9331A",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale bro"
+    },
+    "reaction": "",
+    "timestamp": 1725841021,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA66182F0589AF34ACC",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "🙏🏽🙏🏽"
+    },
+    "reaction": "",
+    "timestamp": 1725841023,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A08892C19B97A02F05B",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papi"
+    },
+    "reaction": "",
+    "timestamp": 1725893661,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A498FDD06AE8B3663E1",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que tal"
+    },
+    "reaction": "",
+    "timestamp": 1725893662,
+    "senderName": "Ignacio Moreno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADF8E6CBB3A021E25B1",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bien"
+    },
+    "reaction": "",
+    "timestamp": 1725893915,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A7046191C3F1A4676B6",
+    "remoteJid": "32499606477@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uNj13z.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725893924,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

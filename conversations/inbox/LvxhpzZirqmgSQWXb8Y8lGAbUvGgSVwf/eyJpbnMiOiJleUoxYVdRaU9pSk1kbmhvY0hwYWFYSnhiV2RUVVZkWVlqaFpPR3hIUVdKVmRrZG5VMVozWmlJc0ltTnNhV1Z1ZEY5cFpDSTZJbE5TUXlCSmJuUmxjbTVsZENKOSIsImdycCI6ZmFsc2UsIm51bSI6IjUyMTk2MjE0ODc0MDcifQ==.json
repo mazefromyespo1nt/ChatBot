@@ -1,0 +1,134 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "674AAEE704C53CDD22859E77A85C33A6",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ing"
+    },
+    "reaction": "",
+    "timestamp": 1725500621,
+    "senderName": "dimitrios1205",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "55B41CF0DD057055949B11F9849A26FB",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725500622,
+    "senderName": "dimitrios1205",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D41E0E49AA3BEF3BF58CF20009259D73",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725500647,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "90C16FBDA443C6383E63B30AF1CCC65E",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mamde"
+    },
+    "reaction": "",
+    "timestamp": 1725500648,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0933AAA3AF600168541",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "text": "me dejo en visto de nuevo 😔"
+    },
+    "reaction": "",
+    "timestamp": 1725502725,
+    "senderName": "dimitrios1205",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "546F11CA3B1EA2B073416C20B1E26C6A",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "y9luSo.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725502927,
+    "senderName": "dimitrios1205",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "21B4192626AA27FDD415A4BB2DE7FCFB",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "u8mp2E.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725502932,
+    "senderName": "dimitrios1205",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "200351BD268CAC7B1B9A5179C34A3F43",
+    "remoteJid": "5219621487407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725502969,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

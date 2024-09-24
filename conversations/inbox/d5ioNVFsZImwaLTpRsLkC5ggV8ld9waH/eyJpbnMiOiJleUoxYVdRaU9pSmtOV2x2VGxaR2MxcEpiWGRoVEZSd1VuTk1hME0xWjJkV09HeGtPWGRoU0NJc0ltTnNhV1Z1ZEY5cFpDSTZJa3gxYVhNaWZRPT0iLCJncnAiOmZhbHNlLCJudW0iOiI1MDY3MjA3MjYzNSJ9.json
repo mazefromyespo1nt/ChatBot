@@ -1,0 +1,100 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "58F0622131C99DF38DE2B5806323A272",
+    "remoteJid": "50672072635@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Servicios MarketingDigital. ¿Cómo podemos ayudarte?"
+    },
+    "reaction": "",
+    "timestamp": 1725647382,
+    "senderName": "Milady",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A352516DE064C28BAE907EA230E10630",
+    "remoteJid": "50672072635@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725647416,
+    "senderName": "Milady",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA74D7792D5AED3FAF",
+    "remoteJid": "50672072635@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, espero se encuentre bien, estaría interesado en servicio móvil o residencial (TV+Internet)"
+    },
+    "reaction": "",
+    "timestamp": 1725647626,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "614B2D5AAD133BE6C883267F26CFA437",
+    "remoteJid": "50672072635@s.whatsapp.net",
+    "msgContext": {
+      "text": "Residencial"
+    },
+    "reaction": "",
+    "timestamp": 1725650566,
+    "senderName": "Milady",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0D980772332353259F3",
+    "remoteJid": "50672072635@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los planes que tenemos para ti.",
+      "fileName": "I8CJiw.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725652971,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB042BCE884775685C34C",
+    "remoteJid": "50672072635@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier duda o consulta con gusto."
+    },
+    "reaction": "",
+    "timestamp": 1725660133,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

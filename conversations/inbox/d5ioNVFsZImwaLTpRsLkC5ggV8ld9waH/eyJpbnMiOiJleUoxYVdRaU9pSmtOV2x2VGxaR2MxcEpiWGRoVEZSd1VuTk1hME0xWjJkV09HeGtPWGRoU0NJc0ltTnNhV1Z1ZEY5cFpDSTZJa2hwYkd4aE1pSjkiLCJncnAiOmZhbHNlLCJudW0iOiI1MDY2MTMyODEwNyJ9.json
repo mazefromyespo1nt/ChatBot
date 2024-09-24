@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA060C179DC77A6C87",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725583961,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00921227CE77F7D694A",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725585791,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

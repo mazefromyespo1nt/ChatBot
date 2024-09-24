@@ -1,0 +1,236 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "00217C6ACB42D8DD37D0FEB98007CBB4",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola! Deseo conocer y agendar una demostración del software"
+    },
+    "reaction": "",
+    "timestamp": 1725600995,
+    "senderName": "Deivid Ramirez Saravia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0E082733DC90A0A3E39",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725601001,
+    "senderName": "Deivid Ramirez Saravia",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F0A01323ECDC96EEF32B3D2EC144E646",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725614233,
+    "senderName": "Deivid Ramirez Saravia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB04CBE748399CCC75AD5",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725614234,
+    "senderName": "Deivid Ramirez Saravia",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB045A0546FF53FF99D4E",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725614251,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0DF9AEFDC458C86C6E6",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725614257,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB059B96ACA3E8B36BDF0",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725614271,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07D5EE9A1799859CE7A",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725628698,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09D71AE8730D6BCE5A0",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "mil disculpas creo que hubo un erro con nuestro chatbot"
+    },
+    "reaction": "",
+    "timestamp": 1725628717,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A22DC69D7824BB3A7E",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "En esta ocasión, estamos emocionados de mostrarte una herramienta innovadora que simplifica la gestión de procesos municipales de forma eficiente y efectiva. Está preparado para cumplir las metas del plan de incentivo 💪, Impuesto Predial, Alcabalas, Arbitrios, Fiscalización Tributaria y muchos otros servicios más. ¡Integrado a Fiscalización Tributaria, Ejecución Coactiva, Catastro, comercialización y mucho más! 🏛️📊 ¿Estás listo para conocer más acerca de nuestra solución? ¡Te esperamos con ansias! 😉👍"
+    },
+    "reaction": "",
+    "timestamp": 1725628818,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02A1C76613EC30466B8",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "🏛️  ```𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗱𝗲 𝗚𝗲𝘀𝘁𝗶𝗼́𝗻 𝗧𝗿𝗶𝗯𝘂𝘁𝗮𝗿𝗶𝗮 𝘆 𝗖𝗮𝗷𝗮``` 🖥️🔍\n¡Descubre nuestro innovador sistema de gestión tributaria para municipalidades! Con esta herramienta podrás simplificar y agilizar la gestión de impuestos locales, eliminando la complejidad y aumentando la eficiencia. 🏛️ ¡Optimiza tus procesos y mejora la recaudación con nuestra solución tecnológica! 💻📊\n✅Impuesto predial, Alcabala.\n✅Impuesto vehicular Control de arbitrios municipales.\n✅Fiscalización tributaria.\n✅Central de notificaciones.\n✅Control de indicadores de morosidad.\n✅Emisión de cuponeras.\n✅Control de cuentas por cobrar según el TUSNE y TUPA.\n✅Registro y control de papeletas de infracción.\n✅Emisión de licencias de conducir.\n✅Integrado al aplicativo CIUDAD ACTIVA, Smart CITY a tu alcance"
+    },
+    "reaction": "",
+    "timestamp": 1725628825,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A692FC88D5735A5035",
+    "remoteJid": "51917224880@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta 🙌🏼👀✉️¡Que tenga un excelente día! 😊🌟"
+    },
+    "reaction": "",
+    "timestamp": 1725628977,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

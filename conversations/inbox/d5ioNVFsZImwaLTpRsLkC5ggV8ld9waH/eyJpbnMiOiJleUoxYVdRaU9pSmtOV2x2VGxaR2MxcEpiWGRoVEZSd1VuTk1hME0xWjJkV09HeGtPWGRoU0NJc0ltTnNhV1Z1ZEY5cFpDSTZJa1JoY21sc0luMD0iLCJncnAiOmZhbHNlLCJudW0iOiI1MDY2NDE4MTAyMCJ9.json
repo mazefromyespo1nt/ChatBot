@@ -1,0 +1,562 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B2F181709C5F86CA5A",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725661690,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FF1ED4503FF7B129DB",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725662720,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C52EF305C8B853A111",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725662791,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB029A6C331C5C85A7224",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725663162,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB075E1891B218E68DE1D",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725663949,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068C4D781430163F13F",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725664878,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CB77987A56A4248D29",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725665298,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06151D0A59994A08F04",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725666428,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB015B329E1553AA7AF0A",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725666584,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB039195DEA0FB9809186",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725666734,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB005451E69D4A5D51872",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725666908,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04D3FB605399C57A86C",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725905024,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0948A52E4D790BDAFD0",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725907902,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0686FE92AF07298ABAC",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725908326,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03C1826AD6CB6B6F759",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas.\n\n¿Qué le dice una iguana a su hermana gemela? ¡Somos iguanitas!\n\n¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.\n\n¿Qué le dice una vela a otra vela? — ¿Te apago o te enciendo?\n\n¿Cómo se llama un boomerang que no vuelve? Un palo.\n\n¿Cuál es el colmo de un electricista? No encontrar su corriente de trabajo.\n\n¿Qué hace una abeja en el gimnasio? ¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725909167,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DDC78B277CDACE2B0E",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725909582,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01AB3C8C1241BDE7FB4",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725910984,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02AB1AB9C31D7764C82",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725914172,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E9F1BB31171D75B92F",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725914809,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB099B7F5DE09C47D467B",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725915257,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01315A017A7C1574BF2",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725915724,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05151EF7E743BA168B6",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725915905,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B6D5C5D5443F652083",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725919932,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01F79A5C3E95D5E6B39",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola de nuevo"
+    },
+    "reaction": "",
+    "timestamp": 1725920479,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02710E5F440EF0D87DB",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725923197,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB041D1C706DFF7EC7F16",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725924090,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB003DB8EBFE4033DFF99",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725927255,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E2ADA8BE2236280698",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725927541,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08A1CAF62ED406C36D3",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas.\n\n¿Qué le dice una iguana a su hermana gemela? ¡Somos iguanitas!\n\n¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.\n\n¿Qué le dice una vela a otra vela? — ¿Te apago o te enciendo?\n\n¿Cómo se llama un boomerang que no vuelve? Un palo.\n\n¿Cuál es el colmo de un electricista? No encontrar su corriente de trabajo.\n\n¿Qué hace una abeja en el gimnasio? ¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725928593,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00240F4307D9AA3A256",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725928769,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0533159A95C4E97502C",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725930193,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E788B7EBE48A3639A6",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725932118,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0632764AF9DC2129BE7",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas.\n\n¿Qué le dice una iguana a su hermana gemela? ¡Somos iguanitas!\n\n¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.\n\n¿Qué le dice una vela a otra vela? — ¿Te apago o te enciendo?\n\n¿Cómo se llama un boomerang que no vuelve? Un palo.\n\n¿Cuál es el colmo de un electricista? No encontrar su corriente de trabajo.\n\n¿Qué hace una abeja en el gimnasio? ¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725935426,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05D2BBCBE8BA45F24C7",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725938739,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00AFB82DEF4D32BCC68",
+    "remoteJid": "50664181020@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725939352,
+    "senderName": "Luis Calderón",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

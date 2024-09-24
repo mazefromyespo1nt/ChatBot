@@ -1,0 +1,53 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "33A9C40860982FF171CD5E1BE78FC114",
+    "remoteJid": "573015863313@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si señor"
+    },
+    "reaction": "",
+    "timestamp": 1725884099,
+    "senderName": "Clientes Nacional Code",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "83D9A1546098F58B907BEE858AD89E5E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DC467C86F2F19F049641A08DB4785513",
+    "remoteJid": "573015863313@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya listo de usarlo"
+    },
+    "reaction": "",
+    "timestamp": 1725884103,
+    "senderName": "Clientes Nacional Code",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "795D3009715BB9C53BCBFED17C18629D",
+    "remoteJid": "573015863313@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mándame demo"
+    },
+    "reaction": "",
+    "timestamp": 1725895942,
+    "senderName": "GV",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

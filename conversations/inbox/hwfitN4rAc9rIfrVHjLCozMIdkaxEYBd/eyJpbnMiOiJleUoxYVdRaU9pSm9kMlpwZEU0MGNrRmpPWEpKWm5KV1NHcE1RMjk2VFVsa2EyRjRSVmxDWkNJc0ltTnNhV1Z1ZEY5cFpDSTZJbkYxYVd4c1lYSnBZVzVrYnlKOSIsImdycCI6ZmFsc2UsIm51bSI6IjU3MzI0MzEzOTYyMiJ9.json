@@ -1,0 +1,648 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2C6B8DA3C04500CBD4",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está bacano"
+    },
+    "reaction": "",
+    "timestamp": 1725837852,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "A073248E0F62C0C56EF244A7295F5007"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A784B7E8E8BC853C6D2",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Maner una pregunta el link tú me lo mandaste aquí en el chat ?"
+    },
+    "reaction": "",
+    "timestamp": 1725840543,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E9ED7F36F2E330C95",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725840622,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A187EAA04058E4B0BCA",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este"
+    },
+    "reaction": "",
+    "timestamp": 1725840692,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "03EF8BF25B11A3EBA7"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2A5D75CC2F4C0E47CB",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "el otro"
+    },
+    "reaction": "",
+    "timestamp": 1725840786,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9DF05B922F26270C50",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este"
+    },
+    "reaction": "",
+    "timestamp": 1725840798,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "485129E0B38B4A4E74"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8E09AACE409539AD31",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este"
+    },
+    "reaction": "",
+    "timestamp": 1725840828,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "4ABB7A834692CB6B16B5DF8ED0D0C88F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE4069C50286E0E3695",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este"
+    },
+    "reaction": "",
+    "timestamp": 1725840902,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "F5D055000B1D6F9E8D"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A29047119DFA6D67709",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este ?"
+    },
+    "reaction": "",
+    "timestamp": 1725840925,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "D3E851F33CF97C8AA2"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7672AAD65086152E8C",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es este maner"
+    },
+    "reaction": "",
+    "timestamp": 1725840993,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "6EF14072B3B630F6EB"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A54E8D765F1FA2F493D",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pilla"
+    },
+    "reaction": "",
+    "timestamp": 1725841285,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "297FF2BE74990B8DB3",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://linknight.online/"
+    },
+    "reaction": "",
+    "timestamp": 1725841418,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE7D13819599F3754B3",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya"
+    },
+    "reaction": "",
+    "timestamp": 1725845157,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E7CB600C23934AC8CC4DC36BB7B8B0EF",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya pille"
+    },
+    "reaction": "",
+    "timestamp": 1725896146,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5735C61C94471B5C46400D2EB0B2220F",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuál es"
+    },
+    "reaction": "",
+    "timestamp": 1725896148,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7CDF1AEB91C534829C069B27837B5DB1",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estás en el pc a ver si recuerdas"
+    },
+    "reaction": "",
+    "timestamp": 1725898361,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0918C9B34B19BAEDDD1DDDCFB28369B1",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y revisamos"
+    },
+    "reaction": "",
+    "timestamp": 1725898364,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6498DE55C44DD1F9A2",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya dame un momento"
+    },
+    "reaction": "",
+    "timestamp": 1725898476,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "BCDC31BD0CBAB7468BB103820EA583E1",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "YlcZKl.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725914378,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B58D279BBE092EF58431D4EFD4C0CFDD",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mijo tu no revisas la pag"
+    },
+    "reaction": "",
+    "timestamp": 1725914388,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD6914721E6896F3CF3",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mijo iba hablar con tigo eso quiere que se facilite más la medio de pago"
+    },
+    "reaction": "",
+    "timestamp": 1725915445,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "BCDC31BD0CBAB7468BB103820EA583E1"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AD57F11601ECBBF4FEA",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mNbDQW.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725915658,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AE3CEFD99A244F35AB5",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HbW0T0.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725922392,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CFEC417B2BFC7CC829CC382F8C8AF3DA",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pa estoy en la calle"
+    },
+    "reaction": "",
+    "timestamp": 1725922684,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C9095B2E79B4630E3FF64C5AF916C4D2",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Más luego te escribo"
+    },
+    "reaction": "",
+    "timestamp": 1725922685,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3AAAB7571B8809345A79",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "caption": "ya estoy activo",
+      "fileName": "utEKyn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725928720,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAD6A5DB9B78DE83FA8",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mijo me confirmas para apagar el computador"
+    },
+    "reaction": "",
+    "timestamp": 1725932197,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2B0185E9D083EE9863",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "como vamos"
+    },
+    "reaction": "",
+    "timestamp": 1725932626,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "515F2D4135B9BCBDE6",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "nojoda me dormi  me levante ahora"
+    },
+    "reaction": "",
+    "timestamp": 1725932885,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2BB5A017A7AE087357",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aquí ala espera aver"
+    },
+    "reaction": "",
+    "timestamp": 1725933132,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "2B0185E9D083EE9863"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACBDC1B518E04BBEE96",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tiene el mismo mensaje"
+    },
+    "reaction": "",
+    "timestamp": 1725939402,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADCB51BB6E21085BBFC",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracia por comunícate"
+    },
+    "reaction": "",
+    "timestamp": 1725939408,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7D41B25226844B1B63",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y dijo el número 3107129559"
+    },
+    "reaction": "",
+    "timestamp": 1725939421,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FA1B01CDD5000E26CF",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya lo miro"
+    },
+    "reaction": "",
+    "timestamp": 1725939497,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFED8AF99EB0F862145",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buendía pa bendiciones"
+    },
+    "reaction": "",
+    "timestamp": 1725981625,
+    "senderName": "Dilan Rios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "193CCEB57262DBCD834813BEE5D70AC2",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy hacer una prueba de flujo"
+    },
+    "reaction": "",
+    "timestamp": 1725982343,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DBA08F537C9F409280333F7F2EEB9AF0",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y te indico"
+    },
+    "reaction": "",
+    "timestamp": 1725982346,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "26A2BFDDD383966455CF8BF62FCE9839",
+    "remoteJid": "573243139622@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero voy primero al centro"
+    },
+    "reaction": "",
+    "timestamp": 1725982351,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

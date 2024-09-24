@@ -1,0 +1,54 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08FFDF282EED3A13FCD",
+    "remoteJid": "50689851057@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Jeannette Picado, como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio  😃👇"
+    },
+    "reaction": "",
+    "timestamp": 1725902873,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0CC2A9337E60DA5F6B7",
+    "remoteJid": "50689851057@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* . Actualice sus servicios *Puede adquirir este  paquete a súper precio* (antes costaba 37.500 .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈 *SETIEMBRE GRATIS*",
+      "fileName": "RDK8qJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725902913,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0ED25A12CED77AC6C05",
+    "remoteJid": "50689851057@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Planes sin contrato, sin deposito, envio *GRATIS* 🚚, tendrás red fuera y dentro del país ✈️(*centroamerica y norteamerica sin costo*)👈. \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈",
+      "fileName": "WiDAtn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725902950,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

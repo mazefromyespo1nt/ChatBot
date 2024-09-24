@@ -1,0 +1,118 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EB91222AD77CA79838",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "no tengo reuniones pendientes a esa hora."
+    },
+    "reaction": "",
+    "timestamp": 1725637835,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "B379F126926DEF4D9BFA05B34C644928",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sQLzSK.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725638028,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB062BC890FD8402FAF52",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "no tengo ese correo"
+    },
+    "reaction": "",
+    "timestamp": 1725638116,
+    "senderName": "Gio",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8DF5A834CDDBFA457987EA8692677A70",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero si que Rodney los acompañe"
+    },
+    "reaction": "",
+    "timestamp": 1725638146,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "DCEC4F73C0A6E167A48BF6A60ED47BFC",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "hFh2C9.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725638148,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6C99229C751A028F452C1D1177E59C09",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725638250,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9FFB5F18A40C015C43",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "paseme el link please"
+    },
+    "reaction": "",
+    "timestamp": 1725638523,
+    "senderName": "Junior Sánchez Bolaños",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

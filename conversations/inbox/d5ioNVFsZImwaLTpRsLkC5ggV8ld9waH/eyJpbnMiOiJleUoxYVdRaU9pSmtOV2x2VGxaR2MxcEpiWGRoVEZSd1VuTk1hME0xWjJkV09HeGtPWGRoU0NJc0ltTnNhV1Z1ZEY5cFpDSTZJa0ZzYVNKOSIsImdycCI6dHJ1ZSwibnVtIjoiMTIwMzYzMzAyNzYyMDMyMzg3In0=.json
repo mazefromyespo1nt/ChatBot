@@ -1,0 +1,107 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB020C9C7299D20A5579A",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "207920266 // Me ayudan a validar porfa"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725906849,
+    "senderName": "Colocha 🌙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E453DDA581D7C8C7B6CF77EDACA5B96D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Dele"
+    },
+    "reaction": "🥳",
+    "timestamp": 1725907114,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50685085825@s.whatsapp.net",
+      "id": "3EB020C9C7299D20A5579A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB070F54CCA2FD98AB90B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "205330547 help please"
+    },
+    "reaction": "",
+    "timestamp": 1725910362,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB016F69050A357EBE090",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "puede proceder"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725910511,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661331177@s.whatsapp.net",
+      "id": "3EB070F54CCA2FD98AB90B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0783C60721A0A9F8276",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "207310565 Helbert Mora"
+    },
+    "reaction": "🤑",
+    "timestamp": 1725912617,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A77437261582411F70",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725912690,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661327729@s.whatsapp.net",
+      "id": "3EB0783C60721A0A9F8276"
+    }
+  }
+]

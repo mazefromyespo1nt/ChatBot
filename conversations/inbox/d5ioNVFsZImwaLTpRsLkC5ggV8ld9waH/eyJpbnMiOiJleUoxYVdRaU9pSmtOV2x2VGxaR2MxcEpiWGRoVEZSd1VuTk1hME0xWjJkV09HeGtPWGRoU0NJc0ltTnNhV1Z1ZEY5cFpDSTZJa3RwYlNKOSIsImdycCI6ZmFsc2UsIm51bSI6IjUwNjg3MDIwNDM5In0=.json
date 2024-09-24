@@ -1,0 +1,71 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FBB64820419A11BE4A",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Omar quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera.¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725727915,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4E9B7BB88F21AC2139",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias decidí no tener la otra línea."
+    },
+    "reaction": "",
+    "timestamp": 1725728072,
+    "senderName": "Omar Agüero Alpízar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0EA5FB6FD5C02CECB2D",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "naOOlh.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725728105,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5D59A3A3CC3E8003DF",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias. Ya tengo Liberty total."
+    },
+    "reaction": "👍",
+    "timestamp": 1725728171,
+    "senderName": "Omar Agüero Alpízar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CB04DCD1EE7A0CD38A",
+    "remoteJid": "50664867368@s.whatsapp.net",
+    "msgContext": {
+      "text": "En 1949 Costa Rica abolió el ejército"
+    },
+    "reaction": "",
+    "timestamp": 1726000421,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

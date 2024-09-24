@@ -1,0 +1,88 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E03BDBF7FC17FCC84EA4EC21501BEF23",
+    "remoteJid": "50672083647@s.whatsapp.net",
+    "msgContext": {
+      "text": "Este mes cumplo 5 meses al día por eso creo que ya puedo adquirir un celular."
+    },
+    "reaction": "",
+    "timestamp": 1725575984,
+    "senderName": "Fabio Barrios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01251104549BABB9DE2",
+    "remoteJid": "50672083647@s.whatsapp.net",
+    "msgContext": {
+      "text": "Podrías llamar para poder obtener el beneficio"
+    },
+    "reaction": "",
+    "timestamp": 1725576928,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50672083647@s.whatsapp.net",
+      "id": "E03BDBF7FC17FCC84EA4EC21501BEF23"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5F71018867E36961C200791BDDEE0FAE",
+    "remoteJid": "50672083647@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y a que número debo llamar?"
+    },
+    "reaction": "",
+    "timestamp": 1725577040,
+    "senderName": "Fabio Barrios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BB65F202FBEABC0D20",
+    "remoteJid": "50672083647@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes ir a la sucursal"
+    },
+    "reaction": "",
+    "timestamp": 1725577068,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "20666285325C64DDD848D470CDAEA854",
+    "remoteJid": "50672083647@s.whatsapp.net",
+    "msgContext": {
+      "text": "A bueno esta bien muchas gracias."
+    },
+    "reaction": "",
+    "timestamp": 1725577200,
+    "senderName": "Fabio Barrios",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661326633@s.whatsapp.net",
+      "id": "3EB0BB65F202FBEABC0D20"
+    }
+  }
+]

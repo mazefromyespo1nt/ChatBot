@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F3CB396C827545CD61",
+    "remoteJid": "50688359804@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Mariela , es un gusto saludarle de nuevo 😃\nDe acuerdo a lo conversado en la llamada puede escribir al 6311-1693 servicio al cliente. Como alternativa para que no gastes minutos en llamadas."
+    },
+    "reaction": "",
+    "timestamp": 1725898962,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4328F9DF32EC834A86B9B33592361458",
+    "remoteJid": "50688359804@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias \nBuen día"
+    },
+    "reaction": "👍",
+    "timestamp": 1725898988,
+    "senderName": "LAMAREZ",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

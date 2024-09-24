@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFA4B5556A747E92E43",
+    "remoteJid": "50672077596@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725574698,
+    "senderName": "Itz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFA4B5556A747E92E43",
+    "remoteJid": "50672077596@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725575054,
+    "senderName": "Itz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB046FBAB6B5588FFD35F",
+    "remoteJid": "50672077596@s.whatsapp.net",
+    "msgContext": {
+      "text": "Plan @1 (No necesita depósito)\n  Incluye:\n    -10 GB de datos + 2 GB por portabilidad (mantiene su mismo número) + 1 por pronto pago (13 GB Total),\n    -Pasa y Pide Gigas\n    -Acumula Gigas\n    -300 Minutos a la red Liberty,\n    -150 minutos a otros operadores CR, EEUU, Canadá y Tigo Nicaragua, \n    -Liberty Sin Fronteras, navegación sin costo adicional en Norteamérica y Centroamérica,\n    -Redes Sociales Ilimitadas: WhatsApp, Facebook,Instagram, X y Waze.\n- Costo del servicio ₡ 10,900\n\n\nPlan @1 Plus (No necesita depósito)\n  Incluye:\n    -12 GB de datos + 2 GB por portabilidad (mantiene su mismo número) + 1 por pronto pago (15 GB Total),\n    -Pasa y Pide Gigas\n    -Acumula Gigas\n    -Minutos ilimitados a la red Liberty\n    -175 Minutos a otros operadores CR, EEUU, Canadá y Tigo Nicaragua\n    -Liberty Sin Fronteras, navegación sin costo adicional en Norteamérica y Centroamérica\n    -Redes sociales ilimitadas: WhatsApp, Facebook,Instagram, X y Waze, Tik Tok,Twich\n- Costo del servicio ₡ 13,500"
+    },
+    "reaction": "",
+    "timestamp": 1725575711,
+    "senderName": "Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07CAB6424FB57FECBF0",
+    "remoteJid": "50672077596@s.whatsapp.net",
+    "msgContext": {
+      "text": "Recordarle que en el momento que se haga el pago del quinto recibo y los mismos hayan sido cancelados a tiempo, tendrá la opción de poder solicitar un dispositivo móvil. Quedo a sus órdenes, para cualquier consulta que tenga.\n\nSaludos cordiales y bendiciones."
+    },
+    "reaction": "",
+    "timestamp": 1725575914,
+    "senderName": "Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BBFB042B0AA5B1927A",
+    "remoteJid": "50671046386@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!"
+    },
+    "reaction": "",
+    "timestamp": 1725643242,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "75368BA075D87F0822EC6E703945539C",
+    "remoteJid": "50671046386@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola en que le puedo servir"
+    },
+    "reaction": "",
+    "timestamp": 1725643275,
+    "senderName": "😊",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00E45B42BE347194E05",
+    "remoteJid": "50671046386@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!! \n\nLe saluda Luis Calderón de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactarle con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos planes postpago que se adapten a ti.\n\n🔵 No es necesario un deposito.\n🔵 Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero)\n🔵 Se omite mancha/deuda de otros operadores o casas comerciales.\n🔵Paga hasta el próximo mes\n🔵 Después de 5 facturas pagas al día le damos opción de adquirir un celular 📲\n\nDigita 1️⃣ si deseas más información y contar con su autorización, o bien digita 2️⃣ para darte de baja y no recibir más mensajes como este."
+    },
+    "reaction": "",
+    "timestamp": 1725643331,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

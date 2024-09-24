@@ -1,0 +1,357 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CF6A179E7985A0D78E",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "tengo hueva de manejar"
+    },
+    "reaction": "",
+    "timestamp": 1725583761,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0717BCC6A17785D6A6",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "jajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725583764,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "58A22164FB42C1AB22",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "ven por mi"
+    },
+    "reaction": "",
+    "timestamp": 1725583767,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F01999598C95A68C69",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "o nel"
+    },
+    "reaction": "",
+    "timestamp": 1725583769,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E75F119AFB20B19A50",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "prestame tu moto we"
+    },
+    "reaction": "",
+    "timestamp": 1725583775,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3477C0C8B0288FF55E",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "voy a ver a una nena"
+    },
+    "reaction": "",
+    "timestamp": 1725583783,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8E05865DB4AED944313648D091A1F637",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "A quién"
+    },
+    "reaction": "",
+    "timestamp": 1725583969,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5219611781905@s.whatsapp.net",
+      "id": "3477C0C8B0288FF55E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AB1F2D07CEEC226D70245FED43C42E0B",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "A la Gaby"
+    },
+    "reaction": "",
+    "timestamp": 1725583974,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CBE2290015930199AC2CA9A8C7DBA9A6",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "😂😂"
+    },
+    "reaction": "",
+    "timestamp": 1725583976,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6F38ACA133B9BC511838E5134E7E0054",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Entonces q pedo"
+    },
+    "reaction": "",
+    "timestamp": 1725584706,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7CF26589D3995F73470637334593809F",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vamos a ir o no"
+    },
+    "reaction": "",
+    "timestamp": 1725584708,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D94FE1103256A0EFD10F9E4BD1D3F316",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725584718,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8371C070227F7F1D6FA114CDFD93E2FF",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero ven por mi ps"
+    },
+    "reaction": "",
+    "timestamp": 1725584720,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B6991A048C79CFAF11048B8A5E20636",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "🥹"
+    },
+    "reaction": "",
+    "timestamp": 1725584762,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5C75389F66A33BF0F1AA1926A062D718",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ctm"
+    },
+    "reaction": "",
+    "timestamp": 1725584776,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9A65A91E406DF664C6E513D2683F27D2",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ps"
+    },
+    "reaction": "",
+    "timestamp": 1725584776,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "089C664E54DB84F214E93407A5CDC494",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ese vrg"
+    },
+    "reaction": "",
+    "timestamp": 1725584953,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C5764CA8B8B9BDA6E66FC23AA9F08C20",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se me antojoló"
+    },
+    "reaction": "",
+    "timestamp": 1725584958,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "592139E73F96297BE713DD30A2E25E08",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Una"
+    },
+    "reaction": "",
+    "timestamp": 1725584961,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F79B7FED40A31C6D0EDA17B5AE04F72D",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Caguama"
+    },
+    "reaction": "",
+    "timestamp": 1725584964,
+    "senderName": "Carbajal FIRST LOVE",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "578D4E50189FBFA3DE",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "igual a mi"
+    },
+    "reaction": "",
+    "timestamp": 1725585126,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "06E9F2210FC7005624",
+    "remoteJid": "5219611781905@s.whatsapp.net",
+    "msgContext": {
+      "text": "ven por mi"
+    },
+    "reaction": "",
+    "timestamp": 1725585128,
+    "senderName": "El Flamitas🔥",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

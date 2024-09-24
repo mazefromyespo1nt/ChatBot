@@ -1,0 +1,160 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "619A2BDCB1F42F5BDCDFE41E581DDD93",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "WlwkM5.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725742128,
+    "senderName": "Carrery",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "89DF377A0334D630B8E7ACFB5132C5E9",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Ya fueron los huerfanos del Bingo"
+    },
+    "reaction": "",
+    "timestamp": 1725742145,
+    "senderName": "Carrery",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5217151049009@s.whatsapp.net",
+      "id": "619A2BDCB1F42F5BDCDFE41E581DDD93"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "880AED4E00D26AAFD0B1148F89F88D9B",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Ay pobre bingo"
+    },
+    "reaction": "",
+    "timestamp": 1725742361,
+    "senderName": "Liz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "DCF4ECC3C56FA31B554C025F8F6DE6E1",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Pero quién lo manda a ser tan loco"
+    },
+    "reaction": "",
+    "timestamp": 1725742365,
+    "senderName": "Liz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0B88EBC3CA9BFBF2B733037B79BB1F6B",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Si aver si ya se le baja jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725743050,
+    "senderName": "Alejandra Velazquez Sanch",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C1D586141D2CB3B364617FCCEDB92666",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Pero ya se quiere ir 🤨"
+    },
+    "reaction": "",
+    "timestamp": 1725743116,
+    "senderName": "Carrery",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C039C32A2CC03666CE2AF01B59F7B7E",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Ojalá y si"
+    },
+    "reaction": "",
+    "timestamp": 1725756950,
+    "senderName": "Liz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215542953224@s.whatsapp.net",
+      "id": "0B88EBC3CA9BFBF2B733037B79BB1F6B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C039C32A2CC03666CE2AF01B59F7B7E",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Ojalá y si"
+    },
+    "reaction": "",
+    "timestamp": 1725756952,
+    "senderName": "Liz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215542953224@s.whatsapp.net",
+      "id": "0B88EBC3CA9BFBF2B733037B79BB1F6B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4187BAEF18E9B17FB6D6A61835951AD5",
+    "remoteJid": "120363138901800660@g.us",
+    "msgContext": {
+      "text": "Dile que siquiera cuarentieee 😄😄"
+    },
+    "reaction": "",
+    "timestamp": 1725759358,
+    "senderName": "Gyermo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5217151049009@s.whatsapp.net",
+      "id": "C1D586141D2CB3B364617FCCEDB92666"
+    }
+  }
+]

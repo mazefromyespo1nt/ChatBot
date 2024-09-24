@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08E69FB5A3ABC9ACB7126819CBBBE89F",
+    "remoteJid": "50672069810@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, muchas gracias por comunicarse con su servicio de Mensajería MANDAEXPRESS M.Q\nEn breves momentos estaremos en contacto con usted.\n\nEste es nuestro horario para servirle:\n\nDomingos\nDe 10:00 am A 8:00 pm\n\nDe Lunes A Jueves\nDe 8:30 am A 7:30 pm\n \nViernes\nDe 8:30 am a 3:30 pm\n\nSÁBADOS NO SE TRABAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725900607,
+    "senderName": "Mandaexpress",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

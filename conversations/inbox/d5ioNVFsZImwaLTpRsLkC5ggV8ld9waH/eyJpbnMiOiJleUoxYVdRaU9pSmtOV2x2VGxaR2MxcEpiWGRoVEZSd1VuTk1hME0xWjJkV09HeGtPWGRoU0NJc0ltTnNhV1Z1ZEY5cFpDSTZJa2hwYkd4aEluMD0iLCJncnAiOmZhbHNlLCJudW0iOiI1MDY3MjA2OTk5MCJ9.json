@@ -1,0 +1,132 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A26ECE7E61CE4FA4C17",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725902811,
+    "senderName": "Mel❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0544ED090A0F70A143F",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Saludos! \nSabemos que tu tiempo es muy valioso por eso queremos brindarte una excelente experiencia de atención.\n¿Desea información de la planes móviles o planes de hogar?"
+    },
+    "reaction": "",
+    "timestamp": 1725902986,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3F6F87F9281B5416B7",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "Móviles"
+    },
+    "reaction": "",
+    "timestamp": 1725903031,
+    "senderName": "Mel❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A919A484CB8AB0155C3",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "Convenido con icon"
+    },
+    "reaction": "",
+    "timestamp": 1725903037,
+    "senderName": "Mel❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB064A986544D5B3AD68C",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "caption": "🔴 No es necesario un deposito.\n🔴 Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero)\n🔴 Se omite mancha/deuda de otros operadores o casas comerciales.\n🔴Paga hasta el mes de octubre  \n🔴 Después de 5 facturas pagas al día le damos opción de adquirir un celular 📲",
+      "fileName": "RThDmE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903136,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB045225969CC3A80A92E",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuales seria su numero de cedula para hacer la validacion?"
+    },
+    "reaction": "",
+    "timestamp": 1725903168,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAE75A7F17EB235A75A",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "114350192"
+    },
+    "reaction": "",
+    "timestamp": 1725903185,
+    "senderName": "Mel❤️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB070882741092DED490A",
+    "remoteJid": "50672069990@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para adquirir el plan:\n    • Foto por ambos lados de su documento de identidad que esté vigente o, legible, en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n    • Foto tipo selfy de su documento de identidad que esté vigente o, legible, en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n    •  Correo electrónico\n    •  Dirección exacta con provincia, cantón, distrito.\n    •  2 números de referencia"
+    },
+    "reaction": "",
+    "timestamp": 1725903436,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

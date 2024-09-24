@@ -1,0 +1,38 @@
+[
+  {
+    "source": "1725676181554",
+    "sourceHandle": "Hola 1",
+    "target": "1725676222006",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725676181554Hola 1-1725676222006undefined_target",
+    "selected": false
+  },
+  {
+    "source": "1725676222006",
+    "sourceHandle": "Hola 2",
+    "target": "1725676282493",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725676222006Hola 2-1725676282493undefined_target"
+  },
+  {
+    "source": "1725676181554",
+    "sourceHandle": "Hola 1",
+    "target": "1725676181554",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725676181554Hola 1-1725676181554undefined_target"
+  },
+  {
+    "source": "1725677914699",
+    "sourceHandle": "Pago movil",
+    "target": "1725677914699",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725677914699Pago movil-1725677914699undefined_target"
+  },
+  {
+    "source": "1725677914699",
+    "sourceHandle": "Métodos de pago",
+    "target": "1725677914699",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725677914699Métodos de pago-1725677914699undefined_target"
+  }
+]

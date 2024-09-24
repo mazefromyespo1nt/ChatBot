@@ -1,0 +1,82 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5FDCAB89B89C65A03F",
+    "remoteJid": "120363184740938551@g.us",
+    "msgContext": {
+      "text": "*ESTUDIA INGLÉS POR S/1.00*⏬\nhttps://us02web.zoom.us/j/83095138551?pwd=XQfP5eRVxYeUCL4VwJoFSkDK6iS9ri.1"
+    },
+    "reaction": "",
+    "timestamp": 1725580458,
+    "senderName": "Leslie Echavarria Tello",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A09F8AD004A9292A588",
+    "remoteJid": "120363184740938551@g.us",
+    "msgContext": {
+      "text": "*NUESTRA FUNDADORA TE DARÁ TODA LA INFORMACIÓN*"
+    },
+    "reaction": "",
+    "timestamp": 1725580459,
+    "senderName": "Leslie Echavarria Tello",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A495AA011A586118BFD",
+    "remoteJid": "120363184740938551@g.us",
+    "msgContext": {
+      "text": "*MATRICULA SIN COSTO*"
+    },
+    "reaction": "",
+    "timestamp": 1725580460,
+    "senderName": "Leslie Echavarria Tello",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A4D981E591764FF9E93",
+    "remoteJid": "120363184740938551@g.us",
+    "msgContext": {
+      "text": "*LIBRO GRATIS*"
+    },
+    "reaction": "",
+    "timestamp": 1725580461,
+    "senderName": "Leslie Echavarria Tello",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A6C38AB965466092046",
+    "remoteJid": "120363184740938551@g.us",
+    "msgContext": {
+      "text": "*YA INICIAMOS*"
+    },
+    "reaction": "",
+    "timestamp": 1725581618,
+    "senderName": "Leslie Echavarria Tello",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

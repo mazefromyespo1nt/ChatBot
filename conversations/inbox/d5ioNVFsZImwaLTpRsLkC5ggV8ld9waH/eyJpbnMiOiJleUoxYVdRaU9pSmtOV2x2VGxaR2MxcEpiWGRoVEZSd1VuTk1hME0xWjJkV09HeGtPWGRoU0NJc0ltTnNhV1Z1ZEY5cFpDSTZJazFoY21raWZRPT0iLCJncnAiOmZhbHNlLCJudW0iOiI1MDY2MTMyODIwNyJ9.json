@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "33CEC1AC1066AA8965C036C22DB20BFC",
+    "remoteJid": "50661328207@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "G721qx.odt",
+      "mimetype": "application/vnd.oasis.opendocument.text"
+    },
+    "reaction": "",
+    "timestamp": 1725732804,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A5607A2D444A75FEC6951647ABEA50F3",
+    "remoteJid": "50661328207@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Maribel Oporto.\nAsesora Autorizada de Liberty\nserá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara servicios mòviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725750328,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

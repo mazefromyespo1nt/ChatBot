@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2C61A96646A7DB6158",
+    "remoteJid": "50672068430@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725919610,
+    "senderName": "Kenneth Manrique",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

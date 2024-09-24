@@ -1,0 +1,23 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "2D41B1C5823D19DFA5",
+    "remoteJid": "120363158846731828@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HgcQOM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725559568,
+    "senderName": "Área Soporte | Getsoft ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

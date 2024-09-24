@@ -1,0 +1,23 @@
+[
+  {
+    "source": "1725915360025",
+    "sourceHandle": "Menú",
+    "target": "1725915421517",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725915360025Menú-1725915421517undefined_target"
+  },
+  {
+    "source": "1725915360025",
+    "sourceHandle": "Factura",
+    "target": "1725915481649",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725915360025Factura-1725915481649undefined_target"
+  },
+  {
+    "source": "1725915360025",
+    "sourceHandle": "Respiracion de la Chirimoyacion Bestial",
+    "target": "1725915672992",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-1725915360025Respiracion de la Chirimoyacion Bestial-1725915672992undefined_target"
+  }
+]

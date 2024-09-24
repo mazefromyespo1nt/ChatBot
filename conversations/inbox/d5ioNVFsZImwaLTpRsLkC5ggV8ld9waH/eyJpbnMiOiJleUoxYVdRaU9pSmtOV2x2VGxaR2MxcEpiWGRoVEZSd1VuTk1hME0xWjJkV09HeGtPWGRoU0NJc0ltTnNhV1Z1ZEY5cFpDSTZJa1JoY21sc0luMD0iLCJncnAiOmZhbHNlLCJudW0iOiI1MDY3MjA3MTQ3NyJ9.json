@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "BA6078D8195D1A94E91C0B174869003A",
+    "remoteJid": "50672071477@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aiwX2d.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725661935,
+    "senderName": "✩.𝔛𝔢.𝔠𝔳𝔦",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0DC26EFC78BB255D16D3B4A5FAA6B507",
+    "remoteJid": "50672071477@s.whatsapp.net",
+    "msgContext": {
+      "text": "* sale del baño desnudo*\nola q paso"
+    },
+    "reaction": "",
+    "timestamp": 1725661936,
+    "senderName": "✩.𝔛𝔢.𝔠𝔳𝔦",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

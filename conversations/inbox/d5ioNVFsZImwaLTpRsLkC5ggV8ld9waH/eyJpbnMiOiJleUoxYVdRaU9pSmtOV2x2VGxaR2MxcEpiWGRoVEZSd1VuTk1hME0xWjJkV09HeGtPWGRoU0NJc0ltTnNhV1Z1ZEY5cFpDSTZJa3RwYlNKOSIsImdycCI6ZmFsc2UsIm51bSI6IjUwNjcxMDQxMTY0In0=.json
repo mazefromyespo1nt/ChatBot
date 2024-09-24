@@ -1,0 +1,54 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D59D8393D62149D80E",
+    "remoteJid": "50671041164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Leynis Talles, le saluda Kimberly Fallas de Fruno Distribuidor Autorizado de LIberty 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725980644,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C6F20141E0298D2B0D",
+    "remoteJid": "50671041164@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* actualice sus servicios en simples pasos. *Puede adquirir este  paquete a súper precio* (antes costaba 37.500) .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈 *SETIEMBRE GRATIS*",
+      "fileName": "hGwaSD.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725980710,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0EE2A20D053F16D6C4A",
+    "remoteJid": "50671041164@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Planes sin contrato, sin deposito, envio *GRATIS* 🚚, tendrás red fuera y dentro del país ✈️(*centroamerica y norteamerica sin costo*)👈. \n\nTe regalamos todo setiembre de cortesía. Pagarías hasta el 20 de octubre 2024🤩👈",
+      "fileName": "PmGx2e.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725980730,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

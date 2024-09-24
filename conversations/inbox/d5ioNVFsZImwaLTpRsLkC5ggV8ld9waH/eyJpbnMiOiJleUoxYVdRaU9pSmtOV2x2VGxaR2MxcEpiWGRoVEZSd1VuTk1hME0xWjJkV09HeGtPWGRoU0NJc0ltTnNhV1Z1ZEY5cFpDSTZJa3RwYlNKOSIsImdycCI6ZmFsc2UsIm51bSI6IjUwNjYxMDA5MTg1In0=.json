@@ -1,0 +1,76 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "83522833A17AFBF58822C0BD8CCF05D2",
+    "remoteJid": "50661009185@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días , le saluda Kimberly Fallas de Fruno distribuidor autorizado de Liberty 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725888104,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E347F5DC89EA7637D1EB04316969AA83",
+    "remoteJid": "50661009185@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por este medio adjunto las promociones de este mes ."
+    },
+    "reaction": "",
+    "timestamp": 1725888131,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "B9C496381F88C3DD70AE99EFDA891E46",
+    "remoteJid": "50661009185@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Envío GRATIS, PLAN SIN DEPÓSITO, TODO SEPTIEMBRE DE CORTESIA PAGAS HASTA EL 20 DE OCTUBRE 🤩. A TU QUINTA FACTURA PODRAS RENOVAR EL PLAN CON UN CELULAR 📱 NUEVO",
+      "fileName": "k1igIa.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725888285,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "0E524C7BA599EC01C3948FBE931CCDFA",
+    "remoteJid": "50661009185@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para el hogar",
+      "fileName": "RXoXaM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725888365,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

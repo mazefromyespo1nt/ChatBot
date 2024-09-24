@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F7D32DBE8A0417774E2",
+    "remoteJid": "50672070241@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Peluquería Canina a domicilio. Estimado cliente nuestro horario de atención es de lunes a viernes de 7:00 am  a  3:00 pm, si eres nuevo cliente, haznos saber el lugar donde resides y envíanos una foto de tu mascota, te responderemos a la mayor brevedad posible.\n\nMuchas Gracias!!! 🐶"
+    },
+    "reaction": "",
+    "timestamp": 1725905260,
+    "senderName": "EuroPet Dog Grooming",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

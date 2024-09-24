@@ -1,0 +1,484 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D30526E441E53BEADA",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "https://bit.ly/CR-C13-2024 \n\nHola compañeros ❤️❤️ Mi hermana mayor está vendiendo catalogo es muy económico se llama ARABELA . Yo entregaria productos aquí"
+    },
+    "reaction": "",
+    "timestamp": 1725577201,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04DD7701ED32B07E888",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Agradezco la ayuda ella viene empezando y tiene una condición mental entonces cualquier ayuda de verdad gracias"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725577225,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB030CD690584461C1613",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5BdajR.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577293,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB05291B47ACC0C663962",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "qyvF4O.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577293,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0B539EC24A8BC768E6F",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "z2JBxT.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577294,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0079EFA4F3D1FF8D67D",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "rJiUbp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577294,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB05E2379944154FA2659",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "eWjGdN.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577345,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E5DEFD7EE729ADF325",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Awww que lindooooooos"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725578979,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB035DEFB8A82688E4CAF",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "la misma sonrilla que  divinos🥹"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725578995,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04049F0DA69562314FD",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Me encantaan, que guapooos"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725579091,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4944197A8BE7B80248770D8D0E87DE37",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Suegris"
+    },
+    "reaction": "😂",
+    "timestamp": 1725579114,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4B5238629C92CBE01EDAFB02FF10E95C",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "🥰"
+    },
+    "reaction": "",
+    "timestamp": 1725579116,
+    "senderName": "González",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D131D88BB58C2E0840C4E4542B8391B5",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Que lindos, felicidades....🥰"
+    },
+    "reaction": "",
+    "timestamp": 1725579162,
+    "senderName": "Yura",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0FD9632D6987E8C4067",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "felicidades"
+    },
+    "reaction": "",
+    "timestamp": 1725579337,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AF7901DB9845E1D67D1",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "JAJAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725579349,
+    "senderName": "Fiorela",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661511298@s.whatsapp.net",
+      "id": "4944197A8BE7B80248770D8D0E87DE37"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AE7DA3F6ED57A94DF78",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Gracias chicos"
+    },
+    "reaction": "",
+    "timestamp": 1725579356,
+    "senderName": "Fiorela",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB092EF2071B01A2470FD",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Sigue el hijo de Yura, luego de Felipe es el segundo mayor"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725579379,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EAC7616695D3B621F6",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Bueno, no sé la edad de las bebés de sha"
+    },
+    "reaction": "",
+    "timestamp": 1725579400,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A309707AAC517F95D67",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "La hija de Moni"
+    },
+    "reaction": "",
+    "timestamp": 1725579416,
+    "senderName": "Fiorela",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05596EA620A363B7C17",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "el mio tiene 12"
+    },
+    "reaction": "",
+    "timestamp": 1725579777,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01C97DFF0118C366A12",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "y la mia tiene 10"
+    },
+    "reaction": "",
+    "timestamp": 1725579784,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "53F45267F92C0A0EDD7B93FEEB9F2D2F",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "La mayor está en la misma edad o grado"
+    },
+    "reaction": "",
+    "timestamp": 1725579934,
+    "senderName": "Yura",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50687323698@s.whatsapp.net",
+      "id": "3EB0EAC7616695D3B621F6"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0AF7443AE868F0FD09B",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "las de Sha creo que tienen 7 y 5 creo"
+    },
+    "reaction": "",
+    "timestamp": 1725580003,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09B702D824DE1D652D8",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "amor ya salo"
+    },
+    "reaction": "😂",
+    "timestamp": 1725580057,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F85FEEECE6738EC2A3",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "sali*"
+    },
+    "reaction": "",
+    "timestamp": 1725580060,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "56FCB6D204D16C54C9EDF02513A01D6A",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725580079,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660212190@s.whatsapp.net",
+      "id": "3EB09B702D824DE1D652D8"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E403353D0D0C6FD6343B4D3C891A3FC4",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "Jajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725580081,
+    "senderName": "María José",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB024965D6394BAE4D8FE",
+    "remoteJid": "120363303241749118@g.us",
+    "msgContext": {
+      "text": "yaaaa"
+    },
+    "reaction": "",
+    "timestamp": 1725580086,
+    "senderName": "Daryl",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

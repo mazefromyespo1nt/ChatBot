@@ -1,0 +1,86 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00A91C6DA7743444AD7",
+    "remoteJid": "50672069283@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725911319,
+    "senderName": "Recursos Humanos FEMSA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F5294DBC0CA9B753CB",
+    "remoteJid": "50672069283@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola muy buenas tardes! \nUn gusto saludarle, mi nombre es Marlon Flores asesor de servicio de Liberty CR!\nCon todo gusto estoy para servirles!"
+    },
+    "reaction": "",
+    "timestamp": 1725911950,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A5259825AD9B475055",
+    "remoteJid": "50672069283@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te gustaría adquirir nuestros servicio móvil postpago o servicios residenciales?"
+    },
+    "reaction": "",
+    "timestamp": 1725912006,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB04B1F77C1EEE12F46E9",
+    "remoteJid": "50672069283@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son nuestros planes postpago disponibles.",
+      "fileName": "gVX3Dz.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725912087,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0D5F5C65C543F263D79",
+    "remoteJid": "50672069283@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Nuestros servicios de Hogar.",
+      "fileName": "qstZuL.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725912118,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

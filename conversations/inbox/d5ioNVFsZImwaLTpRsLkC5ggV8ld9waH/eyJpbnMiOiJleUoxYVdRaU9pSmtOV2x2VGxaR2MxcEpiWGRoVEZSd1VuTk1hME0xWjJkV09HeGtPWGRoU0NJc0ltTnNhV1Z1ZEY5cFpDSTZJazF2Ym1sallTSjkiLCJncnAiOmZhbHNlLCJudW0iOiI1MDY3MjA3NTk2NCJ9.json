@@ -1,0 +1,102 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09541652B8BBD64CA91",
+    "remoteJid": "50672075964@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día. Le saluda Mónica Urbina de Fruno, distribuidor autorizado de Liberty Costa Rica.\n\nEstamos intentando contactar le con el propósito de obtener su permiso para enviarle una oferta de nuestros nuevos servicios de: \n🟠Planes postpago\n🟠Servicios de hogar (Cable e Internet)\n\nLo que mejor se adapten a ti.\n◾ No es necesario un depósito.\n◾ Seria solo con su documento de identidad (Cédula de residencia, pasaporte, permiso laboral en caso de ser extranjero). \n◾ Se omite mancha/deuda de otros operadores o casas comerciales. \n◾ Paga hasta el próximo mes.\n◾ Después de 5 facturas pagas le damos opción de adquirir un celular en el caso de adquirir un plan📲 \n\nSi deseas más información coloca SI o No para dejar de recibir información"
+    },
+    "reaction": "",
+    "timestamp": 1725983060,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A3ED0F9069FC533CB5",
+    "remoteJid": "50672075964@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenas tardes. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "MAHJMp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725983796,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F79797FDF790159D48",
+    "remoteJid": "50672075964@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para adquirir nuestro servicio requerimos\n- *Foto por ambos lados de su documento de identidad* que esté vigente o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Foto tipo selfy de su documento de identidad que esté vigente* o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Correo electrónico*\n- *Dirección exacta* lugar de residencia con *provincia, cantón, distrito* .\n- *2 nombres y números de referencia* por si no lográramos poner nos en contacto al momento de hacer la entrega",
+      "fileName": "QpK6tr.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725985798,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0F859C9D7339B804511",
+    "remoteJid": "50672075964@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "D23oNv.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725986520,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB047B70627FF7C3D7B0F",
+    "remoteJid": "50672075964@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "iLSLEU.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725988213,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

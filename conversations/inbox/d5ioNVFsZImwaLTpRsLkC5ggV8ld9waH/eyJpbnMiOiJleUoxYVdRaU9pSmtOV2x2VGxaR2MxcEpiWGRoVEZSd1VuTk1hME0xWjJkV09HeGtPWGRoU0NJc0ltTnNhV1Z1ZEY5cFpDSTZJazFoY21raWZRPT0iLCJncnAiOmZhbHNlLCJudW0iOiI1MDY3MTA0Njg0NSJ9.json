@@ -1,0 +1,118 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F0714779B0CB4F54E9379A6766DA9CE1",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ustedes me emviaron mensaje"
+    },
+    "reaction": "",
+    "timestamp": 1725849661,
+    "senderName": "Jeova Es Mi Pastor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "29E7999C86E6112DC317B8423F5C0E2B",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarse con Maribel Oporto.\nAsesora Autorizada de Liberty\nSerá un placer atenderle!\nPara solicitar servicios de internet,cable y tv digita 1️⃣\nPara solicitar servicios móviles digita 2️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725849667,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "301892A4B7B08AB5B2EF0D7EBFECFB8D",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días!"
+    },
+    "reaction": "",
+    "timestamp": 1725886670,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0D7AA3E690A0BE885CC9468DC5CE71D5",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "text": "Usted desea adquirir un plan móvil o servicio fijo para su hogar?"
+    },
+    "reaction": "",
+    "timestamp": 1725886712,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "CF17EE48A547D8F3BEC70DA3A0378782",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ojrYdk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725886745,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "9DAAD401FB4E448F36C1178CF9F63187",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos serían nuestros planes móviles",
+      "fileName": "a94Vcy.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725886745,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "546882540F5DC9B321F4EC7CCCE043CC",
+    "remoteJid": "50671046845@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier duda o consulta estamos para servirle"
+    },
+    "reaction": "",
+    "timestamp": 1725886755,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

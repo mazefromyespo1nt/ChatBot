@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC42075674B5EBD9DB3",
+    "remoteJid": "573227709374@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725908223,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADF5FA6185DDA9EB6A6",
+    "remoteJid": "573227709374@s.whatsapp.net",
+    "msgContext": {
+      "text": "Parce"
+    },
+    "reaction": "",
+    "timestamp": 1725908226,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

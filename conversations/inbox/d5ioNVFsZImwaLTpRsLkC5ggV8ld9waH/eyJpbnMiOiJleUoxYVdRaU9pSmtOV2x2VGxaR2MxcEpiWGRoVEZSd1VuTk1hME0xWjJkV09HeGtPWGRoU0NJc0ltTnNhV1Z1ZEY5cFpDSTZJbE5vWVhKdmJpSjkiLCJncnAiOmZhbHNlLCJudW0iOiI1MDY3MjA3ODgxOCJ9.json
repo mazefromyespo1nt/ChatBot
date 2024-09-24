@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03175236E334B314B01",
+    "remoteJid": "50672078818@s.whatsapp.net",
+    "msgContext": {
+      "text": "BAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725978962,
+    "senderName": "César",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

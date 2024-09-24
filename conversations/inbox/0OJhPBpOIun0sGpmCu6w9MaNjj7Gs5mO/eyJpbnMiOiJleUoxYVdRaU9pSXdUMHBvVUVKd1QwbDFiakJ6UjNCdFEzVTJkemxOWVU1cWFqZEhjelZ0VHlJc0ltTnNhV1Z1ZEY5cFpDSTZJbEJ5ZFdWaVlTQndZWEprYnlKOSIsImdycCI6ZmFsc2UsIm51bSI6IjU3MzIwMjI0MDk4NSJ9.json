@@ -1,0 +1,119 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "151A3D9D08A8044FC869C9CC414FEAAB",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola xq no envias"
+    },
+    "reaction": "",
+    "timestamp": 1725498822,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AB41C777331710A7BAF",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wZG6U4.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725498847,
+    "senderName": "Monako Rider 💻🥷🏍️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0335EDB5ADE3B10FD9D",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como lo haces\\"
+    },
+    "reaction": "",
+    "timestamp": 1725498867,
+    "senderName": "Monako Rider 💻🥷🏍️",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB017715004861ECE3066",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora sobre categorias"
+    },
+    "reaction": "",
+    "timestamp": 1725498875,
+    "senderName": "Monako Rider 💻🥷🏍️",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A15F62F51F685F7EAE",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hoy te dejo actualizado"
+    },
+    "reaction": "",
+    "timestamp": 1725498881,
+    "senderName": "Monako Rider 💻🥷🏍️",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0725341D0470CCF3DC1",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te deje unos comentarios"
+    },
+    "reaction": "",
+    "timestamp": 1725506915,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07AFAA7600EAA2F19EB",
+    "remoteJid": "573202240985@s.whatsapp.net",
+    "msgContext": {
+      "text": "En el PR"
+    },
+    "reaction": "",
+    "timestamp": 1725506918,
+    "senderName": "Michaellin",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BD4324A56D23A68C8B6549A16D59A7ED",
+    "remoteJid": "50672068894@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias ya comi"
+    },
+    "reaction": "",
+    "timestamp": 1725938149,
+    "senderName": "Gato Milius",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

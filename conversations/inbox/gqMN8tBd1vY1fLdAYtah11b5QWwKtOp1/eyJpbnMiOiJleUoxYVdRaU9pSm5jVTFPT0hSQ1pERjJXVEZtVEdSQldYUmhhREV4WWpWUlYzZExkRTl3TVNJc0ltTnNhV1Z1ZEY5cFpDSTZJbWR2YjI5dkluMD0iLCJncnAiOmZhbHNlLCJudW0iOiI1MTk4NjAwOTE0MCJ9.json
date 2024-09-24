@@ -1,0 +1,276 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "23421E5B0D8D64A74F20743CCD1F2E63",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que tipos de Software para municipalidades ofrecen?"
+    },
+    "reaction": "",
+    "timestamp": 1725619185,
+    "senderName": "Moisés  Loyola Canchari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB09AA8F51FADB0AD2ABF",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725619191,
+    "senderName": "Moisés  Loyola Canchari",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0F78AD98DEAB571D37C",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725619217,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0F6AA69C0B5C56D85DB",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725619222,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB012FF0F5A4AF02747CF",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725619226,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E8640925FA542A9681BE93718EE8E503",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como es el que funciona más detalles"
+    },
+    "reaction": "",
+    "timestamp": 1725619290,
+    "senderName": "Moisés  Loyola Canchari",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0600F492AB73E8BC40B",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725619291,
+    "senderName": "Moisés  Loyola Canchari",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0B7EA4CB18C0E81BF94",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725619309,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB080C7A4D03BE5310D7A",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725628401,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05A9BFD10455648E494",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "En esta ocasión, estamos emocionados de mostrarte  una herramienta innovadora que simplifica la gestión de procesos municipales de forma eficiente y efectiva. Está preparado para cumplir las metas del plan de incentivo 💪, Impuesto Predial, Alcabalas, Arbitrios, Fiscalización Tributaria y muchos otros servicios más. ¡Integrado a Fiscalización Tributaria, Ejecución Coactiva, Catastro, comercialización y mucho más! 🏛️📊 ¿Estás listo para conocer más acerca de nuestra solución? ¡Te esperamos con ansias! 😉👍"
+    },
+    "reaction": "",
+    "timestamp": 1725628461,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FB3D5E646605FE74B6",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le traemos una promoción que su municipalidad no puede dejar pasar 🚀. Presentamos nuestro *SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y CAJA* 📊, ¡todo a un solo costo de *S/.3999.00*! obtienes una *licencia perpetua del sistema*, ¡así que nunca tendrás que *preocuparte por renovaciones*! 🆓✨ Además, disfrutara de *soporte técnico* *24/7* durante *12 meses* 🕒, para que siempre estés acompañado ante cualquier consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725628469,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06A41BDC45EE830A86F",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "para que haya una mejor atención a los contribuyentes y en cuanto a los cobros de caja evitar las colas"
+    },
+    "reaction": "",
+    "timestamp": 1725628888,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DDEA9DDC3EB67D472F",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "es un sistema completo que tu municipalidad no puede dejar de pasar esta promoción, el objetivo de nuestra promoción que es que las municipalidades con poco presupuesto puedan digitalizar su municipalidad para que haya una buena atención."
+    },
+    "reaction": "",
+    "timestamp": 1725628963,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0695B4BF3D739D78223",
+    "remoteJid": "51986009140@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta 🙌🏼👀✉️¡Que tenga un excelente día! 😊🌟"
+    },
+    "reaction": "",
+    "timestamp": 1725628968,
+    "senderName": "Siam_Marketing",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "00490EF2E636D3FF3FC15C8259BB3924",
+    "remoteJid": "5215542953224@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "eprran.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725720982,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2189EAEE959A592E687547996F576C79",
+    "remoteJid": "5215542953224@s.whatsapp.net",
+    "msgContext": {
+      "text": "Huele a enchiladas mm"
+    },
+    "reaction": "",
+    "timestamp": 1725724588,
+    "senderName": "Alejandra Velazquez Sanch",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2867CD9C57D80BBD99CE1676D43150FB",
+    "remoteJid": "5215542953224@s.whatsapp.net",
+    "msgContext": {
+      "text": "Delicius"
+    },
+    "reaction": "",
+    "timestamp": 1725724593,
+    "senderName": "Alejandra Velazquez Sanch",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "147CA6E577D5CB241285EF2DC3357D63",
+    "remoteJid": "5215542953224@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya esta despertando"
+    },
+    "reaction": "",
+    "timestamp": 1725724607,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "407FA1AC56185FD8551557B0BB31FB3D",
+    "remoteJid": "5215542953224@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya despertó dice que ya se quiere ir"
+    },
+    "reaction": "",
+    "timestamp": 1725725866,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

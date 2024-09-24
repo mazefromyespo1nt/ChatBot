@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A09F52EB9A924B2B3D2669DE734A561A",
+    "remoteJid": "50688633148@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes, muchas grcs por la deferencia de su informacion y ofertas.... por ahora no me interesan siendo que estoy conforme con los servicios que recibo al respecto."
+    },
+    "reaction": "",
+    "timestamp": 1725661661,
+    "senderName": "Edgar Isaac Vargas G.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FFF0B9B25C5C194E74",
+    "remoteJid": "50688633148@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro entiendo de igual manera esperamos que nos pueda tomar en cuenta en algún momento☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725662303,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

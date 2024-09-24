@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A45B184D461B83C13274912F8F4B8AB1",
+    "remoteJid": "593991493874@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Asistencia Tributaria.📈🗃️ \n📞Horario de atención de lunes a viernes de ⏰08h30 a 18h00.. ¿Cómo podemos ayudarte?😃 📲Déjanos tu mensaje, pronto serás atendido 📬🧾"
+    },
+    "reaction": "",
+    "timestamp": 1725848879,
+    "senderName": "Asistencia Tributaria",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

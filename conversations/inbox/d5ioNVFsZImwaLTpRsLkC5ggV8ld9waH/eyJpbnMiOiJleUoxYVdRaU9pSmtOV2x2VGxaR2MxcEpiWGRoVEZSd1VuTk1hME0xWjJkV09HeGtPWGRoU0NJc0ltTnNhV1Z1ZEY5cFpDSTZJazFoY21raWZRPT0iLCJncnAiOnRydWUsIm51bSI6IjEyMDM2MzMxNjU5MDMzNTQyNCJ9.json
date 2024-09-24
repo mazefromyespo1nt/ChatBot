@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6A2F92AABC69041549D2B5F0EE49E605",
+    "remoteJid": "120363316590335424@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725575653,
+    "senderName": "Mauricio😉",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

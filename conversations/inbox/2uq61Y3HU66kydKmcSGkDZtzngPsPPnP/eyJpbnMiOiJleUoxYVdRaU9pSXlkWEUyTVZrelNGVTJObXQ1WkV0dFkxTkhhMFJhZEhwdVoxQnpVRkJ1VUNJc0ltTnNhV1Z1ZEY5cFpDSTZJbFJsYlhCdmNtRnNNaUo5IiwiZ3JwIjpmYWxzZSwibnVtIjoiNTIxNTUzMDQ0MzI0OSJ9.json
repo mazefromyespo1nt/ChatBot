@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4630947A8A2E28B876",
+    "remoteJid": "5215530443249@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725931407,
+    "senderName": "Andrea 💘",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4D8A236F80A05C838A",
+    "remoteJid": "5215530443249@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725931419,
+    "senderName": "andres.valdez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07E7F16A89B5B6FB086",
+    "remoteJid": "5215530443249@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que tal señor"
+    },
+    "reaction": "",
+    "timestamp": 1725931455,
+    "senderName": "andres.valdez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB054E03DB047B699D061",
+    "remoteJid": "5215530443249@s.whatsapp.net",
+    "msgContext": {
+      "text": "todo bien?"
+    },
+    "reaction": "",
+    "timestamp": 1725931465,
+    "senderName": "andres.valdez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EE76ADD457634C17BD",
+    "remoteJid": "5215530443249@s.whatsapp.net",
+    "msgContext": {
+      "text": "que tal"
+    },
+    "reaction": "",
+    "timestamp": 1725931779,
+    "senderName": "andres.valdez",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

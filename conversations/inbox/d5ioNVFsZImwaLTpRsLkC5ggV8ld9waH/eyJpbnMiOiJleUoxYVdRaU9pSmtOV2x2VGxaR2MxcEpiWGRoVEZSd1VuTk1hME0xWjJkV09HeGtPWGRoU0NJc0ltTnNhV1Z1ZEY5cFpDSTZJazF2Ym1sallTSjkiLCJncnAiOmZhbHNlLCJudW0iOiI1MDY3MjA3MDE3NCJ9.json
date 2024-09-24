@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0A35F1BBA2668B3406C151C926857352",
+    "remoteJid": "50672070174@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, un gusto saludarle \nGracias por comunicarte con Tecnomás. ¿Cómo podemos ayudarte?"
+    },
+    "reaction": "",
+    "timestamp": 1725904764,
+    "senderName": "Tecnomas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

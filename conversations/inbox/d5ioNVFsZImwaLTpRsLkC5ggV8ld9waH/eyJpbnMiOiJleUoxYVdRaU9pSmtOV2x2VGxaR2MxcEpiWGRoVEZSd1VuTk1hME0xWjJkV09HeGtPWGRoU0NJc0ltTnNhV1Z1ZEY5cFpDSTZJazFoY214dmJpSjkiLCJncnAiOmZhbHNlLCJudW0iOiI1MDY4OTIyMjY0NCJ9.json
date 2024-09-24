@@ -1,0 +1,68 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C3A5C5F3006C579770",
+    "remoteJid": "50689222644@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola muy buenas tardes  Doña María , un placer saludarle!\nMi nombre es Marlon Flores asesor de servicio autorizado de Liberty CR. \nPor este medio te adjunto los servicios que tenemos disponibles, nuestras ofertas y beneficios!"
+    },
+    "reaction": "",
+    "timestamp": 1725917899,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F925834BE2B9F67F4C",
+    "remoteJid": "50689222644@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Acá también te adjunto algunos de nuestros servios  residenciales.\nInstalación Gratis y primer pago hasta el día 20 de Octubre.",
+      "fileName": "CYYMFs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725918199,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01A36853F5F29DE9BF5",
+    "remoteJid": "50689222644@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y contamos con nuestro servicio Liberty Total que te brinda todos nuestros servicios juntos en una sola factura y mejorando precios y con mayor cantidad de beneficios."
+    },
+    "reaction": "",
+    "timestamp": 1725918255,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F0A54452DD43D09923",
+    "remoteJid": "50689222644@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ante cualquier duda o consulta estoy para servirles."
+    },
+    "reaction": "",
+    "timestamp": 1725918287,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

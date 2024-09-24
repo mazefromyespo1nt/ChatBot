@@ -1,0 +1,86 @@
+[
+  {
+    "group": true,
+    "type": "doc",
+    "msgId": "2387B589766D2D72F3A26E777584763E",
+    "remoteJid": "120363296343995775@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SeCBBO.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725645767,
+    "senderName": "Christian Vargas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C17E1E7AB5C5ADFE21",
+    "remoteJid": "120363296343995775@g.us",
+    "msgContext": {
+      "text": "Hola, holaaa \n\nMe pasas de favor tu *Pedido de REFRESCO* para la próxima  semana.\n\nGracias ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725658252,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C52B8F0AB09E33732B6A784DEA118FD7",
+    "remoteJid": "120363296343995775@g.us",
+    "msgContext": {
+      "text": "Refresco de 2 litros \n2 manzanitas  \n1 Pepsi \n1 Mirinda \nRefresco de 600 ML\n1 manzanita \n1 Pepsi \n\nSería todo, gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725658431,
+    "senderName": "Christian Vargas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc",
+    "msgId": "04C4644292AF418A138289EA92CFEF49",
+    "remoteJid": "120363296343995775@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "GPRAEe.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725855783,
+    "senderName": "Christian Vargas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AE1BC1335073F66E86D",
+    "remoteJid": "120363296343995775@g.us",
+    "msgContext": {
+      "text": "Holaaa Christian 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885877,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

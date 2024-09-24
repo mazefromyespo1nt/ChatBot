@@ -1,0 +1,301 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "817DD8329628E95412582E58E7C6779C",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola! Dice mi esposo que si le puede enviar la información de los planes de Internet y si se podría hacer una prueba en la casa"
+    },
+    "reaction": "",
+    "timestamp": 1725923577,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0BAECB7227C8904B344",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "E0751I.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924246,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0C53C1429C152BE9412",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "uXueJW.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924256,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1AE18355C262B7638DC70D4C0B8C40F1",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "A este número puede ser la información"
+    },
+    "reaction": "",
+    "timestamp": 1725924509,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "189A360E7B77964CB7494CAB9C6FE71E",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que uno lo contrate por 1 mes y si no le funciona cancelarlo"
+    },
+    "reaction": "",
+    "timestamp": 1725924533,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661328498@s.whatsapp.net",
+      "id": "3EB0C53C1429C152BE9412"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB01926C1F27E54BB6A09",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "axcQdP.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924783,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C78DB5DF2679A22C42",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "zte6Tx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725924792,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "222AAE7A5CF789F090024E86D8A5BBBD",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dónde están las tiendas?"
+    },
+    "reaction": "",
+    "timestamp": 1725924940,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EBA5BDF963EE8F891048B515E1D05F5F",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y de casa?"
+    },
+    "reaction": "",
+    "timestamp": 1725925046,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A268D35FDBA5CB7657",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* actualice sus servicios en simples pasos. *Puede adquirir este  paquete a súper precio* (antes costaba 37.500) .Le incluye  :\n\n-250 canales *NEXT TV en HD* y Plataforma *HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalación y pagaría hasta el 20 de octubre 2024🤩👈 *SETIEMBRE GRATIS*",
+      "fileName": "MPvRyg.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725925127,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0216199303021A80EFB",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "394JKk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725925191,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB021C02E5880642ACD73",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "RXHmPL.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725925204,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB047CA0652E933E4F8F1",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aFSqsZ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725925291,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FBE1102811B2655BAE",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días, espero estén muy bien. Si tienen  alguna duda con gusto😃"
+    },
+    "reaction": "",
+    "timestamp": 1725978917,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7EC6F261E5AD54558E34627F73870371",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias! Mi esposo le va a preguntar a alguien que tenga el servicio para saber cómo le funciona y tomar la decisión"
+    },
+    "reaction": "",
+    "timestamp": 1725979442,
+    "senderName": "Luryina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2E4A28F878CB96481AA717D3887E2B75",
+    "remoteJid": "50685418294@s.whatsapp.net",
+    "msgContext": {
+      "text": "Excelente. Yo quedo a la espera 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725979555,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

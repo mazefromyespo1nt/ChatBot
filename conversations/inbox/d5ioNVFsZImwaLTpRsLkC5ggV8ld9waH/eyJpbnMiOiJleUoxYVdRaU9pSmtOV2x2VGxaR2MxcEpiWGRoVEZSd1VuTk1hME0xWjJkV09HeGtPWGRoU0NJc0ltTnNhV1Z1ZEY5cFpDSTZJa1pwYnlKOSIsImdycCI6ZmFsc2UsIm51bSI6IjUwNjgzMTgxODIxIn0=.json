@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DA09B1D109A876DC8C",
+    "remoteJid": "50683181821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Srita Silvia, gracias por el tiempo en espera, la portabilidad dura de 24 a 48 horas, hasta que el sim  que usted tiene en su celualar deje de funcionar, normalmente se hace en la madrugada para que no se vea afectado el servicio."
+    },
+    "reaction": "",
+    "timestamp": 1725665473,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5F79757139E83E40B8",
+    "remoteJid": "50683181821@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok de acuerdo gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725665502,
+    "senderName": "Silvia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

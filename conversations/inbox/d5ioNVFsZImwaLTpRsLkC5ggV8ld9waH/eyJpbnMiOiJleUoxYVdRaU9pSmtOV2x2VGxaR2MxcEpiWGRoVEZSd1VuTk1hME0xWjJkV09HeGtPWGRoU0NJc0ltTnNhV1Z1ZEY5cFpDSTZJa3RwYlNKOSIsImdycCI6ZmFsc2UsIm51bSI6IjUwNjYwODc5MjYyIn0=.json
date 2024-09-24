@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EBDEE93CAD1CCD1493",
+    "remoteJid": "50660879262@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Don Oscar mi nombre es Kimberly Fallas de Fruno distribuidor autorizado de Liberty😁"
+    },
+    "reaction": "",
+    "timestamp": 1725893750,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F6821F40CCF34FF27",
+    "remoteJid": "50660879262@s.whatsapp.net",
+    "msgContext": {
+      "text": "Conversé con su esposa y me comentó que esta interesado en un plan liberty. Con mucho gusto yo le puedo ayudar y *le ayudo a que converse su  mismo número el 6087 9262-*😃👇"
+    },
+    "reaction": "",
+    "timestamp": 1725893808,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01F45A0966F98ABC688",
+    "remoteJid": "50660879262@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Don Oscar quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera. Ese es nuestro compromiso"
+    },
+    "reaction": "",
+    "timestamp": 1725979246,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "89EE9635CFEB0EF765775600654C1E04",
+    "remoteJid": "50660879262@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Kimberly, mucho gusto, si me interesa hacer el cambio pero en este momento voy viajando a Nicaragua, sería al regreso, voy a estar unos 15 días, yo la contacto cuando ya esté yo de regreso, muchas gracias, muchas bendiciones."
+    },
+    "reaction": "",
+    "timestamp": 1725979861,
+    "senderName": "Siempre Con Actitud Posit",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D54F4BC3385E17471B",
+    "remoteJid": "50660879262@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo le recomiendo viajar a Nicaragua con la línea. Liberty cubre todo centro america GRATIS😁"
+    },
+    "reaction": "",
+    "timestamp": 1725980047,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06FD9743FD86E82203C",
+    "remoteJid": "50660879262@s.whatsapp.net",
+    "msgContext": {
+      "text": "Adicionalmente setiembre está de cortesía. y puede probarlo . Usted tendría que pagar hasta el 20 de octubre 2024."
+    },
+    "reaction": "",
+    "timestamp": 1725980103,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB005283CCEC72CD849D6",
+    "remoteJid": "50672068911@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días tengo una llamada perdida. Está interesada en algún servicio de Liberty 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725978817,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

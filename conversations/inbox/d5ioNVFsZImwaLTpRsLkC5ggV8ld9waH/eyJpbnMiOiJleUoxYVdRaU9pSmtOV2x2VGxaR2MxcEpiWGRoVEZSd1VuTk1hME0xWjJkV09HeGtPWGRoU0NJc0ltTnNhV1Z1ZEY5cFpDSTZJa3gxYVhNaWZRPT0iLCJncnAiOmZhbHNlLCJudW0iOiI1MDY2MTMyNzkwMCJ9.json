@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FE8EDA165C70229074",
+    "remoteJid": "50661327900@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió?\n\nPorque tenía demasiados problemas."
+    },
+    "reaction": "",
+    "timestamp": 1725989139,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

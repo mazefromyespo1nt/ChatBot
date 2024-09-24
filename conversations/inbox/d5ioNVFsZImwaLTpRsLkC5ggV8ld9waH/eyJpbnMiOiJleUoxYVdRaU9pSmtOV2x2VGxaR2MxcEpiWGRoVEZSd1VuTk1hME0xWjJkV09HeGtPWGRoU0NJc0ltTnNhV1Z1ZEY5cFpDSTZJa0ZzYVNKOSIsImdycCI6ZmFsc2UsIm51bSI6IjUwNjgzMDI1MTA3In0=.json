@@ -1,0 +1,89 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085FE843FD5DF72A6B0",
+    "remoteJid": "50683025107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, Que gusto saludarle nuevamente,  Allison González asesora de servicio y distribución autorizada Liberty."
+    },
+    "reaction": "",
+    "timestamp": 1725662678,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB054E7149E962ADFC6E6",
+    "remoteJid": "50683025107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por este medio le estaremos adjuntando la información solicitada mediante la llamada telefónica, para nosotros es muy importante mantener a salvo la integridad e información de nuestros clientes, recordando que nunca vamos a solicitar información bancaria o sensible que les pueda poner en riesgo."
+    },
+    "reaction": "",
+    "timestamp": 1725662702,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB058E2A94669430C7BAC",
+    "remoteJid": "50683025107@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "g26uWj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725662724,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB058EC4DB3A6C0E5EC70",
+    "remoteJid": "50683025107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Plan @1 \nIncluye:\n\n-12 GB de datos.\n-300 Minutos a la red Liberty\n-150 minutos a otros operadores CR, EEUU, Canadá y Tigo Nicaragua\n-Liberty Sin Fronteras, navegación sin costo adicional en Norteamérica y Centroamérica\n-Redes sociales ilimitadas: *WhatsApp, Facebook,Instagram, X y Waze.*\n- Costo del servicio ₡ *10,900*"
+    },
+    "reaction": "",
+    "timestamp": 1725662755,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0DE8FF1DEF66AED7642",
+    "remoteJid": "50683025107@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "eOIWef.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725662801,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

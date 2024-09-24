@@ -1,0 +1,23 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D1591B4CC7C8DB0BF60633EC3724ED92",
+    "remoteJid": "120363285980203022@g.us",
+    "msgContext": {
+      "caption": "Cuentas del canal del fútbol por Youtube disponibles para revendedores y clientes finales 🇪🇨\n\nCon tu propio correo y contraseña \n\nContactame:\n https://wa.me/593964028658 📱",
+      "fileName": "JpV7Ay.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725984934,
+    "senderName": "Negretty Store",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

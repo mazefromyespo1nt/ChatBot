@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "57A1F4295D19C1A3A513336B58F2B1B4",
+    "remoteJid": "50672072249@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con Esquina Del Sabor. Con mucho gusto te tomo el pedido..\n\nTodo pago por SINPE MÓVIL  debe de enviarse el comprobante con anterioridad al envío..\n\nPor favor enviar comprobante de pago directo del banco\nSINPE:72072249 Anguie Alvarez Gutiérrez\n\nGracias"
+    },
+    "reaction": "",
+    "timestamp": 1725668643,
+    "senderName": "Esquina Del Sabor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

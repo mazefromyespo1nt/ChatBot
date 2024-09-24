@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6D75934F87B2586EBBF7AA25AFA7837",
+    "remoteJid": "34631510536@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725815030,
+    "senderName": "DivWord",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "82934DED873C380E7FEF2C6F5A545B6D",
+    "remoteJid": "34631510536@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725815051,
+    "senderName": "DivWord",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7734C881A1E96C4E9C5F90FD3B917D37",
+    "remoteJid": "34631510536@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Irene"
+    },
+    "reaction": "",
+    "timestamp": 1725815151,
+    "senderName": "DivWord",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9CB26A8468165953E3707999BA94B4A2",
+    "remoteJid": "34631510536@s.whatsapp.net",
+    "msgContext": {
+      "text": "Irene"
+    },
+    "reaction": "",
+    "timestamp": 1725815171,
+    "senderName": "DivWord",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD5F1C7B46123903A0A",
+    "remoteJid": "34631510536@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://youtu.be/owUzIPXmhoE?si=C58ef_hAWEcWEykj"
+    },
+    "reaction": "",
+    "timestamp": 1725822771,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

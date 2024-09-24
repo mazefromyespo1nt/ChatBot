@@ -1,0 +1,68 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FC752E87A2966D803D0EA29E82979DF2",
+    "remoteJid": "50672071782@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias ya tengo un plan con ustedes"
+    },
+    "reaction": "",
+    "timestamp": 1725664525,
+    "senderName": "carvajalalvaro655",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01811EEA4D8D50EECF6",
+    "remoteJid": "50672071782@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Y ya cuenta con servicios de hogar? En este momento tenemos excelentes precios"
+    },
+    "reaction": "",
+    "timestamp": 1725664615,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0153E17DB594E9AC191",
+    "remoteJid": "50672071782@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CdQceH.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725664636,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "573C04636E6C623FEDA62439D208B473",
+    "remoteJid": "50672071782@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si princesa muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725664661,
+    "senderName": "carvajalalvaro655",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

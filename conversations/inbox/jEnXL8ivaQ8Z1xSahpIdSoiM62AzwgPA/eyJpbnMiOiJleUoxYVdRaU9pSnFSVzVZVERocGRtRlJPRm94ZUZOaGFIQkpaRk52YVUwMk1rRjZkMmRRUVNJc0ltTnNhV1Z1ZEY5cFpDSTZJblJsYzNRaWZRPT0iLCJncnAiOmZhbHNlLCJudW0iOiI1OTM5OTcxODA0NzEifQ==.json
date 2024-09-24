@@ -1,0 +1,190 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF30E032701FA87DF0D",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Moriste?"
+    },
+    "reaction": "",
+    "timestamp": 1725949747,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB8483F86A40B2E8EA2",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ojalá bebé"
+    },
+    "reaction": "",
+    "timestamp": 1725949759,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3AC160C03AC1454B58FC",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AR1Rjq.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725949775,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0B7A0C16DB10619691",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me quiero ir a mimimimir"
+    },
+    "reaction": "",
+    "timestamp": 1725949803,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A520CBB2714A0EC832E",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Uy pásame el número de ese cñor le voy a decir oiga no me deja hablar usted con este man"
+    },
+    "reaction": "",
+    "timestamp": 1725949821,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5219992427569@s.whatsapp.net",
+      "id": "3AC160C03AC1454B58FC"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8024B8F728BA1B04E0",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cada que quiero hablar contigo"
+    },
+    "reaction": "",
+    "timestamp": 1725949832,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "593997180471@s.whatsapp.net",
+      "id": "3A520CBB2714A0EC832E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A411D6AF04046465B6C",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Susjsjsjs"
+    },
+    "reaction": "",
+    "timestamp": 1725949833,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A231151EBF4716304C8",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Parece que se lo está ligando a usted no a mi xd"
+    },
+    "reaction": "",
+    "timestamp": 1725949833,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4B196172550EA008F5",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hablo mas con los de mi chamba que contigo x.x"
+    },
+    "reaction": "",
+    "timestamp": 1725949854,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "593997180471@s.whatsapp.net",
+      "id": "3A231151EBF4716304C8"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A3EA013F1B4D59A59E9",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "AJajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725949856,
+    "senderName": "Rafa",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6D528406B02FD8B5BF",
+    "remoteJid": "593997180471@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora le dire que ya"
+    },
+    "reaction": "",
+    "timestamp": 1725949864,
+    "senderName": "Rafa",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

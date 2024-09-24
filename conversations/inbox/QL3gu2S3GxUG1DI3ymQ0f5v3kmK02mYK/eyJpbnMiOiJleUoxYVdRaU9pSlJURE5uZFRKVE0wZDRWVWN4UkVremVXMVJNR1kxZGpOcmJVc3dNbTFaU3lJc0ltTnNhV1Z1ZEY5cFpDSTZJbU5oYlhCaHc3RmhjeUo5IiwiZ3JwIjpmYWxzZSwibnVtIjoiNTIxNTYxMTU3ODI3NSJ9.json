@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CD191C47B1BF0E922A",
+    "remoteJid": "5215611578275@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Gerardo buenas tardes, antes que  nada espero te encuentres muy bien"
+    },
+    "reaction": "",
+    "timestamp": 1725578289,
+    "senderName": "RCP - Red de Certificación Profesional",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CD191C47B86258FD24",
+    "remoteJid": "5215611578275@s.whatsapp.net",
+    "msgContext": {
+      "text": "sobre la cotización en paquete que te pase, tendrás comentarios o dudas?"
+    },
+    "reaction": "",
+    "timestamp": 1725578315,
+    "senderName": "RCP - Red de Certificación Profesional",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CD191C47BBF312B4BC",
+    "remoteJid": "5215611578275@s.whatsapp.net",
+    "msgContext": {
+      "text": "sigo a tus ordenes"
+    },
+    "reaction": "",
+    "timestamp": 1725578330,
+    "senderName": "RCP - Red de Certificación Profesional",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A7DF09351840561BA71",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6wTcMK.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725843553,
+    "senderName": "Botellas Doña Lupe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6C3B3765E4BE6A3CA8",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "es la nueva plataforma de nosotros"
+    },
+    "reaction": "",
+    "timestamp": 1725843702,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9F9028A681849CB67B",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mándame el link"
+    },
+    "reaction": "",
+    "timestamp": 1725846547,
+    "senderName": "Botellas Doña Lupe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D90FCC22931EA0BC269D8EC5BECE4DA6",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola saludos la plataforma es 100 % libre\n👉Link: https://linknight.online\nPuedes ver grátis videos, contenido, pack y mucho más.\nNuestros suscriptores son de europa, asia y norte américa.😍\nSi te gusta participar escribeme y te ayudó a crear la cuenta para iniciar a ganar con tus suscriptores.🤙"
+    },
+    "reaction": "",
+    "timestamp": 1725847484,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0F0D4F1FAFB93C2887",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "A ver"
+    },
+    "reaction": "",
+    "timestamp": 1725850042,
+    "senderName": "Botellas Doña Lupe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A971D5CE746439EF350",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pensé que era de servicios como la otra"
+    },
+    "reaction": "",
+    "timestamp": 1725850178,
+    "senderName": "Botellas Doña Lupe",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2492E89A7B563AE095148DCC10FDC87F",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hay tenemos"
+    },
+    "reaction": "",
+    "timestamp": 1725896096,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DD395683ADD7DC114D0C196F8CF5DC58",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "Servicio"
+    },
+    "reaction": "",
+    "timestamp": 1725896098,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8061ED0E5408BB29FDC9E5CBE824D62D",
+    "remoteJid": "18299851538@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dejame revisar"
+    },
+    "reaction": "",
+    "timestamp": 1725897198,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,2706 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A282EBA26B36F091A2B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0uX9Qt.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725743895,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "0D2B75E41531E49A790FBCD4FDCC7B5E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fa3Ek2.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725746027,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A56E66A5D6C0782D055",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "IPLxi1.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725746132,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A71F1896091DB011964",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Oy3EKw.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725746141,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6664A87269EA83922A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola ángel"
+    },
+    "reaction": "",
+    "timestamp": 1725815252,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "471278B0433BF6DB674713D54F2E1DDD",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, mándeme"
+    },
+    "reaction": "",
+    "timestamp": 1725815292,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AD962A20846FA6802C1",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SAZ0Qe.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725815293,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C6298C897D0936FDF57696780BE58E5C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te comparto video"
+    },
+    "reaction": "",
+    "timestamp": 1725815323,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE5139B5234EA1A3A66",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725815333,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "C6298C897D0936FDF57696780BE58E5C"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FF533113F8FAD72776E1D48FF7909C02",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://vimeo.com/1006723911"
+    },
+    "reaction": "",
+    "timestamp": 1725815360,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3ACB534213CD441AE965",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "EYVA1Z.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725816471,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "FF533113F8FAD72776E1D48FF7909C02"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B666944C54A5D54D4EB05465C0C48861",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok si, me avisas"
+    },
+    "reaction": "",
+    "timestamp": 1725816519,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A363BB3FA2644B9CB2E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BGtgup.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725829894,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A1844ABF8714A564E3C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Me salió esto?",
+      "fileName": "wNlxCE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725830154,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A402C24E01EA6BE76A9",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Copio este código ?"
+    },
+    "reaction": "",
+    "timestamp": 1725830162,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A1844ABF8714A564E3C"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9C3654A371FBCC58F210E3EF573225D2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725830166,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A89A608676E8EC7CD60",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "UsDOYY.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830175,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ABBFFCD1A5F401C479A0343C20EAC7C1",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah no"
+    },
+    "reaction": "",
+    "timestamp": 1725830180,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "259F597B9D29637C1186B647DF3402D3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "xzS5or.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830200,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4A294B0C0FD26E69D6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Oooo ok"
+    },
+    "reaction": "",
+    "timestamp": 1725830216,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3ADBFB7674751D3C86EE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4cLgQc.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725830264,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A85541F296CAE7FE3EB",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ItFZ0a.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830310,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3ADBFB7674751D3C86EE"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A5DE734486C911E8B9D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XYKw1n.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725830418,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3A09377CFBDE67B50F34",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "xIfdLA.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725830455,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "13D84C4AC86397DFAE5674E99208D32E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si ahi"
+    },
+    "reaction": "",
+    "timestamp": 1725830459,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "54B8437DB52FCEA493EEEB53611641DE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Descargar"
+    },
+    "reaction": "",
+    "timestamp": 1725830461,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8D31E1BAC7512CD647F4CBCA991B25B6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y me pasas ambos archivos"
+    },
+    "reaction": "",
+    "timestamp": 1725830468,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "9C74E4BA63F57EF9CF38A979DD74E084",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NT6THI.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830500,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AF85AFC6A3BFD705377",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "zDmSh1.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830561,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "A8D356EA5470B95C0108392CEB0215D3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Xagkmg.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830713,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "56F1D7C6CE58112F69A06E13E2EB674B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, yo uso Wise para enviar dinero al extranjero. ¡Realmente es muy fácil y mucho más barato que con el banco! Pruébalo con una transferencia sin comisiones de hasta 14.000 MXN. https://wise.com/invite/diw/miguelangelramoshernandezr"
+    },
+    "reaction": "",
+    "timestamp": 1725830734,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "875532D797C47AD16B0194BC7FD42D34",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "OVLwzO.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725830734,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "502224884231EAAFDDA5C55D779B2381",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "LTOYlS.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830799,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A3EAA573E1F8A5FDEC8",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "RiDGWa.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830884,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "502224884231EAAFDDA5C55D779B2381"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A1D96BA76889E3A1459",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "d655Wc.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830911,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "5FC61C67A7DEB12F519CC17AE1EE6601",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "znBpjM.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725830912,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A94F5838186CCE75AA8",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo ✅"
+    },
+    "reaction": "",
+    "timestamp": 1725830954,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "5FC61C67A7DEB12F519CC17AE1EE6601"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BD2B0D368D71D197D33F86D62C5091D6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Correo: Mike.ramosh2@gmail.com"
+    },
+    "reaction": "",
+    "timestamp": 1725831024,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8235A55C18B9AA6363A396CAD3CD499F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nombre Completo: Miguel Angel Ramos Hernández"
+    },
+    "reaction": "",
+    "timestamp": 1725831026,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E65233E4E65F0BADB5B6A67597FD9EAA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "CLABE: 012180015074825046"
+    },
+    "reaction": "",
+    "timestamp": 1725831028,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E96FA23C25B0A459E5CC3BF2667363B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "CURP: RAHM930702HSLMRG09"
+    },
+    "reaction": "",
+    "timestamp": 1725831029,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D2E3D0C70D5F09E3DCC18445CA96EC13",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "País: México"
+    },
+    "reaction": "",
+    "timestamp": 1725831030,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4EE67FAC3C5B568FA78FBB670D115A2A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ciudad: Culiacán"
+    },
+    "reaction": "",
+    "timestamp": 1725831030,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8E7B14C7CB6F44C9BCB09FFBCD62E98F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dirección: Sinaloa"
+    },
+    "reaction": "",
+    "timestamp": 1725831031,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4AAE044E673DEC248115C8E70F93971F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Código Postal: 80246"
+    },
+    "reaction": "",
+    "timestamp": 1725831031,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D75446119DB4E949A8E3717910A9D80E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "creo te va pedir validar tu id y rostro antes de enviar o mientras está el proceso de envío"
+    },
+    "reaction": "",
+    "timestamp": 1725831031,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7D211F38747EAE5D391A2488F579EA27",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si claro puedes confiar en mi 100% soy de fiar amigo no te preocupes"
+    },
+    "reaction": "",
+    "timestamp": 1725831032,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "CE5F9B491709CC3CF121BB2D9F7C238C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "VNiK34.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725831057,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E27F6BA517C2A605B777E7AD14BA9530",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mira hace un rato me mandaron por ahí 50 dolares"
+    },
+    "reaction": "",
+    "timestamp": 1725831142,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01BB8D6D14AE9005D7BCA685F9AD892F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y 100 por astropay"
+    },
+    "reaction": "",
+    "timestamp": 1725831142,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "EA636819121DF07AEA1EC3131A97E638",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "y3RWna.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725831142,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "9BB92809DAF08F2E464674D54DC2B51F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "iPyjD6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725831143,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "512692889E087F27924B6551086F5032",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SeKlvd.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725831143,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2AB80297B9DBCDAC7090DA3B2ED90045",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mira eso es de hoy"
+    },
+    "reaction": "",
+    "timestamp": 1725831143,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "B12BBBE4B7D8B8DC4668AB2C2675C9FE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "EcFRzJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725831143,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8DD5AFF36ED86FFEC391BA77D5B8DF8D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y este es de ayer de 200 dolares"
+    },
+    "reaction": "",
+    "timestamp": 1725831143,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D38E446FC10D6A65CE9296DF070CB3B9",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Igual por wise"
+    },
+    "reaction": "",
+    "timestamp": 1725831145,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6FB87D03F95AD6C86D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Súper"
+    },
+    "reaction": "",
+    "timestamp": 1725831185,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1D0577D80D4C67F68C819F29959F5BE8",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y si, yo en un rato más te instalo todo para que cuando despiertes ya este listo"
+    },
+    "reaction": "",
+    "timestamp": 1725831236,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A1D96BA76889E3A1459"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEE0A0998AEA7B7B63C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muy bien"
+    },
+    "reaction": "",
+    "timestamp": 1725831264,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "1D0577D80D4C67F68C819F29959F5BE8"
+    }
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3AEFC3055445CF44F928",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cvQJWu.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725831825,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "566BAF1AAC1DBD3F1C016869A3A1B303",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "68uT3c.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725832000,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A461FCD15D36181D66",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ok"
+    },
+    "reaction": "",
+    "timestamp": 1725832024,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB0E75A0FA9481351B2B9",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "CLAVES.rar",
+      "fileName": "5RgKQ5.false",
+      "mimetype": "application/x-compressed"
+    },
+    "reaction": "",
+    "timestamp": 1725832179,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A8DA436A705D4332E37",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725832215,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3EB0E75A0FA9481351B2B9"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A964CFAA80F640B8A53",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Uyxyrn.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725832223,
+    "senderName": "LOIXS",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AAF2D92542932AFE73F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fnKoCE.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725832245,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "6FC26E343EFB53A4B8C9A529F6B8ECA6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Rw0wM5.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725832317,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A9142C09867307AB76F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Lus0vV.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725832347,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "39FA7AA315ED4A17C501C485FCBA0930",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Así es"
+    },
+    "reaction": "",
+    "timestamp": 1725832368,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DE457E2B2B689524046021EEA1EF5EB4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo te entregaré el código fuente y base de datos"
+    },
+    "reaction": "",
+    "timestamp": 1725832377,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "534F54C3C79BE64E2748A7CE10B75B25",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y tu puedes hacer lo que gustes"
+    },
+    "reaction": "",
+    "timestamp": 1725832382,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC4E0F56C3D236BBDDA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725832389,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A672A4D6A661B9130E3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "."
+    },
+    "reaction": "",
+    "timestamp": 1725832796,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "E65233E4E65F0BADB5B6A67597FD9EAA"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "23D3462C53ED34AB1F0FC8110F3A1133",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mira primero aca seleccionan así la cantidad"
+    },
+    "reaction": "",
+    "timestamp": 1725832989,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "DC7086B47FEF8885032C69E0F5DFF3D4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Y donde dice \"pagar con\" eligen tarjeta de credito o debito",
+      "fileName": "IsNc5Y.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725833014,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "FDFE4C32C124D3AF01D9514435FE0494",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SXfVgr.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725833057,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E7317E4FA7DB63A435C4EBB4D5134868",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "luego acá"
+    },
+    "reaction": "",
+    "timestamp": 1725833058,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "CB580C2D921AF373DBAA2668D7375A22",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "a04FY7.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725833073,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "49C908A6DF611747A2825A7CC27157D6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "después aca"
+    },
+    "reaction": "",
+    "timestamp": 1725833073,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "848D59781385B4E8EE04A886D8FC99AA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Dl4YpG.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725833102,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1B62BF6F9F42AA360993EE68626B0C00",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y ahí ya les muestra esta pantalla donde van todos mis datos"
+    },
+    "reaction": "",
+    "timestamp": 1725833102,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "348922D6B4950CE48ABAAB091748EFA2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me dicen si necesitan algo más"
+    },
+    "reaction": "",
+    "timestamp": 1725833478,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "972EF599D9430DBBF17133B88B6D029E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me compartes el dominio que está ligado a ese cpanel por favor y la ip que te aparece ahí en la pantalla principal del cpanel"
+    },
+    "reaction": "",
+    "timestamp": 1725833966,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AD87892DAF57449B1B8C8879D90D7ED7",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Debe decir algo así"
+    },
+    "reaction": "",
+    "timestamp": 1725833980,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "BCEFE05AA6A59F61DF9614D708EACAE4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9OYLHb.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725834019,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A37253F0E2744C7F7BD",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te doy el contraseña más bien del cpanel"
+    },
+    "reaction": "",
+    "timestamp": 1725834478,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF910283910D5A6D982",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para q tengas todo mejor"
+    },
+    "reaction": "",
+    "timestamp": 1725834483,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A41269B7EFD0FD1B84D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725834486,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "18EC00343C9D5263464D30A69FB89344",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok va"
+    },
+    "reaction": "",
+    "timestamp": 1725834489,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB019D6D8E496FD2E9E03",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6AC84M.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725834668,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09E1DD06E1450EFE89B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://manage.banahosting.com/index.php?rp=/login"
+    },
+    "reaction": "",
+    "timestamp": 1725834678,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EFA93AF05C8536C1C6CC888A5DE2C786",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vale"
+    },
+    "reaction": "",
+    "timestamp": 1725834695,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C56DAD670E637EB857",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AwFPTd.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725835021,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0D4049FF9F081A424C60261060711558",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok va"
+    },
+    "reaction": "",
+    "timestamp": 1725835039,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3EB0C56DAD670E637EB857"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A90056BBC85B4ECF286",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jQ4NmD.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725835042,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3EB0C56DAD670E637EB857"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "7C799CDE677123A1B144BD0D795C2DDE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jjMq0z.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725835073,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD16B06222B7E587AB4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Oki"
+    },
+    "reaction": "",
+    "timestamp": 1725835090,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "28D3545E0E617869B50CD278FF8F17D4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ByzRvO.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725835268,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "6D94FFC9D7FF5445A09E6CC348B30AA3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "ftr3PL.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725835287,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C21E8E192565265AF429C44004BFBB9F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Así como esa"
+    },
+    "reaction": "",
+    "timestamp": 1725835301,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "B12BBBE4B7D8B8DC4668AB2C2675C9FE"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A1A4DFFA972A1B2F966",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XbIiq0.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725835332,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D6320B3ED3333EEB7016AD9FB9EDDE21",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! 😀 Ahora puedes enviarme dinero a mi cuenta Mercado Pago Wallet al instante y de manera segura:\r\n\r\n1. Puedes hacerlo desde una *agencia*, el *sitio web* o la *app* de las empresas de envío disponibles.\r\n2. Selecciona la opción de envío a *Mercado Pago* dentro de la categoría *\"Digital Wallet\"*.\r\n3. Ingresa mis datos 👇🏼:\r\nNombre: Miguel Angel Ramos Hernandez\r\nCelular: 526643624665\r\nMail: mike.ramosh2@gmail.com\r\nCiudad: Culiacán\r\nEstado: Sinaloa\r\nPodrás hacerlo en *efectivo*, con *tarjeta* de débito/crédito o *cuenta bancaria* y recibiré el dinero al instante. 💸\r\n\r\n📍 *Obtén más información sobre cómo enviar el dinero:* www.mercadopago.com.mx/enviar-dinero-a-mexico"
+    },
+    "reaction": "",
+    "timestamp": 1725836096,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3CADAC1FD886C690C9F731650264EAAD",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://we.tl/t-DDqLVQV7CT"
+    },
+    "reaction": "",
+    "timestamp": 1725837105,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3ABCD7BFD704D47F9BAB",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jPQixz.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725837541,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A5944F2BD7DF713C322",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "LfAP9h.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725837570,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A316CD6C83B249604B822B938990DB22",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si está bien cuenta con ello"
+    },
+    "reaction": "",
+    "timestamp": 1725837738,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "67EE62629FF983D6974C29FEBB0A0220",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aquí te deje el enlace para que descargues el código fuente y base de datos"
+    },
+    "reaction": "",
+    "timestamp": 1725837751,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "3CADAC1FD886C690C9F731650264EAAD"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A81A7E2CB108875C086",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Ux4biH.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725837849,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "67EE62629FF983D6974C29FEBB0A0220"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A09BA51BD47B552B76F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "MIxHOy.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725838044,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "463DB6808293FB949DC06AEC72859F2C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok si, comparteme logo por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725838969,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A81A7E2CB108875C086"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6993A0D2AE5AB8DEDB05BDF8C1F8DC38",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ah ok ok"
+    },
+    "reaction": "",
+    "timestamp": 1725838987,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A09BA51BD47B552B76F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4EBCE07E3B011DA8C0",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola ángel"
+    },
+    "reaction": "",
+    "timestamp": 1725853502,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A699AB7915F473C54A2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pudiste ?"
+    },
+    "reaction": "",
+    "timestamp": 1725853510,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "7F5CA03ED8379AE6338024803BFA376E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lPCBs5.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725853625,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A453AE16D1B7A62D098",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725853651,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A6C7737022EDA446B94",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "wpLMSR.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725856352,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "BDFAFA6B657DF1F83BB6EA6FEC2419BC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DEP3wr.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725856873,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A96BAFCB1257B749BFC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero quedamos en que yo me levantaba y estaba todo listo"
+    },
+    "reaction": "",
+    "timestamp": 1725856947,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "83264B13F2E594374F1A1BEB98E2FC80",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "dNrJiY.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725857031,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AA6FB47DB764103E8B9",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5iTzso.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725861408,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "7568C8552DAAC89B29CC874BF35D1A3C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "MR5ecA.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725862135,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A2862C30BBBDEDAEAC5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "zVXtwA.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725862344,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "06A380283D0EB3BFC88347C1275F8243",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "XeJjWo.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725883980,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "E4907DA81E4D926BE40AC16D5185364A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2JazVy.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725884053,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D397117A0823EACE84DEB16C23AB6486",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya haz creado subdominios en ese cpanel?"
+    },
+    "reaction": "",
+    "timestamp": 1725884800,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A69235BF2EE14739FBA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sii"
+    },
+    "reaction": "",
+    "timestamp": 1725884810,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "D397117A0823EACE84DEB16C23AB6486"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A554E901576152122ED",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "JBTb7E.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725884835,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A6007C7B006D36122E6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tJmD0c.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725884868,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A1EA71C67CCA6C18375",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "I5WTQc.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725884991,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD9957FF3896D434E37",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Oki"
+    },
+    "reaction": "",
+    "timestamp": 1725885295,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FF431711CB8DA84D0B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "permíteme te llamo en un ratito"
+    },
+    "reaction": "",
+    "timestamp": 1725892354,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF15A3CE2A80DC25F79",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725892362,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6275BB7B4FBC106D08",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya creaste el subdominio?"
+    },
+    "reaction": "",
+    "timestamp": 1725895136,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "5E177AAE5ACB4F67C929",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "epQJ3n.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725897598,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0ECB4121757357B302",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Veo q no has creado el dominio"
+    },
+    "reaction": "",
+    "timestamp": 1725897623,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "53656920EC9B3E2BAB663E9A2E956BF4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Permiteme me tuve que conectar a una llamada por eso no te pude contestar cuando me llamaste y sigo acá",
+      "fileName": "DhGS2D.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900006,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6A9902A222A7410204C8685E5E540946",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como en 30 minutos continuo en tu cpanel"
+    },
+    "reaction": "",
+    "timestamp": 1725900808,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2691823DDDBD1A8ADE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Necesito dejar eso listo hoy"
+    },
+    "reaction": "",
+    "timestamp": 1725900857,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A98B276F7D5393F3DF5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725900859,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2A20948E421F0029F415DFAAF5FD966F",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si, en unas horas queda ntp"
+    },
+    "reaction": "",
+    "timestamp": 1725900984,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A94EDC48DED2EB5FBBC",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ósea para mí unas horas ya es mañana"
+    },
+    "reaction": "",
+    "timestamp": 1725901096,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "2A20948E421F0029F415DFAAF5FD966F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DD7CF210DBDF576C5620D8544E2A8398",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "2 horas y media máximo ya queda"
+    },
+    "reaction": "",
+    "timestamp": 1725901370,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A63A78353F3A0507D1A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno Dios Quiera"
+    },
+    "reaction": "",
+    "timestamp": 1725901417,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "DD7CF210DBDF576C5620D8544E2A8398"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "9F87F18D135E1F45EA250E3DC2E0FBC3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "p3m3Ty.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725913910,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2A42F07E60F01A7D21",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725913928,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C4F76519058E0CBCAF",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://crm.divword.com/admin/login"
+    },
+    "reaction": "",
+    "timestamp": 1725914268,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "29A9648B592381B784",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "angel@admin.com"
+    },
+    "reaction": "",
+    "timestamp": 1725914273,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F74CE9011625DCDEB6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Password@123"
+    },
+    "reaction": "",
+    "timestamp": 1725914286,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F9249E645243952017",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "123456"
+    },
+    "reaction": "",
+    "timestamp": 1725914303,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "08F63C2224856936D2",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ese es el admin"
+    },
+    "reaction": "",
+    "timestamp": 1725914316,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE3AAFEB77A46A35F5",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y acá un usuario normal"
+    },
+    "reaction": "",
+    "timestamp": 1725914322,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA9F5E38992856088E",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://crm.divword.com/user/login"
+    },
+    "reaction": "",
+    "timestamp": 1725914326,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "63F735207F682BAB59",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "angel@usuario.com"
+    },
+    "reaction": "",
+    "timestamp": 1725914330,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6F6D1AEC546189CCD7",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "123456"
+    },
+    "reaction": "",
+    "timestamp": 1725914332,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "36D964A321FFFB35AF",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya está"
+    },
+    "reaction": "",
+    "timestamp": 1725914388,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

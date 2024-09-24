@@ -1,0 +1,130 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE7856740D19F4E2A39",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola soy Clau"
+    },
+    "reaction": "",
+    "timestamp": 1725744950,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF6FF9A906D430DE315",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola 🙋🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725745140,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF605637D9C5C68D85F",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola mi amor"
+    },
+    "reaction": "",
+    "timestamp": 1725745223,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE6F465E2EA1AF5EEF3",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Miwebya mi amor"
+    },
+    "reaction": "",
+    "timestamp": 1725745276,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BCEF5ED0BBA78C7E54",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "heyy"
+    },
+    "reaction": "",
+    "timestamp": 1725745371,
+    "senderName": "Claudia",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FC1234442822F6B2AC",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "dormir "
+    },
+    "reaction": "",
+    "timestamp": 1725745431,
+    "senderName": "Claudia",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ED60AB040D77BFDCFD",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "comer"
+    },
+    "reaction": "",
+    "timestamp": 1725745629,
+    "senderName": "Claudia",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A906E3BF583319F5843",
+    "remoteJid": "32474435438@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725745648,
+    "senderName": "Claudia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

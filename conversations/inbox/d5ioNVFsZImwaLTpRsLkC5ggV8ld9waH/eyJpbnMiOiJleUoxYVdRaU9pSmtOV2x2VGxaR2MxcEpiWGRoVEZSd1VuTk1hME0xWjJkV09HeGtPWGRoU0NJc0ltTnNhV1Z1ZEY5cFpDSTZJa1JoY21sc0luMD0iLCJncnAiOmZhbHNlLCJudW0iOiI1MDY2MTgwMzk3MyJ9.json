@@ -1,0 +1,38 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "B1ED3938685A28239C9C85704A524B8E",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6sbpxQ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725729288,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0ACF7E05FADA9082BE2",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "IgQCHF.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725902184,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

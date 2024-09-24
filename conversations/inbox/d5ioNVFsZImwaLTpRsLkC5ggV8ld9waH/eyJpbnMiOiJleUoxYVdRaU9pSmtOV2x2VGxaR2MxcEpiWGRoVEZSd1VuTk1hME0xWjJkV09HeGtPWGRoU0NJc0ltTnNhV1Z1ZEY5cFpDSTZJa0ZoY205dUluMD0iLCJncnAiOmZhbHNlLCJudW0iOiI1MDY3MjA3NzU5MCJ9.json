@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B19BA37A81686BBE48C7F9351073D9C8",
+    "remoteJid": "50672077590@s.whatsapp.net",
+    "msgContext": {
+      "text": "BAJA"
+    },
+    "reaction": "",
+    "timestamp": 1725574713,
+    "senderName": "Fiorella Castro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

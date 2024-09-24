@@ -1,0 +1,101 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C19C37DEEA458A3478",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725664132,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07B7723209E7AA85CEA",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "ke kerés!"
+    },
+    "reaction": "",
+    "timestamp": 1725664151,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02F9BE90DB5C156FC9B",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725665563,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05E764E7762AAC52BB6",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "awww"
+    },
+    "reaction": "",
+    "timestamp": 1725912765,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50664181020@s.whatsapp.net",
+      "id": "3EB094E7AD4BA358C4FE9C"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D0CA66BACD1C50D24B",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y además resulta que el pico de los loros los hace muy diferentes al resto de las aves. Mientras que en otro tipo de pájaros la parte superior del pico es una continuación de su esqueleto, el pico de los loros es capaz de moverse la parte superior del pico de manera independiente a la inferior, subiéndola o incluso desplazándola ligeramente hacia delante. El motivo principal es que se esta manera pueden ejercer más fuerza para partir alimentos o agarrarse más fuertemente a ramas."
+    },
+    "reaction": "",
+    "timestamp": 1725913479,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D644142C5816022C1B",
+    "remoteJid": "50661331177@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725913863,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

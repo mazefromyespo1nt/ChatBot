@@ -1,0 +1,86 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0CA31BD06E7C0CA7061",
+    "remoteJid": "59169328973@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Buenas tardes, comentarte que estamos realizando el ultimo masterclass totalmente gratuito para del Diplomado en Robótica Educativa, se tratara sobre la 𝐈𝐍𝐓𝐑𝐎𝐃𝐔𝐂𝐂𝐈𝐎𝐍 𝐀𝐋 𝐃𝐈𝐒𝐄Ñ𝐎 𝐘 𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐀𝐂𝐈𝐎𝐍 𝐃𝐄 𝐑𝐎𝐁𝐎𝐓𝐒 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐕𝐎𝐒 con el ING MARIO SEVERICH ZURITA. ✨\n\nSi estas interesando en realizar este curso por favor solo escribe: ME INTERESA",
+      "fileName": "hFnSt6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725573894,
+    "senderName": "59169328973",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BF4CEB7389F257554B412A51676C9874",
+    "remoteJid": "59169328973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me interesa"
+    },
+    "reaction": "",
+    "timestamp": 1725573915,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE54201736ABA2CB553",
+    "remoteJid": "59169328973@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://chat.whatsapp.com/CgF4JDID9lgIsqCA5WNqEn"
+    },
+    "reaction": "",
+    "timestamp": 1725574027,
+    "senderName": "Lic.Rosaisela Lema Castrillo.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A85F5B036C3C9916AE3",
+    "remoteJid": "59169328973@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Fav6h9.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725574089,
+    "senderName": "Lic.Rosaisela Lema Castrillo.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3515E8F9C3F5CADEA45E127C305AC1C9",
+    "remoteJid": "59169328973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725574106,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8E32024DAC4D9EE111",
+    "remoteJid": "573117282627@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725932668,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "5A2AA32BC433887A64DABDE499F524DD",
+    "remoteJid": "573117282627@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3rqCZO.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725932697,
+    "senderName": "Wpetrace",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BE46C593F5837F2CC4",
+    "remoteJid": "573117282627@s.whatsapp.net",
+    "msgContext": {
+      "text": "dale aquí descansando"
+    },
+    "reaction": "",
+    "timestamp": 1725932726,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FBCC60FE21A9AE2CCD",
+    "remoteJid": "573117282627@s.whatsapp.net",
+    "msgContext": {
+      "text": "ho  maañan"
+    },
+    "reaction": "",
+    "timestamp": 1725932730,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "874628D593669A7E1A",
+    "remoteJid": "573117282627@s.whatsapp.net",
+    "msgContext": {
+      "text": "a te lla,o"
+    },
+    "reaction": "",
+    "timestamp": 1725934260,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "877688597D42EA2A59F2D8CDAA3B6088",
+    "remoteJid": "573117282627@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola wil"
+    },
+    "reaction": "",
+    "timestamp": 1725980095,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

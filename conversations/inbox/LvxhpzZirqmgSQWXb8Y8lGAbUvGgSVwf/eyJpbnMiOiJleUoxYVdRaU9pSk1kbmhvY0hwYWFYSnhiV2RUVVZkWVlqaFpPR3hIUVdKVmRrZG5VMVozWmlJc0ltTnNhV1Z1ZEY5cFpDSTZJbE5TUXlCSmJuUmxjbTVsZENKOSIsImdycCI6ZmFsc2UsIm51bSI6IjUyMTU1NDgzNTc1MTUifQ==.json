@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "48D43B6EA60E7122B7BC458C455129AC",
+    "remoteJid": "5215548357515@s.whatsapp.net",
+    "msgContext": {
+      "text": "Revisamos"
+    },
+    "reaction": "",
+    "timestamp": 1725500637,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5D66CAF273D6FF8EF06D18CE42941E82",
+    "remoteJid": "5215548357515@s.whatsapp.net",
+    "msgContext": {
+      "text": "Deme un momento"
+    },
+    "reaction": "",
+    "timestamp": 1725500641,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "73B418E7858E7721740F6E9A34AA1281",
+    "remoteJid": "5215548357515@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puede prender y apagar su modem"
+    },
+    "reaction": "",
+    "timestamp": 1725501009,
+    "senderName": "INK Soporte Técnico",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E4314F23ABF50498F04A9B52483FA706",
+    "remoteJid": "5215548357515@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y probar nuevamente"
+    },
+    "reaction": "",
+    "timestamp": 1725501015,
+    "senderName": "INK Soporte Técnico",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0937C426B13099C7C5E756D783CE0A5A",
+    "remoteJid": "5215548357515@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias🙋‍♀️☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725506080,
+    "senderName": "SUGEY GARIBO",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "group": true,
+    "type": "doc",
+    "msgId": "3A442BCA5D752A8AFBF0",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NJMmvk.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725906612,
+    "senderName": "Yaya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5A1B279CF17FEF723A",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "text": "Buenas tardes\nBendixiones \nLa sgt informacion me la paso una madre de familia @573016307841 me puede indicar si mañana es jornada normal o si aplica este decreto gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725906669,
+    "senderName": "Yaya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "C43A0DA1DC98BD6A93B369D936D7457F",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "22EiKC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725906816,
+    "senderName": "axelyjordanlechuga",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "8D3991DE0A7A06643D42D49B7A7E444A",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "9W6vKh.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725906891,
+    "senderName": "nailaccf28",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "29CEE76FE0C7B8207282A9C52D8B62C4",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "text": "Exacto"
+    },
+    "reaction": "",
+    "timestamp": 1725906934,
+    "senderName": "axelyjordanlechuga",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "3A4F57F80BDAF9E427C8",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "byEv3J.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "👍",
+    "timestamp": 1725907133,
+    "senderName": "Yaya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "80E7D7F923A19A267069BFF4038A1FA8",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "text": "Bueno en los cursos donde están mis hijas todavía no han dado información esperar a ver"
+    },
+    "reaction": "",
+    "timestamp": 1725907293,
+    "senderName": "Elsy Puerta",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "D43229A0981BD513F0D4D2916C03EFB6",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "set7XQ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725907311,
+    "senderName": "nailaccf28",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "7CE6265C4EEE79C15088CF207C1A9B11",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "qDrOuX.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725907332,
+    "senderName": "nailaccf28",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "308FEEA5ACC4239C9CBFFE4EFC25FF78",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "Así es sra naila",
+      "fileName": "jRQi4J.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725907443,
+    "senderName": "Viviana",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573002497445@s.whatsapp.net",
+      "id": "D43229A0981BD513F0D4D2916C03EFB6"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1501044DF10B4EDA770D561844807DE7",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "text": "De 10:30 a 1pm los de la tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725923983,
+    "senderName": "Manuel Frias",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E67A6E495A2A4DB5870B94688B78D2A9",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "👍🏽",
+    "timestamp": 1725924004,
+    "senderName": "Mayra Alejandra De León L",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573052501805@s.whatsapp.net",
+      "id": "1501044DF10B4EDA770D561844807DE7"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "0953F431FB098486C63B5CBA5AB1AE50",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "zoNuQt.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924468,
+    "senderName": "nailaccf28",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3ADE088869F58D913B6E",
+    "remoteJid": "120363030008000335@g.us",
+    "msgContext": {
+      "caption": "Menu de hoy \nCerdo en cuadritos con yuca sancochada \nJugo de guayaba con leche",
+      "fileName": "XxVkX7.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725977649,
+    "senderName": "Yaya",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

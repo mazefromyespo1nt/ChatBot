@@ -1,0 +1,252 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06978B1816EB5214D55",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Marco Palma, como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual y mejorar su plan móvil 😃📱"
+    },
+    "reaction": "",
+    "timestamp": 1725904952,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0F8B1AF6A9D7CFD7B0C",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Agilice y ahorre 4 en 1",
+      "fileName": "Vqokzn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725904993,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C1CDBA72F245885201",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con la consulta son del plan 300 Minutos a todas las redes de CR, EE. UU., Canadá y Tigo Nicaragua. \n\nHay uno ilimitado pero que es LIberty Total también con la diferencia de 300 MB 🛜y el plan Post pago queda en 30GB con minutos inlimitados"
+    },
+    "reaction": "",
+    "timestamp": 1725905312,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03A9BE20C9F235D3B10",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Don Marco"
+    },
+    "reaction": "",
+    "timestamp": 1725919568,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B1A83669C616324E5A3861240E4334F6",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "La puedo llamar"
+    },
+    "reaction": "",
+    "timestamp": 1725919593,
+    "senderName": "Marco Palma",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0055920746540CA5907",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro si gusta yo lo llamo para que no incurra en gatos ."
+    },
+    "reaction": "",
+    "timestamp": 1725919610,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0CB708A1A42471DCE105F2E0048FA546",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725919618,
+    "senderName": "Marco Palma",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB019DCC8771F05952544",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "A1G669.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725920044,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB001F51117FAB708FAD7",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para poder continuar con el proceso   es necesario que nos envíe:\n- Foto por ambos lados de su documento de identidad que esté vigente, legible y en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio,Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- Correo electrónico\n- Dirección exacta con provincia, cantón, distrito donde se le entregará\n- 2 Referencias numericas con nombre y apellido\n- Una foto tipo selfie como el ejemplo"
+    },
+    "reaction": "",
+    "timestamp": 1725921696,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB035293BF9063A4BA579",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Mcr45y.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725921704,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0FC925793481A0CF0B5",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3yUOjn.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725921724,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D3CFFF575E79CD143BC09D585EE46BAB",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "👍",
+    "timestamp": 1725921750,
+    "senderName": "Marco Palma",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "79A8958BEBD16B15CCF6494B4C7BFEFA",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpe, otra consulta que se me quedó por hacer. Yo no estoy interesado en la regalía de otra línea móvil. Se puede renunciar a ella"
+    },
+    "reaction": "",
+    "timestamp": 1725922732,
+    "senderName": "Marco Palma",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB02FD7B8CC734420E985",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fViXAf.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725924212,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CB8B2C6E0FC052B8C2",
+    "remoteJid": "50687020524@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Marco, espero que haya amanecido muy bien.\nQuería saber que le pareció la información enviada si  aún tiene alguna duda aún o si se dará la oportunidad de actualizar y mejorar sus servicios. 😃\n\nEstoy para servirle y aclararle cualquier consulta, ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725980927,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

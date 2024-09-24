@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0510A7C605D7A08269B",
+    "remoteJid": "34648418543@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725547422,
+    "senderName": "😋",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2FC024302491F984CBD4",
+    "remoteJid": "34648418543@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias por comunicarte con MobiPlaz. Por favor, haznos saber cómo podemos ayudarte."
+    },
+    "reaction": "",
+    "timestamp": 1725547424,
+    "senderName": "MobiPlaz",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

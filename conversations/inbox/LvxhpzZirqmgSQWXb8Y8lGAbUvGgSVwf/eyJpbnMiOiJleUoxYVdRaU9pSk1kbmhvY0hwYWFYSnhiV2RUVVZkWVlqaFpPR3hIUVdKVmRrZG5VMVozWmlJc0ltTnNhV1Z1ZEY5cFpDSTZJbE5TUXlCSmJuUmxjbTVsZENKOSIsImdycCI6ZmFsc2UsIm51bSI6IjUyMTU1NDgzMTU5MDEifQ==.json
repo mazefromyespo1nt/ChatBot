@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "68ED4A34636F03A1626C6B9F46AD1B54",
+    "remoteJid": "5215548315901@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día su transferencia fue de 1000 menos 906 sobran 76 y de ayer de usted fue 35 más 100 y de Sara fue 35  y de hoy fue  33 de Sara total 203 menos lo que quedó del a transferencia 76. Debe 127"
+    },
+    "reaction": "",
+    "timestamp": 1725563936,
+    "senderName": "araceliplancarte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6D53B2D11E6248AEE487BB3F51EA6E2E",
+    "remoteJid": "5215548315901@s.whatsapp.net",
+    "msgContext": {
+      "text": "Total debe 127"
+    },
+    "reaction": "",
+    "timestamp": 1725563942,
+    "senderName": "araceliplancarte",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

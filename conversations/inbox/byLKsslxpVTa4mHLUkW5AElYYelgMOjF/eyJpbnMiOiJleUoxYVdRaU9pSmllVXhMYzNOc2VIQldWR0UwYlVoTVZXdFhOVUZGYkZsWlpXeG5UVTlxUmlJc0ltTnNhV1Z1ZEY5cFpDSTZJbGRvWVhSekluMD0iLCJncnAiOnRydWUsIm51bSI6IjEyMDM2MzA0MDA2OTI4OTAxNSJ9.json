@@ -1,0 +1,50 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A3C9CEB8475819622B00461B63441035",
+    "remoteJid": "120363040069289015@g.us",
+    "msgContext": {
+      "text": "Se pasan"
+    },
+    "reaction": "",
+    "timestamp": 1725658495,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D34E3AD6266C3A1CE6F4F9242CE78A3E",
+    "remoteJid": "120363040069289015@g.us",
+    "msgContext": {
+      "text": "No me trajeron el agua"
+    },
+    "reaction": "",
+    "timestamp": 1725658502,
+    "senderName": "Celenne Araceli",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C4267625F182681C22",
+    "remoteJid": "120363040069289015@g.us",
+    "msgContext": {
+      "text": "como vas hija?"
+    },
+    "reaction": "",
+    "timestamp": 1725661521,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

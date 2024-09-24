@@ -1,0 +1,248 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3ADBAB2D3F13663DF444",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6gKCl5.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725547939,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D3CFECD7624F1D673D",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "que onda beun día"
+    },
+    "reaction": "",
+    "timestamp": 1725547951,
+    "senderName": "AR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "542BBF5934646058D5",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "anoche me quedé dormido perdón"
+    },
+    "reaction": "",
+    "timestamp": 1725547955,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6D799A0F9D6345E036",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "todo bien gracias a dios"
+    },
+    "reaction": "",
+    "timestamp": 1725547958,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09FD5F15AAB80100ED3",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "pues nada más ese vps de godaddy y una licencia de cloudlinux como te había comentado"
+    },
+    "reaction": "",
+    "timestamp": 1725547987,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A05551C7171D7633596",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "lWJpYz.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725548019,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "000C7A8692DC2B7DE7",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "no esa se compra acá en la página de cloudlinux"
+    },
+    "reaction": "",
+    "timestamp": 1725548075,
+    "senderName": "AR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1EF2B918326E8D75EC",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://cln.cloudlinux.com/console/auth/login"
+    },
+    "reaction": "",
+    "timestamp": 1725548076,
+    "senderName": "AR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3AD7295E211197A4AEFC",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "59TjOR.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725548106,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C92EA8EA58BB167E82",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pues por la tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725548117,
+    "senderName": "AR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0352B3635C9DC9E8DF6",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "si quieres yo te compro la licencia de cloudlinux"
+    },
+    "reaction": "",
+    "timestamp": 1725549238,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D4793DBAE3B9473EBC",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "me sale en 15 dlls"
+    },
+    "reaction": "",
+    "timestamp": 1725549272,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADB9B060CB6BC6C32E2",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "Simón pásame la liga pa pago"
+    },
+    "reaction": "",
+    "timestamp": 1725549333,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0C041BE376167C3E54",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sino pues acá la compro"
+    },
+    "reaction": "",
+    "timestamp": 1725549337,
+    "senderName": "Ab cloud Innovación en la nube",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F42BEA1DB52C86D845",
+    "remoteJid": "5213171035768@s.whatsapp.net",
+    "msgContext": {
+      "text": "ok cómpralo tu"
+    },
+    "reaction": "",
+    "timestamp": 1725549342,
+    "senderName": "AR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

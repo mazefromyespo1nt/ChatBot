@@ -1,0 +1,179 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05428EE16E605EA2B5B",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "oe cabro ctm"
+    },
+    "reaction": "",
+    "timestamp": 1725575175,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0176DD533A793EDCB35",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "la venta esta hasta las webas"
+    },
+    "reaction": "",
+    "timestamp": 1725575178,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03028DA55635CD78E89",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "no?"
+    },
+    "reaction": "",
+    "timestamp": 1725575179,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAB9DD1BDCD3E19A096",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bajo hoy día"
+    },
+    "reaction": "",
+    "timestamp": 1725575187,
+    "senderName": "José Luis 🤩",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0557E27ADB56E01B74F",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "weon"
+    },
+    "reaction": "",
+    "timestamp": 1725575204,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF74B4F4463C9BA6528",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy 15 cuentas recién net"
+    },
+    "reaction": "",
+    "timestamp": 1725575206,
+    "senderName": "José Luis 🤩",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB3D81687BA9F160C4F",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ptm"
+    },
+    "reaction": "",
+    "timestamp": 1725575207,
+    "senderName": "José Luis 🤩",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E98044042AD5B93F57",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "un pincho de gente"
+    },
+    "reaction": "",
+    "timestamp": 1725575209,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A894CFE19988E954802",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me quedan como 20"
+    },
+    "reaction": "",
+    "timestamp": 1725575211,
+    "senderName": "José Luis 🤩",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01CF00DCB021CE474F9",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "esta"
+    },
+    "reaction": "",
+    "timestamp": 1725575211,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FEB9B92CC99B48B821",
+    "remoteJid": "51963545173@s.whatsapp.net",
+    "msgContext": {
+      "text": "vendiendo por tiktok"
+    },
+    "reaction": "",
+    "timestamp": 1725575214,
+    "senderName": "SHD",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

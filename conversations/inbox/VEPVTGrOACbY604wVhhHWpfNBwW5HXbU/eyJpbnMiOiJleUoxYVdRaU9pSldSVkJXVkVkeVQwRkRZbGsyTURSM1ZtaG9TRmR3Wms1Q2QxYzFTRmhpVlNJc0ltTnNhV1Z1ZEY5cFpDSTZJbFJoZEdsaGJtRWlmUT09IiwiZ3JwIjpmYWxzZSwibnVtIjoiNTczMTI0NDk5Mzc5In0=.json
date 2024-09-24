@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB087B21734589B03852E",
+    "remoteJid": "573124499379@s.whatsapp.net",
+    "msgContext": {
+      "text": "si pero igual me pide cofigo"
+    },
+    "reaction": "",
+    "timestamp": 1725984780,
+    "senderName": "Majo Vargas ✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB012423344CF27327546",
+    "remoteJid": "573124499379@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aAb8z5.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725984782,
+    "senderName": "Majo Vargas ✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

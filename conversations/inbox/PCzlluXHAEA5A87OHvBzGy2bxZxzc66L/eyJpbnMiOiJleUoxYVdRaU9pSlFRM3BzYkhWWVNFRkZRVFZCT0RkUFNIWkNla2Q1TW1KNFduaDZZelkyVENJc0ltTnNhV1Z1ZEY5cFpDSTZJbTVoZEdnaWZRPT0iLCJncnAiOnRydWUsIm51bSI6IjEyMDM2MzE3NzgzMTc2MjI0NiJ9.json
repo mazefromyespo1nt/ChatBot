@@ -1,0 +1,82 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB029B754D8CDD39E0A39",
+    "remoteJid": "120363177831762246@g.us",
+    "msgContext": {
+      "text": "Hola, holaaa \n\nMe pasas de favor tu *Pedido de REFRESCO* para la próxima  semana.\n\nGracias ☺️"
+    },
+    "reaction": "",
+    "timestamp": 1725658025,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5653443B8248CE57F6",
+    "remoteJid": "120363177831762246@g.us",
+    "msgContext": {
+      "text": "De 2 ltrs.  \n1 caja de cada sabor.  Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725659237,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A491BE9829FBF196F4B",
+    "remoteJid": "120363177831762246@g.us",
+    "msgContext": {
+      "text": "Y de 600 \n1 Pepsi \n1 manzana \n1 7 up"
+    },
+    "reaction": "",
+    "timestamp": 1725659257,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A7C0A09A63CB7BB88E9",
+    "remoteJid": "120363177831762246@g.us",
+    "msgContext": {
+      "text": "Holaaa Ericka 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885832,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A32F902A911DED877B6",
+    "remoteJid": "120363177831762246@g.us",
+    "msgContext": {
+      "text": "Contenedor"
+    },
+    "reaction": "",
+    "timestamp": 1725889113,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

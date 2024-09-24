@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AEB12487EF57BEE119077A014FE63792",
+    "remoteJid": "5215543185709@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Bren, que vacantes tienen, para pasarla a mis colegas 😀"
+    },
+    "reaction": "",
+    "timestamp": 1725902242,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

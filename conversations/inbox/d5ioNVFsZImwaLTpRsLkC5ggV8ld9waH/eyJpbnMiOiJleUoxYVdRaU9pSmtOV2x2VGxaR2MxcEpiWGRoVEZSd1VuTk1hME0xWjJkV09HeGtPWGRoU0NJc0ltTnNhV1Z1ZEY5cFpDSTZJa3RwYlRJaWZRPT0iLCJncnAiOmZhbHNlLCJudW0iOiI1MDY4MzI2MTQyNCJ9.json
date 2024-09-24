@@ -1,0 +1,93 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB01CB4C8F76231ABFA37",
+    "remoteJid": "50683261424@s.whatsapp.net",
+    "msgContext": {
+      "caption": "stos son los Planes liberty : envio gratis🚚,  sin deposito , con buena cobertura de red fuera y dentro del país✈️.  Paga hasta el 20-10-2024 ****Este aplica para números KOLBI O CLARO***Yo les mantengo el número 😁👈👈",
+      "fileName": "aWDex6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725578887,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A73B011E92D8BD3C92",
+    "remoteJid": "50683261424@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* para el hogar Incluye :\n-250 canales y *Plataforma HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalción y pagaría hasta el 20 de octubre 2024 😁👈",
+      "fileName": "Vwjy9J.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725578915,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E542E439E0C623EAD6",
+    "remoteJid": "50683261424@s.whatsapp.net",
+    "msgContext": {
+      "text": "Quedo atenta a la ubicación para validar en que zona de Cahuita son 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725578950,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB068ECAB4B0E867157DE",
+    "remoteJid": "50683261424@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CM3GGR.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725580625,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50661328498@s.whatsapp.net",
+      "id": "3EB01CB4C8F76231ABFA37"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "CA3ADD7825BB3E4430081C9121B17722",
+    "remoteJid": "50683261424@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "1gXt7R.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "😉",
+    "timestamp": 1725580663,
+    "senderName": "Mi Bb La Estraño Mucho",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

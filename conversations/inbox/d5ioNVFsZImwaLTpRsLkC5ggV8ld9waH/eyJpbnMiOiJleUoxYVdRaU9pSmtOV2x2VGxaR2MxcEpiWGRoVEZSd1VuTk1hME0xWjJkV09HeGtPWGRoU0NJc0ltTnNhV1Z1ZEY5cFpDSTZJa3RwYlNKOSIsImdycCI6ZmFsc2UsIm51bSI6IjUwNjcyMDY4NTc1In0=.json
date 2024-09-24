@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "473604004DD830DCF29446CBD250F217",
+    "remoteJid": "50672068575@s.whatsapp.net",
+    "msgContext": {
+      "text": "No gracias ."
+    },
+    "reaction": "",
+    "timestamp": 1725920228,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4DF3C168F7714A5B8589C0F4CE33BC61",
+    "remoteJid": "50672068575@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725920246,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,104 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FD7D5B67F5030E3DEB53A47EED407D18",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725636086,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0860352D190B4938EE3",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los planes que tenemos para ti",
+      "fileName": "GNXCwIuJTaMx83DKIOsEOorsXR4Pa2HF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725636093,
+    "senderName": "Gio",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4C51A0A1B5A8143ECA4842D01D8DFCAA",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725636112,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB04E6D598F33762D19D3",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los planes que tenemos para ti",
+      "fileName": "GNXCwIuJTaMx83DKIOsEOorsXR4Pa2HF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725636114,
+    "senderName": "Gio",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9D6B19377AD79CA8D4EDF16F94B3883D",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725636133,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB067D01F14CEF3132A3F",
+    "remoteJid": "50662301135@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los planes que tenemos para ti",
+      "fileName": "GNXCwIuJTaMx83DKIOsEOorsXR4Pa2HF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725636135,
+    "senderName": "Gio",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

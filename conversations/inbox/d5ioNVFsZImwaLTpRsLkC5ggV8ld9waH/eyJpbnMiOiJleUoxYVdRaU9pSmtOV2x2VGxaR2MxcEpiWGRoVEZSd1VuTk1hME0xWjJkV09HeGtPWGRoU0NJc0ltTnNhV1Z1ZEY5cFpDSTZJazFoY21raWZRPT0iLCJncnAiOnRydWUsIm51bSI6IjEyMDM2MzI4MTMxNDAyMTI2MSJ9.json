@@ -1,0 +1,130 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C7DA000512FA2896D77550648F042475",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Jsjsjs se mudó"
+    },
+    "reaction": "",
+    "timestamp": 1725576981,
+    "senderName": "Hatsune",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "39F62CA7A7BF9AE28A37CBBDA9CE8E4A",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Y es este más grande que el otro jsjsjs"
+    },
+    "reaction": "",
+    "timestamp": 1725576988,
+    "senderName": "Hatsune",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "08A7DBB025809E8A7B6EC8533CD350BF",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Es curioso 🦝"
+    },
+    "reaction": "",
+    "timestamp": 1725576991,
+    "senderName": "Hatsune",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "71AD466EAC62BE1E46FC8F668F5F1586",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Pasen stickers"
+    },
+    "reaction": "",
+    "timestamp": 1725584892,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "24D27A9B2C75D04C49A8652761087473",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725584895,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8E053B7E7A2785AE2415AEC6AA95B1A0",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Estimados compañeros"
+    },
+    "reaction": "",
+    "timestamp": 1725584898,
+    "senderName": ".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F46568620AF462592B41FCD28C874738",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Que pvtas"
+    },
+    "reaction": "",
+    "timestamp": 1725585138,
+    "senderName": "Hatsune",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "456380B7FF66298CA4A675DA59396D52",
+    "remoteJid": "120363281314021261@g.us",
+    "msgContext": {
+      "text": "Que es esa monda"
+    },
+    "reaction": "",
+    "timestamp": 1725585144,
+    "senderName": "Hatsune",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

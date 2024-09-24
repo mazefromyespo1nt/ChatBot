@@ -1,0 +1,326 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA6F8210AAC969E90E3",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola mundo"
+    },
+    "reaction": "",
+    "timestamp": 1725937530,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A512AAF79A0AAB86F74",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725937544,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A684AC21D41197D1A94",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725937682,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADCAF24B51FA0AF99B2",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725937746,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD557E0864B2ED7BDF1",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725937756,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA6EDFCC07F9BBD8C6C",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ayuda"
+    },
+    "reaction": "",
+    "timestamp": 1725937758,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D23EC768FF4F8FC7F3",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725937797,
+    "senderName": "G",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08289EB3446AF20CAF8",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "{{OTHER_MSG}}\nHola soy Deysi!\nDime en que te puedo ayudar"
+    },
+    "reaction": "",
+    "timestamp": 1725937804,
+    "senderName": "G",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A59582890C47CBB6C8E",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725937813,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B84D66A47EAC5EE098",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "{{OTHER_MSG}}\nHola soy Deysi!\nDime en que te puedo ayudar"
+    },
+    "reaction": "",
+    "timestamp": 1725937823,
+    "senderName": "G",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABF09D49EDDCCF5D71F",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725938120,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AB7D8F4BACB805A9B80",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725938131,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A2C0B235AEB64165E4E",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725938225,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0479052677FBB7530D7",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola que tal!\nEn que podemos ayudarte."
+    },
+    "reaction": "",
+    "timestamp": 1725938226,
+    "senderName": "G",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ED74D9951C2E2B943B",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.facebook.com/angelhdezsoft"
+    },
+    "reaction": "",
+    "timestamp": 1725938510,
+    "senderName": "AcrealDeveloper",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A83A8630C6B7BBD9EE4",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725938793,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02A327C92A1330D76E8",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola que tal!\nEn que podemos ayudarte."
+    },
+    "reaction": "",
+    "timestamp": 1725938794,
+    "senderName": "G",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4CA1EAE2BF410618F9",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nike"
+    },
+    "reaction": "",
+    "timestamp": 1725938993,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB04158CDD930292532F4",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Esto es lo que tengo de zapatos Nike",
+      "fileName": "QM37EVh8ytC41tKkI76Hci5ZaFzHMLBj.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725938994,
+    "senderName": "G",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "4503EE2F2B304D2C33A506844AD10F00",
+    "remoteJid": "50588536407@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "buTbjm.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725939686,
+    "senderName": "AcrealDeveloper",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

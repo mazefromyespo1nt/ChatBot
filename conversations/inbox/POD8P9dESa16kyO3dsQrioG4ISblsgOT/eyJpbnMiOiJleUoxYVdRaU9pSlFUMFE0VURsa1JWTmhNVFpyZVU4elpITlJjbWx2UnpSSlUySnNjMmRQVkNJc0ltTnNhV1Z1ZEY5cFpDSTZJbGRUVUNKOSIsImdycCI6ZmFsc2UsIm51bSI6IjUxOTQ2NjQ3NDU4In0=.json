@@ -1,0 +1,1248 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2ABBD2FC93574E6FE6E4DDC0AB6BB826",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "7:30"
+    },
+    "reaction": "",
+    "timestamp": 1725497534,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "46F7E75271825A5E1DFDF4D3A262233C",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "vWWsm8.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725500038,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EC4B829294B67D6F2F057AF0214B6A16",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Esa tele"
+    },
+    "reaction": "",
+    "timestamp": 1725500041,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3BBBC3D501AB918DBD76125ABCC873B7",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "De xuantas"
+    },
+    "reaction": "",
+    "timestamp": 1725500043,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8D9FF19354B36CB7EC976DED0E44642B",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "0pulgadas"
+    },
+    "reaction": "",
+    "timestamp": 1725500086,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B6CB0ED71F1646B6E5674A876B2CA771",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es"
+    },
+    "reaction": "",
+    "timestamp": 1725500087,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "07EAA34BA1B84618B34CC80D57D1FF25",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es el depa"
+    },
+    "reaction": "",
+    "timestamp": 1725500089,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4A61A9701BDF3C2621DC8EA1D8206CC4",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "De mi prima"
+    },
+    "reaction": "",
+    "timestamp": 1725500092,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB028AD0FC074C3C8AF2A",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "75 parece"
+    },
+    "reaction": "",
+    "timestamp": 1725500370,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0AC44BFB455BAC1771F",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Sc8BAk.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725502659,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "57DF273327E965D13A2DF7DCAF89E2D1",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "No entiendo"
+    },
+    "reaction": "",
+    "timestamp": 1725502808,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51935359876@s.whatsapp.net",
+      "id": "3EB0AC44BFB455BAC1771F"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07654B6E2DB8413CFED",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "es un pescado"
+    },
+    "reaction": "",
+    "timestamp": 1725502815,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7EF5B49967DFC682837EFD78F76D597C",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Se lo comió vivo"
+    },
+    "reaction": "",
+    "timestamp": 1725502839,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B7883CBC2A1709FD02C7D76202BA5F00",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "???¿??"
+    },
+    "reaction": "",
+    "timestamp": 1725502842,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06E93A26B7077413500",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "segun dice la nota si"
+    },
+    "reaction": "",
+    "timestamp": 1725502871,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07CAD02EFFFA51E819F",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "teta 1:15"
+    },
+    "reaction": "",
+    "timestamp": 1725517505,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5EAAB193494DCAC051C28EE7AE2C3B5D",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "teta 4:00"
+    },
+    "reaction": "",
+    "timestamp": 1725527536,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA39CBF242AB79367E614E13F294169D",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te cortaste"
+    },
+    "reaction": "",
+    "timestamp": 1725557214,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9F8DBC16B624705DC351604497C7E216",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me estresan"
+    },
+    "reaction": "",
+    "timestamp": 1725557222,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B5010B2E8B8DD8E9E0CF48EA50521B8",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aqui"
+    },
+    "reaction": "",
+    "timestamp": 1725557223,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6FFF8802A5FA3C472300AB2020A3BCFF",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "se"
+    },
+    "reaction": "",
+    "timestamp": 1725558121,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00B89A60EB89C7E5CFD",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "estoy"
+    },
+    "reaction": "",
+    "timestamp": 1725558576,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B30C07A52E2D437A7A",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "cosiendo mi mochila"
+    },
+    "reaction": "",
+    "timestamp": 1725558580,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04975AD395211DD7A02",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "y ya voy para tu casa :D"
+    },
+    "reaction": "",
+    "timestamp": 1725558586,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0896464DD6FABC6F78A",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "te amo mucho"
+    },
+    "reaction": "",
+    "timestamp": 1725558589,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "821E98A12002B006C178C019366E3B20",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Termls"
+    },
+    "reaction": "",
+    "timestamp": 1725559300,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "31FBDAAFA8421B112676563A3CCBBF7A",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pequeños"
+    },
+    "reaction": "",
+    "timestamp": 1725559301,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B56B8474E5E1D5087511B31E070BADFC",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vise"
+    },
+    "reaction": "",
+    "timestamp": 1725559303,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D1C5023C8C8B1F7D56B066DF9C8B180A",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "nada sali"
+    },
+    "reaction": "",
+    "timestamp": 1725559332,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6304112E2E0327F96EDBFDE97D02E7C9",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "de cortarme"
+    },
+    "reaction": "",
+    "timestamp": 1725559334,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "23C734050375DF61DB812171A0AE9B35",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "el. pelo y vine"
+    },
+    "reaction": "",
+    "timestamp": 1725559337,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7A1A48FD86BA68B48C2F165501FF296E",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "a la. mochila"
+    },
+    "reaction": "",
+    "timestamp": 1725559339,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "FF5AB5E08F7FCD782347610B3AC906E9",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "PWfMdv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725560634,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "348A15C0EA3B43A7E87182F8CBE11687",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mira mi chinito"
+    },
+    "reaction": "",
+    "timestamp": 1725560640,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FC8CBDBC74236B5564AD55167616B242",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mi papito"
+    },
+    "reaction": "",
+    "timestamp": 1725560644,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AF7F10E44F2F52E753F7A08869BED514",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es bien chino"
+    },
+    "reaction": "",
+    "timestamp": 1725560647,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EEC76555844685406261898F783BBAD3",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Debió de nacer en china"
+    },
+    "reaction": "",
+    "timestamp": 1725560651,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "386AAF5B45E65BCF9282995E78B9B103",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "q rico"
+    },
+    "reaction": "",
+    "timestamp": 1725560656,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "51946647458@s.whatsapp.net",
+      "id": "FF5AB5E08F7FCD782347610B3AC906E9"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B4C2B738D6B3ECA4EE35A845928D62F1",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "el eythan"
+    },
+    "reaction": "",
+    "timestamp": 1725560659,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B4AB40684710982ADA61CD7F1F4287B",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "amor 1:24"
+    },
+    "reaction": "",
+    "timestamp": 1725560700,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "E777EC0753956C60D6646E339BDACB43",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "iubf60.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725568603,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "24E8CA7DA56EFDB48B900242AC132826",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "asquerosa el agua xD"
+    },
+    "reaction": "",
+    "timestamp": 1725568609,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "51935359876@s.whatsapp.net",
+      "id": "E777EC0753956C60D6646E339BDACB43"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "93670262117A0DE91952BEBF0A52D0DC",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "La yrasema"
+    },
+    "reaction": "",
+    "timestamp": 1725576093,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D9AE9A1DA7F57F08FDF24C2F27032E9A",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está cobrando"
+    },
+    "reaction": "",
+    "timestamp": 1725576095,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6EFD18C8A361C0797EEEB537CE01AF89",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "A 60"
+    },
+    "reaction": "",
+    "timestamp": 1725576098,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E28F674321E06BD4A44A13AB960D59CA",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "El juego de sabans"
+    },
+    "reaction": "",
+    "timestamp": 1725576103,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DC07D9C83B40C8FE6C",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "yo no lo quiero"
+    },
+    "reaction": "",
+    "timestamp": 1725576285,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EB64A5FC0D3176A06BA4542C88E683D7",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajajajajajaaja"
+    },
+    "reaction": "",
+    "timestamp": 1725576294,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9F130A46D99F7AF82F75DFC65B4C98DC",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Enserio"
+    },
+    "reaction": "",
+    "timestamp": 1725576297,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "F4C834D1C5DBD1EAA1E2BC14E131783F",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3bCs6E.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725580658,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "E27756EB818B36E719527CA2E879695C",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "K7W1tm.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725580770,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4CC8AD2DEE5BC26F290F85B256C8F9E3",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ser"
+    },
+    "reaction": "",
+    "timestamp": 1725581030,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "26B546E440A4FB4CE97B9D1D691C3DB1",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ser"
+    },
+    "reaction": "",
+    "timestamp": 1725581031,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CF0BF3944E1EE9D5323BA27060C2E931",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yrasema"
+    },
+    "reaction": "",
+    "timestamp": 1725581033,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A087134933D21769805A7438370AAED1",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dice los 60"
+    },
+    "reaction": "",
+    "timestamp": 1725581037,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CB0FEC926241C23FC3A3E31B5E36F98D",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "X favor"
+    },
+    "reaction": "",
+    "timestamp": 1725581038,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "49EEFBE076ACDF3AD65E2B8AE952BC54",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "No tiene su cuota"
+    },
+    "reaction": "",
+    "timestamp": 1725581042,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "416D714D4B0B583EBBD5AD8FD7E473FF",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Está juntando"
+    },
+    "reaction": "",
+    "timestamp": 1725581044,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CB88F3166320E9D35741BB1E329FC895",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Faltan aún señoras..."
+    },
+    "reaction": "",
+    "timestamp": 1725581071,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E78475225BDA1FFF978413D98A43E3C5",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Irasema te estoy llamando"
+    },
+    "reaction": "",
+    "timestamp": 1725581072,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D9E129D0F9CEFBE1603BB3EE4D23F3B2",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "xD"
+    },
+    "reaction": "",
+    "timestamp": 1725581076,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C87D97F43A89D5DBAA27C0CB76EFC5C3",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Faltan"
+    },
+    "reaction": "",
+    "timestamp": 1725581077,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ACDD90958C45D19907686E5D04373FBA",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Artas"
+    },
+    "reaction": "",
+    "timestamp": 1725581079,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C107B68C25D194AB12AA060EFEDE37B4",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "pero quieres eso?"
+    },
+    "reaction": "",
+    "timestamp": 1725581080,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB4D8F1438AEF20541D482E907F476D",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Son sabanas"
+    },
+    "reaction": "",
+    "timestamp": 1725581089,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51935359876@s.whatsapp.net",
+      "id": "C107B68C25D194AB12AA060EFEDE37B4"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "599C3DDB416BF562E7A9CA99CCA00958",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nuevas"
+    },
+    "reaction": "",
+    "timestamp": 1725581091,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BE544DB1F7C69BD532ED2E69A6A49A8F",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Para la cama"
+    },
+    "reaction": "",
+    "timestamp": 1725581094,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2CA1E58C638B0D562F68AB6190D7C7F4",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Las otras ya están rotas"
+    },
+    "reaction": "",
+    "timestamp": 1725581098,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1FCFE3CF6374B012EBA19E63BF8B327C",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y viejas"
+    },
+    "reaction": "",
+    "timestamp": 1725581100,
+    "senderName": "Rhydian Y Izam💙💙",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A65093023B43358AB9",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "jajaja ok"
+    },
+    "reaction": "",
+    "timestamp": 1725581116,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04246A76FDE07479F39",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "pagale ps"
+    },
+    "reaction": "",
+    "timestamp": 1725581120,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB059F075EFC96E86BBAF",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "xD"
+    },
+    "reaction": "",
+    "timestamp": 1725581121,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08D385A62A3E376A50D",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "yo no tengo plata"
+    },
+    "reaction": "",
+    "timestamp": 1725581123,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D142621A997BE67DD3",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "yo pague"
+    },
+    "reaction": "",
+    "timestamp": 1725581125,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04BD87C22546A106420",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "todo"
+    },
+    "reaction": "",
+    "timestamp": 1725581127,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BA53253B585A3ABCE7",
+    "remoteJid": "51946647458@s.whatsapp.net",
+    "msgContext": {
+      "text": "ripley"
+    },
+    "reaction": "",
+    "timestamp": 1725581128,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

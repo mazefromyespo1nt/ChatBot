@@ -1,0 +1,102 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB047C8D4A77097C00EBF",
+    "remoteJid": "50688470326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, Don Carlos.\nMi nombre es Mónica Urbina , Asesora autorizada de Liberty!\nQueremos darte los mejores beneficios y una excelente experiencia de servicio, tal y como lo conversamos por llamada le envió nuestros planes quedo atenta a cualquier duda o consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725915055,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0AB7FD0573D48F35F2E",
+    "remoteJid": "50688470326@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bTul6h.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725915065,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E77663E4097697D8F469DB73A263A5AA",
+    "remoteJid": "50688470326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok yo te aviso."
+    },
+    "reaction": "",
+    "timestamp": 1725915119,
+    "senderName": "Carlos Fernandez Redondo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "767F2154CB7D5957990471E599F5D772",
+    "remoteJid": "50688470326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo vivo en una calle que se llama calle los Palma en Google aparece como calle territorio"
+    },
+    "reaction": "",
+    "timestamp": 1725915151,
+    "senderName": "Carlos Fernandez Redondo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "96909B48D3E34216870FE173181B9BAE",
+    "remoteJid": "50688470326@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puede verificar?"
+    },
+    "reaction": "",
+    "timestamp": 1725915158,
+    "senderName": "Carlos Fernandez Redondo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0BBF5A8937A02CDA5D0",
+    "remoteJid": "50688470326@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "YuZ6eV.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725915230,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

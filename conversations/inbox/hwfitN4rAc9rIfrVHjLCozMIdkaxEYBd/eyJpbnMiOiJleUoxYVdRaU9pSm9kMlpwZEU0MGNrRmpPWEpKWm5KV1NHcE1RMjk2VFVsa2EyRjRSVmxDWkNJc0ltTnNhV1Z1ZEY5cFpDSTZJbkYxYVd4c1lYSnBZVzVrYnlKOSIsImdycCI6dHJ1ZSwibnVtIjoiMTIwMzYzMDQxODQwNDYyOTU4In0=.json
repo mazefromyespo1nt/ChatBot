@@ -1,0 +1,107 @@
+[
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "0A66079C9587349BA07F6D50C27DC65A",
+    "remoteJid": "120363041840462958@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CR4r2F.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725890298,
+    "senderName": "Su Servicio Inmediato Y Oferta Laboral",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB093A136129F0B2798FC",
+    "remoteJid": "120363041840462958@g.us",
+    "msgContext": {
+      "text": "Esta información la necesito para el jueves 12 de septiembre a mas tardar a las 5 de la tarde."
+    },
+    "reaction": "🤷🏻‍♂️",
+    "timestamp": 1725894349,
+    "senderName": "Su Servicio Inmediato Y Oferta Laboral",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573043433261@s.whatsapp.net",
+      "id": "0A66079C9587349BA07F6D50C27DC65A"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "678D38EE3D081990FAA4728A9E530895",
+    "remoteJid": "120363041840462958@g.us",
+    "msgContext": {
+      "caption": "Buenas tardes, este personal tiene cheque de bonificación, acercarse a reclamarlo con cédula en mano si está en turno también debe traer carnet de movilidad.",
+      "fileName": "MCWwqu.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "❤️",
+    "timestamp": 1725908862,
+    "senderName": "Su Servicio Inmediato Y Oferta Laboral",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "43136F72AC06F6B1CFF2634B2E96E597",
+    "remoteJid": "120363041840462958@g.us",
+    "msgContext": {
+      "text": "Del mismo modo les informo que está semana no estare visitando bodegas, me pueden encontrar en oficina de gestión humana, por llamada o por  este medio."
+    },
+    "reaction": "",
+    "timestamp": 1725908916,
+    "senderName": "Su Servicio Inmediato Y Oferta Laboral",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0420BA8F00387588C0E",
+    "remoteJid": "120363041840462958@g.us",
+    "msgContext": {
+      "text": "*Buenos días, se les informa que luego de una reunión con el área de Gestión Humana y SST ausencias, se estableció que el reporte de ausencias será enviado de ahora en adelante diariamente de tal manera les recuerdo que si tienen incapacidades hacer llegar los soportes al área de enfermería en el tiempo estipulado de 2 días y si cuentan con permisos realizarlos mediante de un correo por su coordinador o jefe inmediato, con el fin de no incurrir en retrasos administrativos, que después se verían afectados en su nomina, cabe resaltar que cuando envié el listado de ausencias deben notificarme de manera obligatoria e inmediata para así colocar sus novedades.*"
+    },
+    "reaction": "👍",
+    "timestamp": 1725979031,
+    "senderName": "Su Servicio Inmediato Y Oferta Laboral",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0FC2C08C8F1BA2CE0E6",
+    "remoteJid": "120363041840462958@g.us",
+    "msgContext": {
+      "caption": "Buenos días, este personal aparece ausente el día de ayer 9 de septiembre, favor hacer retroalimentación del motivo y si es incapacidad enviarme soporte por este medio y hacerla llegar a enfermería, si es permiso debe legalizarlo.",
+      "fileName": "C1O0Zv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725981009,
+    "senderName": "Su Servicio Inmediato Y Oferta Laboral",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

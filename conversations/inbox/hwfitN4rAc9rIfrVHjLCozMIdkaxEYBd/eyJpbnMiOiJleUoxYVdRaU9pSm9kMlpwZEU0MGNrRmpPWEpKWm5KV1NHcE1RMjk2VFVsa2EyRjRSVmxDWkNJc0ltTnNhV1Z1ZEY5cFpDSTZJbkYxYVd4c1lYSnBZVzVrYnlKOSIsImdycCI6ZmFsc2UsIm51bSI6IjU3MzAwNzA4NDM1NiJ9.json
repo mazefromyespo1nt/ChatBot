@@ -1,0 +1,229 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ABF150917329E6F1509BF73F31B834F5",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aja niña.."
+    },
+    "reaction": "",
+    "timestamp": 1725898549,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "573007084356@s.whatsapp.net",
+      "id": "B9C7ECA3F965F3434ADE6FD32921BF05"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6317D505C8F6D64B9497D455B29757DD",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ajá mijo"
+    },
+    "reaction": "",
+    "timestamp": 1725903268,
+    "senderName": "Dios Mi Protector 🙏",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0E2E191B2F02ACD172839F592DFBFD94",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como va la película"
+    },
+    "reaction": "",
+    "timestamp": 1725903273,
+    "senderName": "Dios Mi Protector 🙏",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9743ABC77F344E47C7",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "todo bien"
+    },
+    "reaction": "",
+    "timestamp": 1725903289,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DB4D6A2309A3741A64",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "niña"
+    },
+    "reaction": "",
+    "timestamp": 1725903301,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A6723FB3FDA4CD1155A7AEF5AB950F3D",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aquí relajada. \nAunque estamos mejor dicho tenemos a clara Olga aqui"
+    },
+    "reaction": "",
+    "timestamp": 1725903531,
+    "senderName": "Dios Mi Protector 🙏",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E348D5A488504AD010",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "erda.."
+    },
+    "reaction": "",
+    "timestamp": 1725903999,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1D84C17F30402CA66F573CB181965204",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "😬😬😬"
+    },
+    "reaction": "",
+    "timestamp": 1725905838,
+    "senderName": "Dios Mi Protector 🙏",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "681B5D97B95F75C39B93D88426B9E026",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Niña pásame el número de yorle para preguntarle algo aquí entre 2"
+    },
+    "reaction": "",
+    "timestamp": 1725906531,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DB4A59A6F87107DDFE5548292AD014B9",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale mijo"
+    },
+    "reaction": "",
+    "timestamp": 1725906828,
+    "senderName": "Dios Mi Protector 🙏",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0DCEAC00E1C398FA03A352CF62AB12EA",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo escuché que ella estaba vendiendo unas pesas"
+    },
+    "reaction": "",
+    "timestamp": 1725906840,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "68F6CA097CA6FE5C87F005B4665B5289",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "No sé si ella"
+    },
+    "reaction": "",
+    "timestamp": 1725906842,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "11D1B568AA0941FAFB36C2F56BD341A2",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "A no se ni idea"
+    },
+    "reaction": "",
+    "timestamp": 1725906853,
+    "senderName": "Dios Mi Protector 🙏",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "740D9B0584AC5F8A4AE2AA4D2D74444A",
+    "remoteJid": "573007084356@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy a preguntarl"
+    },
+    "reaction": "",
+    "timestamp": 1725906883,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

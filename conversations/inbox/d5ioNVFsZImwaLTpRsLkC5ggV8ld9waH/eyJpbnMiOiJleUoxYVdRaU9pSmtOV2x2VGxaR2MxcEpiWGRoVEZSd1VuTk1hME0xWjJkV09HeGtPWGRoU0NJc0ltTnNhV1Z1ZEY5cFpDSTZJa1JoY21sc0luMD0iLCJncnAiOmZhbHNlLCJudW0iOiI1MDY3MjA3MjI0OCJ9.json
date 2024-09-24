@@ -1,0 +1,21 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AEABC7839BC16D7481E",
+    "remoteJid": "50672072248@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725668640,
+    "senderName": "Anny🌱",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661328107@s.whatsapp.net",
+      "id": "3EB098AF08DC47944F1F37"
+    }
+  }
+]

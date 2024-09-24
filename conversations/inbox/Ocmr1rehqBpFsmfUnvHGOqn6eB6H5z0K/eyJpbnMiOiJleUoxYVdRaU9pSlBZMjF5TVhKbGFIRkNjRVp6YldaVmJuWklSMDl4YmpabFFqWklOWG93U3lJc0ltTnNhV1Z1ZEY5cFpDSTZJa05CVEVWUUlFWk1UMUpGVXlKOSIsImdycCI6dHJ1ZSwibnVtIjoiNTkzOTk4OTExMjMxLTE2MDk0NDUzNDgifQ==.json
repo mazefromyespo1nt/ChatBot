@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "4AA953117E0809FB2B",
+    "remoteJid": "593998911231-1609445348@g.us",
+    "msgContext": {
+      "text": "Buen día, la regeneración ha finalizado, puede verificar"
+    },
+    "reaction": "",
+    "timestamp": 1725559900,
+    "senderName": "Área Soporte | Getsoft ERP",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "group": false,
+    "type": "doc_cap",
+    "msgId": "3EB012C084FBB81EE766B0",
+    "remoteJid": "50663179535@s.whatsapp.net",
+    "msgContext": {
+      "caption": "CONTRATO ROXANA.pdf",
+      "fileName": "w8pFnZ.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725925309,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08CCF2F650E7676F7FA",
+    "remoteJid": "50663179535@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Kat me ayudas revisar cuantos meses le falta a un cliente para cancelar el celular el # es 89379676 / WALTER ROBERTO HIDALGO BARQUERO"
+    },
+    "reaction": "",
+    "timestamp": 1725925386,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05A8269BA67D763DB45",
+    "remoteJid": "50663179535@s.whatsapp.net",
+    "msgContext": {
+      "text": "kat me ayudas con eso🤓"
+    },
+    "reaction": "",
+    "timestamp": 1725925407,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

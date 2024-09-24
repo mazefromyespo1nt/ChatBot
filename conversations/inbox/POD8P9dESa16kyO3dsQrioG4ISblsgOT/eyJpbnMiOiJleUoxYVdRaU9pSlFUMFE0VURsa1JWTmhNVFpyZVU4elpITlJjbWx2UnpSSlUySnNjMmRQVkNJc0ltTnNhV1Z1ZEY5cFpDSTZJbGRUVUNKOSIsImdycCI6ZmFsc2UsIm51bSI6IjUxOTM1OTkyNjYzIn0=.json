@@ -1,0 +1,98 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E92744ED1E22E89E40",
+    "remoteJid": "51935992663@s.whatsapp.net",
+    "msgContext": {
+      "text": "loca buenos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725545356,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04044E7C7FF429C77FF",
+    "remoteJid": "51935992663@s.whatsapp.net",
+    "msgContext": {
+      "text": "no te olvides del apgo de ripley"
+    },
+    "reaction": "",
+    "timestamp": 1725545363,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "369DE93389F5290050CF9B37CBFD4B9C",
+    "remoteJid": "51935992663@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si si"
+    },
+    "reaction": "",
+    "timestamp": 1725549464,
+    "senderName": "Jc",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8DB19834939B626FC692EE5F3AA04420",
+    "remoteJid": "51935992663@s.whatsapp.net",
+    "msgContext": {
+      "text": "Lo tengo en efectivo"
+    },
+    "reaction": "",
+    "timestamp": 1725549481,
+    "senderName": "Jc",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6276E8E37D4E40B4428B99856E9DB925",
+    "remoteJid": "51935992663@s.whatsapp.net",
+    "msgContext": {
+      "text": "Durante el día puedo yapearte please"
+    },
+    "reaction": "",
+    "timestamp": 1725549490,
+    "senderName": "Jc",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B4C73E6AB20560A665",
+    "remoteJid": "51935992663@s.whatsapp.net",
+    "msgContext": {
+      "text": "VALE VLE"
+    },
+    "reaction": "",
+    "timestamp": 1725549507,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

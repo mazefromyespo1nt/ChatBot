@@ -1,0 +1,42 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A4F04656AEC610AA2F5",
+    "remoteJid": "34613253381@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2XKkTW.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899227,
+    "senderName": "www.reservatupista.com",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6F284E32EB2B7C2045",
+    "remoteJid": "34613253381@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mandame el token para poder ver en el tpv lo que marca?"
+    },
+    "reaction": "",
+    "timestamp": 1725899638,
+    "senderName": "Miguel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "34653483483@s.whatsapp.net",
+      "id": "3A4F04656AEC610AA2F5"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03FC7929CF5142F6206",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Omar Aguero, espero esté muy bien. Como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio móvil 😃"
+    },
+    "reaction": "",
+    "timestamp": 1725580496,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB034BE6544CBA184921D",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los Planes liberty : envio gratis🚚,  sin deposito , con buena cobertura de red fuera y dentro del país✈️.  \n\nPaga hasta el 20-10-2024 ****Conservamos números de KOLBI O CLARO***Si es Liberty *entregamos uno nuevo* 😁👈👈",
+      "fileName": "s8GgxS.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725580583,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A15748315D4ADCAD535",
+    "remoteJid": "50687020439@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "👍",
+    "timestamp": 1725581615,
+    "senderName": "Omar Agüero Alpízar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

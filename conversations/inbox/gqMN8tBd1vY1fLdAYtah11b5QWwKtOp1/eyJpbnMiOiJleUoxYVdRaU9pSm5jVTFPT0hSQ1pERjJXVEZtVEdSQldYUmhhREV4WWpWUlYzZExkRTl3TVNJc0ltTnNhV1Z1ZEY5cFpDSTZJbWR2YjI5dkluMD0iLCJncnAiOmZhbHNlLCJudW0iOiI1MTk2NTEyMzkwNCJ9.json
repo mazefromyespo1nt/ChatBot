@@ -1,0 +1,82 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01964F11C415FEF7EA1",
+    "remoteJid": "51965123904@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Srta. Marcia Cecilia Valero* Buen día, le saluda Ing. Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725629926,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BB5A47D63E6BFF2680",
+    "remoteJid": "51965123904@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos indico usted que es de la Municipalidad de Carabaya."
+    },
+    "reaction": "",
+    "timestamp": 1725629975,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB077AFBDDEE4FE4D551E",
+    "remoteJid": "51965123904@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Srta. Marcia*  En esta ocasión, estamos emocionados de mostrarte , una herramienta innovadora que simplifica la gestión de procesos municipales de forma eficiente y efectiva. Está preparado para cumplir las metas del plan de incentivo 💪, Impuesto Predial, Alcabalas, Arbitrios, Fiscalización Tributaria y muchos otros servicios más. ¡Integrado a Fiscalización Tributaria, Ejecución Coactiva, Catastro, comercialización y mucho más! 🏛️📊 ¿Estás listo para conocer más acerca de nuestra solución? ¡Te esperamos con ansias! 😉👍"
+    },
+    "reaction": "",
+    "timestamp": 1725630313,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB000B345F8D88228A168",
+    "remoteJid": "51965123904@s.whatsapp.net",
+    "msgContext": {
+      "text": "🏛️  ```𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗱𝗲 𝗚𝗲𝘀𝘁𝗶𝗼́𝗻 𝗧𝗿𝗶𝗯𝘂𝘁𝗮𝗿𝗶𝗮 𝘆 𝗖𝗮𝗷𝗮``` 🖥️🔍\n¡Descubre nuestro innovador sistema de gestión tributaria para municipalidades! Con esta herramienta podrás simplificar y agilizar la gestión de impuestos locales, eliminando la complejidad y aumentando la eficiencia. 🏛️ ¡Optimiza tus procesos y mejora la recaudación con nuestra solución tecnológica! 💻📊\n✅Impuesto predial, Alcabala.\n✅Impuesto vehicular Control de arbitrios municipales.\n✅Fiscalización tributaria.\n✅Central de notificaciones.\n✅Control de indicadores de morosidad.\n✅Emisión de cuponeras.\n✅Control de cuentas por cobrar según el TUSNE y TUPA.\n✅Registro y control de papeletas de infracción.\n✅Emisión de licencias de conducir.\n✅Integrado al aplicativo CIUDAD ACTIVA, Smart CITY a tu alcance"
+    },
+    "reaction": "",
+    "timestamp": 1725630341,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB018A50089464EB60F6B",
+    "remoteJid": "51965123904@s.whatsapp.net",
+    "msgContext": {
+      "text": "Estaremos atentos a su respuesta 🙌🏼👀✉️¡"
+    },
+    "reaction": "",
+    "timestamp": 1725630353,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

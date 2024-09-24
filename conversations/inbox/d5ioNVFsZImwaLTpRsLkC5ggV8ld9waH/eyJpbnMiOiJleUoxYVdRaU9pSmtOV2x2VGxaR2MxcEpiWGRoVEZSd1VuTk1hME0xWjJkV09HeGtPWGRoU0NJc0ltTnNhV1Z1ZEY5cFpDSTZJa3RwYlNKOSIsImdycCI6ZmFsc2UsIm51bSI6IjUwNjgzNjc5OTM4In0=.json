@@ -1,0 +1,72 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A88B3C2D97D9CF6E60",
+    "remoteJid": "50683679938@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días María Fernández , como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual con Liberty Total 😁🤩"
+    },
+    "reaction": "",
+    "timestamp": 1725901024,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB040E4219101E54964A4",
+    "remoteJid": "50683679938@s.whatsapp.net",
+    "msgContext": {
+      "caption": "4 en 1 en una misma factura. Ahorre y agilice incluye 😁: \n-Conserva su mismo número (KOLBI o CLARO)\n-Aumenta los datos de su plan móvil a 22GB 0 30 GB con cobertura dentro y fuera del país ✈️ \n-Se incluye 1 regalía 🎁 de una número nuevo post pago de 4GB (*recomendado para menores de edad*) -TV Digital  250 canales+ HBO MAX streaming + Telefonía fija de casa + internet de150 MB +  Paramount durante 3 meses 🎁😁\n-Desde 150 MB 0 300 MB de internet veloz 🛜",
+      "fileName": "SEsv9H.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725901114,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0DC1317EEBFD01CFE8E",
+    "remoteJid": "50683679938@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "tr4Qua.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725901170,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB00CCEA4050DA267148D",
+    "remoteJid": "50683679938@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Este para su suegra 😁 es una gran oferta. Yo le ayudo como le dije a que ella tenga todo setiembre en cortesía y la instalación gratis 🎁🏡",
+      "fileName": "afemF6.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725901235,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

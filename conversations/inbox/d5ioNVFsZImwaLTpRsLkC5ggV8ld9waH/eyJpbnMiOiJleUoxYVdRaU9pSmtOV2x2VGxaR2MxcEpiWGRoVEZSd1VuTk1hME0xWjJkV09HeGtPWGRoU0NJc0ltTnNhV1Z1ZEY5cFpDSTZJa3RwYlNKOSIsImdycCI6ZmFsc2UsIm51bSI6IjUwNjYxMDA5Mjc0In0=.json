@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0477BEC56DC7FA728AF",
+    "remoteJid": "50661009274@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Ricardo quería saber si pudo hablar con alguien. Cualquier duda estoy para servirle.  Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725728067,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "F12B3F729FFA0A562F0B683BEFF30A97",
+    "remoteJid": "50661009274@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "l2VQLt.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "👍",
+    "timestamp": 1725732453,
+    "senderName": "Ricardo Jiménez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661328498@s.whatsapp.net",
+      "id": "3EB0477BEC56DC7FA728AF"
+    }
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "42D4609C3F3765A4BEF7DF8E9274F7FA",
+    "remoteJid": "120363305342978978@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "xEUib9.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725575386,
+    "senderName": "🎭🙂🙃🎭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491154783230@s.whatsapp.net",
+      "id": "64B5A5838AFFD1A88B3FE12FFC44638D"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "9B5116969F41620FB0B2AFA9DDCA8515",
+    "remoteJid": "120363305342978978@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "364ify.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725575713,
+    "senderName": "~𓅂",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "593963958484@s.whatsapp.net",
+      "id": "42D4609C3F3765A4BEF7DF8E9274F7FA"
+    }
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "981F484F282BC5449C6B224ECB8869B2",
+    "remoteJid": "120363305342978978@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "xD8UhV.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725575725,
+    "senderName": "~𓅂",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A6E1F9259294F8510C0838F063E112F9",
+    "remoteJid": "120363305342978978@g.us",
+    "msgContext": {
+      "text": "So"
+    },
+    "reaction": "",
+    "timestamp": 1725575728,
+    "senderName": "🎭🙂🙃🎭",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5491154783230@s.whatsapp.net",
+      "id": "9B5116969F41620FB0B2AFA9DDCA8515"
+    }
+  }
+]

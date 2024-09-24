@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD31E27B1AE1AF55B57",
+    "remoteJid": "50672069823@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día, espero esté bien. Muchas gracias pero recién contraté un plan por lo que no estaría interesado de momento, pero gracias igualmente!"
+    },
+    "reaction": "",
+    "timestamp": 1725900840,
+    "senderName": "J. López",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB027584F94A81C4323D0",
+    "remoteJid": "50672069823@s.whatsapp.net",
+    "msgContext": {
+      "text": "Comprendo muchas gracias por su respuesta. ¿Cuenta también con cable e internet?"
+    },
+    "reaction": "",
+    "timestamp": 1725900925,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A73DDBD51EC6E5CCB24",
+    "remoteJid": "50672069823@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sí correcto, gracias igualmente!"
+    },
+    "reaction": "",
+    "timestamp": 1725902986,
+    "senderName": "J. López",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

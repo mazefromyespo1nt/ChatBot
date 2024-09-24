@@ -1,0 +1,149 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A6AE7E0BFFA14AE4359",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "Para el siguiente. Viernes.  \n \n2 cajas de cada sabor."
+    },
+    "reaction": "",
+    "timestamp": 1725659367,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AEC36D5EDA6BE436FF7",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "Menos jarritos por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725659410,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D2F0DF31B1DE5C3CFD",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "2 lt y 600 ml ??"
+    },
+    "reaction": "",
+    "timestamp": 1725659447,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5213335073834@s.whatsapp.net",
+      "id": "3A6AE7E0BFFA14AE4359"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A2C26E78D2E95260069",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "Solo se de 2 ltrs"
+    },
+    "reaction": "",
+    "timestamp": 1725659464,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EA503D99F507D5A3A5",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "ok"
+    },
+    "reaction": "",
+    "timestamp": 1725659471,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A0A8841D70FE5E38DA6",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "Perdón"
+    },
+    "reaction": "",
+    "timestamp": 1725659474,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F3A6C763B7AF52E22A",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725659478,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AC36CEE46D9A9DFCEC3",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "Holaaa Ericka 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885858,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AC595A08D4A56E460BB",
+    "remoteJid": "120363178182301227@g.us",
+    "msgContext": {
+      "text": "Hola nely buenos días. \nContenedor. Charola y vaso por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725889048,
+    "senderName": "Erika",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

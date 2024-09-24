@@ -1,0 +1,118 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADD8A5D8A3DFE77EB65",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "text": "Holaaa Arturo 🙂\n\nMe confirmas de favor si vas a necesitar de *Desechable* para esta quincena, \n\nquedo en pendiente….. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725885902,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AC4B891C4BC756FC7F80FF7A7C50D7D6",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "text": "1 de plato\n1 de vaso\n1 de hamburguesa para la 20 por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725924717,
+    "senderName": "LA Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB011F171E797C3D73207",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "caption": "PEDIDO10092024 LA CDSOL.xlsx",
+      "fileName": "hWX4Xy.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725975672,
+    "senderName": "LA Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "doc_cap",
+    "msgId": "3EB073E7E56EF229C28650",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "caption": "PEDIDO10092024 LA 20.xlsx",
+      "fileName": "xfnq6A.xlsx",
+      "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    "reaction": "",
+    "timestamp": 1725975673,
+    "senderName": "LA Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "324551347386581ACAF6C9CE03FD722A",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "text": "Buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725975697,
+    "senderName": "LA Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C35AC4DF8CEE4DA23F2C42EE0DE0276",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "text": "Les comparto los pedidos"
+    },
+    "reaction": "",
+    "timestamp": 1725975716,
+    "senderName": "LA Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "FA71C56AA985BFAD7D24436749C2C978",
+    "remoteJid": "120363178229935382@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725975719,
+    "senderName": "LA Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

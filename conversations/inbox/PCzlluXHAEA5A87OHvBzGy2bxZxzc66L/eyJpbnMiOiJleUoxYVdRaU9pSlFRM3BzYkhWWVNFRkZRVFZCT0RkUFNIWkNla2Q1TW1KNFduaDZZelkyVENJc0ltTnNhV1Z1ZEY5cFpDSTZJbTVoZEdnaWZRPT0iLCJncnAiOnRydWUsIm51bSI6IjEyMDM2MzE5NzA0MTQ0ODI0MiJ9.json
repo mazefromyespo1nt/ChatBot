@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B21F5DA21119A84690",
+    "remoteJid": "120363197041448242@g.us",
+    "msgContext": {
+      "text": "Hola, Vero. Buen día.\n\nConfirmo de recibido, muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725646431,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

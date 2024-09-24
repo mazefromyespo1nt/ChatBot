@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DA8563D5973351848C",
+    "remoteJid": "50687307905@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Rebeca quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera.¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725728122,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

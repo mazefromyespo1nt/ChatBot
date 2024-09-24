@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B0442C8F3C3A3E2ED38CC36D0F5B072A",
+    "remoteJid": "50672068875@s.whatsapp.net",
+    "msgContext": {
+      "text": "²"
+    },
+    "reaction": "",
+    "timestamp": 1725907267,
+    "senderName": "German",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

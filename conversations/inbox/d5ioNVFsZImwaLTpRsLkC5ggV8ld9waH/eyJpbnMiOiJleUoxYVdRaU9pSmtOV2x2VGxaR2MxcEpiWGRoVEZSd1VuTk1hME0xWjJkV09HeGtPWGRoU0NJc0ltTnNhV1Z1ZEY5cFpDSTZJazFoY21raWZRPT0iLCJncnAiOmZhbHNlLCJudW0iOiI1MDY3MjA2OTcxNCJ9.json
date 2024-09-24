@@ -1,0 +1,137 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD3AB484038A3DE77AF",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725914775,
+    "senderName": "Antonio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABB5FE8A16495933352",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro"
+    },
+    "reaction": "",
+    "timestamp": 1725914779,
+    "senderName": "Antonio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B750B210A9E39D48D7",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes!"
+    },
+    "reaction": "",
+    "timestamp": 1725914812,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB09928E1CA114AD7AB01",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725914856,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB07E5C1B3733DC76ED2D",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos serían nuestros planes móviles",
+      "fileName": "",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725914856,
+    "senderName": "Maribel Oporto",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A5C73619D5FD2D98690",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y planes de q"
+    },
+    "reaction": "",
+    "timestamp": 1725915323,
+    "senderName": "Antonio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05B0C0C98B990F6CFF6",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "text": "En telefonía movil y servicio fijo"
+    },
+    "reaction": "",
+    "timestamp": 1725915376,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50672069714@s.whatsapp.net",
+      "id": "3A5C73619D5FD2D98690"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB058470047BBF7B5C551",
+    "remoteJid": "50672069714@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que le parece?"
+    },
+    "reaction": "",
+    "timestamp": 1725915964,
+    "senderName": "Maribel Oporto",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

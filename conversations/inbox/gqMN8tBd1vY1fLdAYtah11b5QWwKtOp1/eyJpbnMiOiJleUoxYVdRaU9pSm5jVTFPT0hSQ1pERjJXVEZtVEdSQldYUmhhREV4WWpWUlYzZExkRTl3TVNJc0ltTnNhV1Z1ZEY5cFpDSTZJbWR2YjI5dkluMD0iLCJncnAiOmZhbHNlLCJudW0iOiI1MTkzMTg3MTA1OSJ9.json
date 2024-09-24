@@ -1,0 +1,52 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB083A6790CC14556EB55",
+    "remoteJid": "51931871059@s.whatsapp.net",
+    "msgContext": {
+      "text": "*Sr. Julio Cesar Alzamora Capristano* Buen día, le saluda Antonio Yanarico de la Empresa de SIAMSOFT"
+    },
+    "reaction": "",
+    "timestamp": 1725630455,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02B0AE96ABCF727001C",
+    "remoteJid": "51931871059@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le traemos una promoción que su municipalidad no puede dejar pasar 🚀. Presentamos nuestro *SISTEMA DE ADMINISTRACIÓN TRIBUTARIA Y CAJA* 📊, ¡todo a un solo costo de *S/.3999.00*! obtienes una *licencia perpetua del sistema*, ¡así que nunca tendrás que *preocuparte por renovaciones*! 🆓✨ Además, disfrutara de *soporte técnico* *24/7* durante *12 meses* 🕒, para que siempre estés acompañado ante cualquier consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725630458,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3EB0EF0C10E8039B42A947",
+    "remoteJid": "51931871059@s.whatsapp.net",
+    "msgContext": {
+      "caption": "En este video explicamos todos los modulos del *SISTEMA CATASTRO INTEGRADO A LA  ADMINISTRACION TRIBUTARIA Y CAJA PARA MUNICIPALIDADES*",
+      "fileName": "GTk35v.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725630519,
+    "senderName": "Siam_Marketing",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB063F561820AFA1ABD20",
+    "remoteJid": "593962709491@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias, estoy en reunion"
+    },
+    "reaction": "",
+    "timestamp": 1725897764,
+    "senderName": "José luis",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A61C67015F755DEAA32",
+    "remoteJid": "593962709491@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725897767,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF90759B8944F744FE4",
+    "remoteJid": "593962709491@s.whatsapp.net",
+    "msgContext": {
+      "text": "Vale"
+    },
+    "reaction": "",
+    "timestamp": 1725897771,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

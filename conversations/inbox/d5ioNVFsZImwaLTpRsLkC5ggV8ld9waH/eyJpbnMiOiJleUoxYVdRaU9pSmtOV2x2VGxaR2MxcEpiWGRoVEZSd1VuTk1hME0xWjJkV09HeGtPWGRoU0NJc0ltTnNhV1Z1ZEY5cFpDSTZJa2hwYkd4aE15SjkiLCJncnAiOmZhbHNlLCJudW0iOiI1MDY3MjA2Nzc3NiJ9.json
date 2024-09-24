@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E955C965B041D233E5",
+    "remoteJid": "50672067776@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola!\n\nReciba un cordial saludo departe de  Nargallo, distribuidor autorizado de Liberty Costa Rica.\nEstamos intentando contactarle con el propósito de obtener su permiso para enviarle una oferta de nuestros planes postpago o servicios de televisión e internet para el hogar que se adapte a ti.\n\nPagando hasta el 20 de Octubre.\nEnvío e instalación GRATIS!\nSolo con su documento de identidad.\nInternet y redes sociales ilimitadas entre muchos beneficios más!\n\nDigita 1️⃣ si deseas más información, o bien digita 2️⃣ para darte de baja y no recibir más mensajes como este.\nSaludos"
+    },
+    "reaction": "",
+    "timestamp": 1725998257,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB08EF113B50573F914F8",
+    "remoteJid": "50672067776@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos serían los planes disponibles actualmente, como puedes ver cuentan con muchos beneficios! \nAdicional a eso si realizamos el proceso de contratación entre hoy y mañana, te estaríamos dando la opción de cancelar la primer factura hasta el 19 de Octubre, así como el envío de la tarjeta SIM completamente gratis.",
+      "fileName": "8i0e4A.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726000312,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,10 @@
+#qrCode{
+    display:block;
+    z-index: 1000;
+    position: absolute;
+    background: black;
+    top: 25%;
+    left: 41%;
+
+
+}

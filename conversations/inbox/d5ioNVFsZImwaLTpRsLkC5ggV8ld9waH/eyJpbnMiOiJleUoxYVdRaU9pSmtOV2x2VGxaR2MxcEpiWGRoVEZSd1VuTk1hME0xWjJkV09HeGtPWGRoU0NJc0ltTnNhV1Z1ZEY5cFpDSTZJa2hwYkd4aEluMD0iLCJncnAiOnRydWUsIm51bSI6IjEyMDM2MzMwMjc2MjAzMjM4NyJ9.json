@@ -1,0 +1,440 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01E85CF8C884FB34059",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Ana Margarita Bustos Ruiz /  602410554 Me validan por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725575075,
+    "senderName": "Maribel Oporto",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0331A0C82A340FF5421",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "me escribes la identificacion"
+    },
+    "reaction": "",
+    "timestamp": 1725575160,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50664565839@s.whatsapp.net",
+      "id": "0693FB1ADA9B6A3D7AC3BED8B363F5F4"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01F09C53FAF44C602E9",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "gf"
+    },
+    "reaction": "",
+    "timestamp": 1725898290,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09B734E4857602D5F29",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "gfghf"
+    },
+    "reaction": "",
+    "timestamp": 1725898290,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00CC1B600431615DE2B",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "bhtt"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07508BA9A9F1B69539C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "nb"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0848D53C516E940496D",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "gf"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0517B33F7788F3A6112",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "h"
+    },
+    "reaction": "",
+    "timestamp": 1725898291,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B7A71CE9C5BF4B440C",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0ABF1E16B3DDD5F0C54",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0513FE1193B2064E9CB",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07B12BF08B76C7F8AFC",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CAE3E4DFCB27BEDB42",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "fg"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06B4979D3875B07C68A",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725898292,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A00E4C857B1F082902",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "ng"
+    },
+    "reaction": "",
+    "timestamp": 1725898293,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB049047559ED6026E2E3",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "h"
+    },
+    "reaction": "",
+    "timestamp": 1725898293,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB083CC7996D057D3F39E",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "n"
+    },
+    "reaction": "",
+    "timestamp": 1725898294,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB008A1EFF44C441AD74F",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "disculpas del caso!"
+    },
+    "reaction": "",
+    "timestamp": 1725898764,
+    "senderName": "Fruno distribuidor Aut Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C56F44103977D0D773FEEA453DF12A0",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Chicos vamos por esas 15 hoy para que se vayan temprano"
+    },
+    "reaction": "💪🏼",
+    "timestamp": 1725900027,
+    "senderName": "Gio",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EF8355A4D72BDF85D8",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "302480665 // Me ayudan a validar porfa 🙏🏻🤞🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725901049,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EBC2F765944CF6FE19",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "me validan 155842704323"
+    },
+    "reaction": "",
+    "timestamp": 1725901726,
+    "senderName": "Sharon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DB2B24E9848C91CEE1",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "por fi"
+    },
+    "reaction": "",
+    "timestamp": 1725901728,
+    "senderName": "Sharon",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "64EA6DCB6EE79BA8D544B659532EAE53",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "208350542 me ayudan por favor."
+    },
+    "reaction": "🤑",
+    "timestamp": 1725902940,
+    "senderName": "Lizzy Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BD6CD17CDAE1751D58",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "114350192  // Me ayudan a validar porfa 🙏🏻🤞🏻"
+    },
+    "reaction": "",
+    "timestamp": 1725903305,
+    "senderName": "Hillary Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DBF75ECA32E7BC06F3",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "Me ayudan a validar  ced. 108290069 gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725904003,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E4733BE40DE0E5EC58F9216087EA4372",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "207160534 Julio Gamboa"
+    },
+    "reaction": "🤑",
+    "timestamp": 1725982291,
+    "senderName": "Argery Rodríguez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F0C8F51AA2D71500EB",
+    "remoteJid": "120363302762032387@g.us",
+    "msgContext": {
+      "text": "503830474en lista negra"
+    },
+    "reaction": "😢",
+    "timestamp": 1725982383,
+    "senderName": "Yohania Gonzalez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50663399579@s.whatsapp.net",
+      "id": "E4733BE40DE0E5EC58F9216087EA4372"
+    }
+  }
+]

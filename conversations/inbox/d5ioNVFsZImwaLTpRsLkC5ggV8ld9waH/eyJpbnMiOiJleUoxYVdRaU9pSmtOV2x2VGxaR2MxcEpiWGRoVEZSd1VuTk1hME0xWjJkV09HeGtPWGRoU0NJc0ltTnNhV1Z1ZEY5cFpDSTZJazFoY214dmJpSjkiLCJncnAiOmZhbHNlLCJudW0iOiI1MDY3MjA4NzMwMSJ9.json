@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0764117DB638A6370AE",
+    "remoteJid": "50672087301@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Don Arturo! \nQue tal, como ha estado?\nAún se mantiene interesado en nuestros servicios de Liberty?"
+    },
+    "reaction": "",
+    "timestamp": 1725904436,
+    "senderName": "Distribuidor Autorizado Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0F0C5487673D8E5A81",
+    "remoteJid": "50672087301@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola qué tal si"
+    },
+    "reaction": "",
+    "timestamp": 1725904484,
+    "senderName": "Arturo Hernandez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0DECACE26BA268B169",
+    "remoteJid": "50672087301@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que pena más bien"
+    },
+    "reaction": "",
+    "timestamp": 1725904487,
+    "senderName": "Arturo Hernandez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

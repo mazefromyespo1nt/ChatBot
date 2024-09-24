@@ -1,0 +1,118 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C39435EAF56659FA32",
+    "remoteJid": "5213312203335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "OClP1P.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725668944,
+    "senderName": "dgusta3",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0BF7BEF760AA427ABE0",
+    "remoteJid": "5213312203335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "7jswY4.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725669497,
+    "senderName": "dgusta3",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0475A1B34B7F5071936",
+    "remoteJid": "5213312203335@s.whatsapp.net",
+    "msgContext": {
+      "text": "BUENAS TARDES TE PASO INVENTARIO"
+    },
+    "reaction": "",
+    "timestamp": 1725739011,
+    "senderName": "dgusta3",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB070764D058311A9181A",
+    "remoteJid": "5213312203335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CXqI7S.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725739016,
+    "senderName": "dgusta3",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB053D149016C560028D7",
+    "remoteJid": "5213312203335@s.whatsapp.net",
+    "msgContext": {
+      "caption": "ya esta separado lo frio de la ruta falta unocamente lo congelado y la salchicha que no ahi",
+      "fileName": "ILRJCs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725929706,
+    "senderName": "dgusta3",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0090F61BA8712248105",
+    "remoteJid": "5213312203335@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya se subio el queso de zacpu"
+    },
+    "reaction": "",
+    "timestamp": 1725929725,
+    "senderName": "dgusta3",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

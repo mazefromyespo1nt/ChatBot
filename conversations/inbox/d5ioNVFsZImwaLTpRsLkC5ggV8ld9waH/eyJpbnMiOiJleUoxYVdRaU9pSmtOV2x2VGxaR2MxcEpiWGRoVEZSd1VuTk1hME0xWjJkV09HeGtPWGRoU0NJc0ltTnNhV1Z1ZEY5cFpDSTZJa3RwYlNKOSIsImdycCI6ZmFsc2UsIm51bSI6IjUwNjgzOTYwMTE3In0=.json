@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB08B51AC89CAA53F8888",
+    "remoteJid": "50683960117@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Buenas tardes Alex Ruiz, como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual. \n\nPuedo brindarle más velocidad de WIFFI 👉300 MB\nPuedo mejorar la velocidad y minutos de algún plan postpago 👉30MB\nY como 🎁regalía se le entregará *1 línea adicional para algún menor de la casa es muy recomendado*",
+      "fileName": "ylmQ9E.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725665393,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07EB531880D5B56E82B",
+    "remoteJid": "50683960117@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tendrá más beneficios pagando un precio similiar. 4 en 1  😄"
+    },
+    "reaction": "",
+    "timestamp": 1725665448,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

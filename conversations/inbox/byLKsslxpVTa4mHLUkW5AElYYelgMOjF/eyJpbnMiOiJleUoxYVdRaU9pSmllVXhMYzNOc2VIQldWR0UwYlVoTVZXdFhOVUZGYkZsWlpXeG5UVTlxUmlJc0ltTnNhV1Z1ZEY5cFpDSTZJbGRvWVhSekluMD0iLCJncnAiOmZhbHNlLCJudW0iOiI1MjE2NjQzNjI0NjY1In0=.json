@@ -1,0 +1,609 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F2F3F876D2A46FA783",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "tengo algunas dudas"
+    },
+    "reaction": "",
+    "timestamp": 1725652983,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08AF47D7435EC6CC66B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "porque no guarda los flujos"
+    },
+    "reaction": "",
+    "timestamp": 1725652992,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0F4F1C4B45E9E81F0A7DDC795EA4AA53",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si los guarda"
+    },
+    "reaction": "",
+    "timestamp": 1725653090,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "995A1A6199AB2E4BB8D3A4481EE1E346",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale a lado de donde se pone el nombre"
+    },
+    "reaction": "",
+    "timestamp": 1725653103,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "16D59311E472D2ADD7B2E80B9BA323B3",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "En las 3 rayas"
+    },
+    "reaction": "",
+    "timestamp": 1725653107,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3E2E8818B9C9B849429ED342E1EE8FE6",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y te despliega de lado derecho"
+    },
+    "reaction": "",
+    "timestamp": 1725653120,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D63DA8C13A3D3E6CF4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "esque le doy guardar y desaparece lo que hice"
+    },
+    "reaction": "",
+    "timestamp": 1725653123,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4A9F63C82417E170B7420A1CD8275F9B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "El listado"
+    },
+    "reaction": "",
+    "timestamp": 1725653124,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "21F44BA2186DF2074DB4260816DEFE8A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "De flujos guardados"
+    },
+    "reaction": "",
+    "timestamp": 1725653134,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8D6F95023BE4EABDA100EB119E47E2C1",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Prueba y confirmame"
+    },
+    "reaction": "",
+    "timestamp": 1725653146,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BEB6DA2CCA995ADB03",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ok si ya vi gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725653838,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB030F3EB30C99A8F6D29",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y el chat bot como funciona?"
+    },
+    "reaction": "",
+    "timestamp": 1725653844,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "09BC902BCBEC3689BD0A77D7E9C64396",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes crear flujos como lo estas haciendo"
+    },
+    "reaction": "",
+    "timestamp": 1725655002,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "10196A756A34CBD213D631B629033189",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y luego los asignas a una conversación"
+    },
+    "reaction": "",
+    "timestamp": 1725655011,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "96EDC222E081FFB68C21DD256D0788B1",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como cualquier chat normal"
+    },
+    "reaction": "",
+    "timestamp": 1725655023,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BF5D484896A018C801BF77CB5A992CD1",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y el envío de campañas masivas si vas a hacer la prueba debes registrar primero los números en una agenda"
+    },
+    "reaction": "",
+    "timestamp": 1725655049,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3E700914E9D8680F1A4464FB27D9ADBF",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y con el prefijo +521 y los 10 dígitos del número"
+    },
+    "reaction": "",
+    "timestamp": 1725655065,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0761B5C47D9C426EC91",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "como los asignas?"
+    },
+    "reaction": "",
+    "timestamp": 1725656004,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "10196A756A34CBD213D631B629033189"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "9D6700F2E9F91DD91C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "en esa pantalla agregas uno nuevo y llenas los campos nada más",
+      "fileName": "si5Ctn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725656165,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0699FEFC4173910EEBA",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "vZmt00.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725656208,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03D48B504297E8BF839",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "asi ñle hice probandolo en una direccion que agregue a la agenda pero no jalo"
+    },
+    "reaction": "",
+    "timestamp": 1725656232,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6E187764DB7CD9CCDF",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "para eso no necesitas agregar nada a la agenda"
+    },
+    "reaction": "",
+    "timestamp": 1725656249,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CDE865056F8DA06179",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "sólo le escribes al número al que le asignaste al bot y ya funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725656259,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05476DE7B69E73EA41B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "esque yo no quiero que sea para todos"
+    },
+    "reaction": "",
+    "timestamp": 1725656273,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09CF1344219D4A14A41",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "deshabilite esto"
+    },
+    "reaction": "",
+    "timestamp": 1725656286,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB09AE5E22044643BA5AE",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3cae62.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725656293,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0315B76028AC9BDF17B",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "y me aparece seleccionar la agenda"
+    },
+    "reaction": "",
+    "timestamp": 1725656301,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "EF7A71D1980A57672D",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "SGxyWZ.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725656334,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0B670827B54FFC0CD0",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahí puedes ver como crear el bot"
+    },
+    "reaction": "",
+    "timestamp": 1725656339,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1B74C8774D8DAEFDE4",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "asegúrate de hacer esto cuando registres un número en la agenda"
+    },
+    "reaction": "",
+    "timestamp": 1725656492,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5216643624665@s.whatsapp.net",
+      "id": "3E700914E9D8680F1A4464FB27D9ADBF"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "2D15C3D6B7CF49BC2C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "caption": "WhatsApp por default así detecta los números",
+      "fileName": "bYQWoy.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725656520,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04469DF0642BAC8441A",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "si me di uenta de eso porque primero lo hice sin el 1 y no funciono"
+    },
+    "reaction": "",
+    "timestamp": 1725656543,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "826928A23219A89611",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "ok entonces ya te funcionó?"
+    },
+    "reaction": "",
+    "timestamp": 1725657093,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02C60F202DCA621BD5C",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "estoy esperando probar el chat bot"
+    },
+    "reaction": "",
+    "timestamp": 1725657112,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06A604C58A59932EA38",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "namas desocupan un tel jaja"
+    },
+    "reaction": "",
+    "timestamp": 1725657116,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7031A4BEB449926309",
+    "remoteJid": "5216643624665@s.whatsapp.net",
+    "msgContext": {
+      "text": "aahok"
+    },
+    "reaction": "",
+    "timestamp": 1725657261,
+    "senderName": "AR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

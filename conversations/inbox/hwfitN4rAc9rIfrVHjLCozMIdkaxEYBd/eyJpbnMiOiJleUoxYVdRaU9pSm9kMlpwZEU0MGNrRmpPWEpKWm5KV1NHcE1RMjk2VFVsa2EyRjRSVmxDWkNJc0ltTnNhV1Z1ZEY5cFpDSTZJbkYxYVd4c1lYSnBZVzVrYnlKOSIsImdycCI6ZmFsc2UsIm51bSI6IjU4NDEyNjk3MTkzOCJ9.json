@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "A095EAB6F0FC8273B9",
+    "remoteJid": "584126971938@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "vBarIT.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725841927,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

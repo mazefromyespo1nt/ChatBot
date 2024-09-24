@@ -1,0 +1,266 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3B5B03ED42F8EB6167C9CE5CCBC29692",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola licenciada, puedo saber si va avanzar mi acreditación"
+    },
+    "reaction": "",
+    "timestamp": 1725578495,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A69B7855977F87BCC10",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola si, me quedé a la espera del contrato firmado"
+    },
+    "reaction": "",
+    "timestamp": 1725581516,
+    "senderName": "ITM Trainmar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01D1F791B2074F30F90D13F55B74EE5C",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "No lo firme? 😓"
+    },
+    "reaction": "",
+    "timestamp": 1725581591,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF2BE1D9F772BAF36D5",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "A mi no me aparece la firma…"
+    },
+    "reaction": "",
+    "timestamp": 1725581637,
+    "senderName": "ITM Trainmar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5217151049009@s.whatsapp.net",
+      "id": "7FC4B787E54220EE2308F0A85838EBA0"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF2FE0ECD4927CEDDCD",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "lo estoy viendo desde el teléfono, sino intento en un rato en la computadora pero no me aparece"
+    },
+    "reaction": "",
+    "timestamp": 1725581655,
+    "senderName": "ITM Trainmar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FA02A8195522E361910576F2098F3229",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "La envío a la brevedad"
+    },
+    "reaction": "",
+    "timestamp": 1725582167,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "A8AD3635E2D13C166D8F74D4B07767BD",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "sxnXqe.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725633158,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "413C3C5C61FC3FFBC7BDD08CF7333067",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día licenciada envió el contrato formado"
+    },
+    "reaction": "",
+    "timestamp": 1725633172,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "33B71F9487A032881D28447E34782EBA",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día licenciada envió el contrato firmado"
+    },
+    "reaction": "",
+    "timestamp": 1725633207,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A100251B79390DE4DB5",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día! Muchas gracias, en un momento se da de alta"
+    },
+    "reaction": "",
+    "timestamp": 1725645880,
+    "senderName": "ITM Trainmar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0B23A257417C4018A6",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "me puede proporcionar un correo el cual tenga acceso, para que se le envíen su usuario y contraseña"
+    },
+    "reaction": "",
+    "timestamp": 1725645902,
+    "senderName": "ITM Trainmar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "55BEA450B0EE652ABCDC23D85FE4B270",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "gerardosoriamx@gmail.com"
+    },
+    "reaction": "",
+    "timestamp": 1725645986,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD094E76C8440A57A26",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola! en el transcurso del día de hoy le llegará el correo, si no le llega hágamelo saber de favor :)"
+    },
+    "reaction": "",
+    "timestamp": 1725715032,
+    "senderName": "ITM Trainmar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F57601D96FD8FC70930A3899194938FD",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si, estoy al pendiente"
+    },
+    "reaction": "",
+    "timestamp": 1725717488,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D85E8EA33B2FC49FFF947AAC764BE855",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725902286,
+    "senderName": "Carrery",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4D8560505A39EFCA528DEFE435653982",
+    "remoteJid": "5212295700000@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buen día aun no me llega"
+    },
+    "reaction": "",
+    "timestamp": 1725980796,
+    "senderName": "Carrery",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

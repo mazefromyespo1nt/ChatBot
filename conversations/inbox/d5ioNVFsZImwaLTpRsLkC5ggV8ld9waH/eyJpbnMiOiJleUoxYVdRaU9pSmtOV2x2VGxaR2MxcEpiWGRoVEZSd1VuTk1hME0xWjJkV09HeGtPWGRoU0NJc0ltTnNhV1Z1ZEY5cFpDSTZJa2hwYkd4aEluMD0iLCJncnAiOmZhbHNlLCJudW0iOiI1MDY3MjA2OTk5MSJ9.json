@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABC1CBD42FF12E7A923",
+    "remoteJid": "50672069991@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias pero este celular es empresarial"
+    },
+    "reaction": "",
+    "timestamp": 1725902846,
+    "senderName": "Christtina Solano",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

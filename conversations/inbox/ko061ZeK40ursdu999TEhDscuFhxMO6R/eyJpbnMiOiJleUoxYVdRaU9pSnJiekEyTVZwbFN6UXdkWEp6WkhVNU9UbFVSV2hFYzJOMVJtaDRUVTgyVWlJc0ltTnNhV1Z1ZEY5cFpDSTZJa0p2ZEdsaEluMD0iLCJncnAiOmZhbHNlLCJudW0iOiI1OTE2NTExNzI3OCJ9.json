@@ -1,0 +1,116 @@
+[
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "2496A381B729305BF40C43BB581AFCA5",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "kGF5L7.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725560184,
+    "senderName": "blumbit",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC2A04B99C75A295DFA",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725560647,
+    "senderName": "cesar sevillano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7DB2AF7A133F59F5D9",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "text": "Podría inscribirme"
+    },
+    "reaction": "",
+    "timestamp": 1725560658,
+    "senderName": "cesar sevillano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA4CE6D65A7942AA6C8",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero quisiera que me apoyes con un descuento"
+    },
+    "reaction": "",
+    "timestamp": 1725560671,
+    "senderName": "cesar sevillano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4FF1A2EB6554A5A228",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "text": "La anterior clase me inscribí también"
+    },
+    "reaction": "",
+    "timestamp": 1725560685,
+    "senderName": "cesar sevillano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A20765CAAFA518F0190",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me gustaría que me ayudaras"
+    },
+    "reaction": "",
+    "timestamp": 1725560698,
+    "senderName": "cesar sevillano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A53FBBEB4193E90CA48",
+    "remoteJid": "59165117278@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me interesa aprender hacer chatbot"
+    },
+    "reaction": "",
+    "timestamp": 1725560712,
+    "senderName": "cesar sevillano",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

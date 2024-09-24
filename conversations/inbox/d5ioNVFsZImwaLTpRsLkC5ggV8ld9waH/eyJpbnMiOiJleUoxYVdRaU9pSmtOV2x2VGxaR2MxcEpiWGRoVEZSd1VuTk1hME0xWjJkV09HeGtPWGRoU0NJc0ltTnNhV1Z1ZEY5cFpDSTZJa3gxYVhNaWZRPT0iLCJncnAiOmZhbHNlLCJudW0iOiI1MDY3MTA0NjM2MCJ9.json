@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00749C374D318BB266A",
+    "remoteJid": "50671046360@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días!"
+    },
+    "reaction": "",
+    "timestamp": 1725639150,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A6B1E02681F22025356",
+    "remoteJid": "50672068435@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725918807,
+    "senderName": "Freddy",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06923CE645B47526AB7",
+    "remoteJid": "50672068435@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas Tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725919392,
+    "senderName": "Daril Torres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A091D0B2BECE874A52",
+    "remoteJid": "50672068435@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias , espero se encuentre bien , estaria interesado (a) en adquiriir informacion sobre nuestros planes"
+    },
+    "reaction": "",
+    "timestamp": 1725979709,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

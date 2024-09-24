@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB01C4767934B8EF07865",
+    "remoteJid": "50577187005@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bHEr7B.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725939113,
+    "senderName": "Iván Luna 👑",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

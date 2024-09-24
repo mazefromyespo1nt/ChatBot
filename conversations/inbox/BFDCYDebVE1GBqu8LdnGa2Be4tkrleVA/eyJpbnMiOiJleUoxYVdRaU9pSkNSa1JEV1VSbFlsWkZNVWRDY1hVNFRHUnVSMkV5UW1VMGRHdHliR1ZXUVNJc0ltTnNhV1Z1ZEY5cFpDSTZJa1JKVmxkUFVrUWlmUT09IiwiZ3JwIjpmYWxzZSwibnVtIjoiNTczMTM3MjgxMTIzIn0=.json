@@ -1,0 +1,262 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD8B18144A75E4AC5E9",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bb"
+    },
+    "reaction": "",
+    "timestamp": 1725854396,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABC90C666B021EECE36",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "No me escriba por favor"
+    },
+    "reaction": "",
+    "timestamp": 1725857612,
+    "senderName": "☀️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1407449492D2ECA8C8",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amor"
+    },
+    "reaction": "",
+    "timestamp": 1725858023,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD1DE271A6FE0072CAB",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por q"
+    },
+    "reaction": "",
+    "timestamp": 1725858025,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF40196AA2F7616C41F",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "No se me antoja saber de ti"
+    },
+    "reaction": "",
+    "timestamp": 1725858068,
+    "senderName": "☀️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A0095E8DAC6C88698DD",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muy payaso eso que dices"
+    },
+    "reaction": "",
+    "timestamp": 1725858123,
+    "senderName": "☀️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A1407449492D2ECA8C8"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AAB9DC6A1382AECCBB2",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ayer si me viste conectado"
+    },
+    "reaction": "",
+    "timestamp": 1725858186,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AFDD21F775634A9E3D7",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eres por q estaba haciendo con claudia"
+    },
+    "reaction": "",
+    "timestamp": 1725858200,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE79FD14944DB61CBA4",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "La compra de el CRM"
+    },
+    "reaction": "",
+    "timestamp": 1725858207,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A7F92B4E0AFC4299520",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con la persona en México"
+    },
+    "reaction": "",
+    "timestamp": 1725858229,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ADFF8D958607A0229FC",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "👏"
+    },
+    "reaction": "",
+    "timestamp": 1725858249,
+    "senderName": "☀️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF226D2A2F714B567FF",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me alegra por Ud"
+    },
+    "reaction": "",
+    "timestamp": 1725858265,
+    "senderName": "☀️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A44ABAC2365BE09AFDB",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que todo le fluya !!"
+    },
+    "reaction": "",
+    "timestamp": 1725858278,
+    "senderName": "☀️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A4173DA3A6DC6D5007B",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Amor"
+    },
+    "reaction": "",
+    "timestamp": 1725858284,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A42D3A0564ABFC4CDB3",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "No te pongas así"
+    },
+    "reaction": "",
+    "timestamp": 1725858290,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AD477BE22433309407A",
+    "remoteJid": "573137281123@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy abrocharme"
+    },
+    "reaction": "",
+    "timestamp": 1725858294,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]  }
+]

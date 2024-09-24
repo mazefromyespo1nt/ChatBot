@@ -1,0 +1,690 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB029D10824031D3201A3",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725661413,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03E92D05BDE6903BA63",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725661424,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085E19843D076CEAF94",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725663856,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F6D994375470A5E54F",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725666674,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C8924A4C30DD485531",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725667084,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E5F3E4CDB2CA9246FE",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725668789,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BEC12DA532B82F450D",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725669150,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB068A4A3A1A9BACE9FA9",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725670239,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0465CE9822EEA81C897",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725670399,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09C46765E227F61D875",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725902894,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB084BD28D0EBFEC550BD",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola esto es una prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725904323,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07D23C21C3925C6525F",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725904729,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DA80E0F472295DAC3F",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725905492,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A4B87A3D6923A4E8C6",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725908187,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02DBBC05984A912750A",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725908644,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03AEA409EEEDA8AB7F4",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "La química nuclear es una rama de la química que se centra en los procesos y principios que involucran el núcleo atómico. Aquí hay algunos conceptos clave sobre esta área de estudio:\n\nEstructura del Núcleo Atómico: El núcleo de un átomo está compuesto por protones y neutrones. Los protones tienen carga positiva, mientras que los neutrones no tienen carga (son neutros). La cantidad de protones determina el elemento químico, mientras que el número de neutrones puede variar, formando isótopos del mismo elemento.\n\nRadiactividad: Es el proceso por el cual los núcleos inestables de algunos átomos emiten partículas y energía para alcanzar una configuración más estable. Los tipos de radiactividad incluyen alfa (emisión de partículas de helio), beta (emisión de electrones o positrones) y gamma (emisión de radiación electromagnética de alta energía).\n\nReacciones Nucleares: Estas reacciones involucran cambios en el núcleo atómico. Ejemplos incluyen la fisión (cuando un núcleo pesado se divide en núcleos más ligeros, liberando energía, como en los reactores nucleares) y la fusión (cuando núcleos ligeros se combinan para formar un núcleo más pesado, como en el sol y otras estrellas).\n\nAplicaciones de la Química Nuclear:\n\nMedicina Nuclear: Utiliza isótopos radiactivos para diagnóstico y tratamiento, como en la imagenología por tomografía por emisión de positrones (PET) o en la radioterapia para tratar ciertos tipos de cáncer.\nEnergía Nuclear: La fisión nuclear en los reactores produce electricidad de manera eficiente. Sin embargo, también plantea desafíos como la gestión de desechos radiactivos.\nInvestigación: Los aceleradores de partículas y otras herramientas de investigación nuclear ayudan a entender mejor las propiedades fundamentales de la materia y del universo.\nSeguridad y Protección: Dado que la radiactividad puede ser peligrosa para la salud, es crucial seguir medidas de protección adecuadas, como el uso de blindajes, y monitorear la exposición a la radiación.\n\nLa química nuclear es una disciplina fascinante que combina la física y la química para explorar y utilizar los fenómenos que ocurren en el núcleo atómico. Si tienes alguna pregunta más específica, no dudes en preguntar."
+    },
+    "reaction": "",
+    "timestamp": 1725910015,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01FE00FD0151E58438E",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725914065,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB028F47C4AE7CAF35D5F",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725914156,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EC9B0CDD940756D2FE",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "De acuerdo"
+    },
+    "reaction": "",
+    "timestamp": 1725920179,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB007D2B738BFD7876DE3",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725923598,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0813D6857228094D3CD",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió? Porque tenía demasiados problemas.\n\n¿Qué le dice una iguana a su hermana gemela? ¡Somos iguanitas!\n\n¿Por qué los pájaros no usan Facebook? Porque ya tienen Twitter.\n\n¿Qué le dice una vela a otra vela? — ¿Te apago o te enciendo?\n\n¿Cómo se llama un boomerang que no vuelve? Un palo.\n\n¿Cuál es el colmo de un electricista? No encontrar su corriente de trabajo.\n\n¿Qué hace una abeja en el gimnasio? ¡Zum-ba!"
+    },
+    "reaction": "",
+    "timestamp": 1725923646,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DAE2074D07862511DB",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725924257,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0050D73E74CD9874A7A",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725925682,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB021CB08427883EC1375",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725927429,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0235D2E8234866D7A7C",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes"
+    },
+    "reaction": "",
+    "timestamp": 1725928010,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB030A7E4FC8AA1847DE8",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aunque pueda creerse que es un capricho de la naturaleza, la forma del pico del loro es todo un estudio de ingeniería en sí mismo. La curvatura y la rubustez están perfectamente pensados para que le sirvan para cosas tan importantes como\n\nComer y triturar\nEscalar\nSujetarse\nManipular objetos..."
+    },
+    "reaction": "",
+    "timestamp": 1725928322,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C4326764120C089140",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725928493,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A9A9B23A22344EEA53",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725933031,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AEF6E88547385EE381",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas noches"
+    },
+    "reaction": "",
+    "timestamp": 1725933585,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB052C721963B0FB77209",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Permítame uno minutos"
+    },
+    "reaction": "",
+    "timestamp": 1725934578,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0759AB28D7AA5BBA592",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un gusto saludarle"
+    },
+    "reaction": "",
+    "timestamp": 1725935762,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01F185AA9007BA5A1A5",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "test"
+    },
+    "reaction": "",
+    "timestamp": 1725988267,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0973270590E75BABCDD",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Qué animal camina con las patas en la cabeza?"
+    },
+    "reaction": "",
+    "timestamp": 1725989251,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EFFE314AB68594A204",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "test"
+    },
+    "reaction": "",
+    "timestamp": 1725989523,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0322455BFE0335AC2E6",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "La Llamada Nocturna\n\nEn un pequeño pueblo, una joven llamada Ana se mudó a una antigua casa que había heredado de su abuela. La casa era grande y tenía un aire nostálgico, pero Ana estaba emocionada de comenzar una nueva etapa en ella.\n\nUna noche, mientras Ana estaba en la cocina, su teléfono sonó. Era una llamada a la medianoche de un número desconocido. Al contestar, solo escuchó una respiración pesada y luego una voz susurrante que decía: “Te estoy observando”.\n\nAna se estremeció, pero pensó que era una broma de mal gusto y colgó. Sin embargo, esa noche no pudo dormir bien, sintiendo una presencia inquietante en la casa.\n\nAl día siguiente, la misma llamada se repitió a la misma hora. Ana decidió no contestar y simplemente colgó. La tercera noche, las llamadas continuaron, y la voz cada vez parecía más cercana y más amenazante. Ana comenzó a sentir que alguien la estaba vigilando desde las sombras.\n\nDesesperada, decidió cambiar el número de su teléfono, pero las llamadas persistieron. Finalmente, un día encontró una vieja fotografía de la familia que había vivido en la casa antes que ella. En la esquina de la imagen, vio un rostro familiar que la hizo temblar de miedo: la misma figura que había visto en sus sueños, con ojos fríos y vacíos.\n\nAna decidió investigar la historia de la casa y descubrió que el anterior propietario había sido un hombre perturbado que había desaparecido misteriosamente. Las llamadas nocturnas parecían ser la última forma de comunicación del hombre, que nunca había aceptado su destino.\n\nUna noche, Ana recibió una llamada más. Esta vez, la voz susurrante dijo: “Finalmente estás lista para unirte a mí”. Con el corazón acelerado, Ana vio una sombra moverse en el pasillo y sintió un frío helado que se apoderó de la casa. Decidió abandonar la casa inmediatamente, sin mirar atrás.\n\nNunca volvió a saber de la casa ni de las llamadas, pero siempre recordará la sensación de ser observada desde la oscuridad, como si el hombre perturbado hubiera encontrado un nuevo huésped para su terror eterno."
+    },
+    "reaction": "",
+    "timestamp": 1725990272,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05A2CB5B5691D673212",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "puede ser"
+    },
+    "reaction": "",
+    "timestamp": 1725990617,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02F09849E903EB2C268",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cómo se llama el campeón de buceo japonés?\n\nTokofondo."
+    },
+    "reaction": "",
+    "timestamp": 1725990737,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B7C6C4FB7BF15F6502",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "",
+    "timestamp": 1725993217,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07B9B36C31B645FDAC4",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Cuál es el colmo de un electricista?\n\nNo encontrar su corriente de trabajo."
+    },
+    "reaction": "",
+    "timestamp": 1725993875,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0224C12CE1463236883",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "La Llamada Nocturna\n\nEn un pequeño pueblo, una joven llamada Ana se mudó a una antigua casa que había heredado de su abuela. La casa era grande y tenía un aire nostálgico, pero Ana estaba emocionada de comenzar una nueva etapa en ella.\n\nUna noche, mientras Ana estaba en la cocina, su teléfono sonó. Era una llamada a la medianoche de un número desconocido. Al contestar, solo escuchó una respiración pesada y luego una voz susurrante que decía: “Te estoy observando”.\n\nAna se estremeció, pero pensó que era una broma de mal gusto y colgó. Sin embargo, esa noche no pudo dormir bien, sintiendo una presencia inquietante en la casa.\n\nAl día siguiente, la misma llamada se repitió a la misma hora. Ana decidió no contestar y simplemente colgó. La tercera noche, las llamadas continuaron, y la voz cada vez parecía más cercana y más amenazante. Ana comenzó a sentir que alguien la estaba vigilando desde las sombras.\n\nDesesperada, decidió cambiar el número de su teléfono, pero las llamadas persistieron. Finalmente, un día encontró una vieja fotografía de la familia que había vivido en la casa antes que ella. En la esquina de la imagen, vio un rostro familiar que la hizo temblar de miedo: la misma figura que había visto en sus sueños, con ojos fríos y vacíos.\n\nAna decidió investigar la historia de la casa y descubrió que el anterior propietario había sido un hombre perturbado que había desaparecido misteriosamente. Las llamadas nocturnas parecían ser la última forma de comunicación del hombre, que nunca había aceptado su destino.\n\nUna noche, Ana recibió una llamada más. Esta vez, la voz susurrante dijo: “Finalmente estás lista para unirte a mí”. Con el corazón acelerado, Ana vio una sombra moverse en el pasillo y sintió un frío helado que se apoderó de la casa. Decidió abandonar la casa inmediatamente, sin mirar atrás.\n\nNunca volvió a saber de la casa ni de las llamadas, pero siempre recordará la sensación de ser observada desde la oscuridad, como si el hombre perturbado hubiera encontrado un nuevo huésped para su terror eterno."
+    },
+    "reaction": "",
+    "timestamp": 1725994036,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07F5B7FAEDC25CE7E4D",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "puede ser"
+    },
+    "reaction": "",
+    "timestamp": 1725994108,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB034CCA5637054DCFC9B",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "La Llamada Nocturna\n\nEn un pequeño pueblo, una joven llamada Ana se mudó a una antigua casa que había heredado de su abuela. La casa era grande y tenía un aire nostálgico, pero Ana estaba emocionada de comenzar una nueva etapa en ella.\n\nUna noche, mientras Ana estaba en la cocina, su teléfono sonó. Era una llamada a la medianoche de un número desconocido. Al contestar, solo escuchó una respiración pesada y luego una voz susurrante que decía: “Te estoy observando”.\n\nAna se estremeció, pero pensó que era una broma de mal gusto y colgó. Sin embargo, esa noche no pudo dormir bien, sintiendo una presencia inquietante en la casa.\n\nAl día siguiente, la misma llamada se repitió a la misma hora. Ana decidió no contestar y simplemente colgó. La tercera noche, las llamadas continuaron, y la voz cada vez parecía más cercana y más amenazante. Ana comenzó a sentir que alguien la estaba vigilando desde las sombras.\n\nDesesperada, decidió cambiar el número de su teléfono, pero las llamadas persistieron. Finalmente, un día encontró una vieja fotografía de la familia que había vivido en la casa antes que ella. En la esquina de la imagen, vio un rostro familiar que la hizo temblar de miedo: la misma figura que había visto en sus sueños, con ojos fríos y vacíos.\n\nAna decidió investigar la historia de la casa y descubrió que el anterior propietario había sido un hombre perturbado que había desaparecido misteriosamente. Las llamadas nocturnas parecían ser la última forma de comunicación del hombre, que nunca había aceptado su destino.\n\nUna noche, Ana recibió una llamada más. Esta vez, la voz susurrante dijo: “Finalmente estás lista para unirte a mí”. Con el corazón acelerado, Ana vio una sombra moverse en el pasillo y sintió un frío helado que se apoderó de la casa. Decidió abandonar la casa inmediatamente, sin mirar atrás.\n\nNunca volvió a saber de la casa ni de las llamadas, pero siempre recordará la sensación de ser observada desde la oscuridad, como si el hombre perturbado hubiera encontrado un nuevo huésped para su terror eterno."
+    },
+    "reaction": "",
+    "timestamp": 1725998010,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA2B576FF34D62333C",
+    "remoteJid": "50661328107@s.whatsapp.net",
+    "msgContext": {
+      "text": "El Cuento de los Tres Hermanos\n\nHabía una vez tres hermanos que eran muy hábiles en la magia. Mientras viajaban juntos, encontraron un río muy peligroso para cruzar. Sin embargo, utilizaron sus habilidades mágicas para conjurar un puente y cruzar el río con seguridad.\n\nAl otro lado del río, se encontraron con la Muerte, quien no estaba contenta de haber sido engañada por los hermanos. La Muerte los felicitó por su astucia y dijo que los recompensaría por su ingenio.\n\nEl hermano mayor pidió una varita poderosa, más fuerte que cualquier otra en existencia. La Muerte le proporcionó una varita extremadamente poderosa hecha de madera de saúco. El segundo hermano pidió el poder de traer a los muertos de vuelta a la vida, y la Muerte le dio una piedra que podía resucitar a los difuntos. El hermano menor, sin embargo, pidió algo que le permitiera alejarse de la Muerte. La Muerte, a regañadientes, le dio una capa de invisibilidad.\n\nEl hermano mayor, con su nueva varita, se volvió arrogante y fue finalmente asesinado por otro mago que codiciaba la varita. El segundo hermano, al usar la piedra para traer de vuelta a su amor perdido, se dio cuenta de que ella no estaba realmente viva y quedó consumido por la desesperación, acabando por suicidarse para reunirse con ella. El hermano menor vivió una vida larga y pacífica, siempre utilizando su capa para evadir la Muerte. Cuando estuvo listo para morir, se quitó la capa y recibió a la Muerte como una amiga anciana.\n\nAsí, el cuento ilustra los peligros de buscar poder y el valor de aceptar nuestra mortalidad."
+    },
+    "reaction": "",
+    "timestamp": 1726002257,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

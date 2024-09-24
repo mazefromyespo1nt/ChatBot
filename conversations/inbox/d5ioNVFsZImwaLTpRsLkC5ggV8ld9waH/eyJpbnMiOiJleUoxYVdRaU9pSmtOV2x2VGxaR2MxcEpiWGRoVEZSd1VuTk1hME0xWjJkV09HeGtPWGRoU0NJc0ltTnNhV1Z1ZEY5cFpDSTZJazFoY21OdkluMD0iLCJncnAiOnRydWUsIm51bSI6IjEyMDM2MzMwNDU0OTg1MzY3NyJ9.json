@@ -1,0 +1,2247 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F2FDE1AE9187567AB3AEED7B12FE1D55",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "Sdf"
+    },
+    "reaction": "",
+    "timestamp": 1725661295,
+    "senderName": "Marco Correa Asesor Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B309AD1C9124740A20",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "nbxbxbxbxbxbx"
+    },
+    "reaction": "",
+    "timestamp": 1725662042,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01FEE6D508ED2C5D518",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1ad"
+    },
+    "reaction": "",
+    "timestamp": 1725662277,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00CA43807C2CE47FA5D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1da"
+    },
+    "reaction": "",
+    "timestamp": 1725662277,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C8EF6C5395A1651709",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "31as"
+    },
+    "reaction": "",
+    "timestamp": 1725662277,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A4FEDB188EDC294199",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1as"
+    },
+    "reaction": "",
+    "timestamp": 1725662278,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0FC500593858FBFA8E7",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1da"
+    },
+    "reaction": "",
+    "timestamp": 1725662278,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E47AFF0280BB937319",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fg1a"
+    },
+    "reaction": "",
+    "timestamp": 1725662278,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CA160DA5980834ECC4",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1as"
+    },
+    "reaction": "",
+    "timestamp": 1725662279,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07464B08597113A682A",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1"
+    },
+    "reaction": "",
+    "timestamp": 1725662279,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB08CEF0628EE336B8E5F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "a1f"
+    },
+    "reaction": "",
+    "timestamp": 1725662280,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB006AEE5FFE3EE55799C",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "af1ds23f1d"
+    },
+    "reaction": "",
+    "timestamp": 1725662280,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB042083C3B46B2E43D3F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1da"
+    },
+    "reaction": "",
+    "timestamp": 1725662281,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB058C6AE4EF7D30E8DE8",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1da"
+    },
+    "reaction": "",
+    "timestamp": 1725662281,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB043C9EAB9433BCB660B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1ad"
+    },
+    "reaction": "",
+    "timestamp": 1725662282,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04E4FB386A45C563AFE",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662283,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04207E41ACD844B5D62",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1a"
+    },
+    "reaction": "",
+    "timestamp": 1725662283,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB011DC6FAF571A20861E",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "321d"
+    },
+    "reaction": "",
+    "timestamp": 1725662285,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E2FDC08750282A5DA4",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "jdjdjdjdjdjdjasnanana"
+    },
+    "reaction": "",
+    "timestamp": 1725662286,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0996EECD20FE12919EF",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "3f1da3"
+    },
+    "reaction": "",
+    "timestamp": 1725662286,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB060C6EC8F48E93772A0",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1d2"
+    },
+    "reaction": "",
+    "timestamp": 1725662287,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0950E05228042740D9F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "ajajajajajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725662288,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E8D98DB127F6D30B80",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1d2"
+    },
+    "reaction": "",
+    "timestamp": 1725662288,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D0ECBEB2A87A45135F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1d2"
+    },
+    "reaction": "",
+    "timestamp": 1725662288,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BDC71E7A9DEF4806B8",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1a"
+    },
+    "reaction": "",
+    "timestamp": 1725662289,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB011225CBDB642D3A2DF",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1a2"
+    },
+    "reaction": "",
+    "timestamp": 1725662289,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A2926362C127B740F1",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1a"
+    },
+    "reaction": "",
+    "timestamp": 1725662290,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C69D6347CDE77EEBBB",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "ajajajajajajajajjaajja"
+    },
+    "reaction": "",
+    "timestamp": 1725662290,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03C0A4E56A8894DB754",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1a"
+    },
+    "reaction": "",
+    "timestamp": 1725662291,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C0D1054F14F7BD16B6",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "aajajajajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725662294,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DF415ED2965C97AE8F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1a2"
+    },
+    "reaction": "",
+    "timestamp": 1725662295,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01BF88FD8CFC4A12228",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1d"
+    },
+    "reaction": "",
+    "timestamp": 1725662296,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0078F66A458B072DD62",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1da"
+    },
+    "reaction": "",
+    "timestamp": 1725662298,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BC464D541AAA5F48AA",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1fd2"
+    },
+    "reaction": "",
+    "timestamp": 1725662298,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F2D33D0E9FD0705696",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "jajajajajajajjajajajajaj"
+    },
+    "reaction": "",
+    "timestamp": 1725662298,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB098E9583DACA9244EA1",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1d2"
+    },
+    "reaction": "",
+    "timestamp": 1725662299,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A54AD1C988B17C2113",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f1ad"
+    },
+    "reaction": "",
+    "timestamp": 1725662301,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0305CF51FF864E6905D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2f1a"
+    },
+    "reaction": "",
+    "timestamp": 1725662302,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B5A5D7DAD1C5E77E92",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "21fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662303,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00CDC945B8EB7B966C7",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "22f1da"
+    },
+    "reaction": "",
+    "timestamp": 1725662303,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06BE8EF827B834881BA",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "221f"
+    },
+    "reaction": "",
+    "timestamp": 1725662304,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05AB58E6F58E7E615E3",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "21f"
+    },
+    "reaction": "",
+    "timestamp": 1725662304,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04171AE65C32255B3A9",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2fd1"
+    },
+    "reaction": "",
+    "timestamp": 1725662304,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0426DDD4B93B7392627",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fdsafdsa12"
+    },
+    "reaction": "",
+    "timestamp": 1725662305,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0600D2905C9C4A1360C",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662305,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB052E5E86B670F3DBFEC",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "21"
+    },
+    "reaction": "",
+    "timestamp": 1725662306,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DB524E7D11FF8869B2",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "11"
+    },
+    "reaction": "",
+    "timestamp": 1725662306,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05D0F860D887F6E5A7D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "11"
+    },
+    "reaction": "",
+    "timestamp": 1725662306,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0481649F781A5A61354",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "11"
+    },
+    "reaction": "",
+    "timestamp": 1725662308,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09311C8598AF8C3D131",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662309,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB02BB0A4DB88779BA709",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "11"
+    },
+    "reaction": "",
+    "timestamp": 1725662309,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E9CD8F538EAE074748",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662310,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01F5C05FEBB438FA70E",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "11"
+    },
+    "reaction": "",
+    "timestamp": 1725662310,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D0E15150D73EE1CBE8",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662311,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB054D1945031505BAE61",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662311,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0860190D193C3A313F6",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662312,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB028E7C7314976D50A3A",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662313,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F0AFF738B3BE08E603",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662314,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB086C6F23452F680E33D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662314,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A9A658B50C1940843B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662314,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B71AAB8DF1ECB25B54",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662314,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0AE1460BDB49305D004",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662315,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB068496B5067CCED1C98",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662315,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F62A1BE47FE91C0084",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725662316,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0114DA058CBF6F95A4D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "44"
+    },
+    "reaction": "",
+    "timestamp": 1725662316,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05620EAC6D08BB4A0F6",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "45"
+    },
+    "reaction": "",
+    "timestamp": 1725662319,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EB1E8A6213BA0438FA",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5655"
+    },
+    "reaction": "",
+    "timestamp": 1725662319,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0586D5E2919D77AA979",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662320,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F27F86FF83B231A1DF",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662320,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EACC34A2A050EFB6CF",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662321,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04579021A36CCD7F2D0",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662322,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01B793F6F3F7EC425FA",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662322,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00154FB4E5206D5E9AC",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662323,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB072D62F012A30247416",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662323,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0247D9FA487D0A05ADE",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "55555"
+    },
+    "reaction": "",
+    "timestamp": 1725662324,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E3A12D1440CA30B54B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662324,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB065684037BC05412791",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "55"
+    },
+    "reaction": "",
+    "timestamp": 1725662325,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A5E39C1E4ADF374BC1",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662325,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B0C35960701B253925",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662326,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E61EAD2312E73F1840",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662327,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07A730177B05469FD14",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662328,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06A41409A1493B67A8E",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662328,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D9E00799C6E4867FB1",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662329,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D71CF1AF030AA81896",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "55"
+    },
+    "reaction": "",
+    "timestamp": 1725662329,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F3A48C3F24C15BB827",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "45"
+    },
+    "reaction": "",
+    "timestamp": 1725662330,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B9E653C7AAD8B91B79",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "5"
+    },
+    "reaction": "",
+    "timestamp": 1725662330,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0346120C6C1F8780456",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "455"
+    },
+    "reaction": "",
+    "timestamp": 1725662331,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CA36AD9F1B878DEF08",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "233222"
+    },
+    "reaction": "",
+    "timestamp": 1725662331,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DCD94F05F72E3345FB",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662332,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01FFCDE8CCA6953584B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662332,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05E34834ACBE0452CF7",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662333,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB075493AA3EDA90440EE",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662334,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB063CFEB4B7E7AEE5067",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662334,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB030687F9C5C1D25610A",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662335,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CCC66F7FDE7949AFCB",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662335,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07B81BB4364CC290020",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662336,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C601B6E6B7FD0E055E",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662337,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B1585C2CFB6A123CBD",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662338,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BF5D8B034104647039",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662338,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DAB7B7872DC044727A",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "kdkkdkdkdkdkdkdkdksoaopapapapapapapieiekemememem"
+    },
+    "reaction": "",
+    "timestamp": 1725662341,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05B8EFC9674E4DE68E7",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662342,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB053EF35BAF8CF4D045A",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662345,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C27B49408011251CB6",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662346,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D71E4BADA81910AF16",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662347,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CB1E8919C922D45E93",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "22"
+    },
+    "reaction": "",
+    "timestamp": 1725662349,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0918749BBF709BFEC1D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662349,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F8C857F5C36A9916E0",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662349,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09136BA91FE61B6B59B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "22"
+    },
+    "reaction": "",
+    "timestamp": 1725662350,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E286B2A35274C48452",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662350,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00A3D0A19577127179E",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662351,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01949D535F45F058F6D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725662352,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A1DE4C123A51D67F92",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "14fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662352,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0070E45EC4C09660CAB",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662353,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01EB4C89597FA743497",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f4"
+    },
+    "reaction": "",
+    "timestamp": 1725662353,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB055AE2A0AE843E78388",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f4sa"
+    },
+    "reaction": "",
+    "timestamp": 1725662355,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D9F1D093BA3AA061AF",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "adsf41"
+    },
+    "reaction": "",
+    "timestamp": 1725662355,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB060E960E4FFA493CCA6",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "4fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662355,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB040565C2A7A03FDBCD4",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "4fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662356,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB056AE7DD1FDE38DE0EB",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "4fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662357,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01B5ACC471D563FB377",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f4a"
+    },
+    "reaction": "",
+    "timestamp": 1725662357,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00E7664B460680F07A1",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "4fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662357,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB094B043AFC2D25681EC",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "4fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662358,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B726F429AF80CD515D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "af4"
+    },
+    "reaction": "",
+    "timestamp": 1725662358,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0970D778F3E2B29393C",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fa4a"
+    },
+    "reaction": "",
+    "timestamp": 1725662359,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A35D38FA60EC1EE17F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "af4fa4"
+    },
+    "reaction": "",
+    "timestamp": 1725662360,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0AFC5C14462512E538B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fa"
+    },
+    "reaction": "",
+    "timestamp": 1725662360,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06AB1B3A6697ED04805",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "af4fasf"
+    },
+    "reaction": "",
+    "timestamp": 1725662361,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07103E675F6F6292A6F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "a4"
+    },
+    "reaction": "",
+    "timestamp": 1725662361,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0541FEEB7B5C2631B1F",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "4af4fa4"
+    },
+    "reaction": "",
+    "timestamp": 1725662362,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB048CEFC32080CA26701",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "afa4f4f"
+    },
+    "reaction": "",
+    "timestamp": 1725662363,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F7318043B5FE6B2E4C",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "f4"
+    },
+    "reaction": "",
+    "timestamp": 1725662363,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C825AAA8E3E9C8A57D",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "jfdjfjfh"
+    },
+    "reaction": "",
+    "timestamp": 1725662373,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F393D9E91E788E113A",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fgfg"
+    },
+    "reaction": "",
+    "timestamp": 1725662376,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EFCACA400C1B972873",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fgfgfg"
+    },
+    "reaction": "",
+    "timestamp": 1725662377,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB047E1DF8EC5934A4FBD",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fgfgfg"
+    },
+    "reaction": "",
+    "timestamp": 1725662377,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C935831F1CCC1A6155",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "fgfgf"
+    },
+    "reaction": "",
+    "timestamp": 1725662378,
+    "senderName": "Marco Correa Asesor",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01077015A4BE7AA526B",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "555555111111122222266666666622222"
+    },
+    "reaction": "",
+    "timestamp": 1725662440,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB026E68F3A07D0149B09",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "a"
+    },
+    "reaction": "",
+    "timestamp": 1725662553,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07920B8E86018954358",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "text": "zwasasasadadddaghjjsnsns"
+    },
+    "reaction": "",
+    "timestamp": 1725662590,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "video",
+    "msgId": "3EB06554088FB484980E96",
+    "remoteJid": "120363304549853677@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BCPZjt.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725662608,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

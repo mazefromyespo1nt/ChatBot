@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "436331DD01CF275BBBA06EDBE42EC662",
+    "remoteJid": "50672069287@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya tengo liberty en el celular de mi trabajo y ha sido muy mala experiencia."
+    },
+    "reaction": "",
+    "timestamp": 1725912306,
+    "senderName": "Jonh",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "660F40AB63F2171ECA1B63C60B45EB5A",
+    "remoteJid": "50672069287@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725912308,
+    "senderName": "Jonh",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F55673357A71504CC3",
+    "remoteJid": "50672069287@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725912680,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

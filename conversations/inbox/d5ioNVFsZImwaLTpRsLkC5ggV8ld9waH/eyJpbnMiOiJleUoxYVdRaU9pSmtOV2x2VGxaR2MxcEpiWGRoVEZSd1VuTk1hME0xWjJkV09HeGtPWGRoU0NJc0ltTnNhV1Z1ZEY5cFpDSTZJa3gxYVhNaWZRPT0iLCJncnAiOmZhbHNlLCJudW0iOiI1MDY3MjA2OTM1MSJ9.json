@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "05D1335CBB9F4D659597040B8CF854F2",
+    "remoteJid": "50672069351@s.whatsapp.net",
+    "msgContext": {
+      "text": "2️⃣ muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725911671,
+    "senderName": "🥰luz romero 🥰",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB094F8E1B06771CA8976",
+    "remoteJid": "50672069351@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725912127,
+    "senderName": "Luis Calderón",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "93E46E64DBD79239C124EACF46887005",
+    "remoteJid": "50672069351@s.whatsapp.net",
+    "msgContext": {
+      "text": "Tranquilo, nó se preocupe \nGracias igualmente para ti una linda tarde"
+    },
+    "reaction": "",
+    "timestamp": 1725912869,
+    "senderName": "🥰luz romero 🥰",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AA836E47A4315FBAF5F",
+    "remoteJid": "5217831391985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725770948,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A141488A36CD975AD53",
+    "remoteJid": "5217831391985@s.whatsapp.net",
+    "msgContext": {
+      "text": "CRM para WhatsApp"
+    },
+    "reaction": "",
+    "timestamp": 1725770990,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ABAB66458B5BB8BFD47",
+    "remoteJid": "5217831391985@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725771017,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A242AC542E9F9D6053D",
+    "remoteJid": "5217831391985@s.whatsapp.net",
+    "msgContext": {
+      "text": "CRM para WhatsApp"
+    },
+    "reaction": "",
+    "timestamp": 1725771048,
+    "senderName": "G",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0FD6255D996FD396B64",
+    "remoteJid": "5217831391985@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Mz7GtC.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725771059,
+    "senderName": "Gustavo Caseres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]  }
+]

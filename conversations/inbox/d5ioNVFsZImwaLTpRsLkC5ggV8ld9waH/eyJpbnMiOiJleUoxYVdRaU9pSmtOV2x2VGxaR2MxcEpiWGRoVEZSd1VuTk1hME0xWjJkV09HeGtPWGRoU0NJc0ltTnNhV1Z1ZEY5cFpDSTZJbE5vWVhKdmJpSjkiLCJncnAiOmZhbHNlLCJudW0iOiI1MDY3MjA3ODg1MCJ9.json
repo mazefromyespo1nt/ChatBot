@@ -1,0 +1,114 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D13940B2396679C380C691CE6B332202",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes pasar a la Red Liberty para que aproveches al máximo la mejor operadora del país. Te conservamos tu mismo número!"
+    },
+    "reaction": "",
+    "timestamp": 1725906041,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE3E8F3C9260708C012",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "N ha horita n gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725906070,
+    "senderName": "Mancha",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE3E8F3C9260708C012",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "N ha horita n gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725906772,
+    "senderName": "Mancha",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE3E8F3C9260708C012",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "N ha horita n gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725907233,
+    "senderName": "Mancha",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE3E8F3C9260708C012",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "N ha horita n gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725907929,
+    "senderName": "Mancha",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE3E8F3C9260708C012",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "N ha horita n gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725908419,
+    "senderName": "Mancha",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AE3E8F3C9260708C012",
+    "remoteJid": "50672078850@s.whatsapp.net",
+    "msgContext": {
+      "text": "N ha horita n gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725908907,
+    "senderName": "Mancha",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

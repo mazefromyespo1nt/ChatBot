@@ -1,0 +1,318 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2BE77BCC0EFD8F55AB0C6FD1422F0131",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Wola"
+    },
+    "reaction": "",
+    "timestamp": 1726770350,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB003EA414D3FDBEEF58F",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "wowo wupsi"
+    },
+    "reaction": "",
+    "timestamp": 1726770366,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB075CBF0268B33046C98",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola querido cliente, somos la empresa Marlboro, ¡Éste mes patrio temblamos con un ofertón que se te caen las nalgas!, en la compra de dos cajetillas Garden Fusion, ¡Llévate una cajetilla de clavo totalmente gratis!\n\nSólo tienes que escribir la cantidad de cajetillas y sabor que deseas comprar.\n\nejemplo: \n1 Garden Fusion\n\n¡Gracias! Evita el exceso\n"
+    },
+    "reaction": "",
+    "timestamp": 1726771734,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "55649C422C06B4B6303AD09547AC2287",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "1 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726771758,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C8D61A236FCB591229",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste únicamente una cajetilla Garden Fusion!",
+      "fileName": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726771763,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DABA0D4B1B6DBFCD76866D770101B0BA",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "2 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726771775,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB09AB3CE9A51FEC6C02D",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste dos cajetillas Garden Fusion, te llevas gratis una cajetilla de clavo totalmente gratis!",
+      "fileName": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726771776,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C12C7FCC9E5A23647492AEEB49784AF9",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "3 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726771792,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EEEC4C8C91AE2429908F5BB33894E58E",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "1 Clavo"
+    },
+    "reaction": "",
+    "timestamp": 1726771864,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0FEAFE3FA81F474950FD9294FA5DC3A7",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "2 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726771878,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB019A15570155AAC2CAA",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste dos cajetillas Garden Fusion, te llevas gratis una cajetilla de clavo totalmente gratis!",
+      "fileName": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726771880,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "71990DC46E5089BDAF353BECBF93D750",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "3 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726772464,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB02127AB4BD2860CAF78",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste únicamente tres cajetillas de Garden Fusion!\n\nLamentablemente no te llevas la promo :(",
+      "fileName": "ZquenHXlzZg1S1mdrlXYF5okZcRxM0wG.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726772467,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CAE2950119D241C2A46B87F9E0543C2E",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "1 Clavo"
+    },
+    "reaction": "",
+    "timestamp": 1726772474,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB07848C14B36C1B40C61",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste únicamente una cajetilla de clavo!\n\nEvita el exceso",
+      "fileName": "Q9W0ptIXg2IQnMozBoRHPUgHsjEx5dGE.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726772475,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06CEA06C80EC957E50F",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola querido cliente, somos la empresa Marlboro, ¡Éste mes patrio temblamos con un ofertón que se te caen las nalgas!, en la compra de dos cajetillas Garden Fusion, ¡Llévate una cajetilla de clavo totalmente gratis!\n\nSólo tienes que escribir la cantidad de cajetillas y sabor que deseas comprar.\n\nejemplo: \n1 Garden Fusion\n\n¡Gracias! Evita el exceso\n"
+    },
+    "reaction": "",
+    "timestamp": 1726772492,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C11B0EB6687F285F408C456B45EBAD95",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1726772529,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FB634F4464D8FFBF4127D04727D114F3",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "2 Garden Fusion"
+    },
+    "reaction": "",
+    "timestamp": 1726772543,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C400B8EA0E53689139",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "¡Elegiste dos cajetillas Garden Fusion, te llevas gratis una cajetilla de clavo totalmente gratis!",
+      "fileName": "Bp9NaDHnZj75DFRNS65E3HLMQa91Tjxo.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1726772546,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09A96795CC28357B0DD",
+    "remoteJid": "50662253346@s.whatsapp.net",
+    "msgContext": {
+      "text": "ALAJUELA, ALAJUELA, SABANILLA, SAN LUIS, DEL SUPER CHINO 800M NORTE, CASA COLOR VERDE DE UNA PLANTA CON PORTON DE MADERA.\nENTREGAR DESPUES DE LA 1PM\nPORTABILIDAD."
+    },
+    "reaction": "",
+    "timestamp": 1725915807,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

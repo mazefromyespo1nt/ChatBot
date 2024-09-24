@@ -1,0 +1,183 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "2B44A8A7C979EAC9B7",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "voIiql.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725841809,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9DB1F8634BEFF4492DD04A5DD5ED0741",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sisisi"
+    },
+    "reaction": "",
+    "timestamp": 1725841828,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2956D18E945376E9C3A02BF0C8A10736",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Disculpa"
+    },
+    "reaction": "",
+    "timestamp": 1725844517,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5E8A9CD4E945C5DA0F0BFED0337A02A6",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Una pregunta"
+    },
+    "reaction": "",
+    "timestamp": 1725844531,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "20B153A83393C5C47F447850C476FDC7",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es que no encuentro la opción de dar likes latinos a comentarios de ig"
+    },
+    "reaction": "",
+    "timestamp": 1725844546,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E194F93D802ED98D1724601DC0F9FB36",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "😢"
+    },
+    "reaction": "",
+    "timestamp": 1725844549,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FD8CFD2ADFDDBFC9A0B42741E57BD9D5",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Voy hacer la primera venta jjj"
+    },
+    "reaction": "",
+    "timestamp": 1725844559,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6BAC8644ADB396A8A51EABDDEA3434E1",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero no encuentro"
+    },
+    "reaction": "",
+    "timestamp": 1725844564,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6B858CF0AC45C1A7525E4E7DDD326E9F",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya te indico"
+    },
+    "reaction": "",
+    "timestamp": 1725845156,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "037B296EB54CB934595F775119C2F846",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dale"
+    },
+    "reaction": "",
+    "timestamp": 1725845175,
+    "senderName": "🙈",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B7C07F7F367DE1500907032524F4B5F0",
+    "remoteJid": "573115590421@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me gusta Instagram latinos $ 1.20"
+    },
+    "reaction": "",
+    "timestamp": 1725845247,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

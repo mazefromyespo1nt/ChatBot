@@ -1,0 +1,65 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB047C57F6ED98CEF8FEE",
+    "remoteJid": "50688042001@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "pWkOPn.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725664119,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03D38B0714442789A56",
+    "remoteJid": "50688042001@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "BcWeaU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725664130,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0772A1065AC424659A5",
+    "remoteJid": "50688042001@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Diademas",
+      "fileName": "Qpy4en.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725664141,
+    "senderName": "Fiorela Chaves Asesora Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E6E30E673D40BA101487214F418EFF72",
+    "remoteJid": "50687178596@s.whatsapp.net",
+    "msgContext": {
+      "text": "¡Hola! Quiero más información sobre la promo de calzas."
+    },
+    "reaction": "",
+    "timestamp": 1725804965,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F6DA74D7A927B7C697C",
+    "remoteJid": "50687178596@s.whatsapp.net",
+    "msgContext": {
+      "text": "*BOST ALAJUELA*\n\n⚠️ *RESPUESTA AUTOMÁTICA*   \nNOS ENCONTRAMOS CERRADOS \n\nNuestro servicio de mensajería también se encuentra cerrado fuera de horario laboral \nNuestro horario es *Lunes a viernes de 10:00am a 6:45pm.* ⏳Gracias por tu mensaje, pronto te estaremos brindando una respuesta. 😊"
+    },
+    "reaction": "",
+    "timestamp": 1725804973,
+    "senderName": "Clinica Bost",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F6DA74D7A927B7C697C",
+    "remoteJid": "50687178596@s.whatsapp.net",
+    "msgContext": {
+      "text": "*BOST ALAJUELA*\n\n⚠️ *RESPUESTA AUTOMÁTICA*   \nNOS ENCONTRAMOS CERRADOS \n\nNuestro servicio de mensajería también se encuentra cerrado fuera de horario laboral \nNuestro horario es *Lunes a viernes de 10:00am a 6:45pm.* ⏳Gracias por tu mensaje, pronto te estaremos brindando una respuesta. 😊"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725804968,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EB705ED491BB0801E1",
+    "remoteJid": "50687178596@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas"
+    },
+    "reaction": "",
+    "timestamp": 1725900795,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "50661329327@s.whatsapp.net",
+      "id": "E6E30E673D40BA101487214F418EFF72"
+    }
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3A769F3F7D6F29036689",
+    "remoteJid": "50687178596@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Hola! Las calzas tienen un costo de ₡19.500+IVA (₡20.280) a ₡19.990+IVA (₡20.790) cada una según el tamaño. Son altamente estéticas, blancas. Actualmente tenemos una promoción donde pagas 2 (entre ₡39.000+IVA -> ₡40.560 y ₡39.980+IVA ->  ₡41.580  y te hacemos 3 en la misma cita (3x2 la tercera gratis), cancelándo en la cita solo dos ya la valoración va incluida en cita de promoción, si solo desea valorar serían ₡7000.",
+      "fileName": "VVri2M.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900824,
+    "senderName": "Clinica Bost",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

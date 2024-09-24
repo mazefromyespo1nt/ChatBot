@@ -1,0 +1,674 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0F74B254C9E9A9AF21719B0D42219451",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725540266,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FCF751ABDBD6C05B68C9EC96358637A4",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725540601,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9F5ACE9DE1F44818B81006AED32278EE",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725540697,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB067D9481E4CAD11B79D",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "elije tu regalo\n2 licuadora\n3 plancha",
+      "fileName": "IJXwu59kGRcgGKllr6FCnvTN6LWWw3NR.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725540699,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2610B35F5F3B23A8DFC8EAD452EC7EDA",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725540710,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB090A21A611B6553E5C3",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "elije tu regalo\n2 licuadora\n3 plancha",
+      "fileName": "IJXwu59kGRcgGKllr6FCnvTN6LWWw3NR.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725540712,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7C08AF4DD0620F91E8C779B6E038C94F",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "3"
+    },
+    "reaction": "",
+    "timestamp": 1725540719,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0C277429A05ECB68E6A",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "elije tu regalo\n2 licuadora\n3 plancha",
+      "fileName": "IJXwu59kGRcgGKllr6FCnvTN6LWWw3NR.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725540721,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3DD0EDCC4EA5FE49579AE1DBAEB65519",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hol"
+    },
+    "reaction": "",
+    "timestamp": 1725542111,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5F2367ECF6C260155D1D614626B9DD58",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725542118,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB03BBD7C47C9348E442E",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "elije tu regalo\n1. planchan\n2. licuadora",
+      "fileName": "jQO7q6vfE7xxcpI8d3L76DdlAFNUs8X7.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725542119,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0342057FE441EA723E5",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Elegiste plancha"
+    },
+    "reaction": "",
+    "timestamp": 1725542121,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5B331E59484041FD5297706FDB79AC8E",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725542131,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CC330D356833CC65B3",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Elegiste licuadora"
+    },
+    "reaction": "",
+    "timestamp": 1725542132,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0444820C2C5938A9826",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "informes de que deseas\n1. premios\n2 sorteos"
+    },
+    "reaction": "",
+    "timestamp": 1725542133,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2E4F624CE986A99F17103B94A48C4B97",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725542160,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB036EA3093E21B1EAF28",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Elegiste licuadora"
+    },
+    "reaction": "",
+    "timestamp": 1725542161,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB072CBDF88BA5C6FF791",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "informes de que deseas\n1. premios\n2 sorteos"
+    },
+    "reaction": "",
+    "timestamp": 1725542162,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "81977BAD25F72788761A05B68F7C96BB",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725542169,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04817613608BB0BDC8A",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Elegiste licuadora"
+    },
+    "reaction": "",
+    "timestamp": 1725542170,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "01AEEE7A3FCE8E58C439C161FDE00B81",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "3"
+    },
+    "reaction": "",
+    "timestamp": 1725542242,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7D6321DABB5BF829B8EF099103FA8D55",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "A"
+    },
+    "reaction": "",
+    "timestamp": 1725543678,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "210E300D2FE9220F5D35D242B848D97E",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725543693,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0B03BBA730390A364E8",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "elije tu regalo\n1. planchan\n2. licuadora",
+      "fileName": "jQO7q6vfE7xxcpI8d3L76DdlAFNUs8X7.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725543695,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB036FB32F9867AE188CC",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Elegiste plancha"
+    },
+    "reaction": "",
+    "timestamp": 1725543696,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F9B8793344BB0450F375F5F04A3F8B76",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "A"
+    },
+    "reaction": "",
+    "timestamp": 1725544089,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB09CE6B7E02463C016FF",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Te esperamos, te enviamos tu entrada",
+      "fileName": "mPQCFLkoPYiwcxCCujrnUYbk5KlydP3U.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725544091,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8E3899FDB164AEFF246EA6391A56DA70",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "b"
+    },
+    "reaction": "",
+    "timestamp": 1725544098,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09B49EE2D4A7DE8252A",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto!\nSi te animas. nos avisas para enviarte tu entrada"
+    },
+    "reaction": "",
+    "timestamp": 1725544099,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A81062B100BFB3A4365CA01AFABDFD75",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725544250,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02D87352994FC2407CA",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Seminario gratis\npor favor elije una opción\nA) Participar\nB) Lo pensare"
+    },
+    "reaction": "",
+    "timestamp": 1725544251,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "88973EE385A4D08450FF0C925995FD00",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "4"
+    },
+    "reaction": "",
+    "timestamp": 1725544463,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D188F6215D87E41A8E",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "Programas\n1. pro1\n2. pro 2"
+    },
+    "reaction": "",
+    "timestamp": 1725544464,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25A0854A528D07E2783001496FE9C756",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725544467,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "33D1A6047D20FD4C8CCC7CE7AD762B4A",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725544506,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB080576F0BDD1AFD0AEF",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "info de prog 1\n3"
+    },
+    "reaction": "",
+    "timestamp": 1725544507,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F0DDA372B921CE536215E633D718D922",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "3"
+    },
+    "reaction": "",
+    "timestamp": 1725544513,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5C2B488049C2170F9A4857ECB7DD7AB7",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725544516,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "3EB0CDEE892714C2ADDF5F",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "revise toda l informacion aqui\n\n4 para egresar al menu",
+      "fileName": "Info g2.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725544517,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "99CC212C9909C7F45C1292E49F59C7D1",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "text": "a"
+    },
+    "reaction": "",
+    "timestamp": 1725544526,
+    "senderName": "Desconocido",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0DE08CA95AB3E8D330A",
+    "remoteJid": "51906942807@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Te esperamos, te enviamos tu entrada",
+      "fileName": "mPQCFLkoPYiwcxCCujrnUYbk5KlydP3U.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725544527,
+    "senderName": "Desconocido",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

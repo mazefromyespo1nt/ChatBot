@@ -1,0 +1,201 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A1DF4B642E8DE98514D",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papi"
+    },
+    "reaction": "",
+    "timestamp": 1725912915,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC9E6151642950D6DC8",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q mas"
+    },
+    "reaction": "",
+    "timestamp": 1725912919,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9A8D6313EA5049C4F6",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q ha pasado"
+    },
+    "reaction": "",
+    "timestamp": 1725912927,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A850FFF235808AA9C3A",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuál es la última"
+    },
+    "reaction": "",
+    "timestamp": 1725912937,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AED3B5C78AE2FFD82F3",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dímelo"
+    },
+    "reaction": "",
+    "timestamp": 1725912990,
+    "senderName": "Victor Fernando Salcedo A",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A18394CA6E8A2C72DCD",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Collbtenfuen en Valencia"
+    },
+    "reaction": "",
+    "timestamp": 1725912998,
+    "senderName": "Victor Fernando Salcedo A",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF4DB47EFA1CEE3800A",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Uff brutal"
+    },
+    "reaction": "",
+    "timestamp": 1725913120,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3ACDBA7A36A16E6805B6",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Genial"
+    },
+    "reaction": "",
+    "timestamp": 1725913126,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3A4087A702D242AA4ECF",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "e2hSct.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725913167,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A36899334F345776E0D",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Melo"
+    },
+    "reaction": "",
+    "timestamp": 1725913204,
+    "senderName": "Victor Fernando Salcedo A",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3A0C679D76B00948DAF8",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "shZQAF.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725913219,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A88F5950BE0E8965CFD",
+    "remoteJid": "573136614495@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aquí estamos haciendo dos torticas de zanahoria 🥕"
+    },
+    "reaction": "",
+    "timestamp": 1725913245,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "3A0C679D76B00948DAF8"
+    }
+  }
+]

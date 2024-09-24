@@ -1,0 +1,55 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8CEA1B62FDFF7E4EBD",
+    "remoteJid": "573107129559@s.whatsapp.net",
+    "msgContext": {
+      "text": "dilanrios0525@gmail.com     Col123456"
+    },
+    "reaction": "",
+    "timestamp": 1725934144,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "57CA467FB2D474153F",
+    "remoteJid": "573107129559@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://chatpion.segutecnology.online/dashboard"
+    },
+    "reaction": "",
+    "timestamp": 1725934203,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "D311BA03B152477636",
+    "remoteJid": "573107129559@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "bE47Xj.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725936433,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

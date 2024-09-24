@@ -1,0 +1,214 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B39F3C7FAEAE2492E2C72D7F148CC432",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725571435,
+    "senderName": "NEXUM",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A515E47B61DEFE9F9A6C9729AF83C2E1",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725571587,
+    "senderName": "NEXUM",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AC1A373E62B558950E6D429596B26C3",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725571607,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F01C226EFF8EE999738F93911DA1743E",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "A"
+    },
+    "reaction": "",
+    "timestamp": 1725572811,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "317BF901D73A39E40EEA25618007B897",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "A"
+    },
+    "reaction": "",
+    "timestamp": 1725572944,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7B670D32FB37FB7D17B1D3CF462D7AB4",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "A"
+    },
+    "reaction": "",
+    "timestamp": 1725573027,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A1B69A2E3ACE82C5F8",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "caption": "hola",
+      "fileName": "c9I7Jxq3kPT3GQA2Pap60hhikPbnMSvk.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725573029,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "844DED44535E7AA471DE06F4E27FAD4D",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "B"
+    },
+    "reaction": "",
+    "timestamp": 1725573064,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "509383B120D2E0F185DCDE28D4FB4A99",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ab"
+    },
+    "reaction": "",
+    "timestamp": 1725573213,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EE3069757EFAD6928973A288C6086FF7",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "B"
+    },
+    "reaction": "",
+    "timestamp": 1725573214,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E019F102D1B9C017D7AAACCD6853A417",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "B"
+    },
+    "reaction": "",
+    "timestamp": 1725573233,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB01FD1A3F814FFEE27AB",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "caption": "👍🧑‍💻 ¡Te felicito por tu interes!, en el CURSO 🧰 *\"SOPORTE TECNICO DE COMPUTADORAS\".* Descubre los secretos para solucionar cualquier problema en equipos de Computo.\n\n🛠 *¿Qué aprenderás?*\n✓  Ensamblaje y Actualización PCs.\n✓  Diagnostico de Computadoras.\n✓  Reparación de Laptops.\n✓  Windows y Seguridad.\n✓  Redes Informáticas.\n✓  Reparación Impresoras.\n👇 *+ Detalles e inscripciones*\nhttps://bit.ly/3U9zTYH\n-\n🧑‍🏫 *Modalidad:* Presencial.\n⏳ *Duración:* 6 semanas 5 módulos\n🥇 Certificado al finalizar.\n-\n💰 *INVERSION*\n210.bs Pago por Módulo\n📢 ¡Reserva tu cupo con 50.bs!\n\nEscribe (*Ti*) Inicio del Curso.\nEscribe (*TH*) Horarios Disponibles.",
+      "fileName": "qeYd1KNrAIJxpdzB6wJT80wgrYuZjLJs.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725573235,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7E7FB0158253ACD1DE9F3487D87DF26A",
+    "remoteJid": "59173238557@s.whatsapp.net",
+    "msgContext": {
+      "text": "."
+    },
+    "reaction": "",
+    "timestamp": 1725574032,
+    "senderName": "𝑆𝑜𝑦 𝐸𝑑!",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "33408C8D98389A8800034BE3BD0BE5BE",
+    "remoteJid": "573014876346@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "pXIdjm.mpga",
+      "mimetype": "audio/mpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725545222,
+    "senderName": "sirleypimienta1978",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

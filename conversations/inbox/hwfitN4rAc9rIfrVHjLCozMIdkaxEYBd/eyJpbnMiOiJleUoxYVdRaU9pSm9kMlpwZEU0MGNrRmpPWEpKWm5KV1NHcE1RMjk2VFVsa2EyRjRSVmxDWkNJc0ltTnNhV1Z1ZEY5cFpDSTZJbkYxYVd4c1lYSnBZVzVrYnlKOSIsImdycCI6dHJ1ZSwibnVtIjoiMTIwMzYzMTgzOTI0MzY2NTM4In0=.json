@@ -1,0 +1,771 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B49CBB813384571D5E",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725836249,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C52A3964F776708DA9",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenas tardes, perdón interrumpa su domingo"
+    },
+    "reaction": "",
+    "timestamp": 1725836302,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "02EABD8B8964FDC15F",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "caption": "Al enviar el mensaje de prueba me muestra este mensaje de error",
+      "fileName": "rClJAE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725836346,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "6EB92D339EA0DC57C9CC84D543ACAD3D",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "."
+    },
+    "reaction": "",
+    "timestamp": 1725837108,
+    "senderName": "Karencita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "CF094F968666F2A9CAE1615273E10EE4",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "."
+    },
+    "reaction": "",
+    "timestamp": 1725837118,
+    "senderName": "Karencita",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573219316862@s.whatsapp.net",
+      "id": "CCD5785CEECEA5493ED59E4C2E60CBBC"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "742A78543FA149F921",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Hola bunas tardes, una pregunta, en el archivo de excel para enviar correos masivos sin archivos adjuntos, como le hago para poner el tiempo mas rapido?"
+    },
+    "reaction": "",
+    "timestamp": 1725837127,
+    "senderName": "Enrique Ibañez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "964B4BCFE7229C6983DE38AE206C2D8F",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Lo he intentado colocando el símbolo + por delante"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725837244,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51941724699@s.whatsapp.net",
+      "id": "02EABD8B8964FDC15F"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3175BE19317AAB708C9B0E152346F528",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "\"+XXXXXXXXX\""
+    },
+    "reaction": "",
+    "timestamp": 1725837259,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "964B4BCFE7229C6983DE38AE206C2D8F",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Lo he intentado colocando el símbolo + por delante"
+    },
+    "reaction": "",
+    "timestamp": 1725837261,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51941724699@s.whatsapp.net",
+      "id": "02EABD8B8964FDC15F"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "964B4BCFE7229C6983DE38AE206C2D8F",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Lo he intentado colocando el símbolo + por delante"
+    },
+    "reaction": "",
+    "timestamp": 1725837263,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51941724699@s.whatsapp.net",
+      "id": "02EABD8B8964FDC15F"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BB7A07EC47A33437B6F9D677753814EF",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Y me sale: Mensajes, enviados"
+    },
+    "reaction": "",
+    "timestamp": 1725837278,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7308E90B4CE8985C4F78A4B89DB9B579",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Pero no se envía ningún mensaje, o simplemente no llega al destinatario, lo he probado con y sin imagen"
+    },
+    "reaction": "",
+    "timestamp": 1725837302,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9682D973E6A8BFDD4C",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Ya pude hacer envíos, muchísimas gracia"
+    },
+    "reaction": "",
+    "timestamp": 1725838280,
+    "senderName": "Jorge De La Cruz - Seguros",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A26AC9BDFB114013318",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Solo pon el código"
+    },
+    "reaction": "",
+    "timestamp": 1725839109,
+    "senderName": "Ing. Luís Trigozo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A93C326F1CF90FDEC58",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "La programación le añadirá el +"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725839120,
+    "senderName": "Ing. Luís Trigozo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "544BAD60A30EBBDF597CB0680581F3C8",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenas tardes Enbo tengo problemas al ingresar"
+    },
+    "reaction": "",
+    "timestamp": 1725933282,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "544BAD60A30EBBDF597CB0680581F3C8",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenas tardes Enbo tengo problemas al ingresar"
+    },
+    "reaction": "",
+    "timestamp": 1725933284,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AC56036A203783512207250573C8B522",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "A la plataforma Mmw ayer ingre de bien y puede hacer una prueba enviándome un mensa y ya hoy no se pudo y me dice que es un problema interno del servidor \n\nOtra cosa que guarde el ensace para ingresar a la plataforma más fácil y desde el enlace no puede tengo que estar dando instalación al servicio Mmw para que me ingre a la página"
+    },
+    "reaction": "",
+    "timestamp": 1725933439,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "BC285F0E17C648CBB5FB76B6C6A547E6",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Tienes error ?"
+    },
+    "reaction": "",
+    "timestamp": 1725933497,
+    "senderName": "E",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660986542@s.whatsapp.net",
+      "id": "AC56036A203783512207250573C8B522"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "01F2CF174B504350C5EE094E664BA4B0",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Creo que sí no se que es"
+    },
+    "reaction": "",
+    "timestamp": 1725933531,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5B164180F6FA0846148E33980778062B",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Alguien sabe que lo que está pasando.."
+    },
+    "reaction": "",
+    "timestamp": 1725933655,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "544BAD60A30EBBDF597CB0680581F3C8",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenas tardes Enbo tengo problemas al ingresar"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725933265,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03036F0817E8EAD9D17",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Hola buenas noches les comento a mi me habia salido por varios dias el error 300, Y hoy que tuve tiempo lo pude solucionar, la forma en que lo hice es volver a instalar todo desde cero y, cuando la aplicación se quedaba detenida, e cerrado la sesión la e vuelto a iniciar y me a dejado terminar mis pruebas de forma exitosa, las imagenes deben de enviarlas en el formato adecuado PNG para no tener contratiempos y siempre que ejecuten los programas haganlo desde el modo de administrador para que no tengan problemas."
+    },
+    "reaction": "",
+    "timestamp": 1725947140,
+    "senderName": "Uriel B",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0410CC59FD28F078FE0",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "En proximos días cuenta con mi donativo, Gran trabajo Enbo, gran trabajo!!!"
+    },
+    "reaction": "",
+    "timestamp": 1725947308,
+    "senderName": "Uriel B",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C9C26396304B54E96EAAF18F144D0B4A",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Gracias tenía dos problemas el primero que no sabía que aceptaba el formato jpg que solo acepta png\n\nY el segundo que para usarlo en mi caso tengo que tener abierto el símbolo del sistema, con eso si trabaja bien"
+    },
+    "reaction": "",
+    "timestamp": 1725947692,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215627093327@s.whatsapp.net",
+      "id": "3EB03036F0817E8EAD9D17"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B70277D600F31C84796AE588FC86CAD8",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Tienes que tenerlo abierto todo el tiempo para que trabaje al 100"
+    },
+    "reaction": "",
+    "timestamp": 1725947965,
+    "senderName": "Uriel B",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50660986542@s.whatsapp.net",
+      "id": "C9C26396304B54E96EAAF18F144D0B4A"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "62B7C9DCF1986D9F339E982975E3D550",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "No lo sabía, ví el vídeo varias veces y no capte eso al final me di cuenta que era eso.."
+    },
+    "reaction": "",
+    "timestamp": 1725948324,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215627093327@s.whatsapp.net",
+      "id": "B70277D600F31C84796AE588FC86CAD8"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "8D7DDE9B2E9780BE1C0B24750FFEC02E",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "1Ou8OI.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725973266,
+    "senderName": "Claro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1F64C2C695F6F878054F43B2D46CBDD2",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenos días el error persiste"
+    },
+    "reaction": "",
+    "timestamp": 1725973274,
+    "senderName": "Claro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F9CD3159393E103F545170FBFE87AF98",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Saben si ya lo arregladon"
+    },
+    "reaction": "",
+    "timestamp": 1725973280,
+    "senderName": "Claro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "AB6D80C9D11D9F5A6F6967B5BBBC4EF7",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenassss.... a mi me dumciona...."
+    },
+    "reaction": "",
+    "timestamp": 1725975124,
+    "senderName": "Matias Carrizo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "8948111B7D838319862E74920433D2C6",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Funciona"
+    },
+    "reaction": "",
+    "timestamp": 1725975132,
+    "senderName": "Matias Carrizo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "E40657AB77F134F0D82EB3A16F1B19BC",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Buenos días tu mensaje tiene imágenes?"
+    },
+    "reaction": "",
+    "timestamp": 1725977689,
+    "senderName": "Microbol Colombia",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573212723435@s.whatsapp.net",
+      "id": "8D7DDE9B2E9780BE1C0B24750FFEC02E"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "D25D8D0DDBADF006440629699F61F72C",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Si pero yo lo mejor con el formato"
+    },
+    "reaction": "",
+    "timestamp": 1725978018,
+    "senderName": "Claro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573212723435@s.whatsapp.net",
+      "id": "8D7DDE9B2E9780BE1C0B24750FFEC02E"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "914A97F627327CE6D247FA9987698F20",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Que mencionan"
+    },
+    "reaction": "",
+    "timestamp": 1725978020,
+    "senderName": "Claro",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "88C6062C4181E7CAF5",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "muy buen trabajo, lo que si estaría bueno poder categorizar los contactos, porque tal vez quieras mandar algunas cosas a algunos y otras a otros"
+    },
+    "reaction": "",
+    "timestamp": 1725978176,
+    "senderName": "Altavoz Contenidos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "88C6062C4181E7CAF5",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "muy buen trabajo, lo que si estaría bueno poder categorizar los contactos, porque tal vez quieras mandar algunas cosas a algunos y otras a otros"
+    },
+    "reaction": "",
+    "timestamp": 1725978176,
+    "senderName": "Altavoz Contenidos",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "88C6062C4181E7CAF5",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "muy buen trabajo, lo que si estaría bueno poder categorizar los contactos, porque tal vez quieras mandar algunas cosas a algunos y otras a otros"
+    },
+    "reaction": "",
+    "timestamp": {
+      "low": 1725978170,
+      "high": 0,
+      "unsigned": true
+    },
+    "senderName": "",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EAF8120D747C7BD02CDBD1479A086150",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Se está trabajando en ello"
+    },
+    "reaction": "👍",
+    "timestamp": 1725980656,
+    "senderName": "E",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5492634612580@s.whatsapp.net",
+      "id": "88C6062C4181E7CAF5"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9F897E0E200ADED44A3F887CD025322A",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "La imagen pasarla a PNG  es como la acepta mejor.. \nY creo que la acepta mejor con nombre seguido, no ponerle un nombre muy largo a la imagen."
+    },
+    "reaction": "",
+    "timestamp": 1725981396,
+    "senderName": "Internet Conexiones telein",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573212723435@s.whatsapp.net",
+      "id": "D25D8D0DDBADF006440629699F61F72C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABD3AA6ED8C361AE567",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "Videos en que formato se puede compartir ?"
+    },
+    "reaction": "",
+    "timestamp": 1725982030,
+    "senderName": "Ing. Luís Trigozo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB08FCE2E92BAC56AAA92",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "text": "HOLA BUEN DÍA. INTENTO \"GUARDAR\" UN MENSAJE PARA ENVIAR, SIN MABEGO AL \"GUARDARLO\"ME INDICA MENSAJE QUE NO ESTOY AUTORIZADA PARA ESA TRANSACCIÓN"
+    },
+    "reaction": "",
+    "timestamp": 1725982124,
+    "senderName": "Judy 🌷",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0A897468D1F5D853518",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "gIok0n.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725982410,
+    "senderName": "Judy 🌷",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215542143450@s.whatsapp.net",
+      "id": "3EB08FCE2E92BAC56AAA92"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0ED50FE59958A0EF980",
+    "remoteJid": "120363183924366538@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "eCaKAM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725982538,
+    "senderName": "Judy 🌷",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5215542143450@s.whatsapp.net",
+      "id": "3EB0A897468D1F5D853518"
+    }
+  }
+]

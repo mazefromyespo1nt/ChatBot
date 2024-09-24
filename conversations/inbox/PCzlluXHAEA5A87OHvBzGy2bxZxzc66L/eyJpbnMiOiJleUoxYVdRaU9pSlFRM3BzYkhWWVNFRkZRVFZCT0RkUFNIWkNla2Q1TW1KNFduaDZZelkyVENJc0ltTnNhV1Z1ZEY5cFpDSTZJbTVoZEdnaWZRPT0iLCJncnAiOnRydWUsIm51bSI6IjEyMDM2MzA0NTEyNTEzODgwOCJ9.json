@@ -1,0 +1,150 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "C7E6E974198455610620BF3D053EFE08",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0gXrCi.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725648710,
+    "senderName": "dgustabodega1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "88E7D7D13BFD3534D6CA27A719F26EB2",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": "96 de porción de catsup Deli a Fabi"
+    },
+    "reaction": "",
+    "timestamp": 1725651732,
+    "senderName": "dgustabodega1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB007A99DC0CFD1EC85A2",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": "Poncho, un favor, hay que dejar listo el pedido de Gabachos"
+    },
+    "reaction": "",
+    "timestamp": 1725664420,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB018835B4F8E90C741B5",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": "Para que lo puedan cargar"
+    },
+    "reaction": "",
+    "timestamp": 1725664456,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "29A1440B0F044BD6EE810DDF904A0CB8",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": "Listo"
+    },
+    "reaction": "",
+    "timestamp": 1725664463,
+    "senderName": "dgustabodega1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01E4A207857190E391C",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": "Gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725664749,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E5F9A59A244461B1E6E600E862A08CC1",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "mUkfu3.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725903958,
+    "senderName": "dgustabodega1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B2B000325D86C212233E24D8D6F21D3D",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": ",81 de catsup de porción Degusta"
+    },
+    "reaction": "",
+    "timestamp": 1725923302,
+    "senderName": "dgustabodega1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2FDD3A6952C7B45D7EC327D9F02F885D",
+    "remoteJid": "120363045125138808@g.us",
+    "msgContext": {
+      "text": "A fabi"
+    },
+    "reaction": "",
+    "timestamp": 1725923310,
+    "senderName": "dgustabodega1",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

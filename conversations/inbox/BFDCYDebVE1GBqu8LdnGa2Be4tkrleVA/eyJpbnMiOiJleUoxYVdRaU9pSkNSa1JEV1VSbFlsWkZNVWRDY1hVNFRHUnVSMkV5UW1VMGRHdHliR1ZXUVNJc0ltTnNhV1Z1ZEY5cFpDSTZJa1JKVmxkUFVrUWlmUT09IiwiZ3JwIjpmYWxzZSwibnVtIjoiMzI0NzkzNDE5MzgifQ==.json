@@ -1,0 +1,87 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "5EA6EAB7DD4F2A62A837",
+    "remoteJid": "32479341938@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "iUEOfF.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725901543,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "34F7E6742C3AC4A56C991BB4D639FFCF",
+    "remoteJid": "32479341938@s.whatsapp.net",
+    "msgContext": {
+      "text": "😂"
+    },
+    "reaction": "",
+    "timestamp": 1725906010,
+    "senderName": "Jo Scholliers",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A401FA06F4E28D688FB",
+    "remoteJid": "32479341938@s.whatsapp.net",
+    "msgContext": {
+      "text": "😅"
+    },
+    "reaction": "",
+    "timestamp": 1725906518,
+    "senderName": "LOIXS",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A483B4AC829619669A2",
+    "remoteJid": "32479341938@s.whatsapp.net",
+    "msgContext": {
+      "text": "voor jou"
+    },
+    "reaction": "",
+    "timestamp": 1725907921,
+    "senderName": "LOIXS",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "32491366490@s.whatsapp.net",
+      "id": "5E72A5F0722B3A702204"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6EB3EE9FB0851B33CB3C9D2820DAD832",
+    "remoteJid": "32479341938@s.whatsapp.net",
+    "msgContext": {
+      "text": "❤️"
+    },
+    "reaction": "",
+    "timestamp": 1725908229,
+    "senderName": "Jo Scholliers",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

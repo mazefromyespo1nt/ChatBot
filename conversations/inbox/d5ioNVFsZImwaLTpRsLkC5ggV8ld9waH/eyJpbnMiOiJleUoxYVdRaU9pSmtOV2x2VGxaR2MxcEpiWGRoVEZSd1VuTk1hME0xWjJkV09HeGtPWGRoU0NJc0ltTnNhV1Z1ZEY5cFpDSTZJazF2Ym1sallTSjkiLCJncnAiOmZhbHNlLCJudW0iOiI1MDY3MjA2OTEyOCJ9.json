@@ -1,0 +1,120 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9DFF3B4C5D6CE644B5B6EC804A73F6F0",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725909363,
+    "senderName": "\"JMartínez\".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0162D4BCE5D1C0EB015",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Muy buenos días. Actualmente contamos con estas opciones de planes postpago que no requieren deposito y se paga la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "pXRssc.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910406,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0EE2B5A377BFA6DA4D4",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Y también contamos con oferta en los servicios de hogar como cable e internet. Que también se cancela la primera mensualidad hasta el próximo mes☺️",
+      "fileName": "1sm1Bs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910437,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB046F0A22E0F8FB3D6C2",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Que servicios te interesa mas?\n1️⃣ Planes postpago\n2️⃣ Servicios de hogar (CABLE e INTERNET)"
+    },
+    "reaction": "",
+    "timestamp": 1725913297,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25E605C3F8B909BAF62E1CFF2C024CD2",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "text": "La otra semana podemos hablar del tema me gusta la opción 1️⃣"
+    },
+    "reaction": "",
+    "timestamp": 1725913505,
+    "senderName": "\"JMartínez\".",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B66A71876B65EEA228",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro no hay problema quedo atenta, le adjunto los requisitos para poder adquirir el plan postpago, sin ningún compromiso por si desea adelantar lo que sería la documentación."
+    },
+    "reaction": "",
+    "timestamp": 1725913812,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0E1C6373E6581A4DE4A",
+    "remoteJid": "50672069128@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para adquirir nuestro servicio requerimos\n- *Foto por ambos lados de su documento de identidad* que esté vigente o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Foto tipo selfy de su documento de identidad que esté vigente* o, legible, en buen estado y *que se vean las 4 esquinas* (pasaporte, carnet permiso laboral, cédula de residencia, Carnet de refugio, Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- *Correo electrónico*\n- *Dirección exacta* lugar de residencia con *provincia, cantón, distrito* .\n- *2 nombres y números de referencia* por si no lográramos poner nos en contacto al momento de hacer la entrega",
+      "fileName": "jPqQXN.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725913836,
+    "senderName": "Mónica Urbina",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

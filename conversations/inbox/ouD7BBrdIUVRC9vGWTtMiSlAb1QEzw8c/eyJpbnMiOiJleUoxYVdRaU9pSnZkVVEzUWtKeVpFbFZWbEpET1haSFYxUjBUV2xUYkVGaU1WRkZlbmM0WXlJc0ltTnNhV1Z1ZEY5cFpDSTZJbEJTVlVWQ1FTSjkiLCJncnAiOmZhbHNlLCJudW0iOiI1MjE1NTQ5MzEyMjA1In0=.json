@@ -1,0 +1,107 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "90F612209AF1D31A17",
+    "remoteJid": "5215549312205@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola"
+    },
+    "reaction": "",
+    "timestamp": 1725503768,
+    "senderName": "World Code",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB03998B5381A80743738",
+    "remoteJid": "5215549312205@s.whatsapp.net",
+    "msgContext": {
+      "text": "buenas noches como estas ?"
+    },
+    "reaction": "",
+    "timestamp": 1725503777,
+    "senderName": "World Code",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "252DA6A05D407A8C14",
+    "remoteJid": "5215549312205@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "v4deK1.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725503801,
+    "senderName": "World Code",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06C0216C81F8994584F",
+    "remoteJid": "5215549312205@s.whatsapp.net",
+    "msgContext": {
+      "text": "perfecto"
+    },
+    "reaction": "",
+    "timestamp": 1725503811,
+    "senderName": "World Code",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB06B8ACDF9915FAE3024",
+    "remoteJid": "5215549312205@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "GjNtedT9LGs3tQHTWoU40wgxPLvd6iaL.png",
+      "mimetype": "image/png"
+    },
+    "reaction": "",
+    "timestamp": 1725503829,
+    "senderName": "World Code",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0788FC41B1E3F517DAC",
+    "remoteJid": "5215549312205@s.whatsapp.net",
+    "msgContext": {
+      "caption": "🔥CHEYENNE 2008 ➕ TANQUE LLENO ➕ BONOS\n\naparta aqui ⬇️ ⬇️\nhttps://srtsgarcia.com/s-36\n\n✅SE RIFA EL 26 DE NOV,sujeto a cambios (info completa dentro del sitio web)\n\n✅PRESORTEOS\n. $5,000- 24 SEP\n. $5,000- 15 OCT\n. $5,000- 5 NOV\n\n✅BONOS PRONTO PAGO, SI ERES EL GANADOR Y COMPRAS:\n👉🏼 1 BOLETO=BONO $5,000 + TANQUE LLENO\n👉🏼2 BOLETOS= BONO $10,000 + TANQUE LLENO\n👉🏻3 BOLETOS O MAS= BONO $15,000 + TANQUE LLENO \n\n📌(los boletos son acumulables, para aplicar por los bonos tienes que pagar antes de las 72 horas después de tu apartado y no dejar boletos sin pagar)\n\nCOSTO👇🏻 \n$380 X BOLETO. \n(cada boleto tiene 8 oportunidades)",
+      "fileName": "lkWllNaUhmFkhrjabsieb8dYpw9ovZEF.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725503936,
+    "senderName": "World Code",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

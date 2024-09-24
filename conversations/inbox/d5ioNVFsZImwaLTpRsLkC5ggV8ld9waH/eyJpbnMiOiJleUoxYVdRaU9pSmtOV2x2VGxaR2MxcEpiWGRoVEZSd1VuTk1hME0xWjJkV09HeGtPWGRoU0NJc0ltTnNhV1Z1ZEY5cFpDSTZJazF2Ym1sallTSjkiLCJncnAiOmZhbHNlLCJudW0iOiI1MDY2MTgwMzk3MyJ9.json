@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01B4740D855F4F28E87",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Mónica, Tu contrato ha sido enviado a Gabriel Monge Maffioli\n\nIMPORTANTE!!!\n\nRecuérdale al cliente que debe ingresar al link enviado y firmar el contrato para finalizar el proceso\n\nNº de gestión\n\n854-MCC-244393-070924-00165431"
+    },
+    "reaction": "",
+    "timestamp": 1725743548,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CB8D75EAAB740B15F7",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://movicheck.com/invitacionFirma?NumGestion=854MCC24439307092400165431"
+    },
+    "reaction": "",
+    "timestamp": 1725743578,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "400CE405C4C012F21E967E857B2129B3",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuanto tiene el cliente para firmar?"
+    },
+    "reaction": "",
+    "timestamp": 1725744691,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0940319507AACD35B5F",
+    "remoteJid": "50661803973@s.whatsapp.net",
+    "msgContext": {
+      "text": "cuando el guste"
+    },
+    "reaction": "",
+    "timestamp": 1725744708,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

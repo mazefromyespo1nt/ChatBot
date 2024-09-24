@@ -1,0 +1,448 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E544FA5B60CFB39A62D3C1BDB643DBD7",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días.\nUna consulta. Es en la información no se menciona pero esto incluye servicio en otros países ¿verdad?"
+    },
+    "reaction": "",
+    "timestamp": 1725721550,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB031DCD87BE27644A8B8",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días correcto. Liberty posee la opción de *navegar sin costo adicional en todo Centroamerica y Norteamerica ✈️😁"
+    },
+    "reaction": "",
+    "timestamp": 1725722100,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB078B617CA2C3FEF63BC",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "LCzueL.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725722113,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D43EEB98819015C19A",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquiera de esos planes tienen la cortesía de todo setiembre GRATIS. Pagarías hasta el 20-10-2024"
+    },
+    "reaction": "",
+    "timestamp": 1725722165,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A9E66937F044059F17",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Le gustaria conservar su mismo número? y  ¿Donde le gustaría la entrega? 😁cualquier duda con gusto"
+    },
+    "reaction": "",
+    "timestamp": 1725722207,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BFDAEDD7E037925344FDE8FAC084B4B7",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok. Y el plan dice que es de 10 G pero ud me ofrece 12 G?"
+    },
+    "reaction": "",
+    "timestamp": 1725722263,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CC90BCB64EE22C1C08",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Correcto si se hace la portabilidad son 12GB  (conservar el mismo número si es KOLBI o CLARO)"
+    },
+    "reaction": "",
+    "timestamp": 1725722415,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D4713F49F1398BF05A8F0B0E3C8479B2",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perdón otra que se me iba. Minutos de llamadas y SMS tiene?"
+    },
+    "reaction": "",
+    "timestamp": 1725726061,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "61126C6563CE8CA037082D9D5ADA5365",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok. Me quiero pasar con mi mismo número"
+    },
+    "reaction": "",
+    "timestamp": 1725726325,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05C17529178D010F178",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Perfecto. Si gusta para validar y continuar con el proceso requerimos unos datos en el sistema😁"
+    },
+    "reaction": "",
+    "timestamp": 1725726474,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB067B5E510B1CC64F2A8",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Para poder realizar la validación es necesario que nos envíe:\n- Foto por ambos lados de su documento de identidad que esté vigente, legible y en buen estado y que se vean las 4 esquinas (pasaporte, carnet permiso laboral, cedula de residencia, Carnet de refugio,Permiso para trabajador temporal o trabajador sector agropecuario en caso de ser extranjero)\n- Correo electrónico\n- Dirección exacta con provincia, cantón, distrito donde se le entregará\n- 2 Referencias numericas con nombre y apellido\n- Una foto tipo selfie como el ejemplo",
+      "fileName": "f33SOh.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725726482,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0BC3339AB4CAEF8DD13",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Nkg1pj.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725726493,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F2FA0A32E17A2A657DE28E4B170E49F1",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Las 2 referencias numéricas a qué se refiere?"
+    },
+    "reaction": "",
+    "timestamp": 1725726569,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB0E3938F0FB9A4AEF411",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "QzdJQv.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725726686,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1717043289E51C0B629A7E7462E0D359",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725726721,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2DC711B7D6B8BA3DC08964AA43A18E9D",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "En cuanto pueda le mando todo. Y creo que mi esposa también se cambiaría"
+    },
+    "reaction": "",
+    "timestamp": 1725726749,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB04ACAFB082E63FCF9A7",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "B0S88W.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725726804,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB032A2D23F9224D6C1D6",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "JY3U1m.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725726814,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4B419BEC6EE2620E7EBCEE19AAC95836",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Muchas gracias"
+    },
+    "reaction": "👍",
+    "timestamp": 1725726865,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C1F8BECDAD5F01F9FAD85795D27A777B",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día Don Rodrigo quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera. Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725891048,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D9AB41BB397D38FD3B47C5C8D0AB9B5E",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días"
+    },
+    "reaction": "",
+    "timestamp": 1725901219,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9CE194537A01B178ACD65E141CAABA0B",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "En cuánto pueda le paso la información"
+    },
+    "reaction": "",
+    "timestamp": 1725901236,
+    "senderName": "Rodrigo Sojo 로드리고",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA4EA630629E349990",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Claro, perfecto así les coordino en ruta para que se le entregue pronto y aprovechen el mes de setiembre gratis 🎁"
+    },
+    "reaction": "",
+    "timestamp": 1725901340,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02DA69B49454472E521",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y su esposa también si gusta"
+    },
+    "reaction": "",
+    "timestamp": 1725901360,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB052C9F2C66267B39A91",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "😃Entiendo, suele pasar. Quedo atenta"
+    },
+    "reaction": "",
+    "timestamp": 1725902559,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C0543F2D171BE0E106",
+    "remoteJid": "50688953246@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días Don Rodrigo espero hayan amanecido muy bien."
+    },
+    "reaction": "",
+    "timestamp": 1725980264,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

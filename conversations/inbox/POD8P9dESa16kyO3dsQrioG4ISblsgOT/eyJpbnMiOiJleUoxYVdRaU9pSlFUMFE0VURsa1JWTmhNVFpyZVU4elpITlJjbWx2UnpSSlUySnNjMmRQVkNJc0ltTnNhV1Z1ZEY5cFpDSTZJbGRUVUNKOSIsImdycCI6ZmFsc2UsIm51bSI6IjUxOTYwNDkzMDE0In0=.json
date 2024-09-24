@@ -1,0 +1,2359 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "697CD643A9C983D1B210982CB66933BC",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te tengo una pregunta"
+    },
+    "reaction": "",
+    "timestamp": 1725553490,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "94861F2BB127FFA524C42F939EA4CF24",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Seryov"
+    },
+    "reaction": "",
+    "timestamp": 1725553491,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB011DCF29A0658B8C957",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "habka"
+    },
+    "reaction": "",
+    "timestamp": 1725553507,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "044B77414A8FC6488FF1B77AB5C9961E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es sobre Google"
+    },
+    "reaction": "",
+    "timestamp": 1725553518,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "40CC599DD50292C753EC9FDBEC4D1B58",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Play"
+    },
+    "reaction": "",
+    "timestamp": 1725553520,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FF9FB3A9B6A14FF586F025D4441729F6",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Debes de saber"
+    },
+    "reaction": "",
+    "timestamp": 1725553523,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "2D23917EEB78AEDC6003D0B9D7BA421E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jMmp5X.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553528,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "242D5D2D7D7C9A2376E392421D195013",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cómo hago eso"
+    },
+    "reaction": "",
+    "timestamp": 1725553531,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB077792C1323F537DD9D",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "como haces que?"
+    },
+    "reaction": "",
+    "timestamp": 1725553539,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "50D04530D4047F67170E13B7EE7C6132",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ponerlo en esa moneda"
+    },
+    "reaction": "",
+    "timestamp": 1725553545,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51960493014@s.whatsapp.net",
+      "id": "2D23917EEB78AEDC6003D0B9D7BA421E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C6C0CDF68C49F1CCF3",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "es lira egipcia"
+    },
+    "reaction": "",
+    "timestamp": 1725553559,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0432ECDAE93A39EE090",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "facil"
+    },
+    "reaction": "",
+    "timestamp": 1725553564,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C552487ADD4568E36A",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "debes cerrar todos tus direccciones"
+    },
+    "reaction": "",
+    "timestamp": 1725553572,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C78E9B2E9E70B90AB1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "desde pay.google.com"
+    },
+    "reaction": "",
+    "timestamp": 1725553576,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D58A5CF7AF1AC22DCB",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "y creas una nueva metiendo una tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725553584,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0A2F2E772CFB14FF0EE",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "b00tSb.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553634,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D2F13715683DEEA6C2",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "cierras el perfil"
+    },
+    "reaction": "",
+    "timestamp": 1725553646,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB097476EF52F999761D5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "y haces todo desde 0"
+    },
+    "reaction": "",
+    "timestamp": 1725553654,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB006BCC276CCEDA112C0",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "meter tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725553657,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08F21805FC7F7F9F81E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "en otr pais"
+    },
+    "reaction": "",
+    "timestamp": 1725553664,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "093185A94F85F48A5AE8C423A6EBE984",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "18gOHX.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553681,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB036BF63F89A31309AFF",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "tienes q cerrar ese perfil"
+    },
+    "reaction": "",
+    "timestamp": 1725553692,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A209BAED5A3DAA9D45",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "de pagos"
+    },
+    "reaction": "",
+    "timestamp": 1725553693,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BC58ADE3B23E652B745867AAD6C32A2F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cómo lo cierro desde el cel"
+    },
+    "reaction": "",
+    "timestamp": 1725553761,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A8F29B75D510385CB5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ni idea xD"
+    },
+    "reaction": "",
+    "timestamp": 1725553771,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0ED5F5ACFE9D4A60649",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "no uso cell"
+    },
+    "reaction": "",
+    "timestamp": 1725553773,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00DD4CE8C342F4665B4",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "xD"
+    },
+    "reaction": "",
+    "timestamp": 1725553773,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "15D1233F449B91A53DC7BC59CAAF048A",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Zc4B0e.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553800,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F063ED6FF513213D5922D0200FBABD80",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Abajo verdad"
+    },
+    "reaction": "",
+    "timestamp": 1725553804,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04A62B3E04E6FDF6931",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "es"
+    },
+    "reaction": "",
+    "timestamp": 1725553811,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04CC969F9F96BAC5458",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "se"
+    },
+    "reaction": "",
+    "timestamp": 1725553816,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "2C68BB80AE11E4A21215D9CF21A35DF1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "e4iKXs.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553863,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "14B02E2C1FE8164916800943C87C67EF",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya lo cerré"
+    },
+    "reaction": "",
+    "timestamp": 1725553980,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "85F75714D5C3ACF0AE3722395DB87CCB",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ahora que hago"
+    },
+    "reaction": "",
+    "timestamp": 1725553985,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0418A047734217B947C",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ahora"
+    },
+    "reaction": "",
+    "timestamp": 1725554042,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB066692A4FDB1216C09E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "entras a pay.google.com"
+    },
+    "reaction": "",
+    "timestamp": 1725554048,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB007A936D67072A0F9AC",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "y pones una nueva tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725554056,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06A405E509E8DF7E8F9",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "y en direccion"
+    },
+    "reaction": "",
+    "timestamp": 1725554059,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06937D2297EE8AC890F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "le pones pais egipto"
+    },
+    "reaction": "",
+    "timestamp": 1725554063,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04614D50B775B833573",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "una direccion de egipto codigo postal de egipto"
+    },
+    "reaction": "",
+    "timestamp": 1725554071,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D6B82B896BB2952602",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "y reza"
+    },
+    "reaction": "",
+    "timestamp": 1725554072,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0593BED64B750653A71",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "q tu tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725554075,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BFE28D9BBDA5EAB6B7",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "pase para google play"
+    },
+    "reaction": "",
+    "timestamp": 1725554082,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4925330F26314F9C418953AB42E79243",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me puedes ayudar"
+    },
+    "reaction": "",
+    "timestamp": 1725554595,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "268BD3B2B77983DD7AE63B4E0903414F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con la dirección y codigo postal"
+    },
+    "reaction": "",
+    "timestamp": 1725554603,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A721215A22DCC3E287024AEE89A98A0",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "🥹"
+    },
+    "reaction": "",
+    "timestamp": 1725554607,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F81460BED31C68B45A",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.bestrandoms.com/random-address-in-eg"
+    },
+    "reaction": "",
+    "timestamp": 1725554635,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D578F1A363E228739A0F7997F71F5F8C",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya hice todo pero no sé porque no me sale el precio en egp"
+    },
+    "reaction": "",
+    "timestamp": 1725558933,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E4E4D00D323DC8E04C4D7891289BA54A",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me sale en soles xd"
+    },
+    "reaction": "",
+    "timestamp": 1725558937,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CC87BE83EFBFE759AB7E6F77CC27C412",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "En el juego me sale en soles"
+    },
+    "reaction": "",
+    "timestamp": 1725559017,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8E49C9BF76E3F08ECFEE5490B64A149E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "No sé porque no me sale en egp"
+    },
+    "reaction": "",
+    "timestamp": 1725559023,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0627943EA42A732CEF2",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "seguro es porq en el juego"
+    },
+    "reaction": "",
+    "timestamp": 1725559075,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C9AEA863D75453DE14",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya te has registrado"
+    },
+    "reaction": "",
+    "timestamp": 1725559078,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AB1D6AA5ECF96EC098",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "como peru ps"
+    },
+    "reaction": "",
+    "timestamp": 1725559080,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F56548BD06DFE66659",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "a menos q debas poner"
+    },
+    "reaction": "",
+    "timestamp": 1725559084,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04CC89243A15DAD5FE5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "una vpn"
+    },
+    "reaction": "",
+    "timestamp": 1725559085,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E74C5568C01689FF91",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "de egipto para jugar"
+    },
+    "reaction": "",
+    "timestamp": 1725559088,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "09EDE1E32A0EE12B46B2A67498BF2845",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cualquier vpn?"
+    },
+    "reaction": "",
+    "timestamp": 1725559315,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51935359876@s.whatsapp.net",
+      "id": "3EB0F56548BD06DFE66659"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AB83878A56A0B34CDD",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "se"
+    },
+    "reaction": "",
+    "timestamp": 1725559346,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F0EDE0FAD18E242A2E2E72CE00406D43",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me conecte pero sigue saliendo soles"
+    },
+    "reaction": "",
+    "timestamp": 1725559710,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "27F8A72722D40A464997395A7677E896",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero yo e visto que lo ha hecho con wifi"
+    },
+    "reaction": "",
+    "timestamp": 1725560574,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DEE23D7739A8A25F2517C16F02C0E32F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "🤔"
+    },
+    "reaction": "",
+    "timestamp": 1725560577,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C5DA6365A52401664AF8D576ACA99F26",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "crea una nueva cuenta"
+    },
+    "reaction": "",
+    "timestamp": 1725560680,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5704E7E599CC18C1C7990A011D4CC3E1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "con vpn de Egipto"
+    },
+    "reaction": "",
+    "timestamp": 1725560685,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B982999DB9C82330C368E84B8B3CCB43",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dejo el perfil de pago que agregue"
+    },
+    "reaction": "",
+    "timestamp": 1725560718,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A7A5A419E11FC7E4BF5FC70AF46D9202",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725560720,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "C80B99618E95B6FE255075FA22BCF8EC",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "aehRpH.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725561513,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "47D3B33045D9DBDDCF6822DBCAAD9628",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya me cree"
+    },
+    "reaction": "",
+    "timestamp": 1725561515,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "49610AFB8A6808617FCACF0CFA06AA40",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya sale en egp"
+    },
+    "reaction": "",
+    "timestamp": 1725562894,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C9DD59CF4FEFE85020F87422417FD1C4",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero a la hora de comprar objeto sale asi"
+    },
+    "reaction": "",
+    "timestamp": 1725562905,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FDF4651C22C0E4E82F74402F958F55AD",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Xd"
+    },
+    "reaction": "",
+    "timestamp": 1725562907,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "42056C82A1190AF819027093F6AB119D",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Una vez creada la cuenta"
+    },
+    "reaction": "",
+    "timestamp": 1725563439,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F35CB6DE87C8F80AFA693165629DF2F5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "El vpn lo desactivo ?"
+    },
+    "reaction": "",
+    "timestamp": 1725563446,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DB43E5D319E568BE90",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "nose como funcione tu juego"
+    },
+    "reaction": "",
+    "timestamp": 1725563464,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B7B2C44A846BB0FFDE",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "pero si ya puedes pagarlo normal ps"
+    },
+    "reaction": "",
+    "timestamp": 1725563471,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EDB07FD6455C9E48AF",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "si vez q no pasa el pago"
+    },
+    "reaction": "",
+    "timestamp": 1725563477,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA0C85957CF20C8EC62569EFD1C35C0F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dragón city pero a la hora de pagar"
+    },
+    "reaction": "",
+    "timestamp": 1725563478,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07D2B9231268DBE97C1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "le manads nuevamente"
+    },
+    "reaction": "",
+    "timestamp": 1725563479,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E328E604FE204AD597E8466E8CD6242B",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me sale soles"
+    },
+    "reaction": "",
+    "timestamp": 1725563482,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DE6940DF133B10A9BC",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "no juego ni pincho"
+    },
+    "reaction": "",
+    "timestamp": 1725563484,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0CCC636AE66830ACD34",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "XD"
+    },
+    "reaction": "",
+    "timestamp": 1725563486,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "16DFB5039DBCE35A39EA7D14560D3A61",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero en la imagen está en egp"
+    },
+    "reaction": "",
+    "timestamp": 1725563488,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "D5BD931D7692F34B606C8D4598993BB1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jgVKFi.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725564064,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0651F6BE29ABB1E6904",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ya y cuando le das comprar"
+    },
+    "reaction": "",
+    "timestamp": 1725564099,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8A2D436E181FC5425197764AC9AAF9BF",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "Jx1iYv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725564162,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0BB2956F01EA05AB4EA",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "OE pendejo"
+    },
+    "reaction": "",
+    "timestamp": 1725564181,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09BFD41DCB420295B04",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "al momento"
+    },
+    "reaction": "",
+    "timestamp": 1725564182,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05AC46F24ABDCC66A7F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "de crear la nueva tarjeta"
+    },
+    "reaction": "",
+    "timestamp": 1725564188,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09DBA48A3DBC17D03A8",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "pusste apis"
+    },
+    "reaction": "",
+    "timestamp": 1725564191,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0672533F37358DF898B",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "pais egipto?"
+    },
+    "reaction": "",
+    "timestamp": 1725564194,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ED5D3BABF7DDDBD283C122D44D2E6B0D",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725564198,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09F608421E237E91C09",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "vete hasta ese apartado"
+    },
+    "reaction": "",
+    "timestamp": 1725564208,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "51960493014@s.whatsapp.net",
+      "id": "093185A94F85F48A5AE8C423A6EBE984"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB00D86F48C23246988AB",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "para ver si es verdad lo q dices"
+    },
+    "reaction": "",
+    "timestamp": 1725564214,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB070779BA398AF983EFF",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "pay.google.com"
+    },
+    "reaction": "",
+    "timestamp": 1725564217,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "0BFF04F876D91983F1618884EB6B56BD",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TPOZUe.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725564298,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB054CC4CAA6B17B3CB4E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "uhmmm"
+    },
+    "reaction": "",
+    "timestamp": 1725564329,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB036CDFCC6329ECE0981",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "es la unica cuenta q tienes no?"
+    },
+    "reaction": "",
+    "timestamp": 1725564340,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "51960493014@s.whatsapp.net",
+      "id": "8A2D436E181FC5425197764AC9AAF9BF"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0341598F0679E480545",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "dentro de tu google play"
+    },
+    "reaction": "",
+    "timestamp": 1725564343,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06082A71166E4AE1962",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "o tienes otras cuentas de gmail"
+    },
+    "reaction": "",
+    "timestamp": 1725564350,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0577DC8857B8A05350F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "vinculadas a tu cell?"
+    },
+    "reaction": "",
+    "timestamp": 1725564352,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A9AAB1A6FD937248FBBAE53352ACC26D",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si tengo otras"
+    },
+    "reaction": "",
+    "timestamp": 1725564358,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "048781088290F5B7646F5BDD43D53299",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "La oficial"
+    },
+    "reaction": "",
+    "timestamp": 1725564361,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CE252673E563830EDDF41FCD76D1CB5D",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que es de Perú"
+    },
+    "reaction": "",
+    "timestamp": 1725564370,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AFA52A5D3B7275F95F427DEE2B13673C",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "O borro todas"
+    },
+    "reaction": "",
+    "timestamp": 1725564537,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1C49A0A1D97FF94C6DFEF42FDA998C1F",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y me quedo con la de Egipto v:"
+    },
+    "reaction": "",
+    "timestamp": 1725564549,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E5F363FFEB6F241F46",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "calla gil"
+    },
+    "reaction": "",
+    "timestamp": 1725564605,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04C11291517734D0A06",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "tienes q borrar todas"
+    },
+    "reaction": "",
+    "timestamp": 1725564608,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E94CB81C7145E532D5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ps"
+    },
+    "reaction": "",
+    "timestamp": 1725564608,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05E711DF21687C498B9",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "porq esta jalando"
+    },
+    "reaction": "",
+    "timestamp": 1725564612,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F941512B17C15E91EE",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "la de peru"
+    },
+    "reaction": "",
+    "timestamp": 1725564614,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06A45A816FD5915A497",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": ":V"
+    },
+    "reaction": "",
+    "timestamp": 1725564614,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "7C337B28122770BB3B0559C5E5D8ABF0",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jajaja demonios xd"
+    },
+    "reaction": "",
+    "timestamp": 1725564642,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "430B8435932ACB414D7D4D31AE7F2E8D",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero si quitó mi Gmail no se eliminan mis contraseñas y eso"
+    },
+    "reaction": "",
+    "timestamp": 1725564694,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A41AD3DE793956F558",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "naaaaa"
+    },
+    "reaction": "",
+    "timestamp": 1725564702,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB010FFE434D5D3225CBB",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "despues"
+    },
+    "reaction": "",
+    "timestamp": 1725564703,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB09B66388388F2A5F8CB",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "la pones nuevamente"
+    },
+    "reaction": "",
+    "timestamp": 1725564706,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02888BFF3F39CFDFCCA",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ps"
+    },
+    "reaction": "",
+    "timestamp": 1725564706,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3D150483207AE4DB38769876B4A2E940",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Oki"
+    },
+    "reaction": "",
+    "timestamp": 1725564709,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "5A34819A7110A85E76F3CB768C9DA1AD",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "KyZUX9.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725564774,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5BB92E5F0B9784131E6D50685538AA1B",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya quedó solo esa la de egipto"
+    },
+    "reaction": "",
+    "timestamp": 1725564783,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0EA7BEEA671B8BED7F1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "se"
+    },
+    "reaction": "",
+    "timestamp": 1725564804,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05AFF466EB0254FFCE1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "oeoeoe"
+    },
+    "reaction": "",
+    "timestamp": 1725564809,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB019AEF9B0D59E28079E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "solo las de gmail"
+    },
+    "reaction": "",
+    "timestamp": 1725564811,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02D5348AA2EC1F39867",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "no saques facebook"
+    },
+    "reaction": "",
+    "timestamp": 1725564814,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D69C4F464D16A37B7B",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "ni esas otras"
+    },
+    "reaction": "",
+    "timestamp": 1725564816,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E39E04F79938A9DBB0",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "solo las gmail"
+    },
+    "reaction": "",
+    "timestamp": 1725564817,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EEBA5510778564C1FAA95F5F108CA3DF",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725564819,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4723D6F0061DBAF7624758EE17D9179E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si solo esas"
+    },
+    "reaction": "",
+    "timestamp": 1725564822,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "554AC0ECB5DB8A01126EC19517BDEAD5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Por la verga"
+    },
+    "reaction": "",
+    "timestamp": 1725565385,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0768CBDB90FE7E8B38A",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "xD"
+    },
+    "reaction": "",
+    "timestamp": 1725565397,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "053F421077183AB96F02DDEA96DCEBCB",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "fqYiRX.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725565395,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07B96873552C63643ED",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "kjdalsjdalsjdasd"
+    },
+    "reaction": "",
+    "timestamp": 1725565401,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B411CDB15F14F729A5",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "VPN noma ps"
+    },
+    "reaction": "",
+    "timestamp": 1725565405,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB062DC5F587C077DF456",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "prueba"
+    },
+    "reaction": "",
+    "timestamp": 1725565406,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AABF93612F30B80F93829F8088063EF1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Creo otra ?"
+    },
+    "reaction": "",
+    "timestamp": 1725565417,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06BE68E2CFDFFD11B8E",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "no creo q sea necesario"
+    },
+    "reaction": "",
+    "timestamp": 1725565479,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02982F99F390F274062",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "cierra sesion de tu jueguito"
+    },
+    "reaction": "",
+    "timestamp": 1725565485,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07E17C805BB3AD007D1",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "mete vpn"
+    },
+    "reaction": "",
+    "timestamp": 1725565488,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0177BE95094047A112C",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "y vuelve a abrir la sesion"
+    },
+    "reaction": "",
+    "timestamp": 1725565491,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08946CAB2B2C46F080A",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "con el vpn activo"
+    },
+    "reaction": "",
+    "timestamp": 1725565493,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "DDD5E29AB36B786DBBF1FE9C1F4B1C29",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sale en soles xd"
+    },
+    "reaction": "",
+    "timestamp": 1725565615,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01263DD567CAA4028A7",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "jajajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725565623,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "74AFC443597751156BA9F33A8DD0DF71",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me creo otra cuenta"
+    },
+    "reaction": "",
+    "timestamp": 1725565626,
+    "senderName": "francomarchancoronado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04771A1C5E6F9091C60",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "crea otra ps xD"
+    },
+    "reaction": "",
+    "timestamp": 1725565627,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A27757CABFEBCD36C0",
+    "remoteJid": "51960493014@s.whatsapp.net",
+    "msgContext": {
+      "text": "jajajaja"
+    },
+    "reaction": "",
+    "timestamp": 1725565628,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

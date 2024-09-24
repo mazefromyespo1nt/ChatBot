@@ -1,0 +1,39 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0435694712E5DF30EBC",
+    "remoteJid": "120363164458812793@g.us",
+    "msgContext": {
+      "text": "*PROMOCION VALIDA HOY HASTA LAS 12PM* DESEA SEPARAR SU SILLA?🙋🏻‍♀️"
+    },
+    "reaction": "",
+    "timestamp": 1725553370,
+    "senderName": "Katheryne",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB02B6BC29F54BD268FA6",
+    "remoteJid": "120363164458812793@g.us",
+    "msgContext": {
+      "caption": "s/259",
+      "fileName": "oeb2VP.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725553379,
+    "senderName": "Katheryne",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

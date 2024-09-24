@@ -1,0 +1,39 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0CD49C09B5B80CC37CC",
+    "remoteJid": "50661188081@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "y0YQzD.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "😂",
+    "timestamp": 1725921749,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB064A317F906166BAD1E",
+    "remoteJid": "50661188081@s.whatsapp.net",
+    "msgContext": {
+      "text": "jaja vea"
+    },
+    "reaction": "",
+    "timestamp": 1725921752,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

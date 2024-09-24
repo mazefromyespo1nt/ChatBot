@@ -1,0 +1,18 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABBAC16C1BE2B1A422A",
+    "remoteJid": "120363062141015127@g.us",
+    "msgContext": {
+      "text": "🎉¡Acepta mi invitación y obtén 3 obsequios!👇\nhttps://temu.com/s/g3GazSgZQGlsoEk"
+    },
+    "reaction": "",
+    "timestamp": 1725499026,
+    "senderName": "DAVID NIEVES",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

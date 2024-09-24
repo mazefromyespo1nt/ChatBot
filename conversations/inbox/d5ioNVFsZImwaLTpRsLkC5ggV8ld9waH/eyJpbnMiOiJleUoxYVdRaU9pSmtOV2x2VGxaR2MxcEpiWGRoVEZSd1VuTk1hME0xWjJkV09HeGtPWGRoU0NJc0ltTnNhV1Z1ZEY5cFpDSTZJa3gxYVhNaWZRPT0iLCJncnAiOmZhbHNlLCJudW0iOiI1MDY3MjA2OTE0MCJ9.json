@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AA934DFAF38AF325A554EA8BD8E0ACAB",
+    "remoteJid": "50672069140@s.whatsapp.net",
+    "msgContext": {
+      "text": "HAORITA no gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725909808,
+    "senderName": "Lili 🌸✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0156BBDFEE53E6ACEB0",
+    "remoteJid": "50672069140@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga muy buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725912155,
+    "senderName": "Luis Calderón",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

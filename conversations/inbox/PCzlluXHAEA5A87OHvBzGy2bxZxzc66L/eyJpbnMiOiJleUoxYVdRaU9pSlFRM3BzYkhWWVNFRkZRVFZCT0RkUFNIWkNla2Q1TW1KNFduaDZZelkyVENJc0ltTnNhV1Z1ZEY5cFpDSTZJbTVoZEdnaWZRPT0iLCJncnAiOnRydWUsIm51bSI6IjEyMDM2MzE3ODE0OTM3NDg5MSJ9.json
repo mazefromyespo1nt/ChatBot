@@ -1,0 +1,188 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AB0119C8AD83287140E",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Joven Manuel"
+    },
+    "reaction": "",
+    "timestamp": 1725649898,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5213241962074@s.whatsapp.net",
+      "id": "CE8A6959C4D9BE4FC97468128EEDF852"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0C022B45D4C9C047EE726E60F27B16CE",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Buenos días si ya estoi por cambiarlo"
+    },
+    "reaction": "",
+    "timestamp": 1725650795,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "36B7456F229C7C52BD824C6740B79BD1",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Pero ese va quedar"
+    },
+    "reaction": "",
+    "timestamp": 1725650827,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A0909933F9BBE9DA0CD",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Entonces ya no es este ???"
+    },
+    "reaction": "",
+    "timestamp": 1725650868,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5213241962074@s.whatsapp.net",
+      "id": "CE8A6959C4D9BE4FC97468128EEDF852"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A9F40D147D53C4D0B4F",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "O como"
+    },
+    "reaction": "",
+    "timestamp": 1725650880,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7D96075DA321487FDA97E16F20A76F67",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Si me equivoque para la pizzeria va quedar  3241064214"
+    },
+    "reaction": "",
+    "timestamp": 1725650904,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "7EE1968BA9EBDADEB336F10208653167",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "caption": "Buenas tardes gracias",
+      "fileName": "GwNgqv.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725749140,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "06B7969FD5289FDB578822276F79B504",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "x3VeYK.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725749142,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0815AD5D0BA45F0BD9F6441DD9FFB7C1",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Por fabor me a grega una de boneles"
+    },
+    "reaction": "",
+    "timestamp": 1725749156,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0804FB1CC41402A853C",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Hola, Manuel. Buen día. Confirmo de recibido. Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725889542,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "F54780179E2B370B12AECD9025C3C693",
+    "remoteJid": "120363178149374891@g.us",
+    "msgContext": {
+      "text": "Buenos días gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725892394,
+    "senderName": "Manuel Mora",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

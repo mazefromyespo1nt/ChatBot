@@ -1,0 +1,50 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0272978089E23540DA4",
+    "remoteJid": "50661328673@s.whatsapp.net",
+    "msgContext": {
+      "text": "¿Por qué el libro de matemáticas se deprimió?\n\nPorque tenía demasiados problemas."
+    },
+    "reaction": "",
+    "timestamp": 1725992952,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0DE21E7A802AC1CE177",
+    "remoteJid": "50661328673@s.whatsapp.net",
+    "msgContext": {
+      "text": "La Llamada Nocturna\n\nEn un pequeño pueblo, una joven llamada Ana se mudó a una antigua casa que había heredado de su abuela. La casa era grande y tenía un aire nostálgico, pero Ana estaba emocionada de comenzar una nueva etapa en ella.\n\nUna noche, mientras Ana estaba en la cocina, su teléfono sonó. Era una llamada a la medianoche de un número desconocido. Al contestar, solo escuchó una respiración pesada y luego una voz susurrante que decía: “Te estoy observando”.\n\nAna se estremeció, pero pensó que era una broma de mal gusto y colgó. Sin embargo, esa noche no pudo dormir bien, sintiendo una presencia inquietante en la casa.\n\nAl día siguiente, la misma llamada se repitió a la misma hora. Ana decidió no contestar y simplemente colgó. La tercera noche, las llamadas continuaron, y la voz cada vez parecía más cercana y más amenazante. Ana comenzó a sentir que alguien la estaba vigilando desde las sombras.\n\nDesesperada, decidió cambiar el número de su teléfono, pero las llamadas persistieron. Finalmente, un día encontró una vieja fotografía de la familia que había vivido en la casa antes que ella. En la esquina de la imagen, vio un rostro familiar que la hizo temblar de miedo: la misma figura que había visto en sus sueños, con ojos fríos y vacíos.\n\nAna decidió investigar la historia de la casa y descubrió que el anterior propietario había sido un hombre perturbado que había desaparecido misteriosamente. Las llamadas nocturnas parecían ser la última forma de comunicación del hombre, que nunca había aceptado su destino.\n\nUna noche, Ana recibió una llamada más. Esta vez, la voz susurrante dijo: “Finalmente estás lista para unirte a mí”. Con el corazón acelerado, Ana vio una sombra moverse en el pasillo y sintió un frío helado que se apoderó de la casa. Decidió abandonar la casa inmediatamente, sin mirar atrás.\n\nNunca volvió a saber de la casa ni de las llamadas, pero siempre recordará la sensación de ser observada desde la oscuridad, como si el hombre perturbado hubiera encontrado un nuevo huésped para su terror eterno."
+    },
+    "reaction": "",
+    "timestamp": 1725994211,
+    "senderName": "Hillary Dist Liberty",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB085F74322A62BA44315",
+    "remoteJid": "50661328673@s.whatsapp.net",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "",
+    "timestamp": 1725998698,
+    "senderName": "Hillary Dist Liberty",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

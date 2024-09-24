@@ -1,0 +1,36 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB05B70A871514854FFFC",
+    "remoteJid": "50689881192@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día, Doña Elvis.\nMi nombre es Mónica Urbina , Asesora autorizada de Liberty!\nQueremos darte los mejores beneficios y una excelente experiencia de servicio, tal y como lo conversamos por llamada le envió nuestros planes quedo atenta a cualquier duda o consulta."
+    },
+    "reaction": "",
+    "timestamp": 1725917333,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB01C4F696912D0041666",
+    "remoteJid": "50689881192@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "jtwr7H.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725917341,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

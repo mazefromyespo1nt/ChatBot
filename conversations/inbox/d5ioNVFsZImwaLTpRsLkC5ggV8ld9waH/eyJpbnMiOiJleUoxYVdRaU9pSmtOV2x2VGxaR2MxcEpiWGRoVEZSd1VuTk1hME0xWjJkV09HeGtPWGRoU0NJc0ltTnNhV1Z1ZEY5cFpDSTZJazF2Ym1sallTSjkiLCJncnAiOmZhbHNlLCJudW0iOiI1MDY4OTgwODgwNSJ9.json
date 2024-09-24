@@ -1,0 +1,23 @@
+[
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB01277BFA8BACC822324",
+    "remoteJid": "50689808805@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "G94rsQ.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725729962,
+    "senderName": "Mónica Urbina",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

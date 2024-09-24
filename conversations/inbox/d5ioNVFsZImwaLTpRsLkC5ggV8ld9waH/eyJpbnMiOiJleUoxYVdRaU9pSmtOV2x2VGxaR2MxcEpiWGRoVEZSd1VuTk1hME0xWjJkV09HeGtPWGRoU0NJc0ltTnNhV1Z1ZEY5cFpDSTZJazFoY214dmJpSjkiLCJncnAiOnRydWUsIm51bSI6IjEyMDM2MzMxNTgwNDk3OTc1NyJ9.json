@@ -1,0 +1,234 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "63CE78FA24308DAC5C064AD8B7F63EF6",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "Cliente al enviar ubicación, es en san Rafael de Escazú, por lo cual queda sin efecto ya que hoy no se anda ruta de Escazú",
+      "fileName": "Gc01L7.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899543,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "B5C9331BDCFDD6D8CB574F189EB0907B",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "qSpURt.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899543,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "59BF28D225C18CFB6DB92F366E800DE5",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "2FHh45.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725899544,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "7E3F4C9EFE617E5DEA402FB0184E1FBA",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Indica que prefiere en dirección de trabajo en Escazú, les paso el dato para que cuando se vaya a entregar se realize el canbio"
+    },
+    "reaction": "",
+    "timestamp": 1725899633,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0150EDA022183EB475B",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "De acuerdo vamos a validar gracias."
+    },
+    "reaction": "",
+    "timestamp": 1725899894,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "ADC0D138137B623B4EF7EE62C06570FB",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Para servirle"
+    },
+    "reaction": "",
+    "timestamp": 1725899955,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661803973@s.whatsapp.net",
+      "id": "3EB0150EDA022183EB475B"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "6C7D0F3A99CF1593B68BFB0F80BC95A9",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "Este cliente el sábado me indicó audio WhatsApp que desde martes estuvo esperando y tuvo que optar por buscar opciones y que ya no desea la línea, a continuación les comparto el audio.",
+      "fileName": "jkevYa.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900006,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "aud",
+    "msgId": "594A3B8675A27E09FE825C36C454BF5D",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "CUmsge.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725900018,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB031D0D28251AA2F6D5D",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Entendido"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725900040,
+    "senderName": "Distribuidor Autorizado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "37EAA1111AA33F25BD9DA2541DFA39EA",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "caption": "Sábado",
+      "fileName": "Oak7m9.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725900045,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB064E83E8F3AB5B72001",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Comentario con datos de entrega al trabajo cargado en Iris."
+    },
+    "reaction": "",
+    "timestamp": 1725900097,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662603285@s.whatsapp.net",
+      "id": "63CE78FA24308DAC5C064AD8B7F63EF6"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1E810739D6BA077F8E8F542C030EFC8B",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Gracias por la ayuda"
+    },
+    "reaction": "",
+    "timestamp": 1725900111,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661803973@s.whatsapp.net",
+      "id": "3EB064E83E8F3AB5B72001"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C2FCE8F5B18D393441",
+    "remoteJid": "120363315804979757@g.us",
+    "msgContext": {
+      "text": "Con mucho gusto!👍🏼"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725900135,
+    "senderName": "Diana Ramírez Fruno",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

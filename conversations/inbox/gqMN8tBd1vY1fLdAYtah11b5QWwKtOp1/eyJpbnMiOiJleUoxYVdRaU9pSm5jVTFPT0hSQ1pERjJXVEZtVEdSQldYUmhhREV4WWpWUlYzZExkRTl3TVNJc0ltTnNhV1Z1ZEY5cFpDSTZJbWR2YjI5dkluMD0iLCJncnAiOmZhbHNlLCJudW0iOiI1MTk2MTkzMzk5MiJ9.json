@@ -1,0 +1,642 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB014D14733C72BA550C5",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593064,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0CD1466915BB5D0EDEF",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593065,
+    "senderName": "Toño",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0A5DA14B9442B204B00",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593070,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0D5D17F2A0C51A29A42",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593074,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B3AB0C1CD960AC08DB",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593214,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB06C13AEA9366289B3B7",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593215,
+    "senderName": "Toño",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB002520A340FF2780256",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593219,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0F484305A796AB2E922",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593223,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB09BDB92E775355855CC",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593226,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB05536B2F0A5AE47A55B",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "como estas",
+        "values": [
+          "si",
+          "no",
+          "nose"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593233,
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E8B424D459FF9B94DD",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593286,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07435128D5F99261042",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725593301,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06163D2A74A684F7721",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "como estas"
+    },
+    "reaction": "",
+    "timestamp": 1725593303,
+    "senderName": "Toño",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB050CE4EF3DC3A8E8233",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "si"
+    },
+    "reaction": "",
+    "timestamp": 1725593312,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E66FB0B56E8C012413",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "como estas"
+    },
+    "reaction": "",
+    "timestamp": 1725593313,
+    "senderName": "Toño",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0B7D3ECAD5DB4DE6F8F",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "go"
+    },
+    "reaction": "",
+    "timestamp": 1725593410,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB07CD0C0AE58178DA9F7",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "",
+    "timestamp": 1725593415,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB01B1CC586D8654E255B",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593478,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB061DC40E74FEDA2F45A",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escoge\n",
+        "values": [
+          "googogo",
+          "noooooo",
+          "",
+          "nkkjkj"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593479,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB062C8478F132A197AE6",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593492,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0BD2729F9A90EBE9F91",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escoge\n",
+        "values": [
+          "googogo",
+          "noooooo",
+          "",
+          "nkkjkj"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593493,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0A27674F26F9F47001A",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593559,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0DA1E6702F9F58EED33",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escoge\n",
+        "values": [
+          "googogo",
+          "noooooo",
+          "",
+          "nkkjkj"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593561,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06D47CE2BE1CC31E406",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593602,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0C105B5460276EB7D57",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escoge\n",
+        "values": [
+          "googogo",
+          "noooooo",
+          "",
+          "nkkjkj"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593603,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB089EC9E969D0C99E978",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "text": "hola"
+    },
+    "reaction": "",
+    "timestamp": 1725593699,
+    "senderName": "Toño",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB07EC63332B1BB804CFB",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593700,
+    "senderName": "Toño",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0F2B51EDA8136C85771",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593707,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB0E3BBFADE3592C82FF7",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593712,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "poll",
+    "msgId": "3EB01E637DA696ABF15C57",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "poll": {
+        "name": "escohe",
+        "values": [
+          "a",
+          " v",
+          "c"
+        ],
+        "selectableCount": 1,
+        "toAnnouncementGroup": false
+      }
+    },
+    "reaction": "",
+    "timestamp": 1725593715,
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "3EB0D41EE84CE1DE4683DC",
+    "remoteJid": "51961933992@s.whatsapp.net",
+    "msgContext": {
+      "caption": "En este video explicamos todos los modulos del *SISTEMA CATASTRO INTEGRADO A LA  ADMINISTRACION TRIBUTARIA Y CAJA PARA MUNICIPALIDADES*",
+      "fileName": "TIfufb.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725630492,
+    "senderName": "Siam_Marketing",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  }
+]

@@ -1,0 +1,138 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F88980DC02313419FA2707E3AE16EB54",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "text": "http://sistemacrmwhats.com/user?page=inbox"
+    },
+    "reaction": "",
+    "timestamp": 1725917228,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "03048661C2FE0822B2FFA9DAACA0F7A3",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "text": "damianmauro1606@gmail.com"
+    },
+    "reaction": "",
+    "timestamp": 1725917228,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "05387632C7004285FCF407A7A57F6C1E",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "text": "Credisi123"
+    },
+    "reaction": "",
+    "timestamp": 1725917229,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E6A44F0443C8C186DD",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "text": "UJRFUIFFIO"
+    },
+    "reaction": "",
+    "timestamp": 1725917545,
+    "senderName": "Lujan Maciel",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "9C09C8AFFA1378931CD626E5969DD632",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "4MuLAJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725967273,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "8D9AF4FBF0009EF99520D3E3DBB2EEF4",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "0dCmIC.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725967273,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "1022DC845D4D89220BCDE27AB574E6AE",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "oXnMnU.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725967273,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "A5E32AB0F8E0C2C8F1204C35F4EFFD9F",
+    "remoteJid": "5493764525093@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "NumFEi.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725967325,
+    "senderName": "Lujan Maciel",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

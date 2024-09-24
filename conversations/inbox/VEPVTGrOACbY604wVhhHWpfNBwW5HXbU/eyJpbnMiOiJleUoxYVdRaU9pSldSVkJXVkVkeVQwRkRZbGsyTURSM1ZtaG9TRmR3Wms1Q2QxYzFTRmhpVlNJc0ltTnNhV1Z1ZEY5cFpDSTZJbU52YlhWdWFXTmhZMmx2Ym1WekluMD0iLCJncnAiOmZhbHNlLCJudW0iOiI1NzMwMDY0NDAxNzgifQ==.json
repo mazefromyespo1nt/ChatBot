@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FA9B9F8F4DDDEFECFD",
+    "remoteJid": "573006440178@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://www.tiktok.com/@pirata.capcut.mx/video/7311144464087796997?q=plantillas%20tendencia%20chistosas&t=1724938112934"
+    },
+    "reaction": "",
+    "timestamp": 1725980147,
+    "senderName": "Community Manager Gráfico",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB066DAD64D82647DC94D",
+    "remoteJid": "573006440178@s.whatsapp.net",
+    "msgContext": {
+      "text": "https://youtu.be/UrkZG0jl4b4"
+    },
+    "reaction": "",
+    "timestamp": 1725983363,
+    "senderName": "Community Manager Gráfico",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

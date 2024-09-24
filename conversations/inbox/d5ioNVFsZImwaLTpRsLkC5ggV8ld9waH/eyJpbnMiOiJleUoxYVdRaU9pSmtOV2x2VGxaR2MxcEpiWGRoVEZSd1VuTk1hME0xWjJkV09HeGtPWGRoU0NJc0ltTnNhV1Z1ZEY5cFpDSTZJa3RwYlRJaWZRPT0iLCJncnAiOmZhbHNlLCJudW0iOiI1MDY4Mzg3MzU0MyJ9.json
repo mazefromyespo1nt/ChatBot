@@ -1,0 +1,72 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0D05C424D0693823D21",
+    "remoteJid": "50683873543@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenas tardes Clara Álvarez , como le mencionaba nuestra mayor intención es mejorar esa experiencia de servicio actual. Que se de la oportunidad de actualizar y mejorar sus servicios en precio y beneficios😁"
+    },
+    "reaction": "",
+    "timestamp": 1725577730,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0DDAD355E5171388EC8",
+    "remoteJid": "50683873543@s.whatsapp.net",
+    "msgContext": {
+      "caption": "*Precio campaña* para el hogar Incluye :\n-250 canales y *Plataforma HBO MAX  Gratis* 🎁 \n-Liberty GO (adelantar, retroceder y avanzar programación de TV y ver televisión desde el celular ) 📱\n-WIFFI de 150 Mbps 🛜\n\nSin costo de instalción y pagaría hasta el 20 de octubre 2024 😁👈",
+      "fileName": "sB9cj0.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577789,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0BAB40CB571603670F7",
+    "remoteJid": "50683873543@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Estos son los Planes liberty : envio gratis🚚,  sin deposito , con buena cobertura de red fuera y dentro del país✈️.  Paga hasta el 20-10-2024",
+      "fileName": "dnObHE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577882,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB030D5EA37DD519686D2",
+    "remoteJid": "50683873543@s.whatsapp.net",
+    "msgContext": {
+      "caption": "4 en 1 que espera, ahorre y agilice incluye: \n-Conserva su mismo número\n-Aumenta los datos de su plan móvil a 22GB con cobertura dentro y fuera del país ✈️ \n-Se incluye 1 regalía 🎁 de una número nuevo post pago de 4GB (*recomendado para menores de edad*) -TV Digital  250 canales+ HBO MAX streaming + Telefonía fija de casa + internet de150 MB +  Paramount durante 3 meses 🎁😁\n-Desde 150 MB hata 500 MB de internet veloz 🛜",
+      "fileName": "Y9rPvW.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577976,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

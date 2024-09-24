@@ -1,0 +1,58 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0619266EA858C2566E9",
+    "remoteJid": "120363163503795124@g.us",
+    "msgContext": {
+      "text": "espera"
+    },
+    "reaction": "",
+    "timestamp": 1725549871,
+    "senderName": "Krlos Ojndz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5217442366106@s.whatsapp.net",
+      "id": "3EB088B19097602BE81C37"
+    }
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0B03669E66466F7BFEF",
+    "remoteJid": "120363163503795124@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "5RyTD0.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725549906,
+    "senderName": "Krlos Ojndz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09DFF586211E1B16F37",
+    "remoteJid": "120363163503795124@g.us",
+    "msgContext": {
+      "text": "gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725549936,
+    "senderName": "argae sae",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

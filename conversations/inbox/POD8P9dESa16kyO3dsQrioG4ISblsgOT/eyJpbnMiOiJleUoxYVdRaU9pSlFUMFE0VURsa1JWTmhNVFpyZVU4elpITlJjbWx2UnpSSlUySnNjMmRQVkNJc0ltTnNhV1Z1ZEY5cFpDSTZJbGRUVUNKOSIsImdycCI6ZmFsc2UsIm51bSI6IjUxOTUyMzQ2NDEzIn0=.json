@@ -1,0 +1,38 @@
+[
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "2F6AB2E7ED4649BBCAF276FCF50C198E",
+    "remoteJid": "51952346413@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "AhaEfJ.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725567040,
+    "senderName": "RUTH YOVANA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "08B50CE551CD41E7135398B607C05D41",
+    "remoteJid": "51952346413@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "TcjmJc.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725567062,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

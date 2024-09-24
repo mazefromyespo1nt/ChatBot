@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C60A9A88E7141EFD2AFF2C470C882F9F",
+    "remoteJid": "13475224562@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hablame"
+    },
+    "reaction": "",
+    "timestamp": 1725888293,
+    "senderName": "Luis 04",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

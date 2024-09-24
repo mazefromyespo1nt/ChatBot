@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3AF8600D79133C43A885",
+    "remoteJid": "50672068302@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725917061,
+    "senderName": "Sharlynn",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0F6D927E70E76B75CD7",
+    "remoteJid": "50672068302@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Buenos dias , espero se encuentre bien , con todo respeto le consulto , actualmente tiene linea prepago o postpago"
+    },
+    "reaction": "",
+    "timestamp": 1725979873,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

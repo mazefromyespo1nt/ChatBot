@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA650C436F15D68755BB54DFC3AECA8D",
+    "remoteJid": "50672069240@s.whatsapp.net",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725933836,
+    "senderName": "Zori🥰",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0FEA7A26AF4E555489F",
+    "remoteJid": "50672069240@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725979608,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

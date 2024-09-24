@@ -1,0 +1,759 @@
+[
+  {
+    "group": false,
+    "type": "video",
+    "msgId": "7AC4AFB4C86C4FFB97",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cChYTA.mp4",
+      "mimetype": "video/mp4"
+    },
+    "reaction": "",
+    "timestamp": 1725841927,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FC93648B61AE763B3116825E4CBB1B6A",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cuál es"
+    },
+    "reaction": "",
+    "timestamp": 1725897188,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9DCA070CB6C7818293A916DF43DE399F",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me dicen que algunas funciones de pro"
+    },
+    "reaction": "",
+    "timestamp": 1725898322,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AFCC8094C4B58906443C0ED77C527A85",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "No funcionan con capcup pro"
+    },
+    "reaction": "",
+    "timestamp": 1725898334,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "CC7F8102079866E43501702C50782239",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725898335,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BAD23BCDEC7C8E7D94C5FB7E6414B876",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Es verdad"
+    },
+    "reaction": "",
+    "timestamp": 1725898337,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C3F4F96E794A1DD35FE1B43128F5D4A6",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725898338,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "21EE08B1D15F5AFE5787F94CA1189FC6",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como"
+    },
+    "reaction": "",
+    "timestamp": 1725898341,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "34DCBF28690FC39A112C977D9D52B9AA",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Como?"
+    },
+    "reaction": "",
+    "timestamp": 1725898351,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "AFCC8094C4B58906443C0ED77C527A85"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B17931432DFC03C7EE0C365FDF6AB87E",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "No entiendo"
+    },
+    "reaction": "",
+    "timestamp": 1725898353,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D35A7364BB8D2D3FB83F2126032C282B",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Quieres captcut pro funciona todo las cosas del pro"
+    },
+    "reaction": "",
+    "timestamp": 1725898375,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "23C6EBA97FC6E2E07EAB2EB6AC84189C",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "HBLR9d.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725898434,
+    "senderName": "GV",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "85AE90224E5E329CE95DA4C527820DA5",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Eso ellos porque compran en otro lado"
+    },
+    "reaction": "",
+    "timestamp": 1725898472,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A845571B6FAC3E83A2A564DAB2755483",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aca funcina todo"
+    },
+    "reaction": "",
+    "timestamp": 1725898475,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "25A6339819A436CFC7EDBA0A4E10E7FD",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bro"
+    },
+    "reaction": "",
+    "timestamp": 1725898476,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "1DF1E45F0570D9F115B6209431CC3EAF",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "oVChzq.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725898577,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1B02733729FEB72361E783DAD95DE84A",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Horas de YouTube estás haciendo?"
+    },
+    "reaction": "",
+    "timestamp": 1725898594,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "91FDEA4E2769FF8373DA7EB54C894A31",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Si"
+    },
+    "reaction": "",
+    "timestamp": 1725898626,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2208FAE72D7333A8F13F66354DC9C716",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero demoro 4 días"
+    },
+    "reaction": "",
+    "timestamp": 1725898631,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "865017E9F1F13AD5817235A8CBE2FA25",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "A cómo a ver"
+    },
+    "reaction": "",
+    "timestamp": 1725898631,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3A9463D97530DBC99F31A5BFFCF4191D",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "A 40$ mano"
+    },
+    "reaction": "",
+    "timestamp": 1725898642,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F6ECA878D06292432D38AF43A41432B",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Porque eso esta redur9"
+    },
+    "reaction": "",
+    "timestamp": 1725898646,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6F9B1033AE77BD7259E0AED0758ADBE2",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me dejas yo tengo uno cliente es que ese si no lo hago por ahora están costosa"
+    },
+    "reaction": "",
+    "timestamp": 1725898651,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4FD1F6DC09DF70A551A18EB6368B7CDC",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Aaya"
+    },
+    "reaction": "",
+    "timestamp": 1725898681,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "573135814166@s.whatsapp.net",
+      "id": "6F9B1033AE77BD7259E0AED0758ADBE2"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "42ED08BB55B827CD265FB41C283E9BAF",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "A cual cuenta?"
+    },
+    "reaction": "",
+    "timestamp": 1725898823,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "593993247164@s.whatsapp.net",
+      "id": "7EB448FF247ABEE37852D8CA9684C51C"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "5FEE8523C8C5E031CFC61532F94A1DC0",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Mandame a esta"
+    },
+    "reaction": "",
+    "timestamp": 1725898843,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "593993247164@s.whatsapp.net",
+      "id": "98C43C794CA614896E7EDDEB837C2E1E"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "1776333ACC74CFC50AD9ACCEED6DE3B6",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "8k"
+    },
+    "reaction": "",
+    "timestamp": 1725898846,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3F91629996D2C1FF23AA0A0B38353311",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Que ya la preparo y la vendo"
+    },
+    "reaction": "",
+    "timestamp": 1725898857,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C0BC11A8E49C1DD5D02EBACD7F2CCF1F",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cf"
+    },
+    "reaction": "",
+    "timestamp": 1725914167,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EE64F8AF44BA590398F06098A9F4BF75",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "?"
+    },
+    "reaction": "",
+    "timestamp": 1725914181,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4E282938B0FE0CD48A37B655367D3190",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ponme los seguidores"
+    },
+    "reaction": "",
+    "timestamp": 1725914507,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C16DDB4E782FDCF02754BBE0554AB25B",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Papi"
+    },
+    "reaction": "",
+    "timestamp": 1725914509,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8448EF13762092F3F96B077A42483A6F",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y te paso"
+    },
+    "reaction": "",
+    "timestamp": 1725914516,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8568B6EE3E124800B33C510961A8FE28",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Un"
+    },
+    "reaction": "",
+    "timestamp": 1725914518,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E0C6084795A24F6D0C914CB21FB84F25",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "CapCut pro"
+    },
+    "reaction": "",
+    "timestamp": 1725914524,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "76197336971860E3658EC450E221F0DB",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "😎"
+    },
+    "reaction": "",
+    "timestamp": 1725914527,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "132DF1747FB6EB821068BDC55FAAF3D1",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Una cuenta"
+    },
+    "reaction": "",
+    "timestamp": 1725914529,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EF25EDCB1699AA95D658CCE3E3CDA2D0",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Jeje ya"
+    },
+    "reaction": "",
+    "timestamp": 1725914536,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "9A0CB62C915CC8E4FF13B48ACF973F1D",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Q dices"
+    },
+    "reaction": "",
+    "timestamp": 1725914541,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "0664B7B775056F0727E3E8A34D8B6822",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Pero ponlo ahora"
+    },
+    "reaction": "",
+    "timestamp": 1725914544,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2AF3860772A5117E1FBD8EEA43EE3972",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Seguidores que no se vayan"
+    },
+    "reaction": "",
+    "timestamp": 1725914552,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "96DA8CD5DAB9EAC4B8817AFE07A4194E",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ya dame un momento"
+    },
+    "reaction": "",
+    "timestamp": 1725914590,
+    "senderName": "GV",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8EDF682B61BF4DCC67C03A913B3DCC80",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725914670,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "640D6AA10AB669EA21B66ABE4FAAB7D8",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cf"
+    },
+    "reaction": "",
+    "timestamp": 1725915671,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "79945E5D0E54357A18F6D67CA1411B77",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Cfma"
+    },
+    "reaction": "",
+    "timestamp": 1725928470,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "956258701974F6169C9F8EF191B4E747",
+    "remoteJid": "593993247164@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bt"
+    },
+    "reaction": "",
+    "timestamp": 1725928471,
+    "senderName": "D.T",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

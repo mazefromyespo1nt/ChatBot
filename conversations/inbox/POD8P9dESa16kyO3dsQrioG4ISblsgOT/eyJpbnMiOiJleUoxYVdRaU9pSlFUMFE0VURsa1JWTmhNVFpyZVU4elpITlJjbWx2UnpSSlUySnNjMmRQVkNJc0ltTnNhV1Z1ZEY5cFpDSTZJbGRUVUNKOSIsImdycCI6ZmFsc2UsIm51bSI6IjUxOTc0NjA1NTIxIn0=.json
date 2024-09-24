@@ -1,0 +1,165 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BA41D46457F604387EEAD5A10402FCC6",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "Ser holaaa"
+    },
+    "reaction": "",
+    "timestamp": 1725542544,
+    "senderName": "SHILL FLORES DAVILA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "115BC53CDDDE79320A00873C07A69F32",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "Me puedes llamar en la noche para ver la constitucion"
+    },
+    "reaction": "",
+    "timestamp": 1725542557,
+    "senderName": "SHILL FLORES DAVILA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "A10CC8DBF7EDBBA9C03F9CE24B63FFF1",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "Y declaramos el lunes"
+    },
+    "reaction": "",
+    "timestamp": 1725542561,
+    "senderName": "SHILL FLORES DAVILA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B0F4483CAB51333A6D4CE19E4F6196EC",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "Te parece"
+    },
+    "reaction": "",
+    "timestamp": 1725542563,
+    "senderName": "SHILL FLORES DAVILA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "ABFF15D2B9C630E6F55C1A7590931FF7",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "O mañana"
+    },
+    "reaction": "",
+    "timestamp": 1725542574,
+    "senderName": "SHILL FLORES DAVILA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "312E0C483B9B3A2C9CE8DEFBBE69ED98",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "declaramos"
+    },
+    "reaction": "",
+    "timestamp": 1725545057,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "09B6C35537220756CAF5F12BFA360D9B",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "el lunes"
+    },
+    "reaction": "",
+    "timestamp": 1725545058,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4907C9660AD363296BA9674B8300BDDA",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "te llamo e la noche"
+    },
+    "reaction": "",
+    "timestamp": 1725545063,
+    "senderName": "SHD",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "51974605521@s.whatsapp.net",
+      "id": "115BC53CDDDE79320A00873C07A69F32"
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "636E329FECB71B807214C1DD58E8AA6D",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "xvr"
+    },
+    "reaction": "",
+    "timestamp": 1725545064,
+    "senderName": "SHD",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB06EAEE63D07687DC70E",
+    "remoteJid": "51974605521@s.whatsapp.net",
+    "msgContext": {
+      "text": "OKIIIIII"
+    },
+    "reaction": "",
+    "timestamp": 1725545290,
+    "senderName": "SHILL FLORES DAVILA",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

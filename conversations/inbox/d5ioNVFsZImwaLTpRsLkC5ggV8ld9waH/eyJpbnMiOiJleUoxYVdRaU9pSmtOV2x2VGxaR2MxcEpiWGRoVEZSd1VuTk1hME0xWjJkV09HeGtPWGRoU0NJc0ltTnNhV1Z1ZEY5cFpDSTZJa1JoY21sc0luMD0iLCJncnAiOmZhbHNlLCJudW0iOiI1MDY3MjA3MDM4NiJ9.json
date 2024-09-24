@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02463746505DE35A09C",
+    "remoteJid": "50672070386@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos dias"
+    },
+    "reaction": "",
+    "timestamp": 1725899400,
+    "senderName": "Daril Torres",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB02FDA5FF8B2ADF512BE",
+    "remoteJid": "50672070386@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola Buen dia , espero que se encuentre bien"
+    },
+    "reaction": "",
+    "timestamp": 1725980777,
+    "senderName": "Daril Torres",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

@@ -1,0 +1,576 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "F33F97AA0CC90DF52100407C16878C07",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yeye"
+    },
+    "reaction": "",
+    "timestamp": 1725904142,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB04BF4D4EBF5D5579976",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le venimos ofreciendo, le venimos manejando"
+    },
+    "reaction": "",
+    "timestamp": 1725904174,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6935D0C40BBC0C3B3EF36DEFDC02DA50",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola yeye"
+    },
+    "reaction": "",
+    "timestamp": 1725904228,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "83BCC5238BD0F725C10EA09286F57B76",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Wola"
+    },
+    "reaction": "",
+    "timestamp": 1725904341,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0C261CC371219F18EE3",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola a todos necesito que elijas un color: Verde o amarillo, anyways it doesn´t matter porque el tema aquí es Sabrina Carpenter y su nuevo album Short n sweet"
+    },
+    "reaction": "",
+    "timestamp": 1725905090,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB041A348C069C56E6B90",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola a todos necesito que elijas un color: Verde o amarillo, anyways it doesn´t matter porque el tema aquí es Sabrina Carpenter y su nuevo album Short n sweet"
+    },
+    "reaction": "",
+    "timestamp": 1725905473,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB041062FFD94E40681C9",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "50"
+    },
+    "reaction": "",
+    "timestamp": 1725907895,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0AFB199170FCA701483",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola a todos necesito que elijas un color: Verde o amarillo, anyways it doesn´t matter porque el tema aquí es Sabrina Carpenter y su nuevo album Short n sweet"
+    },
+    "reaction": "",
+    "timestamp": 1725908154,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "8745088768F39AA4F84B63D9D00F3D67",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Rojo"
+    },
+    "reaction": "",
+    "timestamp": 1725908393,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D1B6B33106EFB45D773AC4D195E575B0",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "rojo"
+    },
+    "reaction": "",
+    "timestamp": 1725908421,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "2F88D894A441B44A2713B757E81C9ECE",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "sabrina carpenter"
+    },
+    "reaction": "",
+    "timestamp": 1725908436,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0398E87AC72DE0D5FB2",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "verde o rojo"
+    },
+    "reaction": "",
+    "timestamp": 1725908451,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "624C710C271F67868C6D65AD66AE2006",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "rojo"
+    },
+    "reaction": "",
+    "timestamp": 1725908459,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FA259C21F5B8C7D23951138F8EB1AE17",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Sabrina"
+    },
+    "reaction": "",
+    "timestamp": 1725909571,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0D95293F2C6D57A61E7",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Elegiste a Sabrina",
+      "fileName": "VHP7ZcLHzZhnfYaSAfOfkCYCoz40Devo.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725909572,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D0A83FE251F4CD6445A09F7482164EF6",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Rowan"
+    },
+    "reaction": "",
+    "timestamp": 1725909581,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB046948189CE9F7A5269",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Elegiste a Rowan",
+      "fileName": "7wD3Zfgr7PVC152JElyijPlJL4EDj748.webp",
+      "mimetype": "image/webp"
+    },
+    "reaction": "",
+    "timestamp": 1725909582,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "6AB4B215D7E72A2228B5B2483A2E0AFF",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "A todo tu fuego yo le cargo el gas"
+    },
+    "reaction": "",
+    "timestamp": 1725909913,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B52BE63F364BB904F27EC0C0BDCF5784",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dont pruv im rait"
+    },
+    "reaction": "",
+    "timestamp": 1725910128,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0081D58458870A96D14",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "plis plis plis",
+      "fileName": "BpUFsg9JsfqkuOyf9MMmPHT9KF46K9hR.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910129,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B7CDC4CB5CD5BC9C5DF84E98C1549BF9",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "A todo tu fuego yo le cargo el gas"
+    },
+    "reaction": "",
+    "timestamp": 1725910140,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "512D53EDDEB9EF1DD6FA7D89C4C8245B",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "A todo tu fuego yo le cargo gas"
+    },
+    "reaction": "",
+    "timestamp": 1725910172,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "485501F8618E5FD33AA76362FEF0AE71",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "A todo tu fuego le cargo gas"
+    },
+    "reaction": "",
+    "timestamp": 1725910194,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "195DF01228036A9C48A8760AA5D8D869",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "A todo tu fuego le cargo el gas"
+    },
+    "reaction": "",
+    "timestamp": 1725910226,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0DD61834168D015464D",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "ailobiu ailobiu",
+      "fileName": "nV0wiM86r6ho6vkBFtYi6fWhiRSfqxB6.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910228,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4842FDA8EE0EDDC9F67CFF3EAEAEF3C8",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Dont pruv im rait"
+    },
+    "reaction": "",
+    "timestamp": 1725910250,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB01EA471DCC215DB7892",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "plis plis plis",
+      "fileName": "BpUFsg9JsfqkuOyf9MMmPHT9KF46K9hR.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725910252,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB034C25747ADE193551E",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, somos el restaurante La chirimoya del sabor, elige una opción:\nSi deseas ver el menú, escribe: Menú\nSi deseas facturar, escribe: Factura\nSi deseas una chirimoyación a distacia, escribe: Respiracion de la Chirimoyacion Bestial"
+    },
+    "reaction": "",
+    "timestamp": 1725915807,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "E620342651E6F770234F8DF0217BABD9",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Menú"
+    },
+    "reaction": "",
+    "timestamp": 1725915824,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "doc",
+    "msgId": "3EB0D43EFF63ED93D77A97",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Este es el menú",
+      "fileName": "menu.pdf",
+      "mimetype": "application/pdf"
+    },
+    "reaction": "",
+    "timestamp": 1725915827,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "334A660EB0E71479C6567A89E0C0B4F9",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Factura"
+    },
+    "reaction": "",
+    "timestamp": 1725915836,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB026E331BDAD5AF1087B",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Puedes facturar aquí: https://www.aspel.com.mx/prueba-gratis-facture?source=Medios+Virtuales&medio_virtual=Adwords&nombre_de_campana=SPruebaGratisLeads_AO_MV_AS_AT_MX&utm_source=adwords&utm_medium=ppc&utm_campaign=S+-+Prueba+Gratis+-+Siigo+Aspel+-+Leads&utm_term=factura+gratis+online&hsa_acc=6698788381&hsa_cam=15988603632&hsa_grp=160483440127&hsa_ad=684733487267&hsa_src=g&hsa_tgt=kwd-323675248274&hsa_kw=factura+gratis+online&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=EAIaIQobChMI2OyMhOC2iAMVX8_CBB01OgFjEAAYASAAEgLik_D_BwE"
+    },
+    "reaction": "",
+    "timestamp": 1725915842,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "BC259006DEA2EB788F2035FBF81BD93C",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Respiracion de la Chirimoyacion Bestial"
+    },
+    "reaction": "",
+    "timestamp": 1725915867,
+    "senderName": "Kurdt Kobain",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "image",
+    "msgId": "3EB0781973F615A5AD27A6",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "caption": "Haz sido chorimoyado!",
+      "fileName": "MTZKd9WztqCg8DroKEd6ATNDbKyBTI62.jpg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725915868,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E2347724798FF1FCE8",
+    "remoteJid": "5217621685475@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola, somos el restaurante La chirimoya del sabor, elige una opción:\nSi deseas ver el menú, escribe: Menú\nSi deseas facturar, escribe: Factura\nSi deseas una chirimoyación a distacia, escribe: Respiracion de la Chirimoyacion Bestial"
+    },
+    "reaction": "",
+    "timestamp": 1725916227,
+    "senderName": "Kurdt Kobain",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

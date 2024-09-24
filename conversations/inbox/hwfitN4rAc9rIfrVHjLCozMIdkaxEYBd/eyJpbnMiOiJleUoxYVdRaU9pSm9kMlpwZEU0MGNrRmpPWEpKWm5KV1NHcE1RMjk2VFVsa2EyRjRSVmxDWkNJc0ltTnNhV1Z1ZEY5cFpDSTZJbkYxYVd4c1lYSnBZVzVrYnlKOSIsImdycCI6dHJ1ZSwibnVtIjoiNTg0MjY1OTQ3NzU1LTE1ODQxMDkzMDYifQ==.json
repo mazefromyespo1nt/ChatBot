@@ -1,0 +1,198 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E93926B3625086F985",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "caption": "buenos días, saben como adaptar mi imagen de banner de revolución slider? en vista laptop se ve bien pero para pantalla mas grande se ve asi",
+      "fileName": "a1x0BM.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725891451,
+    "senderName": "Jimy Huaraca",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5FB101D14307E0E3089AAFE2B1CAE90C",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "Nunca he usado ese slider"
+    },
+    "reaction": "",
+    "timestamp": 1725892648,
+    "senderName": "Oswaldo Morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51987808210@s.whatsapp.net",
+      "id": "E93926B3625086F985"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AA15C02B2619FB5235C",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "x2 jaja"
+    },
+    "reaction": "",
+    "timestamp": 1725892659,
+    "senderName": "Gustavo Medina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "584265947755@s.whatsapp.net",
+      "id": "5FB101D14307E0E3089AAFE2B1CAE90C"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "0A20784D153D7F7F8B3CA49F2DBEE6DF",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "Soy elementor dependiente 🫠"
+    },
+    "reaction": "",
+    "timestamp": 1725892688,
+    "senderName": "Oswaldo Morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "B971F712C353B49C52",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "que plugin recomiendan en todo caso"
+    },
+    "reaction": "",
+    "timestamp": 1725892703,
+    "senderName": "Jimy Huaraca",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "52ACB18CBF7A8FF4D6C301502C54BBC4",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "Yo uso elementor free y pro element"
+    },
+    "reaction": "",
+    "timestamp": 1725892748,
+    "senderName": "Oswaldo Morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADD49DE581E849C4F87",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "Con elementos anidados puedes hacer lo que quieras en cada slide"
+    },
+    "reaction": "",
+    "timestamp": 1725893157,
+    "senderName": "Gustavo Medina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "5025D3378AA8355443",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "buenas\n\nel se ve asi significa que la foto esta cortada?\n\neso lo puedes arreglar dándole mas altura al slider revolution para escritorio, y le dejas las que tiene para Tablet y telefono"
+    },
+    "reaction": "",
+    "timestamp": 1725893656,
+    "senderName": "Eluard",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51987808210@s.whatsapp.net",
+      "id": "E93926B3625086F985"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EFE8B52AFCD384F58A6D520CE23D32C1",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "Uso pro element"
+    },
+    "reaction": "",
+    "timestamp": 1725893715,
+    "senderName": "Oswaldo Morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51939858124@s.whatsapp.net",
+      "id": "3AC78A302DF20C60DB24"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "1DA3D4E737F6F737BC94CD38A6880437",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "Pero el amigo @584128002414 creo vende licencias de elementor pro"
+    },
+    "reaction": "",
+    "timestamp": 1725893745,
+    "senderName": "Oswaldo Morales",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "C09DADA912DACBBA66",
+    "remoteJid": "584265947755-1584109306@g.us",
+    "msgContext": {
+      "text": "revolution slider es buen plugin, el único problema es que no tiene versión free y lleva licencia\n\nes muy usado porque en themeforest mas de la mitad de los temas lo incluyen y es bastante amigable la configuración, nada del otro mundo aunque tiene demasiadas opciones para mi gusto,un cliente sin idea del tema se pierde, pero es lo que hay y por otra parte, mucha gente lo usa porque se acostumbro\n\naca me paso con otro plugin, elementor por visual composer, ya tenia convencida a la clienta de usar elementor y hasta le mande varias resennas que muestran que es superior al bakery y muy usado actualmente, como le dije, no lo digo yo, lo dice el mundo\ny que va, no dio pie con bola, no lo entendio, supongo que estaba apurada con su pagina y prefirió seguir con composer\n\ntengan eso en cuenta con sus clientes, no es recomendable forzarlos a usar o cambiar de tecnología, se les explica y convence pero al final la decisión es de ellos\n\nno viene al caso aquí, pero lo comento porque hay muchos clientes que saben usar slider revolution para hacer cambios simples, se les pone otro slider y chillan\n\nopciones hay miles, depicter o algo asi, soliloqui o algo asi también, jajaja, metaslider, hay varios, pero vuelvo al inicio, slider revolution es muy usado y muy configurable, puedes poner casi cualquier cosa en un slider, hay otros que no son tan flexibles"
+    },
+    "reaction": "",
+    "timestamp": 1725895232,
+    "senderName": "Eluard",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "51987808210@s.whatsapp.net",
+      "id": "B971F712C353B49C52"
+    }
+  }
+]

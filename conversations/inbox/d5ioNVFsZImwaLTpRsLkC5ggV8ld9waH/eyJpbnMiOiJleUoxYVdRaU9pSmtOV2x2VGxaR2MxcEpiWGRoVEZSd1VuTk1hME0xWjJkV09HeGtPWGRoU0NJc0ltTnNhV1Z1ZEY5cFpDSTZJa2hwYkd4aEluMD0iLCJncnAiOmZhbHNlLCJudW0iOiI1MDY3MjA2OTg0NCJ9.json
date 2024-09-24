@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B171AF485F4DE1D4DB8450A2359CEAEC",
+    "remoteJid": "50672069844@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días. Por ahora no. Muchas gracias"
+    },
+    "reaction": "",
+    "timestamp": 1725900684,
+    "senderName": "Rosa Ma.",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E2968955F099881591",
+    "remoteJid": "50660249141@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buen día  quería saber que le pareció la información enviada si tiene alguna duda o consulta para poder contactar le y aclarársela de la mejor manera.¡te ofrecemos todo lo que necesitas para mantenerte conectado! Ese es nuestro compromiso."
+    },
+    "reaction": "",
+    "timestamp": 1725728079,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C6A16B1CABEB403B264ADA6B95E724A9",
+    "remoteJid": "50660249141@s.whatsapp.net",
+    "msgContext": {
+      "text": "Yo le aviso un día de estos"
+    },
+    "reaction": "",
+    "timestamp": 1725728261,
+    "senderName": "Eduar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661328498@s.whatsapp.net",
+      "id": "3EB0E2968955F099881591"
+    }
+  },
+  {
+    "group": false,
+    "type": "aud",
+    "msgId": "3EB03259FF0F85B2D7C2DF",
+    "remoteJid": "50660249141@s.whatsapp.net",
+    "msgContext": {
+      "caption": "",
+      "fileName": "gvE5Lj.oga",
+      "mimetype": "audio/ogg; codecs=opus"
+    },
+    "reaction": "",
+    "timestamp": 1725728347,
+    "senderName": "Kimberly Liberty CR",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": {
+      "jid": "",
+      "id": ""
+    }
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "436574BAEAF793DFC502D52B101EF3DB",
+    "remoteJid": "50660249141@s.whatsapp.net",
+    "msgContext": {
+      "text": "Bueno"
+    },
+    "reaction": "👍",
+    "timestamp": 1725728384,
+    "senderName": "Eduar",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

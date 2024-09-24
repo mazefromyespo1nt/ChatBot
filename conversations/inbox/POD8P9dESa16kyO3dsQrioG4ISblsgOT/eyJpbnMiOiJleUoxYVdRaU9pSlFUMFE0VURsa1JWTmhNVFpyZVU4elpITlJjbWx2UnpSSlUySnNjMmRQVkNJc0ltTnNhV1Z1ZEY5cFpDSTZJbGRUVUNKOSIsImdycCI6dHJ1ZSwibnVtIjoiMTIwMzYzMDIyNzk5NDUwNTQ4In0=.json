@@ -1,0 +1,82 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CC7613042990D39892",
+    "remoteJid": "120363022799450548@g.us",
+    "msgContext": {
+      "text": "*🛒🔥 NETFLIX 1 MES*\n> cuentas completas⚡\n> precio s/.33\n> stock 100 unidades.\n\n\n*🛒🔥 PERFILES NETFLIX 4K x1 MES*\n\n> precio s/.8\n> stock 200 unidades."
+    },
+    "reaction": "",
+    "timestamp": 1725575126,
+    "senderName": "Internet Ilimitado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB083480816B1661DC32F",
+    "remoteJid": "120363022799450548@g.us",
+    "msgContext": {
+      "text": "*🛒🔥 NETFLIX 1 MES*\n> cuentas completas⚡\n> precio s/.33\n> stock 100 unidades.\n\n\n*🛒🔥 PERFILES NETFLIX 4K x1 MES*\n\n> precio s/.8\n> stock 200 unidades."
+    },
+    "reaction": "",
+    "timestamp": 1725575127,
+    "senderName": "Internet Ilimitado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04BAEFE444DBB7098D1",
+    "remoteJid": "120363022799450548@g.us",
+    "msgContext": {
+      "text": "*🛒🔥 NETFLIX 1 MES*\n> cuentas completas⚡\n> precio s/.33\n> stock 100 unidades.\n\n\n*🛒🔥 PERFILES NETFLIX 4K x1 MES*\n\n> precio s/.8\n> stock 200 unidades."
+    },
+    "reaction": "",
+    "timestamp": 1725575127,
+    "senderName": "Internet Ilimitado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0178B9B8A434EB72300",
+    "remoteJid": "120363022799450548@g.us",
+    "msgContext": {
+      "text": "*🛒🔥 NETFLIX 1 MES*\n> cuentas completas⚡\n> precio s/.33\n> stock 100 unidades.\n\n\n*🛒🔥 PERFILES NETFLIX 4K x1 MES*\n\n> precio s/.8\n> stock 200 unidades."
+    },
+    "reaction": "",
+    "timestamp": 1725575127,
+    "senderName": "Internet Ilimitado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BE0C2A64B838569079",
+    "remoteJid": "120363022799450548@g.us",
+    "msgContext": {
+      "text": "*🛒🔥 NETFLIX 1 MES*\n> cuentas completas⚡\n> precio s/.33\n> stock 100 unidades.\n\n\n*🛒🔥 PERFILES NETFLIX 4K x1 MES*\n\n> precio s/.8\n> stock 200 unidades."
+    },
+    "reaction": "",
+    "timestamp": 1725575127,
+    "senderName": "Internet Ilimitado",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

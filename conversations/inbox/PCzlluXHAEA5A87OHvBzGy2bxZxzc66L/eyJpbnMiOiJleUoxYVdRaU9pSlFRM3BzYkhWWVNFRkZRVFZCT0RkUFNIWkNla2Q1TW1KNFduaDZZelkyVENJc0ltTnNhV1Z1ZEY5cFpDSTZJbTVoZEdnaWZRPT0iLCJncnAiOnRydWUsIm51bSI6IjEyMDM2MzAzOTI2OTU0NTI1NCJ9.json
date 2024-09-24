@@ -1,0 +1,736 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DDC145A44C743CB241",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "nelly"
+    },
+    "reaction": "",
+    "timestamp": 1725653665,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0214DA6F8C9B07C1F73",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "tesistan pide contenedor"
+    },
+    "reaction": "",
+    "timestamp": 1725653673,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB090CDAC8AAA96964E58",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "se lo mando?"
+    },
+    "reaction": "",
+    "timestamp": 1725653684,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C287B37C0C653670FE",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Chula, un favor hay que enviarle unas cubiertas a Pedrito. Están en el grupo"
+    },
+    "reaction": "",
+    "timestamp": 1725654264,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07DCBD694A5327B601E",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Si hay contenedor, hay que mandarlo chula, por fis"
+    },
+    "reaction": "",
+    "timestamp": 1725654302,
+    "senderName": "D'Gusta Pizza",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5213318585535@s.whatsapp.net",
+      "id": "3EB0214DA6F8C9B07C1F73"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB086FFE4B005FFE74DFA",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "MUY BIEN"
+    },
+    "reaction": "",
+    "timestamp": 1725655032,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB000262E0B162750456D",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "DE CUALES LE MANDARE?"
+    },
+    "reaction": "",
+    "timestamp": 1725655082,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AD1570CCF76546A7AD3",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "De las cubiertas medida estándar"
+    },
+    "reaction": "",
+    "timestamp": 1725655659,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "5213318585535@s.whatsapp.net",
+      "id": "3EB000262E0B162750456D"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB04421F6A01674493106",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "PERO DE LAS QUE TRAJO CARLOS"
+    },
+    "reaction": "",
+    "timestamp": 1725655791,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0538C3D0777916AC0DB",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "O DE LAS QUE YA TENIAmos?"
+    },
+    "reaction": "",
+    "timestamp": 1725655806,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ADE951E2297D92DCD33",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "De las que ya teníamos"
+    },
+    "reaction": "",
+    "timestamp": 1725655854,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB02E6C5BE697FA1FA380",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "MUY BIEN NELLY AHORITA LAS ENTREGO"
+    },
+    "reaction": "",
+    "timestamp": 1725656100,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB08CE816E8067363E8B3",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Faby me pasas de favor INVENTARIO del *Refresco*"
+    },
+    "reaction": "",
+    "timestamp": 1725657917,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0285D063D691E786135",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "si nelly"
+    },
+    "reaction": "",
+    "timestamp": 1725658239,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EEB577B3ABCB2B3BA1",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "REFRESCO DE 2LITROS"
+    },
+    "reaction": "",
+    "timestamp": 1725658259,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0757D5624EB8F8ABCDB",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "MANZANA 1"
+    },
+    "reaction": "",
+    "timestamp": 1725658265,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A1DB1705266DD6DA2D",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "PEPSI  5"
+    },
+    "reaction": "",
+    "timestamp": 1725658271,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CFE60D9F00AF284E11",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "7UP  11 +7SUELTOS"
+    },
+    "reaction": "",
+    "timestamp": 1725658306,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C0FD372038770062EE",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "MIRINDA  12"
+    },
+    "reaction": "",
+    "timestamp": 1725658313,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0FEA2DA4ECC3691B75B",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "SANGRIA 2"
+    },
+    "reaction": "",
+    "timestamp": 1725658318,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB093E24687C8946A4E68",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "REFRESCOS DE 600MLPEPSI  3"
+    },
+    "reaction": "",
+    "timestamp": 1725658332,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B481E76258454C7161",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "MIRINDA  3"
+    },
+    "reaction": "",
+    "timestamp": 1725658336,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0172942B0D1D4EC32DA",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "SANGRIA 1"
+    },
+    "reaction": "",
+    "timestamp": 1725658340,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06E5072A22FC42B07CB",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "MANZANA  9"
+    },
+    "reaction": "",
+    "timestamp": 1725658345,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E3C78F2EC05F7BFE52",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "7UP  7"
+    },
+    "reaction": "",
+    "timestamp": 1725658352,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03AE770F5734FC1A53A",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "LISTO NELLY"
+    },
+    "reaction": "",
+    "timestamp": 1725658365,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0B8F6C307998822A479",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Muchas Gracias Faby"
+    },
+    "reaction": "",
+    "timestamp": 1725658394,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0310630AB312C36FD85",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Un favor, Chula, hay que cargar lo de Agaves para que se lo lleve Sergio"
+    },
+    "reaction": "",
+    "timestamp": 1725664795,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB02BE72C196D950F7D9B",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "S2tXc4.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725668952,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0ACB197D258BD1CB213",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "53dblY.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725669491,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3ABD0759768E900E173A",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Adi una pregunta: tenemos queso del Uruguayo ???"
+    },
+    "reaction": "",
+    "timestamp": 1725721650,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "EEC9D01E243B84061B934DD6335FF381",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Déjame revisar"
+    },
+    "reaction": "",
+    "timestamp": 1725721676,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3AEF4AB2E454B766B3F2",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Pedido para *Mr.Pizza*\n\n•10 de capsu \n•20 bolsas de chile seco\n\nPara llevárselo ahorita temprano"
+    },
+    "reaction": "",
+    "timestamp": 1725721716,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5891CDABB304FDD17B",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Y Pepperoni del sugar"
+    },
+    "reaction": "",
+    "timestamp": 1725721821,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0077880EC813CA2BF75",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Está bien"
+    },
+    "reaction": "",
+    "timestamp": 1725721836,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "2722432E9A1013CD666498E4E032A431",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Solo hay conaprole, Neli"
+    },
+    "reaction": "",
+    "timestamp": 1725722601,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB080013A57F72E54BE59",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Chula, te encargo 5 bolsas de queso"
+    },
+    "reaction": "",
+    "timestamp": 1725731476,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB025F300FF0435CC3837",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Por fa"
+    },
+    "reaction": "",
+    "timestamp": 1725731479,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03EB6F359A8A62A0455",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "ok"
+    },
+    "reaction": "",
+    "timestamp": 1725731513,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0C8A5A995C90AAB63BA",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "1pU4N0.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725738996,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB058FC723E30AE627ABF",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Chula, un favor, hay que cargar lo de Agaves de una vez para que se vaya ahorita. Se va a cargar el 500"
+    },
+    "reaction": "",
+    "timestamp": 1725908515,
+    "senderName": "Adriana Ramírez",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A975C005E04AB0CBDF9",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Joven Edwin, ya hay agua destilada para el montacargas"
+    },
+    "reaction": "",
+    "timestamp": 1725928113,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A4888222F48183B0293",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "A muy bien mañana o al rato le hecho"
+    },
+    "reaction": "",
+    "timestamp": 1725928857,
+    "senderName": "Edwin Herrera",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0CCF2313E5D726AC492",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "DBViSY.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725929759,
+    "senderName": "dgusta3",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A6EA17766D952CE964A",
+    "remoteJid": "120363039269545254@g.us",
+    "msgContext": {
+      "text": "Agregar *GUANTES*\nmedianos y grandes\n\nPara APATZINGÁN"
+    },
+    "reaction": "",
+    "timestamp": 1725979880,
+    "senderName": "Nelly Lo",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

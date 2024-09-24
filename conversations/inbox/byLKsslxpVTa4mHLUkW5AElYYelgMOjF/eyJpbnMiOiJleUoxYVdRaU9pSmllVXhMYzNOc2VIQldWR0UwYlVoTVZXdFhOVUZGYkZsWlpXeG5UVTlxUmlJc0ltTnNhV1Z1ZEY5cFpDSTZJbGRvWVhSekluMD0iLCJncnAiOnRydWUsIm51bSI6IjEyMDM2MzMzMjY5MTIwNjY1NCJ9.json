@@ -1,0 +1,50 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06AD03350AD4ED02E4A",
+    "remoteJid": "120363332691206654@g.us",
+    "msgContext": {
+      "text": "Gracias Miguel"
+    },
+    "reaction": "",
+    "timestamp": 1725656489,
+    "senderName": "Intelligy",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3A5EBCF0B728B44CA311",
+    "remoteJid": "120363332691206654@g.us",
+    "msgContext": {
+      "text": "ya envie invitacion para reunion el jueves"
+    },
+    "reaction": "",
+    "timestamp": 1725659396,
+    "senderName": "Ricardo Saenz",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "9D986280248EFDBCB7FB072596A79700",
+    "remoteJid": "120363332691206654@g.us",
+    "msgContext": {
+      "text": "Ok"
+    },
+    "reaction": "",
+    "timestamp": 1725660235,
+    "senderName": "Miguel Ángel Gutiérrez",
+    "status": "sent",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

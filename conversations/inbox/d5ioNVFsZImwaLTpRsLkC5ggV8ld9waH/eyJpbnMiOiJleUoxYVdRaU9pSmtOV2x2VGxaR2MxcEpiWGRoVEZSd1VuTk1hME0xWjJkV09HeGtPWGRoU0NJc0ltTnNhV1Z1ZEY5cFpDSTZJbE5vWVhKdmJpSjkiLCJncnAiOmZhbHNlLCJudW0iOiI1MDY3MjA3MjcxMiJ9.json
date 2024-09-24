@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "C7F9374B26D974AE724954DB8A98222E",
+    "remoteJid": "50672072712@s.whatsapp.net",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725648107,
+    "senderName": "Meraki_Mkc 💄💕🏎️",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "AF3902E44421E141A83244E73D28B926",
+    "remoteJid": "50672072712@s.whatsapp.net",
+    "msgContext": {
+      "text": "Nos disculpamos por los inconvenientes ocasionados, que tenga un buen día."
+    },
+    "reaction": "",
+    "timestamp": 1725648620,
+    "senderName": "Sharon Trejos",
+    "status": "delivered",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

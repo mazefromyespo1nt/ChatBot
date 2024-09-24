@@ -1,0 +1,44 @@
+[
+  {
+    "source": "1725555526363",
+    "sourceHandle": "1",
+    "target": "1725555541455",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17255555263631-1725555541455undefined_target"
+  },
+  {
+    "source": "1725555526363",
+    "sourceHandle": "2",
+    "target": "1725555589039",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17255555263632-1725555589039undefined_target"
+  },
+  {
+    "source": "1725555541455",
+    "sourceHandle": "1",
+    "target": "1725556769349",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17255555414551-1725556769349undefined_target"
+  },
+  {
+    "source": "1725555541455",
+    "sourceHandle": "2",
+    "target": "1725556799456",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17255555414552-1725556799456undefined_target"
+  },
+  {
+    "source": "1725555589039",
+    "sourceHandle": "1",
+    "target": "1725556817488",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17255555890391-1725556817488undefined_target"
+  },
+  {
+    "source": "1725555589039",
+    "sourceHandle": "2",
+    "target": "1725556851681",
+    "targetHandle": "undefined_target",
+    "id": "reactflow__edge-17255555890392-1725556851681undefined_target"
+  }
+]

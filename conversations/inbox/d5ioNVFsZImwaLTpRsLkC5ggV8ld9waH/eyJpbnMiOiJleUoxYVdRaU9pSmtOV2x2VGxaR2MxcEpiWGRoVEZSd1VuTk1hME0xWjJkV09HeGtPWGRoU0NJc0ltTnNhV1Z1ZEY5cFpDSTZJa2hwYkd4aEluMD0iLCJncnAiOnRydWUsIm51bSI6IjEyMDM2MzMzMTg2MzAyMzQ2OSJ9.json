@@ -1,0 +1,844 @@
+[
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07BF1656F78D255A628",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "https://bit.ly/CR-C13-2024 \n\nHola compañeros ❤️❤️ Mi hermana mayor está vendiendo catalogo es muy económico se llama ARABELA . Yo entregaria productos aquí"
+    },
+    "reaction": "",
+    "timestamp": 1725577263,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB07801EDD86C8134C07D",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "8fXo1b.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577293,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB03DD1EEACDA057AB219",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "WCoQts.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577293,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0978458F2122169BA59",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "6eb6Hp.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577294,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB0A4C8E37D37B8A3ABF2",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "FKWV6F.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577294,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "3EB05C129706D8F9EF0FB8",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "3h3oOE.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725577345,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F019A54396D3F25EC2",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "El 7 es el día final para hacer los pedidos \nLlega el"
+    },
+    "reaction": "",
+    "timestamp": 1725579432,
+    "senderName": "Kim✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0C05EECC6C80F752383",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725902304,
+    "senderName": "Hillary Dist. Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BF8D59D7996A9FC96F",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "."
+    },
+    "reaction": "",
+    "timestamp": 1725902606,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F3F722874EAD2EF5F9",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "1"
+    },
+    "reaction": "",
+    "timestamp": 1725902608,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EF47F8251A9EC3CE3F",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "dd5s"
+    },
+    "reaction": "",
+    "timestamp": 1725902669,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB084324F1B21A4735FEF",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f1s"
+    },
+    "reaction": "",
+    "timestamp": 1725902669,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0920AC39263B223B8E5",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "1fs"
+    },
+    "reaction": "",
+    "timestamp": 1725902669,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB079E057777FE9FFE80A",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "1f"
+    },
+    "reaction": "",
+    "timestamp": 1725902670,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB029D3096A7A5E68744D",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "sf12s"
+    },
+    "reaction": "",
+    "timestamp": 1725902670,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB059D97D6D91B8470947",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725902670,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0DFFCFA8B2A0FD4ACD6",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "f55"
+    },
+    "reaction": "",
+    "timestamp": 1725902674,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E81E1B7F7C948BD77B",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "5223"
+    },
+    "reaction": "",
+    "timestamp": 1725902676,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB059DC80A879896F61B4",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725902676,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01703973CDA748A2A90",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "32.36"
+    },
+    "reaction": "",
+    "timestamp": 1725902677,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB072583FB612BC1B466E",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "2"
+    },
+    "reaction": "",
+    "timestamp": 1725902677,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05B84875F269E66E3D9",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "32"
+    },
+    "reaction": "",
+    "timestamp": 1725902678,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A4826872B9387764C7",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "52"
+    },
+    "reaction": "",
+    "timestamp": 1725902678,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F64F67D1D8866357C7",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "32"
+    },
+    "reaction": "",
+    "timestamp": 1725902682,
+    "senderName": "Daril Torres",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB00733DC2FEC52579610",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Holiiiiiiiii"
+    },
+    "reaction": "",
+    "timestamp": 1725903792,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A89F40FD36362FB2A3",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "kkdfkj"
+    },
+    "reaction": "",
+    "timestamp": 1725903793,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06D72D8E5C70610F953",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "hfjksdhhcfksdjd"
+    },
+    "reaction": "",
+    "timestamp": 1725903794,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01D151074C312D19192",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "hdhjkds"
+    },
+    "reaction": "",
+    "timestamp": 1725903795,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB05923358A3C686DB7F1",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "jd"
+    },
+    "reaction": "",
+    "timestamp": 1725903796,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F2FA05F7F38EE6A6F1",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "jdlkjf"
+    },
+    "reaction": "",
+    "timestamp": 1725903796,
+    "senderName": "Mónica Urbina",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BFB5557D3A2157736D",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "🙆🏽🤣😅😅😅🤣☺️🎁🎁"
+    },
+    "reaction": "",
+    "timestamp": 1725903816,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0A9CBEE43C4C4A52008",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "📱"
+    },
+    "reaction": "",
+    "timestamp": 1725903819,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB087470BB4E9F900E541",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "🕐🤑📺🤰🧚‍♀️🧚‍♀️"
+    },
+    "reaction": "",
+    "timestamp": 1725903832,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB06528B52F4699DC73FD",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "PKHBHB"
+    },
+    "reaction": "",
+    "timestamp": 1725903834,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB01C64A2CDCF5C2F6926",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "ADLFFG"
+    },
+    "reaction": "",
+    "timestamp": 1725903835,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09AEBFB215D0F068905",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903848,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BA063837637D80F95E",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903849,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D321E7D738DB2D0314",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903850,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB057FD8DD32D0436D38B",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903850,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09B7B23EF3F481B2816",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903860,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0CC2C50BFF43294B15B",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903861,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB03AD2CE8A715E08AA87",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903861,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0499EEB30A99D16D5C4",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903861,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D681D526D90DA2933F",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903862,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB015F437BA3C10808F80",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903862,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB018E0DFAC5E8930A468",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903862,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F5F4E55D15E70CCE29",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903863,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB09F4FF1F03F76C73DB9",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "Hello, best regards"
+    },
+    "reaction": "",
+    "timestamp": 1725903863,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0F5209C13D73C1927A9",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "me incluye este num kim 61328673"
+    },
+    "reaction": "",
+    "timestamp": 1725903933,
+    "senderName": "Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0BFBA7FBD38C90CF580",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "no"
+    },
+    "reaction": "😂",
+    "timestamp": 1725904048,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB011F0DD5D9D9BE611CD",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "listo"
+    },
+    "reaction": "",
+    "timestamp": 1725904067,
+    "senderName": "Kimberly Liberty CR",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0490BD872E33FFC397D",
+    "remoteJid": "120363331863023469@g.us",
+    "msgContext": {
+      "text": "grax"
+    },
+    "reaction": "",
+    "timestamp": 1725904089,
+    "senderName": "Sharon Ejecutiva Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB0E491E3FD518CAB71F9",
+    "remoteJid": "50661329621@s.whatsapp.net",
+    "msgContext": {
+      "text": "😘"
+    },
+    "reaction": "",
+    "timestamp": 1725576820,
+    "senderName": "Hillary Dist Liberty",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "3EB08730F44F9193EF9282",
+    "remoteJid": "50661329621@s.whatsapp.net",
+    "msgContext": {
+      "text": "62570985"
+    },
+    "reaction": "",
+    "timestamp": 1725576950,
+    "senderName": "Kimberly Liberty CR",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

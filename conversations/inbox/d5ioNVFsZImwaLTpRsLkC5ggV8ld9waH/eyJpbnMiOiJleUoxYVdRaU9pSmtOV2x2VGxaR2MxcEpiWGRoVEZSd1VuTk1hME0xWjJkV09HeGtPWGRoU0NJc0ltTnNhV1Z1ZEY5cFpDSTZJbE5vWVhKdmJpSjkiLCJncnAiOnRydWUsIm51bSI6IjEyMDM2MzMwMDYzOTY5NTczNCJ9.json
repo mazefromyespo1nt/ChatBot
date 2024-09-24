@@ -1,0 +1,218 @@
+[
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "5D8917B568A9CE85C642C694690BE77B",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "caption": "No contesta las llamadas ni WhatsApp se me olvido reportar acá",
+      "fileName": "aDfC61.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725638083,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "8AAA6A87149210470731856BD32D15A4",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "cbGJlx.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725638083,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "9D596E1D420E658E4EB0C69A89A7A064",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "M1Ebon.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725638110,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "E9669B99B9B911B153B7095F57239ED5",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "hrukfg.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725638110,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "D41FB715FAC1473BD23C147D81D689AC",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "636lY4.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725638110,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "image",
+    "msgId": "33F46745862F043035B02B65E857983D",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "caption": "",
+      "fileName": "8lk7og.jpeg",
+      "mimetype": "image/jpeg"
+    },
+    "reaction": "",
+    "timestamp": 1725638111,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "A920BDC6E12752C6F41FB1CA3AC49FAE",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "text": "@50660225160"
+    },
+    "reaction": "",
+    "timestamp": 1725641217,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662603285@s.whatsapp.net",
+      "id": "5D8917B568A9CE85C642C694690BE77B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0EBF14152B47BAE183A",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "text": "Hola compañero en breve te ayudo con las solicitudes"
+    },
+    "reaction": "",
+    "timestamp": 1725641282,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0D0D361E9530EEA31F0",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "text": "Aun andas por la zona, tengo un numero adicional de la cliente?"
+    },
+    "reaction": "",
+    "timestamp": 1725641400,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662603285@s.whatsapp.net",
+      "id": "5D8917B568A9CE85C642C694690BE77B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB0E99459F3608480E3EE",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "text": "QBRD0 cliente solo puede recibir después de las 12md, el telefono es: 71745753"
+    },
+    "reaction": "",
+    "timestamp": 1725641641,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50662603285@s.whatsapp.net",
+      "id": "5D8917B568A9CE85C642C694690BE77B"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "08551425A395079189B5402530DDF0F1",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "text": "No, compañera a esa hora ya no estoy cerca del lugar, igual como te comenté, vía telefónica, lleva más de 30 minutos que no respondió, y si hubiese podido ahorita con todo gusto para servirle estamos, pero si a esa hora, se complica, si no, con todo gusto."
+    },
+    "reaction": "",
+    "timestamp": 1725641741,
+    "senderName": "Javier (Logística Fruno)",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": {
+      "jid": "50661144450@s.whatsapp.net",
+      "id": "3EB0E99459F3608480E3EE"
+    }
+  },
+  {
+    "group": true,
+    "type": "text",
+    "msgId": "3EB07EA28BE50509494371",
+    "remoteJid": "120363300639695734@g.us",
+    "msgContext": {
+      "text": "listo vamos a dejar los comentarios en sistema"
+    },
+    "reaction": "👍🏻",
+    "timestamp": 1725641770,
+    "senderName": "Susan Salas",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]

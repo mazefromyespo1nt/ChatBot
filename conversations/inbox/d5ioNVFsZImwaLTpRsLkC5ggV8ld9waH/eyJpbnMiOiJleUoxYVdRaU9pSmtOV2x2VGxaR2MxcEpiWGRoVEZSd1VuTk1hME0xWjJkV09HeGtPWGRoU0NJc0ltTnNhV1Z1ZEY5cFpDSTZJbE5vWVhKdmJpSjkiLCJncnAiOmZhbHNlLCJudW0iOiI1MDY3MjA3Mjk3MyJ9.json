@@ -1,0 +1,66 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "4C995EA0E70867C9CA3701550490048D",
+    "remoteJid": "50672072973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Buenos días, espero se encuentre muy bien, solamente quería saber si iba a continuar con el trámite para la línea móvil postpago por la cual consultó ayer. \nSaludos cordiales."
+    },
+    "reaction": "",
+    "timestamp": 1725644216,
+    "senderName": "Sharon Trejos",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "FD891F208C12D9949C2DFEF2DD02EDE2",
+    "remoteJid": "50672072973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Solo para anotarlo en mi sistema cual sería el motivo?"
+    },
+    "reaction": "",
+    "timestamp": 1725644288,
+    "senderName": "Sharon Trejos",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "D72266D003FD040B9468BBF29B1CE863",
+    "remoteJid": "50672072973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Le comprendo, de igual forma si en algún momento toma la decisión de cambiar el prepago con el que cuenta ya tiene mi contacto y con gusto le colaboro. \nQue tenga un bonito día."
+    },
+    "reaction": "",
+    "timestamp": 1725644430,
+    "senderName": "Sharon Trejos",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  },
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "B369B0240DCDA8B98379131704D1C73C",
+    "remoteJid": "50672072973@s.whatsapp.net",
+    "msgContext": {
+      "text": "Con mucho gusto"
+    },
+    "reaction": "",
+    "timestamp": 1725645348,
+    "senderName": "Sharon Trejos",
+    "status": "read",
+    "star": false,
+    "route": "outgoing",
+    "context": ""
+  }
+]

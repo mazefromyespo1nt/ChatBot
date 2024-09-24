@@ -1,0 +1,18 @@
+[
+  {
+    "group": false,
+    "type": "text",
+    "msgId": "EDBA5CF959983594C72FED4712887DAE",
+    "remoteJid": "50672071604@s.whatsapp.net",
+    "msgContext": {
+      "text": "Hola buenas tardes?"
+    },
+    "reaction": "",
+    "timestamp": 1725666013,
+    "senderName": "Bianchii👾✨✨",
+    "status": "sent",
+    "star": false,
+    "route": "incoming",
+    "context": ""
+  }
+]
