@@ -456,23 +456,30 @@ const deleteSession = async (sessionId, isLegacy = false) => {
     const sessionFile = ('md_') + sessionId
     const storeFile = `${sessionId}_store`
 
-    // await query(`DELETE FROM instance WHERE instance_id = ?`, [sessionId])
+    const dirName = process.cwd();
+    
+    try {
+        deleteFileIfExists(`${dirName}/contacts/${sessionId}.json`);
 
-    const dirName = process.cwd()
-    deleteFileIfExists(`${dirName}/contacts/${sessionId}.json`)
+        if (isSessionFileExists(sessionFile)) {
+            deleteDirectory(sessionsDir(sessionFile));
+        }
 
+        if (isSessionFileExists(storeFile)) {
+            unlinkSync(sessionsDir(storeFile));
+        }
 
-    if (isSessionFileExists(sessionFile)) {
-        deleteDirectory(sessionsDir(sessionFile))
+        sessions.delete(sessionId);
+        retries.delete(sessionId);
+    } catch (err) {
+        console.error('Error while deleting session:', err);
     }
+};
 
-    if (isSessionFileExists(storeFile)) {
-        unlinkSync(sessionsDir(storeFile))
-    }
 
-    sessions.delete(sessionId)
-    retries.delete(sessionId)
-}
+
+
+
 
 const getChatList = (sessionId, isGroup = false) => {
     const filter = isGroup ? '@g.us' : '@s.whatsapp.net'
